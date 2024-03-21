@@ -22,5 +22,5 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "NeRF":
-        filters: ["NeRF"]
+    "Recommendation":
+        filters: ["Recommendation","Large","Language"]
