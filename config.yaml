@@ -24,5 +24,3 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     "Recommendation":
         filters: ["Recommendation"]
-    "LLM4rec":
-        filters: ["Recommendation", "Language"]
