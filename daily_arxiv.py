@@ -101,6 +101,9 @@ def get_daily_papers(topic,query="slam", max_results=2):
 
     for result in search_engine.results():
 
+        if(result.title.find("Recommendation") == -1) or (result.title.find("recommendation") == -1):
+            continue
+
         paper_id            = result.get_short_id()
         paper_title         = result.title
         paper_url           = result.entry_id
