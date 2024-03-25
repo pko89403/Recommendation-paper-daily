@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-22**|**Bilateral Unsymmetrical Graph Contrastive Learning for Recommendation**|Jiaheng Yu et.al.|[2403.15075](http://arxiv.org/abs/2403.15075)|null|
+|**2024-03-21**|**Modelling of surface brightness fluctuation measurements: Methodology, uncertainty, and recommendations**|P. Rodríguez-Beltrán et.al.|[2403.14758](http://arxiv.org/abs/2403.14758)|null|
+|**2024-03-18**|**Use of recommendation models to provide support to dyslexic students**|Gianluca Morciano et.al.|[2403.14710](http://arxiv.org/abs/2403.14710)|null|
 |**2024-03-21**|**Knowledge-Enhanced Recommendation with User-Centric Subgraph Network**|Guangyi Liu et.al.|[2403.14377](http://arxiv.org/abs/2403.14377)|**[link](https://github.com/leolouis14/kucnet)**|
 |**2024-03-21**|**Understanding the Ranking Loss for Recommendation with Sparse User Feedback**|Zhutian Lin et.al.|[2403.14144](http://arxiv.org/abs/2403.14144)|**[link](https://github.com/skylerlinn/understanding-the-ranking-loss)**|
 |**2024-03-20**|**A Large Language Model Enhanced Sequential Recommender for Joint Video and Comment Recommendation**|Bowen Zheng et.al.|[2403.13574](http://arxiv.org/abs/2403.13574)|null|
