@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-25**|**Graph Augmentation for Recommendation**|Qianru Zhang et.al.|[2403.16656](http://arxiv.org/abs/2403.16656)|**[link](https://github.com/hkuds/graphaug)**|
+|**2024-03-25**|**Re2LLM: Reflective Reinforcement Large Language Model for Session-based Recommendation**|Ziyan Wang et.al.|[2403.16427](http://arxiv.org/abs/2403.16427)|null|
+|**2024-03-25**|**How Reliable is Your Simulator? Analysis on the Limitations of Current LLM-based User Simulators for Conversational Recommendation**|Lixi Zhu et.al.|[2403.16416](http://arxiv.org/abs/2403.16416)|null|
+|**2024-03-25**|**Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation**|Jiyuan Yang et.al.|[2403.16371](http://arxiv.org/abs/2403.16371)|null|
+|**2024-03-24**|**Complementary Recommendation in E-commerce: Definition, Approaches, and Future Directions**|Linyue Li et.al.|[2403.16135](http://arxiv.org/abs/2403.16135)|null|
+|**2024-03-24**|**A Temporal Graph Network Framework for Dynamic Recommendation**|Yejin Kim et.al.|[2403.16066](http://arxiv.org/abs/2403.16066)|null|
+|**2024-03-24**|**Knowledge-aware Dual-side Attribute-enhanced Recommendation**|Taotian Pang et.al.|[2403.16037](http://arxiv.org/abs/2403.16037)|**[link](https://github.com/tjtp/kdar)**|
 |**2024-03-22**|**Bilateral Unsymmetrical Graph Contrastive Learning for Recommendation**|Jiaheng Yu et.al.|[2403.15075](http://arxiv.org/abs/2403.15075)|null|
 |**2024-03-21**|**Modelling of surface brightness fluctuation measurements: Methodology, uncertainty, and recommendations**|P. Rodríguez-Beltrán et.al.|[2403.14758](http://arxiv.org/abs/2403.14758)|null|
 |**2024-03-18**|**Use of recommendation models to provide support to dyslexic students**|Gianluca Morciano et.al.|[2403.14710](http://arxiv.org/abs/2403.14710)|null|
