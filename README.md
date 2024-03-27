@@ -17,6 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-26**|**MIND Your Language: A Multilingual Dataset for Cross-lingual News Recommendation**|Andreea Iana et.al.|[2403.17876](http://arxiv.org/abs/2403.17876)|**[link](https://github.com/andreeaiana/xmind)**|
+|**2024-03-26**|**Leave No Patient Behind: Enhancing Medication Recommendation for Rare Disease Patients**|Zihao Zhao et.al.|[2403.17745](http://arxiv.org/abs/2403.17745)|null|
+|**2024-03-26**|**Retentive Decision Transformer with Adaptive Masking for Reinforcement Learning based Recommendation Systems**|Siyu Wang et.al.|[2403.17634](http://arxiv.org/abs/2403.17634)|null|
+|**2024-03-26**|**END4Rec: Efficient Noise-Decoupling for Multi-Behavior Sequential Recommendation**|Yongqiang Han et.al.|[2403.17603](http://arxiv.org/abs/2403.17603)|null|
+|**2024-03-26**|**Touch the Core: Exploring Task Dependence Among Hybrid Targets for Recommendation**|Xing Tang et.al.|[2403.17442](http://arxiv.org/abs/2403.17442)|null|
+|**2024-03-26**|**Knowledge-Powered Recommendation for an Improved Diet Water Footprint**|Saurav Joshi et.al.|[2403.17426](http://arxiv.org/abs/2403.17426)|null|
+|**2024-03-26**|**AFDGCF: Adaptive Feature De-correlation Graph Collaborative Filtering for Recommendations**|Wei Wu et.al.|[2403.17416](http://arxiv.org/abs/2403.17416)|null|
+|**2024-03-26**|**Multi-Domain Recommendation to Attract Users via Domain Preference Modeling**|Hyuunjun Ju et.al.|[2403.17374](http://arxiv.org/abs/2403.17374)|null|
 |**2024-03-25**|**Graph Augmentation for Recommendation**|Qianru Zhang et.al.|[2403.16656](http://arxiv.org/abs/2403.16656)|**[link](https://github.com/hkuds/graphaug)**|
 |**2024-03-26**|**Re2LLM: Reflective Reinforcement Large Language Model for Session-based Recommendation**|Ziyan Wang et.al.|[2403.16427](http://arxiv.org/abs/2403.16427)|null|
 |**2024-03-25**|**How Reliable is Your Simulator? Analysis on the Limitations of Current LLM-based User Simulators for Conversational Recommendation**|Lixi Zhu et.al.|[2403.16416](http://arxiv.org/abs/2403.16416)|null|
