@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.27
+## Updated on 2024.03.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -23,7 +23,7 @@ layout: default
 |**2024-03-26**|**AFDGCF: Adaptive Feature De-correlation Graph Collaborative Filtering for Recommendations**|Wei Wu et.al.|[2403.17416](http://arxiv.org/abs/2403.17416)|null|
 |**2024-03-26**|**Multi-Domain Recommendation to Attract Users via Domain Preference Modeling**|Hyuunjun Ju et.al.|[2403.17374](http://arxiv.org/abs/2403.17374)|null|
 |**2024-03-25**|**Graph Augmentation for Recommendation**|Qianru Zhang et.al.|[2403.16656](http://arxiv.org/abs/2403.16656)|**[link](https://github.com/hkuds/graphaug)**|
-|**2024-03-26**|**Re2LLM: Reflective Reinforcement Large Language Model for Session-based Recommendation**|Ziyan Wang et.al.|[2403.16427](http://arxiv.org/abs/2403.16427)|null|
+|**2024-03-27**|**Re2LLM: Reflective Reinforcement Large Language Model for Session-based Recommendation**|Ziyan Wang et.al.|[2403.16427](http://arxiv.org/abs/2403.16427)|null|
 |**2024-03-25**|**How Reliable is Your Simulator? Analysis on the Limitations of Current LLM-based User Simulators for Conversational Recommendation**|Lixi Zhu et.al.|[2403.16416](http://arxiv.org/abs/2403.16416)|null|
 |**2024-03-25**|**Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation**|Jiyuan Yang et.al.|[2403.16371](http://arxiv.org/abs/2403.16371)|null|
 |**2024-03-24**|**Complementary Recommendation in E-commerce: Definition, Approaches, and Future Directions**|Linyue Li et.al.|[2403.16135](http://arxiv.org/abs/2403.16135)|null|
@@ -55,7 +55,7 @@ layout: default
 |**2024-03-12**|**DESERE: The 1st Workshop on Decentralised Search and Recommendation**|Mohamed Ragab et.al.|[2403.07732](http://arxiv.org/abs/2403.07732)|null|
 |**2024-03-12**|**Empowering Sequential Recommendation from Collaborative Signals and Semantic Relatedness**|Mingyue Cheng et.al.|[2403.07623](http://arxiv.org/abs/2403.07623)|null|
 |**2024-03-12**|**Proactive Recommendation with Iterative Preference Guidance**|Shuxian Bi et.al.|[2403.07571](http://arxiv.org/abs/2403.07571)|null|
-|**2024-03-16**|**MetaSplit: Meta-Split Network for Limited-Stock Product Recommendation**|Wenhao Wu et.al.|[2403.06747](http://arxiv.org/abs/2403.06747)|null|
+|**2024-03-27**|**MetaSplit: Meta-Split Network for Limited-Stock Product Recommendation**|Wenhao Wu et.al.|[2403.06747](http://arxiv.org/abs/2403.06747)|null|
 |**2024-03-11**|**KELLMRec: Knowledge-Enhanced Large Language Models for Recommendation**|Weiqing Luo et.al.|[2403.06642](http://arxiv.org/abs/2403.06642)|null|
 |**2024-03-11**|**CoRAL: Collaborative Retrieval-Augmented Large Language Models Improve Long-tail Recommendation**|Junda Wu et.al.|[2403.06447](http://arxiv.org/abs/2403.06447)|null|
 |**2024-03-11**|**Pre-Trained Model Recommendation for Downstream Fine-tuning**|Jiameng Bai et.al.|[2403.06382](http://arxiv.org/abs/2403.06382)|null|
