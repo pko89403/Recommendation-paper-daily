@@ -24,7 +24,7 @@
 |**2024-03-27**|**Enhanced Generative Recommendation via Content and Collaboration Integration**|Yidan Wang et.al.|[2403.18480](http://arxiv.org/abs/2403.18480)|null|
 |**2024-03-27**|**Sequential Recommendation with Latent Relations based on Large Language Model**|Shenghao Yang et.al.|[2403.18348](http://arxiv.org/abs/2403.18348)|**[link](https://github.com/ysh-1998/lrd)**|
 |**2024-03-27**|**Common Sense Enhanced Knowledge-based Recommendation with Large Language Model**|Shenghao Yang et.al.|[2403.18325](http://arxiv.org/abs/2403.18325)|**[link](https://github.com/ysh-1998/csrec)**|
-|**2024-03-27**|**A Situation-aware Enhancer for Personalized Recommendation**|Jiayu Li et.al.|[2403.18317](http://arxiv.org/abs/2403.18317)|null|
+|**2024-03-27**|**A Situation-aware Enhancer for Personalized Recommendation**|Jiayu Li et.al.|[2403.18317](http://arxiv.org/abs/2403.18317)|**[link](https://github.com/jiayuli-997/sare_dasffa2024)**|
 |**2024-03-27**|**Improving Out-of-Vocabulary Handling in Recommendation Systems**|William Shiao et.al.|[2403.18280](http://arxiv.org/abs/2403.18280)|null|
 |**2024-03-27**|**One Backpropagation in Two Tower Recommendation Models**|Erjia Chen et.al.|[2403.18227](http://arxiv.org/abs/2403.18227)|null|
 |**2024-03-26**|**Recommendation of data-free class-incremental learning algorithms by simulating future data**|Eva Feillet et.al.|[2403.18132](http://arxiv.org/abs/2403.18132)|null|
@@ -39,7 +39,7 @@
 |**2024-03-25**|**Graph Augmentation for Recommendation**|Qianru Zhang et.al.|[2403.16656](http://arxiv.org/abs/2403.16656)|**[link](https://github.com/hkuds/graphaug)**|
 |**2024-03-27**|**Re2LLM: Reflective Reinforcement Large Language Model for Session-based Recommendation**|Ziyan Wang et.al.|[2403.16427](http://arxiv.org/abs/2403.16427)|null|
 |**2024-03-25**|**How Reliable is Your Simulator? Analysis on the Limitations of Current LLM-based User Simulators for Conversational Recommendation**|Lixi Zhu et.al.|[2403.16416](http://arxiv.org/abs/2403.16416)|null|
-|**2024-03-25**|**Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation**|Jiyuan Yang et.al.|[2403.16371](http://arxiv.org/abs/2403.16371)|null|
+|**2024-03-25**|**Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation**|Jiyuan Yang et.al.|[2403.16371](http://arxiv.org/abs/2403.16371)|**[link](https://github.com/nancheng58/recmamba)**|
 |**2024-03-24**|**Complementary Recommendation in E-commerce: Definition, Approaches, and Future Directions**|Linyue Li et.al.|[2403.16135](http://arxiv.org/abs/2403.16135)|null|
 |**2024-03-24**|**A Temporal Graph Network Framework for Dynamic Recommendation**|Yejin Kim et.al.|[2403.16066](http://arxiv.org/abs/2403.16066)|null|
 |**2024-03-24**|**Knowledge-aware Dual-side Attribute-enhanced Recommendation**|Taotian Pang et.al.|[2403.16037](http://arxiv.org/abs/2403.16037)|**[link](https://github.com/tjtp/kdar)**|
