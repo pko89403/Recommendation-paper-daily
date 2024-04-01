@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-29**|**Review-Based Cross-Domain Recommendation via Hyperbolic Embedding and Hierarchy-Aware Domain Disentanglement**|Yoonhyuk Choi et.al.|[2403.20298](http://arxiv.org/abs/2403.20298)|null|
+|**2024-03-29**|**Aiming at the Target: Filter Collaborative Information for Cross-Domain Recommendation**|Hanyu Li et.al.|[2403.20296](http://arxiv.org/abs/2403.20296)|null|
+|**2024-03-28**|**Dealing with Missing Modalities in Multimodal Recommendation: a Feature Propagation-based Approach**|Daniele Malitesta et.al.|[2403.19841](http://arxiv.org/abs/2403.19841)|null|
 |**2024-03-28**|**Intelligent Classification and Personalized Recommendation of E-commerce Products Based on Machine Learning**|Kangming Xu et.al.|[2403.19345](http://arxiv.org/abs/2403.19345)|null|
 |**2024-03-18**|**Directed Criteria Citation Recommendation and Ranking Through Link Prediction**|William Watson et.al.|[2403.18855](http://arxiv.org/abs/2403.18855)|null|
 |**2024-03-27**|**Improving Content Recommendation: Knowledge Graph-Based Semantic Contrastive Learning for Diversity and Cold-Start Users**|Yejin Kim et.al.|[2403.18667](http://arxiv.org/abs/2403.18667)|null|
@@ -54,7 +57,7 @@ layout: default
 |**2024-03-18**|**SOLARNET Metadata Recommendations for Simulated Data**|Stein Vidar Haugan et.al.|[2403.12241](http://arxiv.org/abs/2403.12241)|null|
 |**2024-03-17**|**Learning Time Slot Preferences via Mobility Tree for Next POI Recommendation**|Tianhao Huang et.al.|[2403.12100](http://arxiv.org/abs/2403.12100)|**[link](https://github.com/skyyyy0920/mtnet)**|
 |**2024-03-15**|**Enriching User Shopping History: Empowering E-commerce with a Hierarchical Recommendation System**|Irem Islek et.al.|[2403.12096](http://arxiv.org/abs/2403.12096)|null|
-|**2024-03-28**|**Dual-Channel Multiplex Graph Neural Networks for Recommendation**|Xiang Li et.al.|[2403.11624](http://arxiv.org/abs/2403.11624)|null|
+|**2024-03-29**|**Dual-Channel Multiplex Graph Neural Networks for Recommendation**|Xiang Li et.al.|[2403.11624](http://arxiv.org/abs/2403.11624)|null|
 |**2024-03-17**|**Is Contrastive Learning Necessary? A Study of Data Augmentation vs Contrastive Learning in Sequential Recommendation**|Peilin Zhou et.al.|[2403.11136](http://arxiv.org/abs/2403.11136)|**[link](https://github.com/aim-se/da4rec)**|
 |**2024-03-27**|**Towards Unified Multi-Modal Personalization: Large Vision-Language Models for Generative Recommendation and Beyond**|Tianxin Wei et.al.|[2403.10667](http://arxiv.org/abs/2403.10667)|null|
 |**2024-03-15**|**The Whole is Better than the Sum: Using Aggregated Demonstrations in In-Context Learning for Sequential Recommendation**|Lei Wang et.al.|[2403.10135](http://arxiv.org/abs/2403.10135)|**[link](https://github.com/demoleiwang/llmsrec_syn)**|
