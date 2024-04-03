@@ -14,6 +14,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-02**|**IISAN: Efficiently Adapting Multimodal Representation for Sequential Recommendation with Decoupled PEFT**|Junchen Fu et.al.|[2404.02059](http://arxiv.org/abs/2404.02059)|**[link](https://github.com/jjgenailab/iisan)**|
+|**2024-04-02**|**Where to Move Next: Zero-shot Generalization of LLMs for Next POI Recommendation**|Shanshan Feng et.al.|[2404.01855](http://arxiv.org/abs/2404.01855)|null|
+|**2024-04-01**|**EEG-SVRec: An EEG Dataset with User Multidimensional Affective Engagement Labels in Short Video Recommendation**|Shaorun Zhang et.al.|[2404.01008](http://arxiv.org/abs/2404.01008)|null|
+|**2024-04-01**|**Cross-channel Recommendation for Multi-channel Retail**|Yijin Choi et.al.|[2404.00972](http://arxiv.org/abs/2404.00972)|null|
+|**2024-04-01**|**Maximizing User Experience with LLMOps-Driven Personalized Recommendation Systems**|Chenxi Shi et.al.|[2404.00903](http://arxiv.org/abs/2404.00903)|null|
+|**2024-03-31**|**Multimodal Pretraining, Adaptation, and Generation for Recommendation: A Survey**|Qijiong Liu et.al.|[2404.00621](http://arxiv.org/abs/2404.00621)|null|
+|**2024-03-30**|**SA-LSPL:Sequence-Aware Long- and Short- Term Preference Learning for next POI recommendation**|Bin Wang et.al.|[2404.00367](http://arxiv.org/abs/2404.00367)|null|
+|**2024-03-30**|**A Unified Framework for Adaptive Representation Enhancement and Inversed Learning in Cross-Domain Recommendation**|Luankang Zhang et.al.|[2404.00268](http://arxiv.org/abs/2404.00268)|null|
+|**2024-03-30**|**A Simple Yet Effective Approach for Diversified Session-Based Recommendation**|Qing Yin et.al.|[2404.00261](http://arxiv.org/abs/2404.00261)|null|
+|**2024-03-30**|**Aligning Large Language Models with Recommendation Knowledge**|Yuwei Cao et.al.|[2404.00245](http://arxiv.org/abs/2404.00245)|null|
+|**2024-03-30**|**Enhancing Content-based Recommendation via Large Language Model**|Wentao Xu et.al.|[2404.00236](http://arxiv.org/abs/2404.00236)|null|
 |**2024-03-29**|**Review-Based Cross-Domain Recommendation via Hyperbolic Embedding and Hierarchy-Aware Domain Disentanglement**|Yoonhyuk Choi et.al.|[2403.20298](http://arxiv.org/abs/2403.20298)|null|
 |**2024-03-29**|**Aiming at the Target: Filter Collaborative Information for Cross-Domain Recommendation**|Hanyu Li et.al.|[2403.20296](http://arxiv.org/abs/2403.20296)|null|
 |**2024-03-28**|**Dealing with Missing Modalities in Multimodal Recommendation: a Feature Propagation-based Approach**|Daniele Malitesta et.al.|[2403.19841](http://arxiv.org/abs/2403.19841)|null|
