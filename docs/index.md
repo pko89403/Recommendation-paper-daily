@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**MealRec $^+$ : A Meal Recommendation Dataset with Meal-Course Affiliation for Personalization and Healthiness**|Ming Li et.al.|[2404.05386](http://arxiv.org/abs/2404.05386)|**[link](https://github.com/wut-idea/mealrecplus)**|
+|**2024-04-08**|**Beyond the Sequence: Statistics-Driven Pre-training for Stabilizing Sequential Recommendation Model**|Sirui Wang et.al.|[2404.05342](http://arxiv.org/abs/2404.05342)|null|
+|**2024-04-07**|**Balancing Information Perception with Yin-Yang: Agent-Based Information Neutrality Model for Recommendation Systems**|Mengyan Wang et.al.|[2404.04906](http://arxiv.org/abs/2404.04906)|null|
+|**2024-04-06**|**Music Recommendation Based on Facial Emotion Recognition**|Rajesh B et.al.|[2404.04654](http://arxiv.org/abs/2404.04654)|null|
+|**2024-04-06**|**Joint Identifiability of Cross-Domain Recommendation via Hierarchical Subspace Disentanglement**|Jing Du et.al.|[2404.04481](http://arxiv.org/abs/2404.04481)|null|
+|**2024-04-05**|**JobFormer: Skill-Aware Job Recommendation with Semantic-Enhanced Transformer**|Zhihao Guan et.al.|[2404.04313](http://arxiv.org/abs/2404.04313)|null|
+|**2024-03-18**|**Accelerating Matrix Factorization by Dynamic Pruning for Fast Recommendation**|Yining Wu et.al.|[2404.04265](http://arxiv.org/abs/2404.04265)|null|
 |**2024-04-04**|**Sequential Recommendation for Optimizing Both Immediate Feedback and Long-term Retention**|Ziru Liu et.al.|[2404.03637](http://arxiv.org/abs/2404.03637)|null|
 |**2024-04-07**|**A Comprehensive Survey on Self-Supervised Learning for Recommendation**|Xubin Ren et.al.|[2404.03354](http://arxiv.org/abs/2404.03354)|**[link](https://github.com/hkuds/awesome-sslrec-papers)**|
 |**2024-04-04**|**A Directional Diffusion Graph Transformer for Recommendation**|Zixuan Yi et.al.|[2404.03326](http://arxiv.org/abs/2404.03326)|null|
