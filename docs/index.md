@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-10**|**TransTARec: Time-Adaptive Translating Embedding Model for Next POI Recommendation**|Yiping Sun et.al.|[2404.07096](http://arxiv.org/abs/2404.07096)|null|
 |**2024-04-09**|**DRE: Generating Recommendation Explanations by Aligning Large Language Models at Data-level**|Shen Gao et.al.|[2404.06311](http://arxiv.org/abs/2404.06311)|null|
 |**2024-04-09**|**Identifying Shopping Intent in Product QA for Proactive Recommendations**|Besnik Fetahu et.al.|[2404.06017](http://arxiv.org/abs/2404.06017)|null|
 |**2024-04-08**|**MealRec $^+$ : A Meal Recommendation Dataset with Meal-Course Affiliation for Personalization and Healthiness**|Ming Li et.al.|[2404.05386](http://arxiv.org/abs/2404.05386)|**[link](https://github.com/wut-idea/mealrecplus)**|
