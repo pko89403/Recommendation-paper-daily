@@ -7,13 +7,16 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.14
+## Updated on 2024.04.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-12**|**A Conceptual Framework for Conversational Search and Recommendation: Conceptualizing Agent-Human Interactions During the Conversational Search Process**|Leif Azzopardi et.al.|[2404.08630](http://arxiv.org/abs/2404.08630)|null|
+|**2024-04-12**|**Automatic Recommendations for Evolving Relational Databases Schema**|Anne Etien et.al.|[2404.08525](http://arxiv.org/abs/2404.08525)|null|
+|**2024-04-12**|**Large-Scale Multi-Domain Recommendation: an Automatic Domain Feature Extraction and Personalized Integration Framework**|Dongbo Xi et.al.|[2404.08361](http://arxiv.org/abs/2404.08361)|**[link](https://github.com/xidongbo/dfei)**|
 |**2024-04-11**|**Auditing health-related recommendations in social media: A Case Study of Abortion on YouTube**|Mohammed Lahsaini et.al.|[2404.07896](http://arxiv.org/abs/2404.07896)|null|
 |**2024-04-11**|**M-scan: A Multi-Scenario Causal-driven Adaptive Network for Recommendation**|Jiachen Zhu et.al.|[2404.07581](http://arxiv.org/abs/2404.07581)|null|
 |**2024-04-11**|**Adaptive Fair Representation Learning for Personalized Fairness in Recommendations via Information Alignment**|XInyu Zhu et.al.|[2404.07494](http://arxiv.org/abs/2404.07494)|null|
@@ -31,7 +34,7 @@ layout: default
 |**2024-04-04**|**Sequential Recommendation for Optimizing Both Immediate Feedback and Long-term Retention**|Ziru Liu et.al.|[2404.03637](http://arxiv.org/abs/2404.03637)|null|
 |**2024-04-07**|**A Comprehensive Survey on Self-Supervised Learning for Recommendation**|Xubin Ren et.al.|[2404.03354](http://arxiv.org/abs/2404.03354)|**[link](https://github.com/hkuds/awesome-sslrec-papers)**|
 |**2024-04-04**|**A Directional Diffusion Graph Transformer for Recommendation**|Zixuan Yi et.al.|[2404.03326](http://arxiv.org/abs/2404.03326)|null|
-|**2024-04-02**|**IISAN: Efficiently Adapting Multimodal Representation for Sequential Recommendation with Decoupled PEFT**|Junchen Fu et.al.|[2404.02059](http://arxiv.org/abs/2404.02059)|**[link](https://github.com/jjgenailab/iisan)**|
+|**2024-04-11**|**IISAN: Efficiently Adapting Multimodal Representation for Sequential Recommendation with Decoupled PEFT**|Junchen Fu et.al.|[2404.02059](http://arxiv.org/abs/2404.02059)|**[link](https://github.com/gair-lab/iisan)**|
 |**2024-04-02**|**Where to Move Next: Zero-shot Generalization of LLMs for Next POI Recommendation**|Shanshan Feng et.al.|[2404.01855](http://arxiv.org/abs/2404.01855)|**[link](https://github.com/llmmove/llmmove)**|
 |**2024-04-01**|**EEG-SVRec: An EEG Dataset with User Multidimensional Affective Engagement Labels in Short Video Recommendation**|Shaorun Zhang et.al.|[2404.01008](http://arxiv.org/abs/2404.01008)|null|
 |**2024-04-01**|**Cross-channel Recommendation for Multi-channel Retail**|Yijin Choi et.al.|[2404.00972](http://arxiv.org/abs/2404.00972)|null|
