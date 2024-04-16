@@ -17,11 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-15**|**UniSAR: Modeling User Transition Behaviors between Search and Recommendation**|Teng Shi et.al.|[2404.09520](http://arxiv.org/abs/2404.09520)|**[link](https://github.com/tengshi-ruc/unisar)**|
+|**2024-04-12**|**LazyDP: Co-Designing Algorithm-Software for Scalable Training of Differentially Private Recommendation Models**|Juntaek Lim et.al.|[2404.08847](http://arxiv.org/abs/2404.08847)|null|
+|**2024-04-12**|**The Elephant in the Room: Rethinking the Usage of Pre-trained Language Model in Sequential Recommendation**|Zekai Qu et.al.|[2404.08796](http://arxiv.org/abs/2404.08796)|null|
+|**2024-04-10**|**Enhancing Adaptive Video Streaming through Fuzzy Logic-Based Content Recommendation Systems: A Comprehensive Review and Future Directions**|Koffka Khan et.al.|[2404.08691](http://arxiv.org/abs/2404.08691)|null|
+|**2024-04-06**|**RecGPT: Generative Personalized Prompts for Sequential Recommendation via ChatGPT Training Paradigm**|Yabin Zhang et.al.|[2404.08675](http://arxiv.org/abs/2404.08675)|null|
 |**2024-04-12**|**A Conceptual Framework for Conversational Search and Recommendation: Conceptualizing Agent-Human Interactions During the Conversational Search Process**|Leif Azzopardi et.al.|[2404.08630](http://arxiv.org/abs/2404.08630)|null|
 |**2024-04-12**|**Automatic Recommendations for Evolving Relational Databases Schema**|Anne Etien et.al.|[2404.08525](http://arxiv.org/abs/2404.08525)|null|
-|**2024-04-12**|**Large-Scale Multi-Domain Recommendation: an Automatic Domain Feature Extraction and Personalized Integration Framework**|Dongbo Xi et.al.|[2404.08361](http://arxiv.org/abs/2404.08361)|**[link](https://github.com/xidongbo/dfei)**|
+|**2024-04-15**|**Large-Scale Multi-Domain Recommendation: an Automatic Domain Feature Extraction and Personalized Integration Framework**|Dongbo Xi et.al.|[2404.08361](http://arxiv.org/abs/2404.08361)|**[link](https://github.com/xidongbo/dfei)**|
 |**2024-04-11**|**Auditing health-related recommendations in social media: A Case Study of Abortion on YouTube**|Mohammed Lahsaini et.al.|[2404.07896](http://arxiv.org/abs/2404.07896)|null|
-|**2024-04-11**|**M-scan: A Multi-Scenario Causal-driven Adaptive Network for Recommendation**|Jiachen Zhu et.al.|[2404.07581](http://arxiv.org/abs/2404.07581)|null|
+|**2024-04-15**|**M-scan: A Multi-Scenario Causal-driven Adaptive Network for Recommendation**|Jiachen Zhu et.al.|[2404.07581](http://arxiv.org/abs/2404.07581)|null|
 |**2024-04-13**|**Adaptive Fair Representation Learning for Personalized Fairness in Recommendations via Information Alignment**|Xinyu Zhu et.al.|[2404.07494](http://arxiv.org/abs/2404.07494)|**[link](https://github.com/zhuxinyu2700/afrl)**|
 |**2024-03-27**|**Stock Recommendations for Individual Investors: A Temporal Graph Network Approach with Diversification-Enhancing Contrastive Learning**|Youngbin Lee et.al.|[2404.07223](http://arxiv.org/abs/2404.07223)|null|
 |**2024-04-10**|**TransTARec: Time-Adaptive Translating Embedding Model for Next POI Recommendation**|Yiping Sun et.al.|[2404.07096](http://arxiv.org/abs/2404.07096)|null|
