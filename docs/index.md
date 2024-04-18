@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.17
+## Updated on 2024.04.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -21,7 +21,7 @@ layout: default
 |**2024-04-10**|**Enhancing Adaptive Video Streaming through Fuzzy Logic-Based Content Recommendation Systems: A Comprehensive Review and Future Directions**|Koffka Khan et.al.|[2404.08691](http://arxiv.org/abs/2404.08691)|null|
 |**2024-04-06**|**RecGPT: Generative Personalized Prompts for Sequential Recommendation via ChatGPT Training Paradigm**|Yabin Zhang et.al.|[2404.08675](http://arxiv.org/abs/2404.08675)|null|
 |**2024-04-12**|**A Conceptual Framework for Conversational Search and Recommendation: Conceptualizing Agent-Human Interactions During the Conversational Search Process**|Leif Azzopardi et.al.|[2404.08630](http://arxiv.org/abs/2404.08630)|null|
-|**2024-04-12**|**Automatic Recommendations for Evolving Relational Databases Schema**|Anne Etien et.al.|[2404.08525](http://arxiv.org/abs/2404.08525)|null|
+|**2024-04-12**|**Automatic Recommendations for Evolving Relational Databases Schema**|Anne Etien et.al.|[2404.08525](http://arxiv.org/abs/2404.08525)|**[link](https://github.com/juliendelplanque/famixngsql)**|
 |**2024-04-15**|**Large-Scale Multi-Domain Recommendation: an Automatic Domain Feature Extraction and Personalized Integration Framework**|Dongbo Xi et.al.|[2404.08361](http://arxiv.org/abs/2404.08361)|**[link](https://github.com/xidongbo/dfei)**|
 |**2024-04-11**|**Auditing health-related recommendations in social media: A Case Study of Abortion on YouTube**|Mohammed Lahsaini et.al.|[2404.07896](http://arxiv.org/abs/2404.07896)|null|
 |**2024-04-15**|**M-scan: A Multi-Scenario Causal-driven Adaptive Network for Recommendation**|Jiachen Zhu et.al.|[2404.07581](http://arxiv.org/abs/2404.07581)|null|
