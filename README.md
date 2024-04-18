@@ -17,10 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-17**|**Disentangled Cascaded Graph Convolution Networks for Multi-Behavior Recommendation**|Zhiyong Cheng et.al.|[2404.11519](http://arxiv.org/abs/2404.11519)|**[link](https://github.com/jianhuadongcs/disen-cgcn)**|
+|**2024-04-17**|**Causal Deconfounding via Confounder Disentanglement for Dual-Target Cross-Domain Recommendation**|Jiajie Zhu et.al.|[2404.11180](http://arxiv.org/abs/2404.11180)|null|
+|**2024-04-17**|**DRepMRec: A Dual Representation Learning Framework for Multimodal Recommendation**|Kangning Zhang et.al.|[2404.11119](http://arxiv.org/abs/2404.11119)|null|
 |**2024-04-16**|**Exact and Efficient Unlearning for Large Language Model-based Recommendation**|Zhiyu Hu et.al.|[2404.10327](http://arxiv.org/abs/2404.10327)|null|
 |**2024-04-15**|**UniSAR: Modeling User Transition Behaviors between Search and Recommendation**|Teng Shi et.al.|[2404.09520](http://arxiv.org/abs/2404.09520)|**[link](https://github.com/tengshi-ruc/unisar)**|
 |**2024-04-12**|**LazyDP: Co-Designing Algorithm-Software for Scalable Training of Differentially Private Recommendation Models**|Juntaek Lim et.al.|[2404.08847](http://arxiv.org/abs/2404.08847)|null|
-|**2024-04-12**|**The Elephant in the Room: Rethinking the Usage of Pre-trained Language Model in Sequential Recommendation**|Zekai Qu et.al.|[2404.08796](http://arxiv.org/abs/2404.08796)|null|
+|**2024-04-17**|**The Elephant in the Room: Rethinking the Usage of Pre-trained Language Model in Sequential Recommendation**|Zekai Qu et.al.|[2404.08796](http://arxiv.org/abs/2404.08796)|null|
 |**2024-04-10**|**Enhancing Adaptive Video Streaming through Fuzzy Logic-Based Content Recommendation Systems: A Comprehensive Review and Future Directions**|Koffka Khan et.al.|[2404.08691](http://arxiv.org/abs/2404.08691)|null|
 |**2024-04-06**|**RecGPT: Generative Personalized Prompts for Sequential Recommendation via ChatGPT Training Paradigm**|Yabin Zhang et.al.|[2404.08675](http://arxiv.org/abs/2404.08675)|null|
 |**2024-04-12**|**A Conceptual Framework for Conversational Search and Recommendation: Conceptualizing Agent-Human Interactions During the Conversational Search Process**|Leif Azzopardi et.al.|[2404.08630](http://arxiv.org/abs/2404.08630)|null|
