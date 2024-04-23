@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**Recommendations for Early Definition Science with the Nancy Grace Roman Space Telescope**|Robyn E. Sanderson et.al.|[2404.14342](http://arxiv.org/abs/2404.14342)|null|
+|**2024-04-22**|**Turbo-CF: Matrix Decomposition-Free Graph Filtering for Fast Recommendation**|Jin-Duk Park et.al.|[2404.14243](http://arxiv.org/abs/2404.14243)|null|
+|**2024-04-22**|**Multi-Level Sequence Denoising with Cross-Signal Contrastive Learning for Sequential Recommendation**|Xiaofei Zhu et.al.|[2404.13878](http://arxiv.org/abs/2404.13878)|**[link](https://github.com/lalunex/msdccl)**|
+|**2024-04-22**|**General Item Representation Learning for Cold-start Content Recommendations**|Jooeun Kim et.al.|[2404.13808](http://arxiv.org/abs/2404.13808)|null|
+|**2024-04-21**|**Multi-channel Emotion Analysis for Consensus Reaching in Group Movie Recommendation Systems**|Adilet Yerkin et.al.|[2404.13778](http://arxiv.org/abs/2404.13778)|null|
+|**2024-04-20**|**MARec: Metadata Alignment for cold-start Recommendation**|Julien Monteil et.al.|[2404.13298](http://arxiv.org/abs/2404.13298)|null|
 |**2024-04-19**|**FineRec:Exploring Fine-grained Sequential Recommendation**|Xiaokun Zhang et.al.|[2404.12975](http://arxiv.org/abs/2404.12975)|null|
 |**2024-04-19**|**Disentangling ID and Modality Effects for Session-based Recommendation**|Xiaokun Zhang et.al.|[2404.12969](http://arxiv.org/abs/2404.12969)|**[link](https://github.com/zhang-xiaokun/dimo)**|
 |**2024-04-18**|**Relationship Discovery for Drug Recommendation**|Xiang Li et.al.|[2404.12228](http://arxiv.org/abs/2404.12228)|null|
