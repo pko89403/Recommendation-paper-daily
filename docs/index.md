@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.23
+## Updated on 2024.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -58,7 +58,7 @@ layout: default
 |**2024-04-07**|**A Comprehensive Survey on Self-Supervised Learning for Recommendation**|Xubin Ren et.al.|[2404.03354](http://arxiv.org/abs/2404.03354)|**[link](https://github.com/hkuds/awesome-sslrec-papers)**|
 |**2024-04-04**|**A Directional Diffusion Graph Transformer for Recommendation**|Zixuan Yi et.al.|[2404.03326](http://arxiv.org/abs/2404.03326)|null|
 |**2024-04-11**|**IISAN: Efficiently Adapting Multimodal Representation for Sequential Recommendation with Decoupled PEFT**|Junchen Fu et.al.|[2404.02059](http://arxiv.org/abs/2404.02059)|**[link](https://github.com/gair-lab/iisan)**|
-|**2024-04-02**|**Where to Move Next: Zero-shot Generalization of LLMs for Next POI Recommendation**|Shanshan Feng et.al.|[2404.01855](http://arxiv.org/abs/2404.01855)|**[link](https://github.com/llmmove/llmmove)**|
+|**2024-04-22**|**Where to Move Next: Zero-shot Generalization of LLMs for Next POI Recommendation**|Shanshan Feng et.al.|[2404.01855](http://arxiv.org/abs/2404.01855)|**[link](https://github.com/llmmove/llmmove)**|
 |**2024-04-01**|**EEG-SVRec: An EEG Dataset with User Multidimensional Affective Engagement Labels in Short Video Recommendation**|Shaorun Zhang et.al.|[2404.01008](http://arxiv.org/abs/2404.01008)|null|
 |**2024-04-01**|**Cross-channel Recommendation for Multi-channel Retail**|Yijin Choi et.al.|[2404.00972](http://arxiv.org/abs/2404.00972)|null|
 |**2024-04-01**|**Maximizing User Experience with LLMOps-Driven Personalized Recommendation Systems**|Chenxi Shi et.al.|[2404.00903](http://arxiv.org/abs/2404.00903)|null|
