@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-25**|**A Survey of Generative Search and Recommendation in the Era of Large Language Models**|Yongqi Li et.al.|[2404.16924](http://arxiv.org/abs/2404.16924)|null|
 |**2024-04-25**|**MMGRec: Multimodal Generative Recommendation with Transformer Model**|Han Liu et.al.|[2404.16555](http://arxiv.org/abs/2404.16555)|null|
 |**2024-04-25**|**Mixed Supervised Graph Contrastive Learning for Recommendation**|Weizhi Zhang et.al.|[2404.15954](http://arxiv.org/abs/2404.15954)|null|
 |**2024-04-26**|**Retrieval and Distill: A Temporal Data Shift-Free Paradigm for Online Recommendation System**|Lei Zheng et.al.|[2404.15678](http://arxiv.org/abs/2404.15678)|null|
