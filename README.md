@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.29
+## Updated on 2024.04.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -56,7 +56,7 @@
 |**2024-04-10**|**TransTARec: Time-Adaptive Translating Embedding Model for Next POI Recommendation**|Yiping Sun et.al.|[2404.07096](http://arxiv.org/abs/2404.07096)|null|
 |**2024-04-09**|**DRE: Generating Recommendation Explanations by Aligning Large Language Models at Data-level**|Shen Gao et.al.|[2404.06311](http://arxiv.org/abs/2404.06311)|null|
 |**2024-04-09**|**Identifying Shopping Intent in Product QA for Proactive Recommendations**|Besnik Fetahu et.al.|[2404.06017](http://arxiv.org/abs/2404.06017)|null|
-|**2024-04-08**|**MealRec $^+$ : A Meal Recommendation Dataset with Meal-Course Affiliation for Personalization and Healthiness**|Ming Li et.al.|[2404.05386](http://arxiv.org/abs/2404.05386)|**[link](https://github.com/wut-idea/mealrecplus)**|
+|**2024-04-28**|**MealRec $^+$ : A Meal Recommendation Dataset with Meal-Course Affiliation for Personalization and Healthiness**|Ming Li et.al.|[2404.05386](http://arxiv.org/abs/2404.05386)|**[link](https://github.com/wut-idea/mealrecplus)**|
 |**2024-04-08**|**Beyond the Sequence: Statistics-Driven Pre-training for Stabilizing Sequential Recommendation Model**|Sirui Wang et.al.|[2404.05342](http://arxiv.org/abs/2404.05342)|null|
 |**2024-04-07**|**Balancing Information Perception with Yin-Yang: Agent-Based Information Neutrality Model for Recommendation Systems**|Mengyan Wang et.al.|[2404.04906](http://arxiv.org/abs/2404.04906)|null|
 |**2024-04-06**|**Music Recommendation Based on Facial Emotion Recognition**|Rajesh B et.al.|[2404.04654](http://arxiv.org/abs/2404.04654)|null|
@@ -172,7 +172,7 @@
 |**2024-03-07**|**Disaggregated Multi-Tower: Topology-aware Modeling Technique for Efficient Large-Scale Recommendation**|Liang Luo et.al.|[2403.00877](http://arxiv.org/abs/2403.00877)|null|
 |**2024-03-01**|**A Survey of Route Recommendations: Methods, Applications, and Opportunities**|Shiming Zhang et.al.|[2403.00284](http://arxiv.org/abs/2403.00284)|null|
 
-<p align=right>(<a href=#updated-on-20240429>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240430>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
