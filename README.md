@@ -17,6 +17,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**Designing Algorithmic Recommendations to Achieve Human-AI Complementarity**|Bryce McLaughlin et.al.|[2405.01484](http://arxiv.org/abs/2405.01484)|null|
+|**2024-05-02**|**Prompt engineering paradigms for medical applications: scoping review and recommendations for better practices**|Jamil Zaghir et.al.|[2405.01249](http://arxiv.org/abs/2405.01249)|null|
+|**2024-05-02**|**Are We Really Achieving Better Beyond-Accuracy Performance in Next Basket Recommendation?**|Ming Li et.al.|[2405.01143](http://arxiv.org/abs/2405.01143)|null|
+|**2024-05-02**|**Fair Recommendations with Limited Sensitive Attributes: A Distributionally Robust Optimization Approach**|Tianhao Shi et.al.|[2405.01063](http://arxiv.org/abs/2405.01063)|null|
+|**2024-05-02**|**Multi-intent-aware Session-based Recommendation**|Minjin Choi et.al.|[2405.00986](http://arxiv.org/abs/2405.00986)|**[link](https://github.com/jin530/miasrec)**|
+|**2024-05-01**|**Efficient and Responsible Adaptation of Large Language Models for Robust Top-k Recommendations**|Kirandeep Kaur et.al.|[2405.00824](http://arxiv.org/abs/2405.00824)|null|
 |**2024-05-01**|**A First Look at Selection Bias in Preference Elicitation for Recommendation**|Shashank Gupta et.al.|[2405.00554](http://arxiv.org/abs/2405.00554)|**[link](https://github.com/shashankg7/bias-preference-elicitation)**|
 |**2024-04-30**|**Interest Clock: Time Perception in Real-Time Streaming Recommendation System**|Yongchun Zhu et.al.|[2404.19357](http://arxiv.org/abs/2404.19357)|null|
 |**2024-04-30**|**Data Set Terminology of Artificial Intelligence in Medicine: A Historical Review and Recommendation**|Shannon L. Walston et.al.|[2404.19303](http://arxiv.org/abs/2404.19303)|null|
