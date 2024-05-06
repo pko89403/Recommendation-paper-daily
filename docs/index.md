@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-03**|**Multi-Objective Recommendation via Multivariate Policy Learning**|Olivier Jeunen et.al.|[2405.02141](http://arxiv.org/abs/2405.02141)|null|
+|**2024-05-03**|**Robust Explainable Recommendation**|Sairamvinay Vijayaraghavan et.al.|[2405.01855](http://arxiv.org/abs/2405.01855)|null|
+|**2024-05-03**|**Stability of Explainable Recommendation**|Sairamvinay Vijayaraghavan et.al.|[2405.01849](http://arxiv.org/abs/2405.01849)|null|
 |**2024-05-02**|**Designing Algorithmic Recommendations to Achieve Human-AI Complementarity**|Bryce McLaughlin et.al.|[2405.01484](http://arxiv.org/abs/2405.01484)|null|
 |**2024-05-02**|**Prompt engineering paradigms for medical applications: scoping review and recommendations for better practices**|Jamil Zaghir et.al.|[2405.01249](http://arxiv.org/abs/2405.01249)|null|
 |**2024-05-02**|**Are We Really Achieving Better Beyond-Accuracy Performance in Next Basket Recommendation?**|Ming Li et.al.|[2405.01143](http://arxiv.org/abs/2405.01143)|null|
