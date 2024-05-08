@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**Dataset and Models for Item Recommendation Using Multi-Modal User Interactions**|Simone Borg Bruun et.al.|[2405.04246](http://arxiv.org/abs/2405.04246)|**[link](https://github.com/simonebbruun/rs_multi_modal_user_interactions)**|
+|**2024-05-07**|**Masked Graph Transformer for Large-Scale Recommendation**|Huiyuan Chen et.al.|[2405.04028](http://arxiv.org/abs/2405.04028)|null|
+|**2024-05-07**|**Knowledge Adaptation from Large Language Model to Recommendation for Practical Industrial Application**|Jian Jia et.al.|[2405.03988](http://arxiv.org/abs/2405.03988)|null|
+|**2024-05-07**|**The Fault in Our Recommendations: On the Perils of Optimizing the Measurable**|Omar Besbes et.al.|[2405.03948](http://arxiv.org/abs/2405.03948)|null|
 |**2024-05-07**|**ID-centric Pre-training for Recommendation**|Yiqing Wu et.al.|[2405.03562](http://arxiv.org/abs/2405.03562)|null|
 |**2024-05-06**|**On the Influence of Data Resampling for Deep Learning-Based Log Anomaly Detection: Insights and Recommendations**|Xiaoxue Ma et.al.|[2405.03489](http://arxiv.org/abs/2405.03489)|null|
 |**2024-05-05**|**High Order Reasoning for Time Critical Recommendation in Evidence-based Medicine**|Manjiang Yu et.al.|[2405.03010](http://arxiv.org/abs/2405.03010)|null|
