@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.07
+## Updated on 2024.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-06**|**ID-centric Pre-training for Recommendation**|Yiqing Wu et.al.|[2405.03562](http://arxiv.org/abs/2405.03562)|null|
+|**2024-05-07**|**ID-centric Pre-training for Recommendation**|Yiqing Wu et.al.|[2405.03562](http://arxiv.org/abs/2405.03562)|null|
 |**2024-05-06**|**On the Influence of Data Resampling for Deep Learning-Based Log Anomaly Detection: Insights and Recommendations**|Xiaoxue Ma et.al.|[2405.03489](http://arxiv.org/abs/2405.03489)|null|
 |**2024-05-05**|**High Order Reasoning for Time Critical Recommendation in Evidence-based Medicine**|Manjiang Yu et.al.|[2405.03010](http://arxiv.org/abs/2405.03010)|null|
 |**2024-05-05**|**Improve Temporal Awareness of LLMs for Sequential Recommendation**|Zhendong Chu et.al.|[2405.02778](http://arxiv.org/abs/2405.02778)|null|
@@ -32,7 +32,7 @@ layout: default
 |**2024-04-30**|**Interest Clock: Time Perception in Real-Time Streaming Recommendation System**|Yongchun Zhu et.al.|[2404.19357](http://arxiv.org/abs/2404.19357)|null|
 |**2024-04-30**|**Data Set Terminology of Artificial Intelligence in Medicine: A Historical Review and Recommendation**|Shannon L. Walston et.al.|[2404.19303](http://arxiv.org/abs/2404.19303)|null|
 |**2024-04-29**|**Catalyzing Social Interactions in Mixed Reality using ML Recommendation Systems**|Sparsh Srivastava et.al.|[2404.19095](http://arxiv.org/abs/2404.19095)|null|
-|**2024-04-29**|**M3oE: Multi-Domain Multi-Task Mixture-of Experts Recommendation Framework**|Zijian Zhang et.al.|[2404.18465](http://arxiv.org/abs/2404.18465)|**[link](https://github.com/applied-machine-learning-lab/m3oe)**|
+|**2024-05-07**|**M3oE: Multi-Domain Multi-Task Mixture-of Experts Recommendation Framework**|Zijian Zhang et.al.|[2404.18465](http://arxiv.org/abs/2404.18465)|**[link](https://github.com/applied-machine-learning-lab/m3oe)**|
 |**2024-04-28**|**Contrastive Learning Method for Sequential Recommendation based on Multi-Intention Disentanglement**|Zeyu Hu et.al.|[2404.18214](http://arxiv.org/abs/2404.18214)|null|
 |**2024-04-28**|**Behavior-Contextualized Item Preference Modeling for Multi-Behavior Recommendation**|Mingshi Yan et.al.|[2404.18166](http://arxiv.org/abs/2404.18166)|null|
 |**2024-04-28**|**Fashion Recommendation: Outfit Compatibility using GNN**|Samaksh Gulati et.al.|[2404.18040](http://arxiv.org/abs/2404.18040)|**[link](https://github.com/outfit-net/outfit-commpatibility)**|
