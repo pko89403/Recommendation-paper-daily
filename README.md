@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.08
+## Updated on 2024.05.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -40,7 +40,7 @@
 |**2024-04-30**|**Data Set Terminology of Artificial Intelligence in Medicine: A Historical Review and Recommendation**|Shannon L. Walston et.al.|[2404.19303](http://arxiv.org/abs/2404.19303)|null|
 |**2024-04-29**|**Catalyzing Social Interactions in Mixed Reality using ML Recommendation Systems**|Sparsh Srivastava et.al.|[2404.19095](http://arxiv.org/abs/2404.19095)|null|
 |**2024-05-07**|**M3oE: Multi-Domain Multi-Task Mixture-of Experts Recommendation Framework**|Zijian Zhang et.al.|[2404.18465](http://arxiv.org/abs/2404.18465)|**[link](https://github.com/applied-machine-learning-lab/m3oe)**|
-|**2024-04-28**|**Contrastive Learning Method for Sequential Recommendation based on Multi-Intention Disentanglement**|Zeyu Hu et.al.|[2404.18214](http://arxiv.org/abs/2404.18214)|null|
+|**2024-05-08**|**Contrastive Learning Method for Sequential Recommendation based on Multi-Intention Disentanglement**|Zeyu Hu et.al.|[2404.18214](http://arxiv.org/abs/2404.18214)|null|
 |**2024-04-28**|**Behavior-Contextualized Item Preference Modeling for Multi-Behavior Recommendation**|Mingshi Yan et.al.|[2404.18166](http://arxiv.org/abs/2404.18166)|null|
 |**2024-04-28**|**Fashion Recommendation: Outfit Compatibility using GNN**|Samaksh Gulati et.al.|[2404.18040](http://arxiv.org/abs/2404.18040)|**[link](https://github.com/outfit-net/outfit-commpatibility)**|
 |**2024-04-27**|**Towards Robust Recommendation: A Review and an Adversarial Robustness Evaluation Library**|Lei Cheng et.al.|[2404.17844](http://arxiv.org/abs/2404.17844)|**[link](https://github.com/chengleileilei/shillingrec)**|
@@ -200,7 +200,7 @@
 |**2024-03-07**|**Disaggregated Multi-Tower: Topology-aware Modeling Technique for Efficient Large-Scale Recommendation**|Liang Luo et.al.|[2403.00877](http://arxiv.org/abs/2403.00877)|null|
 |**2024-03-01**|**A Survey of Route Recommendations: Methods, Applications, and Opportunities**|Shiming Zhang et.al.|[2403.00284](http://arxiv.org/abs/2403.00284)|null|
 
-<p align=right>(<a href=#updated-on-20240508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240509>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
