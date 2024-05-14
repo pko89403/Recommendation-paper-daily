@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**CoVScreen: Pitfalls and recommendations for screening COVID-19 using Chest X-rays**|Sonit Singh et.al.|[2405.07674](http://arxiv.org/abs/2405.07674)|null|
+|**2024-05-13**|**DynLLM: When Large Language Models Meet Dynamic Graph Recommendation**|Ziwei Zhao et.al.|[2405.07580](http://arxiv.org/abs/2405.07580)|null|
+|**2024-05-12**|**Learnable Tokenizer for LLM-based Generative Recommendation**|Wenjie Wang et.al.|[2405.07314](http://arxiv.org/abs/2405.07314)|null|
+|**2024-05-11**|**Multimodal Pretraining and Generation for Recommendation: A Tutorial**|Jieming Zhu et.al.|[2405.06927](http://arxiv.org/abs/2405.06927)|null|
 |**2024-05-09**|**Measuring Strategization in Recommendation: Users Adapt Their Behavior to Shape Future Content**|Sarah H. Cen et.al.|[2405.05596](http://arxiv.org/abs/2405.05596)|null|
 |**2024-05-08**|**Learning Social Graph for Inactive User Recommendation**|Nian Liu et.al.|[2405.05288](http://arxiv.org/abs/2405.05288)|**[link](https://github.com/liun-online/lsir)**|
 |**2024-05-08**|**Conversational Topic Recommendation in Counseling and Psychotherapy with Decision Transformer and Large Language Models**|Aylin Gunal et.al.|[2405.05060](http://arxiv.org/abs/2405.05060)|null|
