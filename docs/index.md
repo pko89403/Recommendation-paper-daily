@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-15**|**Diffusion-based Contrastive Learning for Sequential Recommendation**|Ziqiang Cui et.al.|[2405.09369](http://arxiv.org/abs/2405.09369)|null|
+|**2024-05-15**|**MVBIND: Self-Supervised Music Recommendation For Videos Via Embedding Space Binding**|Jiajie Teng et.al.|[2405.09286](http://arxiv.org/abs/2405.09286)|null|
+|**2024-05-15**|**Typhon: Automatic Recommendation of Relevant Code Cells in Jupyter Notebooks**|Chaiyong Ragkhitwetsagul et.al.|[2405.09075](http://arxiv.org/abs/2405.09075)|null|
 |**2024-05-14**|**How to Surprisingly Consider Recommendations? A Knowledge-Graph-based Approach Relying on Complex Network Metrics**|Oliver Baumann et.al.|[2405.08465](http://arxiv.org/abs/2405.08465)|null|
 |**2024-05-13**|**CoVScreen: Pitfalls and recommendations for screening COVID-19 using Chest X-rays**|Sonit Singh et.al.|[2405.07674](http://arxiv.org/abs/2405.07674)|null|
 |**2024-05-13**|**DynLLM: When Large Language Models Meet Dynamic Graph Recommendation**|Ziwei Zhao et.al.|[2405.07580](http://arxiv.org/abs/2405.07580)|null|
