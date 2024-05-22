@@ -17,6 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-21**|**Retrievable Domain-Sensitive Feature Memory for Multi-Domain Recommendation**|Yuang Zhao et.al.|[2405.12892](http://arxiv.org/abs/2405.12892)|null|
+|**2024-05-21**|**GotFunding: A grant recommendation system based on scientific articles**|Tong Zeng et.al.|[2405.12840](http://arxiv.org/abs/2405.12840)|null|
+|**2024-05-21**|**RecGPT: Generative Pre-training for Text-based Recommendation**|Hoang Ngo et.al.|[2405.12715](http://arxiv.org/abs/2405.12715)|null|
+|**2024-05-21**|**Disentangled Representation with Cross Experts Covariance Loss for Multi-Domain Recommendation**|Zhutian Lin et.al.|[2405.12706](http://arxiv.org/abs/2405.12706)|null|
+|**2024-05-21**|**Time Matters: Enhancing Pre-trained News Recommendation Models with Robust User Dwell Time Injection**|Hao Jiang et.al.|[2405.12486](http://arxiv.org/abs/2405.12486)|null|
+|**2024-05-21**|**Learning Partially Aligned Item Representation for Cross-Domain Sequential Recommendation**|Mingjia Yin et.al.|[2405.12473](http://arxiv.org/abs/2405.12473)|null|
+|**2024-05-21**|**Learning Structure and Knowledge Aware Representation with Large Language Models for Concept Recommendation**|Qingyao Li et.al.|[2405.12442](http://arxiv.org/abs/2405.12442)|null|
 |**2024-05-20**|**Reindex-Then-Adapt: Improving Large Language Models for Conversational Recommendation**|Zhankui He et.al.|[2405.12119](http://arxiv.org/abs/2405.12119)|null|
 |**2024-05-20**|**Modeling User Fatigue for Sequential Recommendation**|Li Nian et.al.|[2405.11764](http://arxiv.org/abs/2405.11764)|**[link](https://github.com/tsinghua-fib-lab/sigir24-frec)**|
 |**2024-05-19**|**Knowledge Graph Pruning for Recommendation**|Fake Lin et.al.|[2405.11531](http://arxiv.org/abs/2405.11531)|null|
