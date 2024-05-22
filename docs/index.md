@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.21
+## Updated on 2024.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -25,7 +25,7 @@ layout: default
 |**2024-05-17**|**RDRec: Rationale Distillation for LLM-based Recommendation**|Xinfeng Wang et.al.|[2405.10587](http://arxiv.org/abs/2405.10587)|**[link](https://github.com/wangxfng/rdrec)**|
 |**2024-05-16**|**Positional encoding is not the same as context: A study on positional encoding for Sequential recommendation**|Alejo Lopez-Avila et.al.|[2405.10436](http://arxiv.org/abs/2405.10436)|null|
 |**2024-05-16**|**Beyond Static Calibration: The Impact of User Preference Dynamics on Calibrated Recommendation**|Kun Lin et.al.|[2405.10232](http://arxiv.org/abs/2405.10232)|**[link](https://github.com/nicolelin13/dynamiccalibrationumap)**|
-|**2024-04-29**|**HMAR: Hierarchical Masked Attention for Multi-Behaviour Recommendation**|Shereen Elsayed et.al.|[2405.09638](http://arxiv.org/abs/2405.09638)|null|
+|**2024-04-29**|**HMAR: Hierarchical Masked Attention for Multi-Behaviour Recommendation**|Shereen Elsayed et.al.|[2405.09638](http://arxiv.org/abs/2405.09638)|**[link](https://github.com/shereen-elsayed/hmar)**|
 |**2024-05-15**|**Diffusion-based Contrastive Learning for Sequential Recommendation**|Ziqiang Cui et.al.|[2405.09369](http://arxiv.org/abs/2405.09369)|null|
 |**2024-05-15**|**MVBIND: Self-Supervised Music Recommendation For Videos Via Embedding Space Binding**|Jiajie Teng et.al.|[2405.09286](http://arxiv.org/abs/2405.09286)|null|
 |**2024-05-15**|**Typhon: Automatic Recommendation of Relevant Code Cells in Jupyter Notebooks**|Chaiyong Ragkhitwetsagul et.al.|[2405.09075](http://arxiv.org/abs/2405.09075)|null|
@@ -35,7 +35,7 @@ layout: default
 |**2024-05-12**|**Learnable Tokenizer for LLM-based Generative Recommendation**|Wenjie Wang et.al.|[2405.07314](http://arxiv.org/abs/2405.07314)|null|
 |**2024-05-11**|**Multimodal Pretraining and Generation for Recommendation: A Tutorial**|Jieming Zhu et.al.|[2405.06927](http://arxiv.org/abs/2405.06927)|null|
 |**2024-05-09**|**Measuring Strategization in Recommendation: Users Adapt Their Behavior to Shape Future Content**|Sarah H. Cen et.al.|[2405.05596](http://arxiv.org/abs/2405.05596)|null|
-|**2024-05-08**|**Learning Social Graph for Inactive User Recommendation**|Nian Liu et.al.|[2405.05288](http://arxiv.org/abs/2405.05288)|**[link](https://github.com/liun-online/lsir)**|
+|**2024-05-21**|**Learning Social Graph for Inactive User Recommendation**|Nian Liu et.al.|[2405.05288](http://arxiv.org/abs/2405.05288)|**[link](https://github.com/liun-online/lsir)**|
 |**2024-05-08**|**Conversational Topic Recommendation in Counseling and Psychotherapy with Decision Transformer and Large Language Models**|Aylin Gunal et.al.|[2405.05060](http://arxiv.org/abs/2405.05060)|null|
 |**2024-05-08**|**Dual-domain Collaborative Denoising for Social Recommendation**|Wenjie Chen et.al.|[2405.04942](http://arxiv.org/abs/2405.04942)|null|
 |**2024-05-08**|**Federated Adaptation for Foundation Model-based Recommendations**|Chunxu Zhang et.al.|[2405.04840](http://arxiv.org/abs/2405.04840)|**[link](https://github.com/Zhangcx19/IJCAI-24-FedPA)**|
