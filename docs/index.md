@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.22
+## Updated on 2024.05.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -30,7 +30,7 @@ layout: default
 |**2024-05-18**|**A User Interface Study on Sustainable City Trip Recommendations**|Ashmi Banerjee et.al.|[2405.11243](http://arxiv.org/abs/2405.11243)|null|
 |**2024-05-17**|**A Unified Search and Recommendation Framework Based on Multi-Scenario Learning for Ranking in E-commerce**|Jinhan Liu et.al.|[2405.10835](http://arxiv.org/abs/2405.10835)|null|
 |**2024-05-17**|**RDRec: Rationale Distillation for LLM-based Recommendation**|Xinfeng Wang et.al.|[2405.10587](http://arxiv.org/abs/2405.10587)|**[link](https://github.com/wangxfng/rdrec)**|
-|**2024-05-16**|**Positional encoding is not the same as context: A study on positional encoding for Sequential recommendation**|Alejo Lopez-Avila et.al.|[2405.10436](http://arxiv.org/abs/2405.10436)|null|
+|**2024-05-16**|**Positional encoding is not the same as context: A study on positional encoding for Sequential recommendation**|Alejo Lopez-Avila et.al.|[2405.10436](http://arxiv.org/abs/2405.10436)|**[link](https://github.com/researcher1741/position_encoding_srs)**|
 |**2024-05-16**|**Beyond Static Calibration: The Impact of User Preference Dynamics on Calibrated Recommendation**|Kun Lin et.al.|[2405.10232](http://arxiv.org/abs/2405.10232)|**[link](https://github.com/nicolelin13/dynamiccalibrationumap)**|
 |**2024-04-29**|**HMAR: Hierarchical Masked Attention for Multi-Behaviour Recommendation**|Shereen Elsayed et.al.|[2405.09638](http://arxiv.org/abs/2405.09638)|**[link](https://github.com/shereen-elsayed/hmar)**|
 |**2024-05-15**|**Diffusion-based Contrastive Learning for Sequential Recommendation**|Ziqiang Cui et.al.|[2405.09369](http://arxiv.org/abs/2405.09369)|null|
