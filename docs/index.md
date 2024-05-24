@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Look into the Future: Deep Contextualized Sequential Recommendation**|Lei Zheng et.al.|[2405.14359](http://arxiv.org/abs/2405.14359)|null|
+|**2024-05-23**|**Imagery as Inquiry: Exploring A Multimodal Dataset for Conversational Recommendation**|Se-eun Yoon et.al.|[2405.14142](http://arxiv.org/abs/2405.14142)|null|
+|**2024-05-22**|**Diffusion-Based Cloud-Edge-Device Collaborative Learning for Next POI Recommendations**|Jing Long et.al.|[2405.13811](http://arxiv.org/abs/2405.13811)|null|
+|**2024-05-22**|**Sunnie: An Anthropomorphic LLM-Based Conversational Agent for Mental Well-Being Activity Recommendation**|Siyi Wu et.al.|[2405.13803](http://arxiv.org/abs/2405.13803)|null|
+|**2024-05-22**|**Naturally Private Recommendations with Determinantal Point Processes**|Jack Fitzsimons et.al.|[2405.13677](http://arxiv.org/abs/2405.13677)|null|
+|**2024-05-22**|**Navigating User Experience of ChatGPT-based Conversational Recommender Systems: The Effects of Prompt Guidance and Recommendation Domain**|Yizhe Zhang et.al.|[2405.13560](http://arxiv.org/abs/2405.13560)|null|
+|**2024-05-13**|**News Recommendation with Category Description by a Large Language Model**|Yuki Yada et.al.|[2405.13007](http://arxiv.org/abs/2405.13007)|null|
 |**2024-05-21**|**Retrievable Domain-Sensitive Feature Memory for Multi-Domain Recommendation**|Yuang Zhao et.al.|[2405.12892](http://arxiv.org/abs/2405.12892)|null|
 |**2024-05-21**|**GotFunding: A grant recommendation system based on scientific articles**|Tong Zeng et.al.|[2405.12840](http://arxiv.org/abs/2405.12840)|null|
 |**2024-05-21**|**RecGPT: Generative Pre-training for Text-based Recommendation**|Hoang Ngo et.al.|[2405.12715](http://arxiv.org/abs/2405.12715)|null|
