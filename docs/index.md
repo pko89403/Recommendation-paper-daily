@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.28
+## Updated on 2024.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -38,7 +38,7 @@ layout: default
 |**2024-05-19**|**Knowledge Graph Pruning for Recommendation**|Fake Lin et.al.|[2405.11531](http://arxiv.org/abs/2405.11531)|null|
 |**2024-05-19**|**EmbSum: Leveraging the Summarization Capabilities of Large Language Models for Content-Based Recommendations**|Chiyu Zhang et.al.|[2405.11441](http://arxiv.org/abs/2405.11441)|null|
 |**2024-05-19**|**Budgeted Recommendation with Delayed Feedback**|Kweiguu Liu et.al.|[2405.11417](http://arxiv.org/abs/2405.11417)|null|
-|**2024-05-27**|**Double Correction Framework for Denoising Recommendation**|Zhuangzhuang He et.al.|[2405.11272](http://arxiv.org/abs/2405.11272)|**[link](https://github.com/bruno686/dcf)**|
+|**2024-05-28**|**Double Correction Framework for Denoising Recommendation**|Zhuangzhuang He et.al.|[2405.11272](http://arxiv.org/abs/2405.11272)|**[link](https://github.com/bruno686/dcf)**|
 |**2024-05-18**|**A User Interface Study on Sustainable City Trip Recommendations**|Ashmi Banerjee et.al.|[2405.11243](http://arxiv.org/abs/2405.11243)|null|
 |**2024-05-17**|**A Unified Search and Recommendation Framework Based on Multi-Scenario Learning for Ranking in E-commerce**|Jinhan Liu et.al.|[2405.10835](http://arxiv.org/abs/2405.10835)|null|
 |**2024-05-17**|**RDRec: Rationale Distillation for LLM-based Recommendation**|Xinfeng Wang et.al.|[2405.10587](http://arxiv.org/abs/2405.10587)|**[link](https://github.com/wangxfng/rdrec)**|
