@@ -17,6 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-28**|**A Vlogger-augmented Graph Neural Network Model for Micro-video Recommendation**|Weijiang Lai et.al.|[2405.18260](http://arxiv.org/abs/2405.18260)|null|
+|**2024-05-28**|**ReChorus2.0: A Modular and Task-Flexible Recommendation Library**|Jiayu Li et.al.|[2405.18058](http://arxiv.org/abs/2405.18058)|**[link](https://github.com/thuwangcy/rechorus)**|
+|**2024-05-28**|**Attention-based sequential recommendation system using multimodal data**|Hyungtaik Oh et.al.|[2405.17959](http://arxiv.org/abs/2405.17959)|null|
+|**2024-05-28**|**SLMRec: Empowering Small Language Models for Sequential Recommendation**|Wujiang Xu et.al.|[2405.17890](http://arxiv.org/abs/2405.17890)|null|
+|**2024-05-28**|**Dataset Regeneration for Sequential Recommendation**|Mingjia Yin et.al.|[2405.17795](http://arxiv.org/abs/2405.17795)|null|
+|**2024-05-28**|**MobileConvRec: A Conversational Dataset for Mobile Apps Recommendations**|Srijata Maji et.al.|[2405.17740](http://arxiv.org/abs/2405.17740)|null|
+|**2024-05-27**|**Advancing Cultural Inclusivity: Optimizing Embedding Spaces for Balanced Music Recommendations**|Armin Moradi et.al.|[2405.17607](http://arxiv.org/abs/2405.17607)|null|
 |**2024-05-27**|**Multi-Behavior Generative Recommendation**|Zihan Liu et.al.|[2405.16871](http://arxiv.org/abs/2405.16871)|null|
 |**2024-05-27**|**NoteLLM-2: Multimodal Large Representation Models for Recommendation**|Chao Zhang et.al.|[2405.16789](http://arxiv.org/abs/2405.16789)|null|
 |**2024-05-27**|**Balancing User Preferences by Social Networks: A Condition-Guided Social Recommendation Model for Mitigating Popularity Bias**|Xin He et.al.|[2405.16772](http://arxiv.org/abs/2405.16772)|**[link](https://github.com/hexin5515/cgsorec)**|
