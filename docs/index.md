@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-29**|**Multi-stage Retrieve and Re-rank Model for Automatic Medical Coding Recommendation**|Xindi Wang et.al.|[2405.19093](http://arxiv.org/abs/2405.19093)|null|
+|**2024-05-29**|**SynerGraph: An Integrated Graph Convolution Network for Multimodal Recommendation**|Mert Burabak et.al.|[2405.19031](http://arxiv.org/abs/2405.19031)|null|
+|**2024-05-29**|**Content-Agnostic Moderation for Stance-Neutral Recommendation**|Nan Li et.al.|[2405.18941](http://arxiv.org/abs/2405.18941)|null|
 |**2024-05-28**|**A Vlogger-augmented Graph Neural Network Model for Micro-video Recommendation**|Weijiang Lai et.al.|[2405.18260](http://arxiv.org/abs/2405.18260)|null|
 |**2024-05-28**|**ReChorus2.0: A Modular and Task-Flexible Recommendation Library**|Jiayu Li et.al.|[2405.18058](http://arxiv.org/abs/2405.18058)|**[link](https://github.com/thuwangcy/rechorus)**|
 |**2024-05-28**|**Attention-based sequential recommendation system using multimodal data**|Hyungtaik Oh et.al.|[2405.17959](http://arxiv.org/abs/2405.17959)|null|
