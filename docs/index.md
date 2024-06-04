@@ -29,7 +29,7 @@ layout: default
 |**2024-05-28**|**ReChorus2.0: A Modular and Task-Flexible Recommendation Library**|Jiayu Li et.al.|[2405.18058](http://arxiv.org/abs/2405.18058)|**[link](https://github.com/thuwangcy/rechorus)**|
 |**2024-05-28**|**Attention-based sequential recommendation system using multimodal data**|Hyungtaik Oh et.al.|[2405.17959](http://arxiv.org/abs/2405.17959)|null|
 |**2024-05-28**|**SLMRec: Empowering Small Language Models for Sequential Recommendation**|Wujiang Xu et.al.|[2405.17890](http://arxiv.org/abs/2405.17890)|null|
-|**2024-05-28**|**Dataset Regeneration for Sequential Recommendation**|Mingjia Yin et.al.|[2405.17795](http://arxiv.org/abs/2405.17795)|null|
+|**2024-06-03**|**Dataset Regeneration for Sequential Recommendation**|Mingjia Yin et.al.|[2405.17795](http://arxiv.org/abs/2405.17795)|null|
 |**2024-05-28**|**MobileConvRec: A Conversational Dataset for Mobile Apps Recommendations**|Srijata Maji et.al.|[2405.17740](http://arxiv.org/abs/2405.17740)|null|
 |**2024-05-27**|**Advancing Cultural Inclusivity: Optimizing Embedding Spaces for Balanced Music Recommendations**|Armin Moradi et.al.|[2405.17607](http://arxiv.org/abs/2405.17607)|null|
 |**2024-05-27**|**Multi-Behavior Generative Recommendation**|Zihan Liu et.al.|[2405.16871](http://arxiv.org/abs/2405.16871)|**[link](https://github.com/anananan116/MBGen)**|
@@ -49,7 +49,7 @@ layout: default
 |**2024-05-21**|**RecGPT: Generative Pre-training for Text-based Recommendation**|Hoang Ngo et.al.|[2405.12715](http://arxiv.org/abs/2405.12715)|**[link](https://github.com/vinairesearch/recgpt)**|
 |**2024-05-21**|**Disentangled Representation with Cross Experts Covariance Loss for Multi-Domain Recommendation**|Zhutian Lin et.al.|[2405.12706](http://arxiv.org/abs/2405.12706)|null|
 |**2024-05-21**|**Time Matters: Enhancing Pre-trained News Recommendation Models with Robust User Dwell Time Injection**|Hao Jiang et.al.|[2405.12486](http://arxiv.org/abs/2405.12486)|null|
-|**2024-05-21**|**Learning Partially Aligned Item Representation for Cross-Domain Sequential Recommendation**|Mingjia Yin et.al.|[2405.12473](http://arxiv.org/abs/2405.12473)|null|
+|**2024-06-03**|**Learning Partially Aligned Item Representation for Cross-Domain Sequential Recommendation**|Mingjia Yin et.al.|[2405.12473](http://arxiv.org/abs/2405.12473)|null|
 |**2024-05-21**|**Learning Structure and Knowledge Aware Representation with Large Language Models for Concept Recommendation**|Qingyao Li et.al.|[2405.12442](http://arxiv.org/abs/2405.12442)|null|
 |**2024-05-20**|**Reindex-Then-Adapt: Improving Large Language Models for Conversational Recommendation**|Zhankui He et.al.|[2405.12119](http://arxiv.org/abs/2405.12119)|null|
 |**2024-05-22**|**Modeling User Fatigue for Sequential Recommendation**|Nian Li et.al.|[2405.11764](http://arxiv.org/abs/2405.11764)|**[link](https://github.com/tsinghua-fib-lab/sigir24-frec)**|
