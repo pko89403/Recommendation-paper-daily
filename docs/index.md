@@ -14,6 +14,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-04**|**Investigating the Online Recruitment and Selection Journey of Novice Software Engineers: Anti-patterns and Recommendations**|Miguel Setúbal et.al.|[2406.02487](http://arxiv.org/abs/2406.02487)|null|
+|**2024-06-04**|**XRec: Large Language Models for Explainable Recommendation**|Qiyao Ma et.al.|[2406.02377](http://arxiv.org/abs/2406.02377)|**[link](https://github.com/hkuds/xrec)**|
+|**2024-06-02**|**COVID-19: post infection implications in different age groups, mechanism, diagnosis, effective prevention, treatment, and recommendations**|Muhammad Akmal Raheem et.al.|[2406.01636](http://arxiv.org/abs/2406.01636)|null|
+|**2024-06-01**|**RecDiff: Diffusion Model for Social Recommendation**|Zongwei Li et.al.|[2406.01629](http://arxiv.org/abs/2406.01629)|**[link](https://github.com/hkuds/recdiff)**|
+|**2024-05-29**|**System-2 Recommenders: Disentangling Utility and Engagement in Recommendation Systems via Temporal Point-Processes**|Arpit Agarwal et.al.|[2406.01611](http://arxiv.org/abs/2406.01611)|null|
+|**2024-05-26**|**SymTax: Symbiotic Relationship and Taxonomy Fusion for Effective Citation Recommendation**|Karan Goyal et.al.|[2406.01606](http://arxiv.org/abs/2406.01606)|**[link](https://github.com/goyalkaraniit/symtax)**|
+|**2024-06-03**|**Privacy in LLM-based Recommendation: Recent Advances and Future Directions**|Sichun Luo et.al.|[2406.01363](http://arxiv.org/abs/2406.01363)|null|
+|**2024-06-03**|**Cold-start Recommendation by Personalized Embedding Region Elicitation**|Hieu Trung Nguyen et.al.|[2406.00973](http://arxiv.org/abs/2406.00973)|null|
+|**2024-06-02**|**Maximum-Entropy Regularized Decision Transformer with Reward Relabelling for Dynamic Recommendation**|Xiaocong Chen et.al.|[2406.00725](http://arxiv.org/abs/2406.00725)|null|
+|**2024-06-01**|**A Practice-Friendly Two-Stage LLM-Enhanced Paradigm in Sequential Recommendation**|Dugang Liu et.al.|[2406.00333](http://arxiv.org/abs/2406.00333)|null|
+|**2024-06-01**|**BeFA: A General Behavior-driven Feature Adapter for Multimedia Recommendation**|Qile Fan et.al.|[2406.00323](http://arxiv.org/abs/2406.00323)|null|
+|**2024-05-31**|**Empowering Visual Creativity: A Vision-Language Assistant to Image Editing Recommendations**|Tiancheng Shen et.al.|[2406.00121](http://arxiv.org/abs/2406.00121)|null|
+|**2024-05-25**|**Retrieval-Augmented Conversational Recommendation with Prompt-based Semi-Structured Natural Language State Tracking**|Sara Kemper et.al.|[2406.00033](http://arxiv.org/abs/2406.00033)|null|
 |**2024-05-31**|**SelfGNN: Self-Supervised Graph Neural Networks for Sequential Recommendation**|Yuxi Liu et.al.|[2405.20878](http://arxiv.org/abs/2405.20878)|**[link](https://github.com/hkuds/selfgnn)**|
 |**2024-05-31**|**Information Maximization via Variational Autoencoders for Cross-Domain Recommendation**|Xuying Ning et.al.|[2405.20710](http://arxiv.org/abs/2405.20710)|null|
 |**2024-05-31**|**Large Language Models Enhanced Sequential Recommendation for Long-tail User and Item**|Qidong Liu et.al.|[2405.20646](http://arxiv.org/abs/2405.20646)|null|
