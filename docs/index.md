@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.10
+## Updated on 2024.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -62,6 +62,7 @@ layout: default
 |**2024-05-27**|**Multi-Behavior Generative Recommendation**|Zihan Liu et.al.|[2405.16871](http://arxiv.org/abs/2405.16871)|**[link](https://github.com/anananan116/MBGen)**|
 |**2024-05-27**|**NoteLLM-2: Multimodal Large Representation Models for Recommendation**|Chao Zhang et.al.|[2405.16789](http://arxiv.org/abs/2405.16789)|null|
 |**2024-05-27**|**Balancing User Preferences by Social Networks: A Condition-Guided Social Recommendation Model for Mitigating Popularity Bias**|Xin He et.al.|[2405.16772](http://arxiv.org/abs/2405.16772)|**[link](https://github.com/hexin5515/cgsorec)**|
+|**2024-06-07**|**LLMs for User Interest Exploration in Large-scale Recommendation Systems**|Jianling Wang et.al.|[2405.16363](http://arxiv.org/abs/2405.16363)|null|
 |**2024-05-24**|**Multi-Modal Recommendation Unlearning**|Yash Sinha et.al.|[2405.15328](http://arxiv.org/abs/2405.15328)|null|
 |**2024-05-24**|**Let Me Do It For You: Towards LLM Empowered Recommendation via Tool Learning**|Yuyue Zhao et.al.|[2405.15114](http://arxiv.org/abs/2405.15114)|null|
 |**2024-05-23**|**Look into the Future: Deep Contextualized Sequential Recommendation**|Lei Zheng et.al.|[2405.14359](http://arxiv.org/abs/2405.14359)|null|
