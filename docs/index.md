@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.11
+## Updated on 2024.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -20,7 +20,7 @@ layout: default
 |**2024-06-07**|**Sales Whisperer: A Human-Inconspicuous Attack on LLM Brand Recommendations**|Weiran Lin et.al.|[2406.04755](http://arxiv.org/abs/2406.04755)|null|
 |**2024-06-06**|**Better Late Than Never: Formulating and Benchmarking Recommendation Editing**|Chengyu Lai et.al.|[2406.04553](http://arxiv.org/abs/2406.04553)|**[link](https://github.com/cycl2018/recommendation-editing)**|
 |**2024-06-04**|**Dynamic Online Recommendation for Two-Sided Market with Bayesian Incentive Compatibility**|Yuantong Li et.al.|[2406.04374](http://arxiv.org/abs/2406.04374)|null|
-|**2024-06-06**|**Beyond Similarity: Personalized Federated Recommendation with Composite Aggregation**|Honglei Zhang et.al.|[2406.03933](http://arxiv.org/abs/2406.03933)|null|
+|**2024-06-06**|**Beyond Similarity: Personalized Federated Recommendation with Composite Aggregation**|Honglei Zhang et.al.|[2406.03933](http://arxiv.org/abs/2406.03933)|**[link](https://github.com/hongleizhang/fedca)**|
 |**2024-06-05**|**Improving Users' Passwords with DPAR: a Data-driven Password Recommendation System**|Assaf Morag et.al.|[2406.03423](http://arxiv.org/abs/2406.03423)|**[link](https://github.com/iwitlab/dpar)**|
 |**2024-06-05**|**RemixTape: Enriching Narratives about Metrics with Semantic Alignment and Contextual Recommendation**|Matthew Brehmer et.al.|[2406.03415](http://arxiv.org/abs/2406.03415)|null|
 |**2024-06-06**|**Large Language Models as Evaluators for Recommendation Explanations**|Xiaoyu Zhang et.al.|[2406.03248](http://arxiv.org/abs/2406.03248)|**[link](https://github.com/xiaoyu-sz/llmasevaluator)**|
