@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-12**|**Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens**|Ting-Ji Huang et.al.|[2406.08477](http://arxiv.org/abs/2406.08477)|null|
+|**2024-06-12**|**Boosting Multimedia Recommendation via Separate Generic and Unique Awareness**|Zhuangzhuang He et.al.|[2406.08270](http://arxiv.org/abs/2406.08270)|null|
+|**2024-06-12**|**GPT4Rec: Graph Prompt Tuning for Streaming Recommendation**|Peiyan Zhang et.al.|[2406.08229](http://arxiv.org/abs/2406.08229)|null|
+|**2024-06-12**|**Graph Bottlenecked Social Recommendation**|Yonghui Yang et.al.|[2406.08214](http://arxiv.org/abs/2406.08214)|null|
+|**2024-06-12**|**Counteracting Duration Bias in Video Recommendation via Counterfactual Watch Time**|Haiyuan Zhao et.al.|[2406.07932](http://arxiv.org/abs/2406.07932)|null|
 |**2024-06-11**|**Matryoshka Representation Learning for Recommendation**|Riwei Lai et.al.|[2406.07432](http://arxiv.org/abs/2406.07432)|**[link](https://github.com/riwei-heu/mrl)**|
 |**2024-06-11**|**Graph Reasoning for Explainable Cold Start Recommendation**|Jibril Frej et.al.|[2406.07420](http://arxiv.org/abs/2406.07420)|null|
 |**2024-06-11**|**ElasticRec: A Microservice-based Model Serving Architecture Enabling Elastic Resource Scaling for Recommendation Models**|Yujeong Choi et.al.|[2406.06955](http://arxiv.org/abs/2406.06955)|null|
