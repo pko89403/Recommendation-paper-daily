@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.18
+## Updated on 2024.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -17,17 +17,17 @@ layout: default
 |**2024-06-17**|**DiffMM: Multi-Modal Diffusion Model for Recommendation**|Yangqin Jiang et.al.|[2406.11781](http://arxiv.org/abs/2406.11781)|null|
 |**2024-06-17**|**Multi-Layer Ranking with Large Language Models for News Source Recommendation**|Wenjia Zhang et.al.|[2406.11745](http://arxiv.org/abs/2406.11745)|null|
 |**2024-06-17**|**Making Alice Appear Like Bob: A Probabilistic Preference Obfuscation Method For Implicit Feedback Recommendation Models**|Gustavo Escobedo et.al.|[2406.11505](http://arxiv.org/abs/2406.11505)|null|
-|**2024-06-17**|**DELRec: Distilling Sequential Pattern to Enhance LLM-based Recommendation**|Guohao Sun et.al.|[2406.11156](http://arxiv.org/abs/2406.11156)|null|
+|**2024-06-18**|**DELRec: Distilling Sequential Pattern to Enhance LLM-based Recommendation**|Guohao Sun et.al.|[2406.11156](http://arxiv.org/abs/2406.11156)|null|
 |**2024-06-15**|**TokenRec: Learning to Tokenize ID for LLM-based Generative Recommendation**|Haohao Qu et.al.|[2406.10450](http://arxiv.org/abs/2406.10450)|null|
 |**2024-06-14**|**On Softmax Direct Preference Optimization for Recommendation**|Yuxin Chen et.al.|[2406.09215](http://arxiv.org/abs/2406.09215)|**[link](https://github.com/chenyuxin1999/s-dpo)**|
 |**2024-06-13**|**Contextual Distillation Model for Diversified Recommendation**|Fan Li et.al.|[2406.09021](http://arxiv.org/abs/2406.09021)|null|
 |**2024-06-13**|**Beyond Recommendations: From Backward to Forward AI Support of Pilots' Decision-Making Process**|Zelun Tony Zhang et.al.|[2406.08959](http://arxiv.org/abs/2406.08959)|null|
-|**2024-06-13**|**How Powerful is Graph Filtering for Recommendation**|Shaowen Peng et.al.|[2406.08827](http://arxiv.org/abs/2406.08827)|null|
+|**2024-06-13**|**How Powerful is Graph Filtering for Recommendation**|Shaowen Peng et.al.|[2406.08827](http://arxiv.org/abs/2406.08827)|**[link](https://github.com/tanatosuu/sgfcf)**|
 |**2024-06-15**|**DIET: Customized Slimming for Incompatible Networks in Sequential Recommendation**|Kairui Fu et.al.|[2406.08804](http://arxiv.org/abs/2406.08804)|null|
 |**2024-06-12**|**Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens**|Ting-Ji Huang et.al.|[2406.08477](http://arxiv.org/abs/2406.08477)|null|
 |**2024-06-12**|**Boosting Multimedia Recommendation via Separate Generic and Unique Awareness**|Zhuangzhuang He et.al.|[2406.08270](http://arxiv.org/abs/2406.08270)|**[link](https://github.com/bruno686/SAND)**|
 |**2024-06-12**|**GPT4Rec: Graph Prompt Tuning for Streaming Recommendation**|Peiyan Zhang et.al.|[2406.08229](http://arxiv.org/abs/2406.08229)|null|
-|**2024-06-12**|**Graph Bottlenecked Social Recommendation**|Yonghui Yang et.al.|[2406.08214](http://arxiv.org/abs/2406.08214)|null|
+|**2024-06-12**|**Graph Bottlenecked Social Recommendation**|Yonghui Yang et.al.|[2406.08214](http://arxiv.org/abs/2406.08214)|**[link](https://github.com/yimutianyang/kdd24-gbsr)**|
 |**2024-06-13**|**Counteracting Duration Bias in Video Recommendation via Counterfactual Watch Time**|Haiyuan Zhao et.al.|[2406.07932](http://arxiv.org/abs/2406.07932)|**[link](https://github.com/hyz20/CWM)**|
 |**2024-06-11**|**Matryoshka Representation Learning for Recommendation**|Riwei Lai et.al.|[2406.07432](http://arxiv.org/abs/2406.07432)|**[link](https://github.com/riwei-heu/mrl)**|
 |**2024-06-11**|**Graph Reasoning for Explainable Cold Start Recommendation**|Jibril Frej et.al.|[2406.07420](http://arxiv.org/abs/2406.07420)|null|
