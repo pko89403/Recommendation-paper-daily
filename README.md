@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.21
+## Updated on 2024.06.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -28,11 +28,11 @@
 |**2024-06-18**|**LLM4MSR: An LLM-Enhanced Paradigm for Multi-Scenario Recommendation**|Yuhao Wang et.al.|[2406.12529](http://arxiv.org/abs/2406.12529)|null|
 |**2024-06-18**|**CherryRec: Enhancing News Recommendation Quality via LLM-driven Framework**|Shaohuang Wang et.al.|[2406.12243](http://arxiv.org/abs/2406.12243)|null|
 |**2024-06-18**|**"You Gotta be a Doctor, Lin": An Investigation of Name-Based Bias of Large Language Models in Employment Recommendations**|Huy Nghiem et.al.|[2406.12232](http://arxiv.org/abs/2406.12232)|null|
-|**2024-06-17**|**Balancing Embedding Spectrum for Recommendation**|Shaowen Peng et.al.|[2406.12032](http://arxiv.org/abs/2406.12032)|null|
+|**2024-06-17**|**Balancing Embedding Spectrum for Recommendation**|Shaowen Peng et.al.|[2406.12032](http://arxiv.org/abs/2406.12032)|**[link](https://github.com/tanatosuu/directspec)**|
 |**2024-06-17**|**When Box Meets Graph Neural Network in Tag-aware Recommendation**|Fake Lin et.al.|[2406.12020](http://arxiv.org/abs/2406.12020)|**[link](https://github.com/critical88/boxgnn)**|
-|**2024-06-17**|**DiffMM: Multi-Modal Diffusion Model for Recommendation**|Yangqin Jiang et.al.|[2406.11781](http://arxiv.org/abs/2406.11781)|null|
+|**2024-06-17**|**DiffMM: Multi-Modal Diffusion Model for Recommendation**|Yangqin Jiang et.al.|[2406.11781](http://arxiv.org/abs/2406.11781)|**[link](https://github.com/hkuds/diffmm)**|
 |**2024-06-17**|**Multi-Layer Ranking with Large Language Models for News Source Recommendation**|Wenjia Zhang et.al.|[2406.11745](http://arxiv.org/abs/2406.11745)|null|
-|**2024-06-17**|**Making Alice Appear Like Bob: A Probabilistic Preference Obfuscation Method For Implicit Feedback Recommendation Models**|Gustavo Escobedo et.al.|[2406.11505](http://arxiv.org/abs/2406.11505)|null|
+|**2024-06-17**|**Making Alice Appear Like Bob: A Probabilistic Preference Obfuscation Method For Implicit Feedback Recommendation Models**|Gustavo Escobedo et.al.|[2406.11505](http://arxiv.org/abs/2406.11505)|**[link](https://github.com/hcai-mms/SBO)**|
 |**2024-06-18**|**DELRec: Distilling Sequential Pattern to Enhance LLM-based Recommendation**|Guohao Sun et.al.|[2406.11156](http://arxiv.org/abs/2406.11156)|null|
 |**2024-06-15**|**TokenRec: Learning to Tokenize ID for LLM-based Generative Recommendation**|Haohao Qu et.al.|[2406.10450](http://arxiv.org/abs/2406.10450)|null|
 |**2024-06-14**|**On Softmax Direct Preference Optimization for Recommendation**|Yuxin Chen et.al.|[2406.09215](http://arxiv.org/abs/2406.09215)|**[link](https://github.com/chenyuxin1999/s-dpo)**|
@@ -323,7 +323,7 @@
 |**2024-03-07**|**Disaggregated Multi-Tower: Topology-aware Modeling Technique for Efficient Large-Scale Recommendation**|Liang Luo et.al.|[2403.00877](http://arxiv.org/abs/2403.00877)|null|
 |**2024-03-01**|**A Survey of Route Recommendations: Methods, Applications, and Opportunities**|Shiming Zhang et.al.|[2403.00284](http://arxiv.org/abs/2403.00284)|null|
 
-<p align=right>(<a href=#updated-on-20240621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240622>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
