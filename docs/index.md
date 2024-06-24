@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-21**|**Decoding Matters: Addressing Amplification Bias and Homogeneity Issue for LLM-based Recommendation**|Keqin Bao et.al.|[2406.14900](http://arxiv.org/abs/2406.14900)|null|
+|**2024-06-11**|**PreSto: An In-Storage Data Preprocessing System for Training Recommendation Models**|Yunjae Lee et.al.|[2406.14571](http://arxiv.org/abs/2406.14571)|null|
 |**2024-06-20**|**Optimizing Novelty of Top-k Recommendations using Large Language Models and Reinforcement Learning**|Amit Sharma et.al.|[2406.14169](http://arxiv.org/abs/2406.14169)|null|
 |**2024-06-20**|**Personalized Music Recommendation with a Heterogeneity-aware Deep Bayesian Network**|Erkang Jing et.al.|[2406.14090](http://arxiv.org/abs/2406.14090)|**[link](https://github.com/jingrk/hdbn)**|
 |**2024-06-20**|**Taxonomy-Guided Zero-Shot Recommendations with LLMs**|Yueqing Liang et.al.|[2406.14043](http://arxiv.org/abs/2406.14043)|**[link](https://github.com/yueqingliang1/taxrec)**|
