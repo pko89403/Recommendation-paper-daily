@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**Hyperbolic Knowledge Transfer in Cross-Domain Recommendation System**|Xin Yang et.al.|[2406.17289](http://arxiv.org/abs/2406.17289)|null|
+|**2024-06-24**|**Debiased Recommendation with Noisy Feedback**|Haoxuan Li et.al.|[2406.17182](http://arxiv.org/abs/2406.17182)|null|
 |**2024-06-24**|**Guardrails for avoiding harmful medical product recommendations and off-label promotion in generative AI models**|Daniel Lopez-Martinez et.al.|[2406.16455](http://arxiv.org/abs/2406.16455)|null|
 |**2024-06-22**|**LLM-Powered Explanations: Unraveling Recommendations Through Subgraph Reasoning**|Guangsi Shi et.al.|[2406.15859](http://arxiv.org/abs/2406.15859)|null|
 |**2024-06-21**|**Decoding Matters: Addressing Amplification Bias and Homogeneity Issue for LLM-based Recommendation**|Keqin Bao et.al.|[2406.14900](http://arxiv.org/abs/2406.14900)|null|
