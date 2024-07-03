@@ -17,6 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-21**|**A Survey of Retrieval Algorithms in Ad and Content Recommendation Systems**|Yu Zhao et.al.|[2407.01712](http://arxiv.org/abs/2407.01712)|null|
+|**2024-07-01**|**Unified Dual-Intent Translation for Joint Modeling of Search and Recommendation**|Yuting Zhang et.al.|[2407.00912](http://arxiv.org/abs/2407.00912)|null|
+|**2024-07-01**|**Heterogeneous Graph-based Framework with Disentangled Representations Learning for Multi-target Cross Domain Recommendation**|Xiaopeng Liu et.al.|[2407.00909](http://arxiv.org/abs/2407.00909)|null|
+|**2024-06-29**|**Personalised Outfit Recommendation via History-aware Transformers**|David Jung et.al.|[2407.00289](http://arxiv.org/abs/2407.00289)|null|
+|**2024-06-24**|**Adapting Job Recommendations to User Preference Drift with Behavioral-Semantic Fusion Learning**|Xiao Han et.al.|[2407.00082](http://arxiv.org/abs/2407.00082)|**[link](https://github.com/applied-machine-learning-lab/bistro)**|
+|**2024-06-17**|**A First Principles Approach to Trust-Based Recommendation Systems**|Paras Stefanopoulos et.al.|[2407.00062](http://arxiv.org/abs/2407.00062)|null|
+|**2024-06-15**|**MMBee: Live Streaming Gift-Sending Recommendations via Multi-Modal Fusion and Behaviour Expansion**|Jiaxin Deng et.al.|[2407.00056](http://arxiv.org/abs/2407.00056)|null|
 |**2024-06-27**|**Efficient course recommendations with T5-based ranking and summarization**|Thijmen Bijl et.al.|[2406.19018](http://arxiv.org/abs/2406.19018)|**[link](https://github.com/tbijl/course_ranking_data)**|
 |**2024-07-01**|**Amplify Graph Learning for Recommendation via Sparsity Completion**|Peng Yuan et.al.|[2406.18984](http://arxiv.org/abs/2406.18984)|**[link](https://github.com/yp8976/AGL_SC)**|
 |**2024-06-27**|**Multi-modal Food Recommendation using Clustering and Self-supervised Learning**|Yixin Zhang et.al.|[2406.18962](http://arxiv.org/abs/2406.18962)|null|
