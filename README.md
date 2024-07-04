@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-03**|**LANE: Logic Alignment of Non-tuning Large Language Models and Online Recommendation Systems for Explainable Reason Generation**|Hongke Zhao et.al.|[2407.02833](http://arxiv.org/abs/2407.02833)|null|
+|**2024-07-03**|**Learning Positional Attention for Sequential Recommendation**|Fan Luo et.al.|[2407.02793](http://arxiv.org/abs/2407.02793)|null|
+|**2024-07-03**|**Multi-Scenario Combination Based on Multi-Agent Reinforcement Learning to Optimize the Advertising Recommendation System**|Yang Zhao et.al.|[2407.02759](http://arxiv.org/abs/2407.02759)|null|
+|**2024-07-02**|**ECAT: A Entire space Continual and Adaptive Transfer Learning Framework for Cross-Domain Recommendation**|Chaoqun Hou et.al.|[2407.02542](http://arxiv.org/abs/2407.02542)|null|
 |**2024-06-21**|**A Survey of Retrieval Algorithms in Ad and Content Recommendation Systems**|Yu Zhao et.al.|[2407.01712](http://arxiv.org/abs/2407.01712)|null|
 |**2024-07-01**|**Unified Dual-Intent Translation for Joint Modeling of Search and Recommendation**|Yuting Zhang et.al.|[2407.00912](http://arxiv.org/abs/2407.00912)|null|
 |**2024-07-01**|**Heterogeneous Graph-based Framework with Disentangled Representations Learning for Multi-target Cross Domain Recommendation**|Xiaopeng Liu et.al.|[2407.00909](http://arxiv.org/abs/2407.00909)|null|
