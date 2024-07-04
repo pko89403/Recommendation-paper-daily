@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.03
+## Updated on 2024.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -29,7 +29,7 @@
 |**2024-06-27**|**Multi-modal Food Recommendation using Clustering and Self-supervised Learning**|Yixin Zhang et.al.|[2406.18962](http://arxiv.org/abs/2406.18962)|null|
 |**2024-06-27**|**Towards Personalized Federated Multi-scenario Multi-task Recommendation**|Yue Ding et.al.|[2406.18938](http://arxiv.org/abs/2406.18938)|null|
 |**2024-06-27**|**ELCoRec: Enhance Language Understanding with Co-Propagation of Numerical and Categorical Features for Recommendation**|Jizheng Chen et.al.|[2406.18825](http://arxiv.org/abs/2406.18825)|null|
-|**2024-06-26**|**UniRec: A Dual Enhancement of Uniformity and Frequency in Sequential Recommendations**|Yang Liu et.al.|[2406.18470](http://arxiv.org/abs/2406.18470)|**[link](https://github.com/Linxi000/UniRec)**|
+|**2024-07-03**|**UFRec: Integrating Uniformity and Frequency to Enhance Sequential Recommendations**|Yang Liu et.al.|[2406.18470](http://arxiv.org/abs/2406.18470)|**[link](https://github.com/Linxi000/UniRec)**|
 |**2024-06-25**|**Hyperbolic Knowledge Transfer in Cross-Domain Recommendation System**|Xin Yang et.al.|[2406.17289](http://arxiv.org/abs/2406.17289)|null|
 |**2024-06-24**|**Debiased Recommendation with Noisy Feedback**|Haoxuan Li et.al.|[2406.17182](http://arxiv.org/abs/2406.17182)|null|
 |**2024-06-24**|**Guardrails for avoiding harmful medical product recommendations and off-label promotion in generative AI models**|Daniel Lopez-Martinez et.al.|[2406.16455](http://arxiv.org/abs/2406.16455)|null|
@@ -342,7 +342,7 @@
 |**2024-03-07**|**Disaggregated Multi-Tower: Topology-aware Modeling Technique for Efficient Large-Scale Recommendation**|Liang Luo et.al.|[2403.00877](http://arxiv.org/abs/2403.00877)|null|
 |**2024-03-01**|**A Survey of Route Recommendations: Methods, Applications, and Opportunities**|Shiming Zhang et.al.|[2403.00284](http://arxiv.org/abs/2403.00284)|null|
 
-<p align=right>(<a href=#updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240704>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
