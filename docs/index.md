@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.07
+## Updated on 2024.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -31,7 +31,7 @@ layout: default
 |**2024-06-27**|**Towards Personalized Federated Multi-scenario Multi-task Recommendation**|Yue Ding et.al.|[2406.18938](http://arxiv.org/abs/2406.18938)|null|
 |**2024-06-27**|**ELCoRec: Enhance Language Understanding with Co-Propagation of Numerical and Categorical Features for Recommendation**|Jizheng Chen et.al.|[2406.18825](http://arxiv.org/abs/2406.18825)|null|
 |**2024-07-03**|**UFRec: Integrating Uniformity and Frequency to Enhance Sequential Recommendations**|Yang Liu et.al.|[2406.18470](http://arxiv.org/abs/2406.18470)|**[link](https://github.com/Linxi000/UniRec)**|
-|**2024-06-25**|**Hyperbolic Knowledge Transfer in Cross-Domain Recommendation System**|Xin Yang et.al.|[2406.17289](http://arxiv.org/abs/2406.17289)|null|
+|**2024-07-04**|**Hyperbolic Knowledge Transfer in Cross-Domain Recommendation System**|Xin Yang et.al.|[2406.17289](http://arxiv.org/abs/2406.17289)|null|
 |**2024-06-24**|**Debiased Recommendation with Noisy Feedback**|Haoxuan Li et.al.|[2406.17182](http://arxiv.org/abs/2406.17182)|null|
 |**2024-06-24**|**Guardrails for avoiding harmful medical product recommendations and off-label promotion in generative AI models**|Daniel Lopez-Martinez et.al.|[2406.16455](http://arxiv.org/abs/2406.16455)|null|
 |**2024-06-30**|**LLM-Powered Explanations: Unraveling Recommendations Through Subgraph Reasoning**|Guangsi Shi et.al.|[2406.15859](http://arxiv.org/abs/2406.15859)|null|
