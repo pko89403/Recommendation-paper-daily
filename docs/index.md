@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-05**|**Accelerating Communication in Deep Learning Recommendation Model Training with Dual-Level Adaptive Lossy Compression**|Hao Feng et.al.|[2407.04272](http://arxiv.org/abs/2407.04272)|null|
+|**2024-07-04**|**From First Patch to Long-Term Contributor: Evaluating Onboarding Recommendations for OSS Newcomers**|Asif Kamal Turzo et.al.|[2407.04159](http://arxiv.org/abs/2407.04159)|null|
+|**2024-07-04**|**A Systematic Survey and Critical Review on Evaluating Large Language Models: Challenges, Limitations, and Recommendations**|Md Tahmid Rahman Laskar et.al.|[2407.04069](http://arxiv.org/abs/2407.04069)|null|
+|**2024-07-04**|**Color-map recommendation for MR relaxometry maps**|Miha Fuderer et.al.|[2407.03906](http://arxiv.org/abs/2407.03906)|null|
+|**2024-07-04**|**Heterogeneous Hypergraph Embedding for Recommendation Systems**|Darnbi Sakong et.al.|[2407.03665](http://arxiv.org/abs/2407.03665)|null|
+|**2024-07-03**|**Human-Centered Design Recommendations for LLM-as-a-Judge**|Qian Pan et.al.|[2407.03479](http://arxiv.org/abs/2407.03479)|null|
 |**2024-07-03**|**LANE: Logic Alignment of Non-tuning Large Language Models and Online Recommendation Systems for Explainable Reason Generation**|Hongke Zhao et.al.|[2407.02833](http://arxiv.org/abs/2407.02833)|null|
 |**2024-07-03**|**Learning Positional Attention for Sequential Recommendation**|Fan Luo et.al.|[2407.02793](http://arxiv.org/abs/2407.02793)|null|
 |**2024-07-03**|**Multi-Scenario Combination Based on Multi-Agent Reinforcement Learning to Optimize the Advertising Recommendation System**|Yang Zhao et.al.|[2407.02759](http://arxiv.org/abs/2407.02759)|null|
