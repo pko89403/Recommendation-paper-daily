@@ -17,12 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-09**|**Fine-grained large-scale content recommendations for MSX sellers**|Manpreet Singh et.al.|[2407.06910](http://arxiv.org/abs/2407.06910)|null|
 |**2024-07-08**|**Academic Article Recommendation Using Multiple Perspectives**|Kenneth Church et.al.|[2407.05836](http://arxiv.org/abs/2407.05836)|null|
 |**2024-07-07**|**Language Models Encode Collaborative Signals in Recommendation**|Leheng Sheng et.al.|[2407.05441](http://arxiv.org/abs/2407.05441)|**[link](https://github.com/lehengthu/alpharec)**|
-|**2024-07-07**|**Towards Bridging the Cross-modal Semantic Gap for Multi-modal Recommendation**|Xinglong Wu et.al.|[2407.05420](http://arxiv.org/abs/2407.05420)|null|
+|**2024-07-07**|**Towards Bridging the Cross-modal Semantic Gap for Multi-modal Recommendation**|Xinglong Wu et.al.|[2407.05420](http://arxiv.org/abs/2407.05420)|**[link](https://github.com/WuXinglong-HIT/CLIPER)**|
 |**2024-07-07**|**Beyond Check-in Counts: Redefining Popularity for POI Recommendation with Users and Recency**|Alif Al Hasan et.al.|[2407.05360](http://arxiv.org/abs/2407.05360)|null|
-|**2024-07-06**|**Consistency and Discrepancy-Based Contrastive Tripartite Graph Learning for Recommendations**|Linxin Guo et.al.|[2407.05126](http://arxiv.org/abs/2407.05126)|null|
-|**2024-07-06**|**Preference Distillation for Personalized Generative Recommendation**|Jerome Ramos et.al.|[2407.05033](http://arxiv.org/abs/2407.05033)|null|
+|**2024-07-06**|**Consistency and Discrepancy-Based Contrastive Tripartite Graph Learning for Recommendations**|Linxin Guo et.al.|[2407.05126](http://arxiv.org/abs/2407.05126)|**[link](https://github.com/foodfaust/CDR)**|
+|**2024-07-06**|**Preference Distillation for Personalized Generative Recommendation**|Jerome Ramos et.al.|[2407.05033](http://arxiv.org/abs/2407.05033)|**[link](https://github.com/jeromeramos70/peapod)**|
 |**2024-07-06**|**RAMO: Retrieval-Augmented Generation for Enhancing MOOCs Recommendations**|Jiarui Rao et.al.|[2407.04925](http://arxiv.org/abs/2407.04925)|null|
 |**2024-07-08**|**Accelerating Communication in Deep Learning Recommendation Model Training with Dual-Level Adaptive Lossy Compression**|Hao Feng et.al.|[2407.04272](http://arxiv.org/abs/2407.04272)|null|
 |**2024-07-04**|**From First Patch to Long-Term Contributor: Evaluating Onboarding Recommendations for OSS Newcomers**|Asif Kamal Turzo et.al.|[2407.04159](http://arxiv.org/abs/2407.04159)|null|
