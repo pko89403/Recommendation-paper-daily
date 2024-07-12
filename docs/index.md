@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.11
+## Updated on 2024.07.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -24,7 +24,7 @@ layout: default
 |**2024-07-06**|**Consistency and Discrepancy-Based Contrastive Tripartite Graph Learning for Recommendations**|Linxin Guo et.al.|[2407.05126](http://arxiv.org/abs/2407.05126)|**[link](https://github.com/foodfaust/CDR)**|
 |**2024-07-06**|**Preference Distillation for Personalized Generative Recommendation**|Jerome Ramos et.al.|[2407.05033](http://arxiv.org/abs/2407.05033)|**[link](https://github.com/jeromeramos70/peapod)**|
 |**2024-07-06**|**RAMO: Retrieval-Augmented Generation for Enhancing MOOCs Recommendations**|Jiarui Rao et.al.|[2407.04925](http://arxiv.org/abs/2407.04925)|null|
-|**2024-07-08**|**Accelerating Communication in Deep Learning Recommendation Model Training with Dual-Level Adaptive Lossy Compression**|Hao Feng et.al.|[2407.04272](http://arxiv.org/abs/2407.04272)|null|
+|**2024-07-11**|**Accelerating Communication in Deep Learning Recommendation Model Training with Dual-Level Adaptive Lossy Compression**|Hao Feng et.al.|[2407.04272](http://arxiv.org/abs/2407.04272)|null|
 |**2024-07-04**|**From First Patch to Long-Term Contributor: Evaluating Onboarding Recommendations for OSS Newcomers**|Asif Kamal Turzo et.al.|[2407.04159](http://arxiv.org/abs/2407.04159)|null|
 |**2024-07-04**|**A Systematic Survey and Critical Review on Evaluating Large Language Models: Challenges, Limitations, and Recommendations**|Md Tahmid Rahman Laskar et.al.|[2407.04069](http://arxiv.org/abs/2407.04069)|null|
 |**2024-07-04**|**Color-map recommendation for MR relaxometry maps**|Miha Fuderer et.al.|[2407.03906](http://arxiv.org/abs/2407.03906)|null|
