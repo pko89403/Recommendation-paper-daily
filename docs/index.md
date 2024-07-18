@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.17
+## Updated on 2024.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -22,7 +22,7 @@ layout: default
 |**2024-07-14**|**Semantic Understanding and Data Imputation using Large Language Model to Accelerate Recommendation System**|Zhicheng Ding et.al.|[2407.10078](http://arxiv.org/abs/2407.10078)|null|
 |**2024-07-13**|**A Systematic Literature Review on Task Recommendation Systems for Crowdsourced Software Engineering**|Shashiwadana Nirmani et.al.|[2407.09872](http://arxiv.org/abs/2407.09872)|null|
 |**2024-07-13**|**SocialRec: User Activity Based Post Weighted Dynamic Personalized Post Recommendation System in Social Media**|Ismail Hossain et.al.|[2407.09747](http://arxiv.org/abs/2407.09747)|null|
-|**2024-07-12**|**Bridging the Gap Between Information Seeking and Product Search Systems: Q&A Recommendation for E-commerce**|Saar Kuzi et.al.|[2407.09653](http://arxiv.org/abs/2407.09653)|null|
+|**2024-07-16**|**Bridging the Gap Between Information Seeking and Product Search Systems: Q&A Recommendation for E-commerce**|Saar Kuzi et.al.|[2407.09653](http://arxiv.org/abs/2407.09653)|null|
 |**2024-07-12**|**Movie Recommendation with Poster Attention via Multi-modal Transformer Feature Fusion**|Linhan Xia et.al.|[2407.09157](http://arxiv.org/abs/2407.09157)|null|
 |**2024-07-12**|**Transforming Movie Recommendations with Advanced Machine Learning: A Study of NMF, SVD,and K-Means Clustering**|Yubing Yan et.al.|[2407.08916](http://arxiv.org/abs/2407.08916)|null|
 |**2024-07-11**|**FAR-Trans: An Investment Dataset for Financial Asset Recommendation**|Javier Sanz-Cruzado et.al.|[2407.08692](http://arxiv.org/abs/2407.08692)|null|

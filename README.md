@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.17
+## Updated on 2024.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2024-07-14**|**Semantic Understanding and Data Imputation using Large Language Model to Accelerate Recommendation System**|Zhicheng Ding et.al.|[2407.10078](http://arxiv.org/abs/2407.10078)|null|
 |**2024-07-13**|**A Systematic Literature Review on Task Recommendation Systems for Crowdsourced Software Engineering**|Shashiwadana Nirmani et.al.|[2407.09872](http://arxiv.org/abs/2407.09872)|null|
 |**2024-07-13**|**SocialRec: User Activity Based Post Weighted Dynamic Personalized Post Recommendation System in Social Media**|Ismail Hossain et.al.|[2407.09747](http://arxiv.org/abs/2407.09747)|null|
-|**2024-07-12**|**Bridging the Gap Between Information Seeking and Product Search Systems: Q&A Recommendation for E-commerce**|Saar Kuzi et.al.|[2407.09653](http://arxiv.org/abs/2407.09653)|null|
+|**2024-07-16**|**Bridging the Gap Between Information Seeking and Product Search Systems: Q&A Recommendation for E-commerce**|Saar Kuzi et.al.|[2407.09653](http://arxiv.org/abs/2407.09653)|null|
 |**2024-07-12**|**Movie Recommendation with Poster Attention via Multi-modal Transformer Feature Fusion**|Linhan Xia et.al.|[2407.09157](http://arxiv.org/abs/2407.09157)|null|
 |**2024-07-12**|**Transforming Movie Recommendations with Advanced Machine Learning: A Study of NMF, SVD,and K-Means Clustering**|Yubing Yan et.al.|[2407.08916](http://arxiv.org/abs/2407.08916)|null|
 |**2024-07-11**|**FAR-Trans: An Investment Dataset for Financial Asset Recommendation**|Javier Sanz-Cruzado et.al.|[2407.08692](http://arxiv.org/abs/2407.08692)|null|
@@ -379,7 +379,7 @@
 |**2024-03-07**|**Disaggregated Multi-Tower: Topology-aware Modeling Technique for Efficient Large-Scale Recommendation**|Liang Luo et.al.|[2403.00877](http://arxiv.org/abs/2403.00877)|null|
 |**2024-03-01**|**A Survey of Route Recommendations: Methods, Applications, and Opportunities**|Shiming Zhang et.al.|[2403.00284](http://arxiv.org/abs/2403.00284)|null|
 
-<p align=right>(<a href=#updated-on-20240717>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240718>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
