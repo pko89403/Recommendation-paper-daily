@@ -21,7 +21,7 @@
 |**2024-07-18**|**Aligning Explanations for Recommendation with Rating and Feature via Maximizing Mutual Information**|Yurou Zhao et.al.|[2407.13274](http://arxiv.org/abs/2407.13274)|null|
 |**2024-07-18**|**MLSA4Rec: Mamba Combined with Low-Rank Decomposed Self-Attention for Sequential Recommendation**|Jinzhao Su et.al.|[2407.13135](http://arxiv.org/abs/2407.13135)|null|
 |**2024-07-17**|**Graph Signal Processing for Cross-Domain Recommendation**|Jeongeun Lee et.al.|[2407.12374](http://arxiv.org/abs/2407.12374)|**[link](https://github.com/ocryrtv/cgsp)**|
-|**2024-07-17**|**GUME: Graphs and User Modalities Enhancement for Long-Tail Multimodal Recommendation**|Guojiao Lin et.al.|[2407.12338](http://arxiv.org/abs/2407.12338)|null|
+|**2024-07-17**|**GUME: Graphs and User Modalities Enhancement for Long-Tail Multimodal Recommendation**|Guojiao Lin et.al.|[2407.12338](http://arxiv.org/abs/2407.12338)|**[link](https://github.com/nangongningyi/gume)**|
 |**2024-07-17**|**Conditional Quantile Estimation for Uncertain Watch Time in Short-Video Recommendation**|Chengzhi Lin et.al.|[2407.12223](http://arxiv.org/abs/2407.12223)|null|
 |**2024-07-16**|**User Behavior Analysis and Clustering in Peace Elite: Insights and Recommendations**|Yang Qiu et.al.|[2407.11772](http://arxiv.org/abs/2407.11772)|null|
 |**2024-07-15**|**Pacer and Runner: Cooperative Learning Framework between Single- and Cross-Domain Sequential Recommendation**|Chung Park et.al.|[2407.11245](http://arxiv.org/abs/2407.11245)|**[link](https://github.com/cpark88/syncrec)**|
@@ -36,7 +36,7 @@
 |**2024-07-12**|**Transforming Movie Recommendations with Advanced Machine Learning: A Study of NMF, SVD,and K-Means Clustering**|Yubing Yan et.al.|[2407.08916](http://arxiv.org/abs/2407.08916)|null|
 |**2024-07-11**|**FAR-Trans: An Investment Dataset for Financial Asset Recommendation**|Javier Sanz-Cruzado et.al.|[2407.08692](http://arxiv.org/abs/2407.08692)|null|
 |**2024-07-11**|**Operationalizing the Blueprint for an AI Bill of Rights: Recommendations for Practitioners, Researchers, and Policy Makers**|Alex Oesterling et.al.|[2407.08689](http://arxiv.org/abs/2407.08689)|null|
-|**2024-07-11**|**Authenticity and exclusion: social media recommendation algorithms and the dynamics of belonging in professional networks**|Nil-Jana Akpinar et.al.|[2407.08552](http://arxiv.org/abs/2407.08552)|null|
+|**2024-07-11**|**Authenticity and exclusion: social media recommendation algorithms and the dynamics of belonging in professional networks**|Nil-Jana Akpinar et.al.|[2407.08552](http://arxiv.org/abs/2407.08552)|**[link](https://github.com/nakpinar/authenticity-exclusion-rec-sys)**|
 |**2024-07-11**|**Modeling Hydraulic Fracture Entering Stress Barrier: Theory and Practical Recommendations**|Aleksandr Linkov et.al.|[2407.08367](http://arxiv.org/abs/2407.08367)|null|
 |**2024-07-11**|**CADC: Encoding User-Item Interactions for Compressing Recommendation Model Training Data**|Hossein Entezari Zarch et.al.|[2407.08108](http://arxiv.org/abs/2407.08108)|null|
 |**2024-07-03**|**ITEM: Improving Training and Evaluation of Message-Passing based GNNs for top-k recommendation**|Yannis Karmim et.al.|[2407.07912](http://arxiv.org/abs/2407.07912)|null|
@@ -61,7 +61,7 @@
 |**2024-07-03**|**Multi-Scenario Combination Based on Multi-Agent Reinforcement Learning to Optimize the Advertising Recommendation System**|Yang Zhao et.al.|[2407.02759](http://arxiv.org/abs/2407.02759)|null|
 |**2024-07-02**|**ECAT: A Entire space Continual and Adaptive Transfer Learning Framework for Cross-Domain Recommendation**|Chaoqun Hou et.al.|[2407.02542](http://arxiv.org/abs/2407.02542)|null|
 |**2024-06-21**|**A Survey of Retrieval Algorithms in Ad and Content Recommendation Systems**|Yu Zhao et.al.|[2407.01712](http://arxiv.org/abs/2407.01712)|null|
-|**2024-07-01**|**Unified Dual-Intent Translation for Joint Modeling of Search and Recommendation**|Yuting Zhang et.al.|[2407.00912](http://arxiv.org/abs/2407.00912)|null|
+|**2024-07-01**|**Unified Dual-Intent Translation for Joint Modeling of Search and Recommendation**|Yuting Zhang et.al.|[2407.00912](http://arxiv.org/abs/2407.00912)|**[link](https://github.com/17231087/UDITSR)**|
 |**2024-07-01**|**Heterogeneous Graph-based Framework with Disentangled Representations Learning for Multi-target Cross Domain Recommendation**|Xiaopeng Liu et.al.|[2407.00909](http://arxiv.org/abs/2407.00909)|null|
 |**2024-06-29**|**Personalised Outfit Recommendation via History-aware Transformers**|David Jung et.al.|[2407.00289](http://arxiv.org/abs/2407.00289)|null|
 |**2024-06-24**|**Adapting Job Recommendations to User Preference Drift with Behavioral-Semantic Fusion Learning**|Xiao Han et.al.|[2407.00082](http://arxiv.org/abs/2407.00082)|**[link](https://github.com/applied-machine-learning-lab/bistro)**|
