@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.22
+## Updated on 2024.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -24,7 +24,7 @@ layout: default
 |**2024-07-15**|**Pacer and Runner: Cooperative Learning Framework between Single- and Cross-Domain Sequential Recommendation**|Chung Park et.al.|[2407.11245](http://arxiv.org/abs/2407.11245)|**[link](https://github.com/cpark88/syncrec)**|
 |**2024-07-15**|**SEMINAR: Search Enhanced Multi-modal Interest Network and Approximate Retrieval for Lifelong Sequential Recommendation**|Kaiming Shen et.al.|[2407.10714](http://arxiv.org/abs/2407.10714)|null|
 |**2024-07-15**|**Enhancing Medication Recommendation with LLM Text Representation**|Yu-Tzu Lee et.al.|[2407.10453](http://arxiv.org/abs/2407.10453)|null|
-|**2024-07-14**|**Towards Robust Recommendation via Decision Boundary-aware Graph Contrastive Learning**|Jiakai Tang et.al.|[2407.10184](http://arxiv.org/abs/2407.10184)|null|
+|**2024-07-22**|**Towards Robust Recommendation via Decision Boundary-aware Graph Contrastive Learning**|Jiakai Tang et.al.|[2407.10184](http://arxiv.org/abs/2407.10184)|null|
 |**2024-07-14**|**Semantic Understanding and Data Imputation using Large Language Model to Accelerate Recommendation System**|Zhicheng Ding et.al.|[2407.10078](http://arxiv.org/abs/2407.10078)|null|
 |**2024-07-13**|**A Systematic Literature Review on Task Recommendation Systems for Crowdsourced Software Engineering**|Shashiwadana Nirmani et.al.|[2407.09872](http://arxiv.org/abs/2407.09872)|null|
 |**2024-07-13**|**SocialRec: User Activity Based Post Weighted Dynamic Personalized Post Recommendation System in Social Media**|Ismail Hossain et.al.|[2407.09747](http://arxiv.org/abs/2407.09747)|null|
