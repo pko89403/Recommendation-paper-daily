@@ -17,10 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**FAIR evaluation of ten widely used chemical datasets: Lessons learned and recommendations**|Marcos Da Silveira et.al.|[2407.15591](http://arxiv.org/abs/2407.15591)|null|
+|**2024-07-22**|**Scalable Dynamic Embedding Size Search for Streaming Recommendation**|Yunke Qu et.al.|[2407.15411](http://arxiv.org/abs/2407.15411)|null|
+|**2024-07-21**|**Text-Augmented Multimodal LLMs for Chemical Reaction Condition Recommendation**|Yu Zhang et.al.|[2407.15141](http://arxiv.org/abs/2407.15141)|null|
+|**2024-07-20**|**Denoising Long- and Short-term Interests for Sequential Recommendation**|Xinyu Zhang et.al.|[2407.14743](http://arxiv.org/abs/2407.14743)|null|
 |**2024-07-18**|**Attention Overflow: Language Model Input Blur during Long-Context Missing Items Recommendation**|Damien Sileo et.al.|[2407.13481](http://arxiv.org/abs/2407.13481)|null|
 |**2024-07-18**|**Aligning Explanations for Recommendation with Rating and Feature via Maximizing Mutual Information**|Yurou Zhao et.al.|[2407.13274](http://arxiv.org/abs/2407.13274)|null|
 |**2024-07-18**|**MLSA4Rec: Mamba Combined with Low-Rank Decomposed Self-Attention for Sequential Recommendation**|Jinzhao Su et.al.|[2407.13135](http://arxiv.org/abs/2407.13135)|null|
-|**2024-07-17**|**Graph Signal Processing for Cross-Domain Recommendation**|Jeongeun Lee et.al.|[2407.12374](http://arxiv.org/abs/2407.12374)|**[link](https://github.com/ocryrtv/cgsp)**|
+|**2024-07-22**|**Graph Signal Processing for Cross-Domain Recommendation**|Jeongeun Lee et.al.|[2407.12374](http://arxiv.org/abs/2407.12374)|null|
 |**2024-07-17**|**GUME: Graphs and User Modalities Enhancement for Long-Tail Multimodal Recommendation**|Guojiao Lin et.al.|[2407.12338](http://arxiv.org/abs/2407.12338)|**[link](https://github.com/nangongningyi/gume)**|
 |**2024-07-17**|**Conditional Quantile Estimation for Uncertain Watch Time in Short-Video Recommendation**|Chengzhi Lin et.al.|[2407.12223](http://arxiv.org/abs/2407.12223)|null|
 |**2024-07-16**|**User Behavior Analysis and Clustering in Peace Elite: Insights and Recommendations**|Yang Qiu et.al.|[2407.11772](http://arxiv.org/abs/2407.11772)|null|
