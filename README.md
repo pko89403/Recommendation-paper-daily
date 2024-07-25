@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.24
+## Updated on 2024.07.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -29,7 +29,7 @@
 |**2024-07-17**|**GUME: Graphs and User Modalities Enhancement for Long-Tail Multimodal Recommendation**|Guojiao Lin et.al.|[2407.12338](http://arxiv.org/abs/2407.12338)|**[link](https://github.com/nangongningyi/gume)**|
 |**2024-07-17**|**Conditional Quantile Estimation for Uncertain Watch Time in Short-Video Recommendation**|Chengzhi Lin et.al.|[2407.12223](http://arxiv.org/abs/2407.12223)|null|
 |**2024-07-16**|**User Behavior Analysis and Clustering in Peace Elite: Insights and Recommendations**|Yang Qiu et.al.|[2407.11772](http://arxiv.org/abs/2407.11772)|null|
-|**2024-07-15**|**Pacer and Runner: Cooperative Learning Framework between Single- and Cross-Domain Sequential Recommendation**|Chung Park et.al.|[2407.11245](http://arxiv.org/abs/2407.11245)|**[link](https://github.com/cpark88/syncrec)**|
+|**2024-07-24**|**Pacer and Runner: Cooperative Learning Framework between Single- and Cross-Domain Sequential Recommendation**|Chung Park et.al.|[2407.11245](http://arxiv.org/abs/2407.11245)|**[link](https://github.com/cpark88/syncrec)**|
 |**2024-07-15**|**SEMINAR: Search Enhanced Multi-modal Interest Network and Approximate Retrieval for Lifelong Sequential Recommendation**|Kaiming Shen et.al.|[2407.10714](http://arxiv.org/abs/2407.10714)|null|
 |**2024-07-15**|**Enhancing Medication Recommendation with LLM Text Representation**|Yu-Tzu Lee et.al.|[2407.10453](http://arxiv.org/abs/2407.10453)|null|
 |**2024-07-22**|**Towards Robust Recommendation via Decision Boundary-aware Graph Contrastive Learning**|Jiakai Tang et.al.|[2407.10184](http://arxiv.org/abs/2407.10184)|null|
@@ -43,7 +43,7 @@
 |**2024-07-11**|**Operationalizing the Blueprint for an AI Bill of Rights: Recommendations for Practitioners, Researchers, and Policy Makers**|Alex Oesterling et.al.|[2407.08689](http://arxiv.org/abs/2407.08689)|null|
 |**2024-07-11**|**Authenticity and exclusion: social media recommendation algorithms and the dynamics of belonging in professional networks**|Nil-Jana Akpinar et.al.|[2407.08552](http://arxiv.org/abs/2407.08552)|**[link](https://github.com/nakpinar/authenticity-exclusion-rec-sys)**|
 |**2024-07-11**|**Modeling Hydraulic Fracture Entering Stress Barrier: Theory and Practical Recommendations**|Aleksandr Linkov et.al.|[2407.08367](http://arxiv.org/abs/2407.08367)|null|
-|**2024-07-11**|**CADC: Encoding User-Item Interactions for Compressing Recommendation Model Training Data**|Hossein Entezari Zarch et.al.|[2407.08108](http://arxiv.org/abs/2407.08108)|null|
+|**2024-07-24**|**CADC: Encoding User-Item Interactions for Compressing Recommendation Model Training Data**|Hossein Entezari Zarch et.al.|[2407.08108](http://arxiv.org/abs/2407.08108)|null|
 |**2024-07-03**|**ITEM: Improving Training and Evaluation of Message-Passing based GNNs for top-k recommendation**|Yannis Karmim et.al.|[2407.07912](http://arxiv.org/abs/2407.07912)|null|
 |**2024-07-10**|**MLRS-PDS: A Meta-learning recommendation of dynamic ensemble selection pipelines**|Hesam Jalalian et.al.|[2407.07528](http://arxiv.org/abs/2407.07528)|**[link](https://github.com/menelau/mlrs-pds)**|
 |**2024-07-09**|**Uncovering the Interaction Equation: Quantifying the Effect of User Interactions on Social Media Homepage Recommendations**|Hussam Habib et.al.|[2407.07227](http://arxiv.org/abs/2407.07227)|null|
@@ -390,7 +390,7 @@
 |**2024-03-07**|**Disaggregated Multi-Tower: Topology-aware Modeling Technique for Efficient Large-Scale Recommendation**|Liang Luo et.al.|[2403.00877](http://arxiv.org/abs/2403.00877)|null|
 |**2024-03-01**|**A Survey of Route Recommendations: Methods, Applications, and Opportunities**|Shiming Zhang et.al.|[2403.00284](http://arxiv.org/abs/2403.00284)|null|
 
-<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
