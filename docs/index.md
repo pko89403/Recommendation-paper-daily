@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.31
+## Updated on 2024.08.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -26,7 +26,7 @@ layout: default
 |**2024-07-29**|**High-Order Fusion Graph Contrastive Learning for Recommendation**|Yu Zhang et.al.|[2407.19692](http://arxiv.org/abs/2407.19692)|null|
 |**2024-07-29**|**GradCraft: Elevating Multi-task Recommendations through Holistic Gradient Crafting**|Yimeng Bai et.al.|[2407.19682](http://arxiv.org/abs/2407.19682)|**[link](https://github.com/baiyimeng/gradcraft)**|
 |**2024-07-29**|**Enhancing CTR Prediction through Sequential Recommendation Pre-training: Introducing the SRP4CTR Framework**|Ruidong Han et.al.|[2407.19658](http://arxiv.org/abs/2407.19658)|null|
-|**2024-07-29**|**Prometheus Chatbot: Knowledge Graph Collaborative Large Language Model for Computer Components Recommendation**|Yunsheng Wang et.al.|[2407.19643](http://arxiv.org/abs/2407.19643)|**[link](https://github.com/iamryanshengwang/prometheus-chatbot)**|
+|**2024-07-31**|**Prometheus Chatbot: Knowledge Graph Collaborative Large Language Model for Computer Components Recommendation**|Yunsheng Wang et.al.|[2407.19643](http://arxiv.org/abs/2407.19643)|**[link](https://github.com/iamryanshengwang/prometheus-chatbot)**|
 |**2024-07-27**|**MaTrRec: Uniting Mamba and Transformer for Sequential Recommendation**|Shun Zhang et.al.|[2407.19239](http://arxiv.org/abs/2407.19239)|null|
 |**2024-07-29**|**Do We Really Need Graph Convolution During Training? Light Post-Training Graph-ODE for Efficient Recommendation**|Weizhi Zhang et.al.|[2407.18910](http://arxiv.org/abs/2407.18910)|**[link](https://github.com/davidzwz/lightgode)**|
 |**2024-07-25**|**In Search of Metrics to Guide Developer-Based Refactoring Recommendations**|Mikel Robredo et.al.|[2407.18169](http://arxiv.org/abs/2407.18169)|null|
@@ -35,7 +35,7 @@ layout: default
 |**2024-07-24**|**Reinforced Prompt Personalization for Recommendation with Large Language Models**|Wenyu Mao et.al.|[2407.17115](http://arxiv.org/abs/2407.17115)|**[link](https://github.com/maowenyu-11/rpp)**|
 |**2024-07-23**|**GenRec: A Flexible Data Generator for Recommendations**|Erica Coppolillo et.al.|[2407.16594](http://arxiv.org/abs/2407.16594)|null|
 |**2024-07-22**|**FAIR evaluation of ten widely used chemical datasets: Lessons learned and recommendations**|Marcos Da Silveira et.al.|[2407.15591](http://arxiv.org/abs/2407.15591)|null|
-|**2024-07-22**|**Scalable Dynamic Embedding Size Search for Streaming Recommendation**|Yunke Qu et.al.|[2407.15411](http://arxiv.org/abs/2407.15411)|null|
+|**2024-07-31**|**Scalable Dynamic Embedding Size Search for Streaming Recommendation**|Yunke Qu et.al.|[2407.15411](http://arxiv.org/abs/2407.15411)|null|
 |**2024-07-21**|**Text-Augmented Multimodal LLMs for Chemical Reaction Condition Recommendation**|Yu Zhang et.al.|[2407.15141](http://arxiv.org/abs/2407.15141)|null|
 |**2024-07-20**|**Denoising Long- and Short-term Interests for Sequential Recommendation**|Xinyu Zhang et.al.|[2407.14743](http://arxiv.org/abs/2407.14743)|null|
 |**2024-07-18**|**Attention Overflow: Language Model Input Blur during Long-Context Missing Items Recommendation**|Damien Sileo et.al.|[2407.13481](http://arxiv.org/abs/2407.13481)|null|
@@ -43,7 +43,7 @@ layout: default
 |**2024-07-18**|**MLSA4Rec: Mamba Combined with Low-Rank Decomposed Self-Attention for Sequential Recommendation**|Jinzhao Su et.al.|[2407.13135](http://arxiv.org/abs/2407.13135)|null|
 |**2024-07-22**|**Graph Signal Processing for Cross-Domain Recommendation**|Jeongeun Lee et.al.|[2407.12374](http://arxiv.org/abs/2407.12374)|null|
 |**2024-07-17**|**GUME: Graphs and User Modalities Enhancement for Long-Tail Multimodal Recommendation**|Guojiao Lin et.al.|[2407.12338](http://arxiv.org/abs/2407.12338)|**[link](https://github.com/nangongningyi/gume)**|
-|**2024-07-27**|**Conditional Quantile Estimation for Uncertain Watch Time in Short-Video Recommendation**|Chengzhi Lin et.al.|[2407.12223](http://arxiv.org/abs/2407.12223)|null|
+|**2024-07-31**|**Conditional Quantile Estimation for Uncertain Watch Time in Short-Video Recommendation**|Chengzhi Lin et.al.|[2407.12223](http://arxiv.org/abs/2407.12223)|null|
 |**2024-07-16**|**User Behavior Analysis and Clustering in Peace Elite: Insights and Recommendations**|Yang Qiu et.al.|[2407.11772](http://arxiv.org/abs/2407.11772)|null|
 |**2024-07-24**|**Pacer and Runner: Cooperative Learning Framework between Single- and Cross-Domain Sequential Recommendation**|Chung Park et.al.|[2407.11245](http://arxiv.org/abs/2407.11245)|**[link](https://github.com/cpark88/syncrec)**|
 |**2024-07-15**|**SEMINAR: Search Enhanced Multi-modal Interest Network and Approximate Retrieval for Lifelong Sequential Recommendation**|Kaiming Shen et.al.|[2407.10714](http://arxiv.org/abs/2407.10714)|null|
