@@ -17,6 +17,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-01**|**A Natural Language Processing Framework for Hotel Recommendation Based on Users' Text Reviews**|Lavrentia Aravani et.al.|[2408.00716](http://arxiv.org/abs/2408.00716)|null|
+|**2024-08-01**|**Graph Representation Learning via Causal Diffusion for Out-of-Distribution Recommendation**|Chu Zhao et.al.|[2408.00490](http://arxiv.org/abs/2408.00490)|null|
+|**2024-08-01**|**Exploiting Preferences in Loss Functions for Sequential Recommendation via Weak Transitivity**|Hyunsoo Chung et.al.|[2408.00326](http://arxiv.org/abs/2408.00326)|null|
+|**2024-08-01**|**Simple but Efficient: A Multi-Scenario Nearline Retrieval Framework for Recommendation on Taobao**|Yingcai Ma et.al.|[2408.00247](http://arxiv.org/abs/2408.00247)|null|
+|**2024-07-31**|**Semantic Codebook Learning for Dynamic Recommendation Models**|Zheqi Lv et.al.|[2408.00123](http://arxiv.org/abs/2408.00123)|null|
+|**2024-07-31**|**MIMNet: Multi-Interest Meta Network with Multi-Granularity Target-Guided Attention for Cross-domain Recommendation**|Xiaofei Zhu et.al.|[2408.00038](http://arxiv.org/abs/2408.00038)|null|
 |**2024-07-31**|**MOSAIC: Multimodal Multistakeholder-aware Visual Art Recommendation**|Bereket A. Yilma et.al.|[2407.21758](http://arxiv.org/abs/2407.21758)|null|
 |**2024-07-30**|**GenRec: Generative Personalized Sequential Recommendation**|Panfeng Cao et.al.|[2407.21191](http://arxiv.org/abs/2407.21191)|null|
 |**2024-07-15**|**E-Commerce Product Recommendation System based on ML Algorithms**|Md. Zahurul Haque et.al.|[2407.21026](http://arxiv.org/abs/2407.21026)|null|
