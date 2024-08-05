@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-02**|**Leveraging Knowledge Graph Embedding for Effective Conversational Recommendation**|Yunwen Xia et.al.|[2408.01342](http://arxiv.org/abs/2408.01342)|null|
+|**2024-08-01**|**LICM: Effective and Efficient Long Interest Chain Modeling for News Recommendation**|Zhen Yang et.al.|[2408.00859](http://arxiv.org/abs/2408.00859)|null|
+|**2024-07-22**|**Low Rank Field-Weighted Factorization Machines for Low Latency Item Recommendation**|Alex Shtoff et.al.|[2408.00801](http://arxiv.org/abs/2408.00801)|null|
+|**2024-07-22**|**Deep Uncertainty-based explore For Index Construction and Retrieval in Recommendation System**|Xin Jiang et.al.|[2408.00799](http://arxiv.org/abs/2408.00799)|null|
 |**2024-08-01**|**A Natural Language Processing Framework for Hotel Recommendation Based on Users' Text Reviews**|Lavrentia Aravani et.al.|[2408.00716](http://arxiv.org/abs/2408.00716)|null|
 |**2024-08-01**|**Graph Representation Learning via Causal Diffusion for Out-of-Distribution Recommendation**|Chu Zhao et.al.|[2408.00490](http://arxiv.org/abs/2408.00490)|null|
 |**2024-08-01**|**Exploiting Preferences in Loss Functions for Sequential Recommendation via Weak Transitivity**|Hyunsoo Chung et.al.|[2408.00326](http://arxiv.org/abs/2408.00326)|null|
