@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.06
+## Updated on 2024.08.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -17,16 +17,16 @@ layout: default
 |**2024-08-05**|**PTM4Tag+: Tag Recommendation of Stack Overflow Posts with Pre-trained Models**|Junda He et.al.|[2408.02311](http://arxiv.org/abs/2408.02311)|null|
 |**2024-08-05**|**Large Language Model Aided QoS Prediction for Service Recommendation**|Huiying Liu et.al.|[2408.02223](http://arxiv.org/abs/2408.02223)|null|
 |**2024-08-04**|**Calibration-Disentangled Learning and Relevance-Prioritized Reranking for Calibrated Sequential Recommendation**|Hyunsik Jeon et.al.|[2408.02156](http://arxiv.org/abs/2408.02156)|null|
-|**2024-08-04**|**Sharpness-Aware Cross-Domain Recommendation to Cold-Start Users**|Guohang Zeng et.al.|[2408.01931](http://arxiv.org/abs/2408.01931)|null|
+|**2024-08-06**|**Sharpness-Aware Cross-Domain Recommendation to Cold-Start Users**|Guohang Zeng et.al.|[2408.01931](http://arxiv.org/abs/2408.01931)|null|
 |**2024-07-23**|**MiranDa: Mimicking the Learning Processes of Human Doctors to Achieve Causal Inference for Medication Recommendation**|Ziheng Wang et.al.|[2408.01445](http://arxiv.org/abs/2408.01445)|null|
 |**2024-08-02**|**Leveraging Knowledge Graph Embedding for Effective Conversational Recommendation**|Yunwen Xia et.al.|[2408.01342](http://arxiv.org/abs/2408.01342)|null|
 |**2024-08-01**|**LICM: Effective and Efficient Long Interest Chain Modeling for News Recommendation**|Zhen Yang et.al.|[2408.00859](http://arxiv.org/abs/2408.00859)|null|
 |**2024-07-22**|**Low Rank Field-Weighted Factorization Machines for Low Latency Item Recommendation**|Alex Shtoff et.al.|[2408.00801](http://arxiv.org/abs/2408.00801)|null|
-|**2024-07-22**|**Deep Uncertainty-based explore For Index Construction and Retrieval in Recommendation System**|Xin Jiang et.al.|[2408.00799](http://arxiv.org/abs/2408.00799)|null|
+|**2024-08-06**|**Deep Uncertainty-Based Explore for Index Construction and Retrieval in Recommendation System**|Xin Jiang et.al.|[2408.00799](http://arxiv.org/abs/2408.00799)|null|
 |**2024-08-01**|**A Natural Language Processing Framework for Hotel Recommendation Based on Users' Text Reviews**|Lavrentia Aravani et.al.|[2408.00716](http://arxiv.org/abs/2408.00716)|null|
 |**2024-08-01**|**Graph Representation Learning via Causal Diffusion for Out-of-Distribution Recommendation**|Chu Zhao et.al.|[2408.00490](http://arxiv.org/abs/2408.00490)|null|
 |**2024-08-01**|**Exploiting Preferences in Loss Functions for Sequential Recommendation via Weak Transitivity**|Hyunsoo Chung et.al.|[2408.00326](http://arxiv.org/abs/2408.00326)|null|
-|**2024-08-05**|**Simple but Efficient: A Multi-Scenario Nearline Retrieval Framework for Recommendation on Taobao**|Yingcai Ma et.al.|[2408.00247](http://arxiv.org/abs/2408.00247)|null|
+|**2024-08-06**|**Simple but Efficient: A Multi-Scenario Nearline Retrieval Framework for Recommendation on Taobao**|Yingcai Ma et.al.|[2408.00247](http://arxiv.org/abs/2408.00247)|null|
 |**2024-07-31**|**Semantic Codebook Learning for Dynamic Recommendation Models**|Zheqi Lv et.al.|[2408.00123](http://arxiv.org/abs/2408.00123)|null|
 |**2024-07-31**|**MIMNet: Multi-Interest Meta Network with Multi-Granularity Target-Guided Attention for Cross-domain Recommendation**|Xiaofei Zhu et.al.|[2408.00038](http://arxiv.org/abs/2408.00038)|null|
 |**2024-07-31**|**MOSAIC: Multimodal Multistakeholder-aware Visual Art Recommendation**|Bereket A. Yilma et.al.|[2407.21758](http://arxiv.org/abs/2407.21758)|null|
