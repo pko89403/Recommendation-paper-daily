@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**CADRL: Category-aware Dual-agent Reinforcement Learning for Explainable Recommendations over Knowledge Graphs**|Shangfei Zheng et.al.|[2408.03166](http://arxiv.org/abs/2408.03166)|null|
+|**2024-08-06**|**Modeling User Intent Beyond Trigger: Incorporating Uncertainty for Trigger-Induced Recommendation**|Jianxing Ma et.al.|[2408.03091](http://arxiv.org/abs/2408.03091)|null|
+|**2024-08-03**|**Symmetric Graph Contrastive Learning against Noisy Views for Recommendation**|Chu Zhao et.al.|[2408.02691](http://arxiv.org/abs/2408.02691)|null|
 |**2024-08-05**|**PTM4Tag+: Tag Recommendation of Stack Overflow Posts with Pre-trained Models**|Junda He et.al.|[2408.02311](http://arxiv.org/abs/2408.02311)|null|
 |**2024-08-05**|**Large Language Model Aided QoS Prediction for Service Recommendation**|Huiying Liu et.al.|[2408.02223](http://arxiv.org/abs/2408.02223)|null|
 |**2024-08-04**|**Calibration-Disentangled Learning and Relevance-Prioritized Reranking for Calibrated Sequential Recommendation**|Hyunsik Jeon et.al.|[2408.02156](http://arxiv.org/abs/2408.02156)|null|
