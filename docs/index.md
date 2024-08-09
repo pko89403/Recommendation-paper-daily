@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-08**|**Judgment2vec: Apply Graph Analytics to Searching and Recommendation of Similar Judgments**|Hsuan-Lei Shao et.al.|[2408.04382](http://arxiv.org/abs/2408.04382)|null|
+|**2024-08-08**|**Mitigating Exposure Bias in Online Learning to Rank Recommendation: A Novel Reward Model for Cascading Bandits**|Masoud Mansoury et.al.|[2408.04332](http://arxiv.org/abs/2408.04332)|**[link](https://github.com/masoudmansoury/ealinucb)**|
 |**2024-08-07**|**Relevance meets Diversity: A User-Centric Framework for Knowledge Exploration through Recommendations**|Erica Coppolillo et.al.|[2408.03772](http://arxiv.org/abs/2408.03772)|**[link](https://github.com/ericacoppolillo/explore)**|
 |**2024-08-07**|**Lifelong Personalized Low-Rank Adaptation of Large Language Models for Recommendation**|Jiachen Zhu et.al.|[2408.03533](http://arxiv.org/abs/2408.03533)|null|
 |**2024-08-06**|**CADRL: Category-aware Dual-agent Reinforcement Learning for Explainable Recommendations over Knowledge Graphs**|Shangfei Zheng et.al.|[2408.03166](http://arxiv.org/abs/2408.03166)|null|
