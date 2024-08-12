@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-09**|**Is ChatGPT a Good Software Librarian? An Exploratory Study on the Use of ChatGPT for Software Library Recommendations**|Jasmine Latendresse et.al.|[2408.05128](http://arxiv.org/abs/2408.05128)|null|
+|**2024-08-09**|**A GNN Model with Adaptive Weights for Session-Based Recommendation Systems**|Begüm Özbay et.al.|[2408.05051](http://arxiv.org/abs/2408.05051)|null|
+|**2024-08-09**|**Dual-Channel Latent Factor Analysis Enhanced Graph Contrastive Learning for Recommendation**|Junfeng Long et.al.|[2408.04838](http://arxiv.org/abs/2408.04838)|null|
+|**2024-07-30**|**LLMs for Enhanced Agricultural Meteorological Recommendations**|Ji-jun Park et.al.|[2408.04640](http://arxiv.org/abs/2408.04640)|null|
 |**2024-08-08**|**Judgment2vec: Apply Graph Analytics to Searching and Recommendation of Similar Judgments**|Hsuan-Lei Shao et.al.|[2408.04382](http://arxiv.org/abs/2408.04382)|null|
 |**2024-08-08**|**Mitigating Exposure Bias in Online Learning to Rank Recommendation: A Novel Reward Model for Cascading Bandits**|Masoud Mansoury et.al.|[2408.04332](http://arxiv.org/abs/2408.04332)|**[link](https://github.com/masoudmansoury/ealinucb)**|
 |**2024-08-07**|**Relevance meets Diversity: A User-Centric Framework for Knowledge Exploration through Recommendations**|Erica Coppolillo et.al.|[2408.03772](http://arxiv.org/abs/2408.03772)|**[link](https://github.com/ericacoppolillo/explore)**|
