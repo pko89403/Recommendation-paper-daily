@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.14
+## Updated on 2024.08.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-13**|**Diffusion Model for Slate Recommendation**|Federico Tomasi et.al.|[2408.06883](http://arxiv.org/abs/2408.06883)|null|
-|**2024-08-13**|**On a Scale-Invariant Approach to Bundle Recommendations in Candy Crush Saga**|Styliani Katsarou et.al.|[2408.06799](http://arxiv.org/abs/2408.06799)|null|
+|**2024-08-14**|**On a Scale-Invariant Approach to Bundle Recommendations in Candy Crush Saga**|Styliani Katsarou et.al.|[2408.06799](http://arxiv.org/abs/2408.06799)|null|
 |**2024-08-13**|**Stratification in Randomised Clinical Trials and Analysis of Covariance: Some Simple Theory and Recommendations**|Stephen Senn et.al.|[2408.06760](http://arxiv.org/abs/2408.06760)|null|
 |**2024-08-13**|**MORCoRA: Multi-Objective Refactoring Recommendation Considering Review Availability**|Lei Chen et.al.|[2408.06568](http://arxiv.org/abs/2408.06568)|null|
 |**2024-07-26**|**Modality-Balanced Learning for Multimedia Recommendation**|Jinghao Zhang et.al.|[2408.06360](http://arxiv.org/abs/2408.06360)|null|
