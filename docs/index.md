@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-15**|**Modeling Domain and Feedback Transitions for Cross-Domain Sequential Recommendation**|Changshuo Zhang et.al.|[2408.08209](http://arxiv.org/abs/2408.08209)|null|
+|**2024-08-15**|**LLM4DSR: Leveraing Large Language Model for Denoising Sequential Recommendation**|Bohao Wang et.al.|[2408.08208](http://arxiv.org/abs/2408.08208)|null|
+|**2024-08-15**|**An Efficient Continuous Control Perspective for Reinforcement-Learning-based Sequential Recommendation**|Jun Wang et.al.|[2408.08047](http://arxiv.org/abs/2408.08047)|null|
+|**2024-08-15**|**The Nah Bandit: Modeling User Non-compliance in Recommendation Systems**|Tianyue Zhou et.al.|[2408.07897](http://arxiv.org/abs/2408.07897)|null|
+|**2024-08-15**|**To Impute or Not: Recommendations for Multibiometric Fusion**|Melissa R Dale et.al.|[2408.07883](http://arxiv.org/abs/2408.07883)|null|
+|**2024-08-14**|**RAVE Checklist: Recommendations for Overcoming Challenges in Retrospective Safety Studies of Automated Driving Systems**|John M. Scanlon et.al.|[2408.07758](http://arxiv.org/abs/2408.07758)|null|
+|**2024-08-14**|**DOME Registry: Implementing community-wide recommendations for reporting supervised machine learning in biology**|Omar Abdelghani Attafi et.al.|[2408.07721](http://arxiv.org/abs/2408.07721)|null|
+|**2024-08-05**|**Empathic Responding for Digital Interpersonal Emotion Regulation via Content Recommendation**|Akriti Verma et.al.|[2408.07704](http://arxiv.org/abs/2408.07704)|null|
 |**2024-08-14**|**Towards Fair and Rigorous Evaluations: Hyperparameter Optimization for Top-N Recommendation Task with Implicit Feedback**|Hui Fang et.al.|[2408.07630](http://arxiv.org/abs/2408.07630)|null|
 |**2024-08-14**|**Beyond Inter-Item Relations: Dynamic Adaptive Mixture-of-Experts for LLM-Based Sequential Recommendation**|CanYi Liu et.al.|[2408.07427](http://arxiv.org/abs/2408.07427)|null|
 |**2024-08-13**|**Diffusion Model for Slate Recommendation**|Federico Tomasi et.al.|[2408.06883](http://arxiv.org/abs/2408.06883)|null|
