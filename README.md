@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.18
+## Updated on 2024.08.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@
 |**2024-08-15**|**The Nah Bandit: Modeling User Non-compliance in Recommendation Systems**|Tianyue Zhou et.al.|[2408.07897](http://arxiv.org/abs/2408.07897)|null|
 |**2024-08-15**|**To Impute or Not: Recommendations for Multibiometric Fusion**|Melissa R Dale et.al.|[2408.07883](http://arxiv.org/abs/2408.07883)|null|
 |**2024-08-14**|**RAVE Checklist: Recommendations for Overcoming Challenges in Retrospective Safety Studies of Automated Driving Systems**|John M. Scanlon et.al.|[2408.07758](http://arxiv.org/abs/2408.07758)|null|
-|**2024-08-14**|**DOME Registry: Implementing community-wide recommendations for reporting supervised machine learning in biology**|Omar Abdelghani Attafi et.al.|[2408.07721](http://arxiv.org/abs/2408.07721)|null|
+|**2024-08-16**|**DOME Registry: Implementing community-wide recommendations for reporting supervised machine learning in biology**|Omar Abdelghani Attafi et.al.|[2408.07721](http://arxiv.org/abs/2408.07721)|null|
 |**2024-08-05**|**Empathic Responding for Digital Interpersonal Emotion Regulation via Content Recommendation**|Akriti Verma et.al.|[2408.07704](http://arxiv.org/abs/2408.07704)|null|
 |**2024-08-14**|**Towards Fair and Rigorous Evaluations: Hyperparameter Optimization for Top-N Recommendation Task with Implicit Feedback**|Hui Fang et.al.|[2408.07630](http://arxiv.org/abs/2408.07630)|null|
 |**2024-08-14**|**Beyond Inter-Item Relations: Dynamic Adaptive Mixture-of-Experts for LLM-Based Sequential Recommendation**|CanYi Liu et.al.|[2408.07427](http://arxiv.org/abs/2408.07427)|null|
@@ -50,7 +50,7 @@
 |**2024-08-07**|**Modeling User Intent Beyond Trigger: Incorporating Uncertainty for Trigger-Induced Recommendation**|Jianxing Ma et.al.|[2408.03091](http://arxiv.org/abs/2408.03091)|**[link](https://github.com/majx1997/DUIN)**|
 |**2024-08-03**|**Symmetric Graph Contrastive Learning against Noisy Views for Recommendation**|Chu Zhao et.al.|[2408.02691](http://arxiv.org/abs/2408.02691)|**[link](https://github.com/user683/SGCL)**|
 |**2024-08-05**|**PTM4Tag+: Tag Recommendation of Stack Overflow Posts with Pre-trained Models**|Junda He et.al.|[2408.02311](http://arxiv.org/abs/2408.02311)|null|
-|**2024-08-05**|**Large Language Model Aided QoS Prediction for Service Recommendation**|Huiying Liu et.al.|[2408.02223](http://arxiv.org/abs/2408.02223)|null|
+|**2024-08-16**|**Large Language Model Aided QoS Prediction for Service Recommendation**|Huiying Liu et.al.|[2408.02223](http://arxiv.org/abs/2408.02223)|null|
 |**2024-08-04**|**Calibration-Disentangled Learning and Relevance-Prioritized Reranking for Calibrated Sequential Recommendation**|Hyunsik Jeon et.al.|[2408.02156](http://arxiv.org/abs/2408.02156)|**[link](https://github.com/jeon185/leaprec)**|
 |**2024-08-06**|**Sharpness-Aware Cross-Domain Recommendation to Cold-Start Users**|Guohang Zeng et.al.|[2408.01931](http://arxiv.org/abs/2408.01931)|null|
 |**2024-07-23**|**MiranDa: Mimicking the Learning Processes of Human Doctors to Achieve Causal Inference for Medication Recommendation**|Ziheng Wang et.al.|[2408.01445](http://arxiv.org/abs/2408.01445)|**[link](https://github.com/azusakou/miranda)**|
@@ -459,7 +459,7 @@
 |**2024-03-07**|**Disaggregated Multi-Tower: Topology-aware Modeling Technique for Efficient Large-Scale Recommendation**|Liang Luo et.al.|[2403.00877](http://arxiv.org/abs/2403.00877)|null|
 |**2024-03-01**|**A Survey of Route Recommendations: Methods, Applications, and Opportunities**|Shiming Zhang et.al.|[2403.00284](http://arxiv.org/abs/2403.00284)|null|
 
-<p align=right>(<a href=#updated-on-20240818>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240819>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
