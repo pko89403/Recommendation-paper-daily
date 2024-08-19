@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**EasyRec: Simple yet Effective Language Models for Recommendation**|Xubin Ren et.al.|[2408.08821](http://arxiv.org/abs/2408.08821)|**[link](https://github.com/hkuds/easyrec)**|
+|**2024-08-16**|**SC-Rec: Enhancing Generative Retrieval with Self-Consistent Reranking for~Sequential Recommendation**|Tongyoung Kim et.al.|[2408.08686](http://arxiv.org/abs/2408.08686)|null|
+|**2024-08-16**|**Collaborative Cross-modal Fusion with Large Language Model for Recommendation**|Zhongzhou Liu et.al.|[2408.08564](http://arxiv.org/abs/2408.08564)|null|
+|**2024-08-16**|**Don't Click the Bait: Title Debiasing News Recommendation via Cross-Field Contrastive Learning**|Yijie Shu et.al.|[2408.08538](http://arxiv.org/abs/2408.08538)|null|
 |**2024-08-15**|**Modeling Domain and Feedback Transitions for Cross-Domain Sequential Recommendation**|Changshuo Zhang et.al.|[2408.08209](http://arxiv.org/abs/2408.08209)|null|
 |**2024-08-15**|**LLM4DSR: Leveraing Large Language Model for Denoising Sequential Recommendation**|Bohao Wang et.al.|[2408.08208](http://arxiv.org/abs/2408.08208)|null|
 |**2024-08-15**|**An Efficient Continuous Control Perspective for Reinforcement-Learning-based Sequential Recommendation**|Jun Wang et.al.|[2408.08047](http://arxiv.org/abs/2408.08047)|null|
