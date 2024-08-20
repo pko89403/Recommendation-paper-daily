@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-19**|**Customizing Language Models with Instance-wise LoRA for Sequential Recommendation**|Xiaoyu Kong et.al.|[2408.10159](http://arxiv.org/abs/2408.10159)|null|
+|**2024-08-19**|**Efficient Inference of Sub-Item Id-based Sequential Recommendation Models with Millions of Items**|Aleksandr V. Petrov et.al.|[2408.09992](http://arxiv.org/abs/2408.09992)|null|
+|**2024-08-19**|**MAPLE: Enhancing Review Generation with Multi-Aspect Prompt LEarning in Explainable Recommendation**|Ching-Wen Yang et.al.|[2408.09865](http://arxiv.org/abs/2408.09865)|null|
+|**2024-08-19**|**Harnessing Multimodal Large Language Models for Multimodal Sequential Recommendation**|Yuyang Ye et.al.|[2408.09698](http://arxiv.org/abs/2408.09698)|null|
+|**2024-08-19**|**GANPrompt: Enhancing Robustness in LLM-Based Recommendations with GAN-Enhanced Diversity Prompts**|Xinyu Li et.al.|[2408.09671](http://arxiv.org/abs/2408.09671)|null|
+|**2024-08-18**|**$\mathbb{BEHR}$ NOULLI: A Binary EHR Data-Oriented Medication Recommendation System**|Xihao Piao et.al.|[2408.09410](http://arxiv.org/abs/2408.09410)|**[link](https://github.com/chenzrg/behrmecom)**|
+|**2024-08-17**|**Research on color recipe recommendation based on unstructured data using TENN**|Seongsu Jhang et.al.|[2408.09094](http://arxiv.org/abs/2408.09094)|null|
+|**2024-08-13**|**Bundle Recommendation with Item-level Causation-enhanced Multi-view Learning**|Huy-Son Nguyen et.al.|[2408.08906](http://arxiv.org/abs/2408.08906)|null|
 |**2024-08-16**|**EasyRec: Simple yet Effective Language Models for Recommendation**|Xubin Ren et.al.|[2408.08821](http://arxiv.org/abs/2408.08821)|**[link](https://github.com/hkuds/easyrec)**|
 |**2024-08-19**|**SC-Rec: Enhancing Generative Retrieval with Self-Consistent Reranking for Sequential Recommendation**|Tongyoung Kim et.al.|[2408.08686](http://arxiv.org/abs/2408.08686)|null|
 |**2024-08-16**|**Collaborative Cross-modal Fusion with Large Language Model for Recommendation**|Zhongzhou Liu et.al.|[2408.08564](http://arxiv.org/abs/2408.08564)|null|
