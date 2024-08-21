@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-20**|**Large Language Model Driven Recommendation**|Anton Korikov et.al.|[2408.10946](http://arxiv.org/abs/2408.10946)|null|
+|**2024-08-20**|**Analytical and Empirical Study of Herding Effects in Recommendation Systems**|Hong Xie et.al.|[2408.10895](http://arxiv.org/abs/2408.10895)|null|
+|**2024-08-20**|**CoRA: Collaborative Information Perception by Large Language Model's Weights for Recommendation**|Yuting Liu et.al.|[2408.10645](http://arxiv.org/abs/2408.10645)|null|
+|**2024-08-20**|**NutrifyAI: An AI-Powered System for Real-Time Food Detection, Nutritional Analysis, and Personalized Meal Recommendations**|Michelle Han et.al.|[2408.10532](http://arxiv.org/abs/2408.10532)|null|
+|**2024-08-20**|**Efficient and Deployable Knowledge Infusion for Open-World Recommendations via Large Language Models**|Yunjia Xi et.al.|[2408.10520](http://arxiv.org/abs/2408.10520)|null|
+|**2024-08-19**|**Joint Modeling of Search and Recommendations Via an Unified Contextual Recommender (UniCoRn)**|Moumita Bhattacharya et.al.|[2408.10394](http://arxiv.org/abs/2408.10394)|null|
+|**2024-08-13**|**Contrastive Learning on Medical Intents for Sequential Prescription Recommendation**|Arya Hadizadeh Moghaddam et.al.|[2408.10259](http://arxiv.org/abs/2408.10259)|null|
 |**2024-08-19**|**Customizing Language Models with Instance-wise LoRA for Sequential Recommendation**|Xiaoyu Kong et.al.|[2408.10159](http://arxiv.org/abs/2408.10159)|null|
 |**2024-08-19**|**Efficient Inference of Sub-Item Id-based Sequential Recommendation Models with Millions of Items**|Aleksandr V. Petrov et.al.|[2408.09992](http://arxiv.org/abs/2408.09992)|null|
 |**2024-08-19**|**MAPLE: Enhancing Review Generation with Multi-Aspect Prompt LEarning in Explainable Recommendation**|Ching-Wen Yang et.al.|[2408.09865](http://arxiv.org/abs/2408.09865)|null|
