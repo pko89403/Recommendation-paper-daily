@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.25
+## Updated on 2024.08.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -22,10 +22,10 @@ layout: default
 |**2024-08-21**|**Does It Look Sequential? An Analysis of Datasets for Evaluation of Sequential Recommendations**|Anton Klenitskiy et.al.|[2408.12008](http://arxiv.org/abs/2408.12008)|**[link](https://github.com/antondfger/does-it-look-sequential)**|
 |**2024-08-21**|**Do We Really Need to Drop Items with Missing Modalities in Multimodal Recommendation?**|Daniele Malitesta et.al.|[2408.11767](http://arxiv.org/abs/2408.11767)|**[link](https://github.com/sisinflab/graph-missing-modalities)**|
 |**2024-08-21**|**End-to-End Cost-Effective Incentive Recommendation under Budget Constraint with Uplift Modeling**|Zexu Sun et.al.|[2408.11623](http://arxiv.org/abs/2408.11623)|null|
-|**2024-08-21**|**DTN: Deep Multiple Task-specific Feature Interactions Network for Multi-Task Recommendation**|Yaowen Bi et.al.|[2408.11611](http://arxiv.org/abs/2408.11611)|null|
+|**2024-08-23**|**DTN: Deep Multiple Task-specific Feature Interactions Network for Multi-Task Recommendation**|Yaowen Bi et.al.|[2408.11611](http://arxiv.org/abs/2408.11611)|null|
 |**2024-08-21**|**Calibrating the Predictions for Top-N Recommendations**|Masahiro Sato et.al.|[2408.11596](http://arxiv.org/abs/2408.11596)|null|
 |**2024-08-21**|**LARR: Large Language Model Aided Real-time Scene Recommendation with Semantic Understanding**|Zhizhong Wan et.al.|[2408.11523](http://arxiv.org/abs/2408.11523)|null|
-|**2024-08-21**|**Bidirectional Gated Mamba for Sequential Recommendation**|Ziwei Liu et.al.|[2408.11451](http://arxiv.org/abs/2408.11451)|**[link](https://github.com/ziwliu-cityu/simga)**|
+|**2024-08-23**|**Bidirectional Gated Mamba for Sequential Recommendation**|Ziwei Liu et.al.|[2408.11451](http://arxiv.org/abs/2408.11451)|**[link](https://github.com/ziwliu-cityu/simga)**|
 |**2024-08-21**|**Denoising Pre-Training and Customized Prompt Learning for Efficient Multi-Behavior Sequential Recommendation**|Hao Wang et.al.|[2408.11372](http://arxiv.org/abs/2408.11372)|null|
 |**2024-08-21**|**A Theory of Recommendations**|Jean-Michel Benkert et.al.|[2408.11362](http://arxiv.org/abs/2408.11362)|null|
 |**2024-08-21**|**Deep Tree-based Retrieval for Efficient Recommendation: Theory and Method**|Ze Liu et.al.|[2408.11345](http://arxiv.org/abs/2408.11345)|null|
