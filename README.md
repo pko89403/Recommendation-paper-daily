@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-23**|**iSee: Advancing Multi-Shot Explainable AI Using Case-based Recommendations**|Anjana Wijekoon et.al.|[2408.12941](http://arxiv.org/abs/2408.12941)|null|
 |**2024-08-22**|**The Importance of Cognitive Biases in the Recommendation Ecosystem**|Markus Schedl et.al.|[2408.12492](http://arxiv.org/abs/2408.12492)|null|
 |**2024-08-22**|**Dynamic Product Image Generation and Recommendation at Scale for Personalized E-commerce**|Ádám Tibor Czapp et.al.|[2408.12392](http://arxiv.org/abs/2408.12392)|null|
 |**2024-08-22**|**Enhancing Uncertainty Communication in Time Series Predictions: Insights and Recommendations**|Apoorva Karagappa et.al.|[2408.12365](http://arxiv.org/abs/2408.12365)|null|
