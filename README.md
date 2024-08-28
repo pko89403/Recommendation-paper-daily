@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**X-Reflect: Cross-Reflection Prompting for Multimodal Recommendation**|Hanjia Lyu et.al.|[2408.15172](http://arxiv.org/abs/2408.15172)|null|
+|**2024-08-27**|**Graph and Sequential Neural Networks in Session-based Recommendation: A Survey**|Zihao Li et.al.|[2408.14851](http://arxiv.org/abs/2408.14851)|null|
+|**2024-08-26**|**Federated User Preference Modeling for Privacy-Preserving Cross-Domain Recommendation**|Li Wang et.al.|[2408.14689](http://arxiv.org/abs/2408.14689)|**[link](https://github.com/lili1013/fupm)**|
 |**2024-08-26**|**Contextual Bandit with Herding Effects: Algorithms and Recommendation Applications**|Luyue Xu et.al.|[2408.14432](http://arxiv.org/abs/2408.14432)|null|
 |**2024-08-26**|**CURE4Rec: A Benchmark for Recommendation Unlearning with Deeper Influence**|Chaochao Chen et.al.|[2408.14393](http://arxiv.org/abs/2408.14393)|**[link](https://github.com/xiye7lai/cure4rec)**|
 |**2024-08-26**|**Functional kinematic and kinetic requirements of the upper limb during activities of daily living: a recommendation on necessary joint capabilities for prosthetic arms**|Christopher Herneth et.al.|[2408.14361](http://arxiv.org/abs/2408.14361)|**[link](https://github.com/ChristopherHerneth/Supplementary-Material-Publications/tree/main/Functional%20kinematic%20and%20kinetic%20requirements%20of%20the%20upper%20limb)**|
