@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.28
+## Updated on 2024.08.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 |**2024-08-27**|**X-Reflect: Cross-Reflection Prompting for Multimodal Recommendation**|Hanjia Lyu et.al.|[2408.15172](http://arxiv.org/abs/2408.15172)|null|
 |**2024-08-27**|**Graph and Sequential Neural Networks in Session-based Recommendation: A Survey**|Zihao Li et.al.|[2408.14851](http://arxiv.org/abs/2408.14851)|null|
 |**2024-08-26**|**Federated User Preference Modeling for Privacy-Preserving Cross-Domain Recommendation**|Li Wang et.al.|[2408.14689](http://arxiv.org/abs/2408.14689)|**[link](https://github.com/lili1013/fupm)**|
-|**2024-08-26**|**Contextual Bandit with Herding Effects: Algorithms and Recommendation Applications**|Luyue Xu et.al.|[2408.14432](http://arxiv.org/abs/2408.14432)|null|
+|**2024-08-28**|**Contextual Bandit with Herding Effects: Algorithms and Recommendation Applications**|Luyue Xu et.al.|[2408.14432](http://arxiv.org/abs/2408.14432)|null|
 |**2024-08-26**|**CURE4Rec: A Benchmark for Recommendation Unlearning with Deeper Influence**|Chaochao Chen et.al.|[2408.14393](http://arxiv.org/abs/2408.14393)|**[link](https://github.com/xiye7lai/cure4rec)**|
 |**2024-08-26**|**Functional kinematic and kinetic requirements of the upper limb during activities of daily living: a recommendation on necessary joint capabilities for prosthetic arms**|Christopher Herneth et.al.|[2408.14361](http://arxiv.org/abs/2408.14361)|**[link](https://github.com/ChristopherHerneth/Supplementary-Material-Publications/tree/main/Functional%20kinematic%20and%20kinetic%20requirements%20of%20the%20upper%20limb)**|
 |**2024-08-26**|**Say Your Reason: Extract Contextual Rules In Situ for Context-aware Service Recommendation**|Yuxuan Li et.al.|[2408.13977](http://arxiv.org/abs/2408.13977)|null|
@@ -502,7 +502,7 @@
 |**2024-03-07**|**Disaggregated Multi-Tower: Topology-aware Modeling Technique for Efficient Large-Scale Recommendation**|Liang Luo et.al.|[2403.00877](http://arxiv.org/abs/2403.00877)|null|
 |**2024-03-01**|**A Survey of Route Recommendations: Methods, Applications, and Opportunities**|Shiming Zhang et.al.|[2403.00284](http://arxiv.org/abs/2403.00284)|null|
 
-<p align=right>(<a href=#updated-on-20240828>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240829>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
