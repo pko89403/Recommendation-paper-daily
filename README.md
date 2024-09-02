@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-30**|**Not All Videos Become Outdated: Short-Video Recommendation by Learning to Deconfound Release Interval Bias**|Lulu Dong et.al.|[2408.17332](http://arxiv.org/abs/2408.17332)|**[link](https://github.com/ECNU-Text-Computing/LDRI)**|
+|**2024-08-30**|**Efficient Multi-task Prompt Tuning for Recommendation**|Ting Bai et.al.|[2408.17214](http://arxiv.org/abs/2408.17214)|null|
+|**2024-08-29**|**Cyber Risk Assessment for Cyber-Physical Systems: A Review of Methodologies and Recommendations for Improved Assessment Effectiveness**|Asila AlHarmali et.al.|[2408.16841](http://arxiv.org/abs/2408.16841)|null|
 |**2024-08-29**|**Transformers Meet ACT-R: Repeat-Aware and Sequential Listening Session Recommendation**|Viet-Anh Tran et.al.|[2408.16578](http://arxiv.org/abs/2408.16578)|null|
 |**2024-08-28**|**Improving the Prediction of Individual Engagement in Recommendations Using Cognitive Models**|Roderick Seow et.al.|[2408.16147](http://arxiv.org/abs/2408.16147)|null|
 |**2024-08-28**|**PDSR: A Privacy-Preserving Diversified Service Recommendation Method on Distributed Data**|Lina Wang et.al.|[2408.15688](http://arxiv.org/abs/2408.15688)|null|
@@ -26,7 +29,7 @@
 |**2024-08-26**|**Federated User Preference Modeling for Privacy-Preserving Cross-Domain Recommendation**|Li Wang et.al.|[2408.14689](http://arxiv.org/abs/2408.14689)|**[link](https://github.com/lili1013/fupm)**|
 |**2024-08-28**|**Contextual Bandit with Herding Effects: Algorithms and Recommendation Applications**|Luyue Xu et.al.|[2408.14432](http://arxiv.org/abs/2408.14432)|null|
 |**2024-08-26**|**CURE4Rec: A Benchmark for Recommendation Unlearning with Deeper Influence**|Chaochao Chen et.al.|[2408.14393](http://arxiv.org/abs/2408.14393)|**[link](https://github.com/xiye7lai/cure4rec)**|
-|**2024-08-26**|**Functional kinematic and kinetic requirements of the upper limb during activities of daily living: a recommendation on necessary joint capabilities for prosthetic arms**|Christopher Herneth et.al.|[2408.14361](http://arxiv.org/abs/2408.14361)|**[link](https://github.com/ChristopherHerneth/Supplementary-Material-Publications/tree/main/Functional%20kinematic%20and%20kinetic%20requirements%20of%20the%20upper%20limb)**|
+|**2024-08-26**|**Functional kinematic and kinetic requirements of the upper limb during activities of daily living: a recommendation on necessary joint capabilities for prosthetic arms**|Christopher Herneth et.al.|[2408.14361](http://arxiv.org/abs/2408.14361)|**[link](https://github.com/christopherherneth/supplementary-material-publications)**|
 |**2024-08-26**|**Say Your Reason: Extract Contextual Rules In Situ for Context-aware Service Recommendation**|Yuxuan Li et.al.|[2408.13977](http://arxiv.org/abs/2408.13977)|null|
 |**2024-08-24**|**HRGraph: Leveraging LLMs for HR Data Knowledge Graphs with Information Propagation-based Job Recommendation**|Azmine Toushik Wasi et.al.|[2408.13521](http://arxiv.org/abs/2408.13521)|**[link](https://github.com/azminewasi/hrgraph)**|
 |**2024-08-23**|**iSee: Advancing Multi-Shot Explainable AI Using Case-based Recommendations**|Anjana Wijekoon et.al.|[2408.12941](http://arxiv.org/abs/2408.12941)|null|
