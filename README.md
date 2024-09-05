@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.04
+## Updated on 2024.09.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,7 +21,7 @@
 |**2024-08-30**|**Efficient Multi-task Prompt Tuning for Recommendation**|Ting Bai et.al.|[2408.17214](http://arxiv.org/abs/2408.17214)|null|
 |**2024-08-29**|**Cyber Risk Assessment for Cyber-Physical Systems: A Review of Methodologies and Recommendations for Improved Assessment Effectiveness**|Asila AlHarmali et.al.|[2408.16841](http://arxiv.org/abs/2408.16841)|null|
 |**2024-08-29**|**Transformers Meet ACT-R: Repeat-Aware and Sequential Listening Session Recommendation**|Viet-Anh Tran et.al.|[2408.16578](http://arxiv.org/abs/2408.16578)|null|
-|**2024-08-28**|**Improving the Prediction of Individual Engagement in Recommendations Using Cognitive Models**|Roderick Seow et.al.|[2408.16147](http://arxiv.org/abs/2408.16147)|null|
+|**2024-09-03**|**Improving the Prediction of Individual Engagement in Recommendations Using Cognitive Models**|Roderick Seow et.al.|[2408.16147](http://arxiv.org/abs/2408.16147)|null|
 |**2024-08-28**|**PDSR: A Privacy-Preserving Diversified Service Recommendation Method on Distributed Data**|Lina Wang et.al.|[2408.15688](http://arxiv.org/abs/2408.15688)|null|
 |**2024-08-27**|**Temporal Graph Neural Network-Powered Paper Recommendation on Dynamic Citation Networks**|Junhao Shen et.al.|[2408.15371](http://arxiv.org/abs/2408.15371)|null|
 |**2024-08-27**|**X-Reflect: Cross-Reflection Prompting for Multimodal Recommendation**|Hanjia Lyu et.al.|[2408.15172](http://arxiv.org/abs/2408.15172)|null|
@@ -509,7 +509,7 @@
 |**2024-03-07**|**Disaggregated Multi-Tower: Topology-aware Modeling Technique for Efficient Large-Scale Recommendation**|Liang Luo et.al.|[2403.00877](http://arxiv.org/abs/2403.00877)|null|
 |**2024-03-01**|**A Survey of Route Recommendations: Methods, Applications, and Opportunities**|Shiming Zhang et.al.|[2403.00284](http://arxiv.org/abs/2403.00284)|null|
 
-<p align=right>(<a href=#updated-on-20240904>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240905>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
