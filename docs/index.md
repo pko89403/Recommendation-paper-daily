@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**Federated Prototype-based Contrastive Learning for Privacy-Preserving Cross-domain Recommendation**|Li Wang et.al.|[2409.03294](http://arxiv.org/abs/2409.03294)|null|
+|**2024-09-05**|**GraphEx: A Graph-based Extraction Method for Advertiser Keyphrase Recommendation**|Ashirbad Mishra et.al.|[2409.03140](http://arxiv.org/abs/2409.03140)|null|
 |**2024-09-04**|**Incorporating Like-Minded Peers to Overcome Friend Data Sparsity in Session-Based Social Recommendations**|Chunyan An et.al.|[2409.02702](http://arxiv.org/abs/2409.02702)|null|
 |**2024-09-04**|**A Fashion Item Recommendation Model in Hyperbolic Space**|Ryotaro Shimizu et.al.|[2409.02599](http://arxiv.org/abs/2409.02599)|null|
 |**2024-09-04**|**AlignGroup: Learning and Aligning Group Consensus with Member Preferences for Group Recommendation**|Jinfeng Xu et.al.|[2409.02580](http://arxiv.org/abs/2409.02580)|null|
@@ -24,13 +26,13 @@ layout: default
 |**2024-09-02**|**SSD4Rec: A Structured State Space Duality Model for Efficient Sequential Recommendation**|Haohao Qu et.al.|[2409.01192](http://arxiv.org/abs/2409.01192)|null|
 |**2024-09-04**|**Smart E-commerce Recommendations with Semantic AI**|M. Badouch et.al.|[2409.01137](http://arxiv.org/abs/2409.01137)|null|
 |**2024-09-02**|**Improved Diversity-Promoting Collaborative Metric Learning for Recommendation**|Shilong Bao et.al.|[2409.01012](http://arxiv.org/abs/2409.01012)|null|
-|**2024-09-01**|**Fair Reciprocal Recommendation in Matching Markets**|Yoji Tomita et.al.|[2409.00720](http://arxiv.org/abs/2409.00720)|null|
+|**2024-09-01**|**Fair Reciprocal Recommendation in Matching Markets**|Yoji Tomita et.al.|[2409.00720](http://arxiv.org/abs/2409.00720)|**[link](https://github.com/CyberAgentAILab/FairReciprocalRecommendation)**|
 |**2024-09-04**|**MARS: Matching Attribute-aware Representations for Text-based Sequential Recommendation**|Hyunsoo Kim et.al.|[2409.00702](http://arxiv.org/abs/2409.00702)|null|
 |**2024-08-31**|**An Enhanced Batch Query Architecture in Real-time Recommendation**|Qiang Zhang et.al.|[2409.00400](http://arxiv.org/abs/2409.00400)|null|
 |**2024-08-30**|**Building Better Datasets: Seven Recommendations for Responsible Design from Dataset Creators**|Will Orr et.al.|[2409.00252](http://arxiv.org/abs/2409.00252)|null|
 |**2024-08-30**|**PRADA: Proactive Risk Assessment and Mitigation of Misinformed Demand Attacks on Navigational Route Recommendations**|Ya-Ting Yang et.al.|[2409.00243](http://arxiv.org/abs/2409.00243)|null|
 |**2024-08-30**|**Adaptive Incentive-Compatible Navigational Route Recommendations in Urban Transportation Networks**|Ya-Ting Yang et.al.|[2409.00236](http://arxiv.org/abs/2409.00236)|null|
-|**2024-08-30**|**Not All Videos Become Outdated: Short-Video Recommendation by Learning to Deconfound Release Interval Bias**|Lulu Dong et.al.|[2408.17332](http://arxiv.org/abs/2408.17332)|**[link](https://github.com/ECNU-Text-Computing/LDRI)**|
+|**2024-08-30**|**Not All Videos Become Outdated: Short-Video Recommendation by Learning to Deconfound Release Interval Bias**|Lulu Dong et.al.|[2408.17332](http://arxiv.org/abs/2408.17332)|null|
 |**2024-08-30**|**Efficient Multi-task Prompt Tuning for Recommendation**|Ting Bai et.al.|[2408.17214](http://arxiv.org/abs/2408.17214)|null|
 |**2024-08-29**|**Cyber Risk Assessment for Cyber-Physical Systems: A Review of Methodologies and Recommendations for Improved Assessment Effectiveness**|Asila AlHarmali et.al.|[2408.16841](http://arxiv.org/abs/2408.16841)|null|
 |**2024-08-29**|**Transformers Meet ACT-R: Repeat-Aware and Sequential Listening Session Recommendation**|Viet-Anh Tran et.al.|[2408.16578](http://arxiv.org/abs/2408.16578)|null|
