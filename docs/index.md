@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.09
+## Updated on 2024.09.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -17,8 +17,8 @@ layout: default
 |**2024-09-06**|**Enhancing Sequential Music Recommendation with Personalized Popularity Awareness**|Davide Abbattista et.al.|[2409.04329](http://arxiv.org/abs/2409.04329)|**[link](https://github.com/sisinflab/personalized-popularity-awareness)**|
 |**2024-08-22**|**It's Not You, It's Me: The Impact of Choice Models and Ranking Strategies on Gender Imbalance in Music Recommendation**|Andres Ferraro et.al.|[2409.03781](http://arxiv.org/abs/2409.03781)|null|
 |**2024-09-05**|**Federated Prototype-based Contrastive Learning for Privacy-Preserving Cross-domain Recommendation**|Li Wang et.al.|[2409.03294](http://arxiv.org/abs/2409.03294)|null|
-|**2024-09-05**|**GraphEx: A Graph-based Extraction Method for Advertiser Keyphrase Recommendation**|Ashirbad Mishra et.al.|[2409.03140](http://arxiv.org/abs/2409.03140)|null|
-|**2024-09-04**|**Incorporating Like-Minded Peers to Overcome Friend Data Sparsity in Session-Based Social Recommendations**|Chunyan An et.al.|[2409.02702](http://arxiv.org/abs/2409.02702)|null|
+|**2024-09-06**|**GraphEx: A Graph-based Extraction Method for Advertiser Keyphrase Recommendation**|Ashirbad Mishra et.al.|[2409.03140](http://arxiv.org/abs/2409.03140)|null|
+|**2024-09-07**|**Incorporating Like-Minded Peers to Overcome Friend Data Sparsity in Session-Based Social Recommendations**|Chunyan An et.al.|[2409.02702](http://arxiv.org/abs/2409.02702)|null|
 |**2024-09-04**|**A Fashion Item Recommendation Model in Hyperbolic Space**|Ryotaro Shimizu et.al.|[2409.02599](http://arxiv.org/abs/2409.02599)|null|
 |**2024-09-04**|**AlignGroup: Learning and Aligning Group Consensus with Member Preferences for Group Recommendation**|Jinfeng Xu et.al.|[2409.02580](http://arxiv.org/abs/2409.02580)|null|
 |**2024-09-04**|**Deep Adaptive Interest Network: Personalized Recommendation with Context-Aware Learning**|Shuaishuai Huang et.al.|[2409.02425](http://arxiv.org/abs/2409.02425)|null|
@@ -64,7 +64,7 @@ layout: default
 |**2024-08-23**|**Bidirectional Gated Mamba for Sequential Recommendation**|Ziwei Liu et.al.|[2408.11451](http://arxiv.org/abs/2408.11451)|**[link](https://github.com/ziwliu-cityu/simga)**|
 |**2024-08-21**|**Denoising Pre-Training and Customized Prompt Learning for Efficient Multi-Behavior Sequential Recommendation**|Hao Wang et.al.|[2408.11372](http://arxiv.org/abs/2408.11372)|null|
 |**2024-08-21**|**A Theory of Recommendations**|Jean-Michel Benkert et.al.|[2408.11362](http://arxiv.org/abs/2408.11362)|null|
-|**2024-08-21**|**Deep Tree-based Retrieval for Efficient Recommendation: Theory and Method**|Ze Liu et.al.|[2408.11345](http://arxiv.org/abs/2408.11345)|null|
+|**2024-09-07**|**Deep Tree-based Retrieval for Efficient Recommendation: Theory and Method**|Ze Liu et.al.|[2408.11345](http://arxiv.org/abs/2408.11345)|null|
 |**2024-08-20**|**Large Language Model Driven Recommendation**|Anton Korikov et.al.|[2408.10946](http://arxiv.org/abs/2408.10946)|null|
 |**2024-08-20**|**Analytical and Empirical Study of Herding Effects in Recommendation Systems**|Hong Xie et.al.|[2408.10895](http://arxiv.org/abs/2408.10895)|null|
 |**2024-08-20**|**CoRA: Collaborative Information Perception by Large Language Model's Weights for Recommendation**|Yuting Liu et.al.|[2408.10645](http://arxiv.org/abs/2408.10645)|null|
@@ -77,7 +77,7 @@ layout: default
 |**2024-08-19**|**MAPLE: Enhancing Review Generation with Multi-Aspect Prompt LEarning in Explainable Recommendation**|Ching-Wen Yang et.al.|[2408.09865](http://arxiv.org/abs/2408.09865)|null|
 |**2024-08-20**|**Harnessing Multimodal Large Language Models for Multimodal Sequential Recommendation**|Yuyang Ye et.al.|[2408.09698](http://arxiv.org/abs/2408.09698)|null|
 |**2024-08-19**|**GANPrompt: Enhancing Robustness in LLM-Based Recommendations with GAN-Enhanced Diversity Prompts**|Xinyu Li et.al.|[2408.09671](http://arxiv.org/abs/2408.09671)|null|
-|**2024-08-18**|**$\mathbb{BEHR}$ NOULLI: A Binary EHR Data-Oriented Medication Recommendation System**|Xihao Piao et.al.|[2408.09410](http://arxiv.org/abs/2408.09410)|**[link](https://github.com/chenzrg/behrmecom)**|
+|**2024-09-08**|**BernGraph: Probabilistic Graph Neural Networks for EHR-based Medication Recommendations**|Xihao Piao et.al.|[2408.09410](http://arxiv.org/abs/2408.09410)|**[link](https://github.com/chenzrg/behrmecom)**|
 |**2024-08-17**|**Research on color recipe recommendation based on unstructured data using TENN**|Seongsu Jhang et.al.|[2408.09094](http://arxiv.org/abs/2408.09094)|null|
 |**2024-08-13**|**Bundle Recommendation with Item-level Causation-enhanced Multi-view Learning**|Huy-Son Nguyen et.al.|[2408.08906](http://arxiv.org/abs/2408.08906)|null|
 |**2024-08-16**|**EasyRec: Simple yet Effective Language Models for Recommendation**|Xubin Ren et.al.|[2408.08821](http://arxiv.org/abs/2408.08821)|**[link](https://github.com/hkuds/easyrec)**|
