@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.11
+## Updated on 2024.09.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -19,7 +19,7 @@ layout: default
 |**2024-09-10**|**HierLLM: Hierarchical Large Language Model for Question Recommendation**|Yuxuan Liu et.al.|[2409.06177](http://arxiv.org/abs/2409.06177)|null|
 |**2024-08-23**|**CSRec: Rethinking Sequential Recommendation from A Causal Perspective**|Xiaoyu Liu et.al.|[2409.05872](http://arxiv.org/abs/2409.05872)|null|
 |**2024-09-09**|**Enhancing Graph Contrastive Learning with Reliable and Informative Augmentation for Recommendation**|Bowen Zheng et.al.|[2409.05633](http://arxiv.org/abs/2409.05633)|null|
-|**2024-09-09**|**Rs4rs: Semantically Find Recent Publications from Top Recommendation System-Related Venues**|Tri Kurniawan Wijaya et.al.|[2409.05570](http://arxiv.org/abs/2409.05570)|null|
+|**2024-09-11**|**Rs4rs: Semantically Find Recent Publications from Top Recommendation System-Related Venues**|Tri Kurniawan Wijaya et.al.|[2409.05570](http://arxiv.org/abs/2409.05570)|null|
 |**2024-09-09**|**End-to-End Learnable Item Tokenization for Generative Recommendation**|Enze Liu et.al.|[2409.05546](http://arxiv.org/abs/2409.05546)|null|
 |**2024-09-08**|**Sequential Recommendation via Adaptive Robust Attention with Multi-dimensional Embeddings**|Linsey Pang et.al.|[2409.05022](http://arxiv.org/abs/2409.05022)|null|
 |**2024-09-07**|**Debias Can be Unreliable: Mitigating Bias Issue in Evaluating Debiasing Recommendation**|Chengbing Wang et.al.|[2409.04810](http://arxiv.org/abs/2409.04810)|null|
