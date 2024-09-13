@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.12
+## Updated on 2024.09.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -26,7 +26,7 @@ layout: default
 |**2024-09-10**|**Enhancing Sequential Recommendations through Multi-Perspective Reflections and Iteration**|Weicong Qin et.al.|[2409.06377](http://arxiv.org/abs/2409.06377)|null|
 |**2024-09-10**|**User Preferences for Large Language Model versus Template-Based Explanations of Movie Recommendations: A Pilot Study**|Julien Albert et.al.|[2409.06297](http://arxiv.org/abs/2409.06297)|null|
 |**2024-09-10**|**HierLLM: Hierarchical Large Language Model for Question Recommendation**|Yuxuan Liu et.al.|[2409.06177](http://arxiv.org/abs/2409.06177)|null|
-|**2024-08-23**|**CSRec: Rethinking Sequential Recommendation from A Causal Perspective**|Xiaoyu Liu et.al.|[2409.05872](http://arxiv.org/abs/2409.05872)|null|
+|**2024-08-23**|**CSRec: Rethinking Sequential Recommendation from A Causal Perspective**|Xiaoyu Liu et.al.|[2409.05872](http://arxiv.org/abs/2409.05872)|**[link](https://github.com/margotyjx/CSRec_repo)**|
 |**2024-09-09**|**Enhancing Graph Contrastive Learning with Reliable and Informative Augmentation for Recommendation**|Bowen Zheng et.al.|[2409.05633](http://arxiv.org/abs/2409.05633)|null|
 |**2024-09-11**|**Rs4rs: Semantically Find Recent Publications from Top Recommendation System-Related Venues**|Tri Kurniawan Wijaya et.al.|[2409.05570](http://arxiv.org/abs/2409.05570)|null|
 |**2024-09-09**|**End-to-End Learnable Item Tokenization for Generative Recommendation**|Enze Liu et.al.|[2409.05546](http://arxiv.org/abs/2409.05546)|null|
@@ -45,7 +45,7 @@ layout: default
 |**2024-09-03**|**MCBA: A Matroid Constraint-Based Approach for Composite Service Recommendation Considering Compatibility and Diversity**|Ying Sun et.al.|[2409.01600](http://arxiv.org/abs/2409.01600)|null|
 |**2024-09-03**|**Blockchain-based Federated Recommendation with Incentive Mechanism**|Jianhai Chen et.al.|[2409.01563](http://arxiv.org/abs/2409.01563)|null|
 |**2024-09-02**|**SSD4Rec: A Structured State Space Duality Model for Efficient Sequential Recommendation**|Haohao Qu et.al.|[2409.01192](http://arxiv.org/abs/2409.01192)|null|
-|**2024-09-04**|**Smart E-commerce Recommendations with Semantic AI**|M. Badouch et.al.|[2409.01137](http://arxiv.org/abs/2409.01137)|null|
+|**2024-09-11**|**Smart E-commerce Recommendations with Semantic AI**|M. Badouch et.al.|[2409.01137](http://arxiv.org/abs/2409.01137)|null|
 |**2024-09-02**|**Improved Diversity-Promoting Collaborative Metric Learning for Recommendation**|Shilong Bao et.al.|[2409.01012](http://arxiv.org/abs/2409.01012)|null|
 |**2024-09-01**|**Fair Reciprocal Recommendation in Matching Markets**|Yoji Tomita et.al.|[2409.00720](http://arxiv.org/abs/2409.00720)|**[link](https://github.com/CyberAgentAILab/FairReciprocalRecommendation)**|
 |**2024-09-04**|**MARS: Matching Attribute-aware Representations for Text-based Sequential Recommendation**|Hyunsoo Kim et.al.|[2409.00702](http://arxiv.org/abs/2409.00702)|null|
