@@ -17,15 +17,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**Proactive Recommendation in Social Networks: Steering User Interest via Neighbor Influence**|Hang Pan et.al.|[2409.08934](http://arxiv.org/abs/2409.08934)|null|
+|**2024-09-13**|**A Hybrid Meta-Learning and Multi-Armed Bandit Approach for Context-Specific Multi-Objective Recommendation Optimization**|Tiago Cunha et.al.|[2409.08752](http://arxiv.org/abs/2409.08752)|null|
+|**2024-09-13**|**Multi-intent Aware Contrastive Learning for Sequential Recommendation**|Junshu Huang et.al.|[2409.08733](http://arxiv.org/abs/2409.08733)|null|
 |**2024-09-12**|**Enhancing Cross-Market Recommendation System with Graph Isomorphism Networks: A Novel Approach to Personalized User Experience**|Sümeyye Öztürk et.al.|[2409.07850](http://arxiv.org/abs/2409.07850)|null|
 |**2024-09-11**|**Cybersecurity Challenge Analysis of Work-from-Anywhere (WFA) and Recommendations guided by a User Study**|Mohammed Mahyoub et.al.|[2409.07567](http://arxiv.org/abs/2409.07567)|null|
-|**2024-09-10**|**DV-FSR: A Dual-View Target Attack Framework for Federated Sequential Recommendation**|Qitao Qin et.al.|[2409.07500](http://arxiv.org/abs/2409.07500)|null|
+|**2024-09-10**|**DV-FSR: A Dual-View Target Attack Framework for Federated Sequential Recommendation**|Qitao Qin et.al.|[2409.07500](http://arxiv.org/abs/2409.07500)|**[link](https://github.com/ustcagi/dv-fsr)**|
 |**2024-09-11**|**Dot Product is All You Need: Bridging the Gap Between Item Recommendation and Link Prediction**|Daniele Malitesta et.al.|[2409.07433](http://arxiv.org/abs/2409.07433)|null|
 |**2024-09-11**|**Towards Fairer Health Recommendations: finding informative unbiased samples via Word Sense Disambiguation**|Gavin Butts et.al.|[2409.07424](http://arxiv.org/abs/2409.07424)|null|
 |**2024-09-11**|**Hierarchical Reinforcement Learning for Temporal Abstraction of Listwise Recommendation**|Luo Ji et.al.|[2409.07416](http://arxiv.org/abs/2409.07416)|null|
 |**2024-09-11**|**Enhancing Sequential Music Recommendation with Negative Feedback-informed Contrastive Learning**|Pavan Seshadri et.al.|[2409.07367](http://arxiv.org/abs/2409.07367)|null|
 |**2024-09-13**|**STORE: Streamlining Semantic Tokenization and Generative Recommendation with A Single LLM**|Qijiong Liu et.al.|[2409.07276](http://arxiv.org/abs/2409.07276)|null|
-|**2024-09-13**|**RePlay: a Recommendation Framework for Experimentation and Production Use**|Alexey Vasilev et.al.|[2409.07272](http://arxiv.org/abs/2409.07272)|null|
+|**2024-09-13**|**RePlay: a Recommendation Framework for Experimentation and Production Use**|Alexey Vasilev et.al.|[2409.07272](http://arxiv.org/abs/2409.07272)|**[link](https://github.com/sb-ai-lab/RePlay)**|
 |**2024-09-11**|**Negative Sampling in Recommendation: A Survey and Future Directions**|Haokai Ma et.al.|[2409.07237](http://arxiv.org/abs/2409.07237)|null|
 |**2024-09-11**|**E-commerce Webpage Recommendation Scheme Base on Semantic Mining and Neural Networks**|Wenchao Zhao et.al.|[2409.07033](http://arxiv.org/abs/2409.07033)|null|
 |**2024-08-26**|**Dual Adversarial Perturbators Generate rich Views for Recommendation**|Lijun Zhang et.al.|[2409.06719](http://arxiv.org/abs/2409.06719)|null|
