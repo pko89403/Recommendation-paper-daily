@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-16**|**Incorporating Classifier-Free Guidance in Diffusion Model-Based Recommendation**|Noah Buchanan et.al.|[2409.10494](http://arxiv.org/abs/2409.10494)|null|
+|**2024-09-16**|**Large Language Model Enhanced Hard Sample Identification for Denoising Recommendation**|Tianrui Song et.al.|[2409.10343](http://arxiv.org/abs/2409.10343)|null|
+|**2024-09-16**|**Enhancing Personalized Recipe Recommendation Through Multi-Class Classification**|Harish Neelam et.al.|[2409.10267](http://arxiv.org/abs/2409.10267)|null|
+|**2024-09-15**|**From Challenges and Pitfalls to Recommendations and Opportunities: Implementing Federated Learning in Healthcare**|Ming Li et.al.|[2409.09727](http://arxiv.org/abs/2409.09727)|null|
+|**2024-09-15**|**Measuring Recency Bias In Sequential Recommendation Systems**|Jeonglyul Oh et.al.|[2409.09722](http://arxiv.org/abs/2409.09722)|null|
+|**2024-09-15**|**AACessTalk: Fostering Communication between Minimally Verbal Autistic Children and Parents with Contextual Guidance and Card Recommendation**|Dasom Choi et.al.|[2409.09641](http://arxiv.org/abs/2409.09641)|null|
+|**2024-09-15**|**Multi-view Hypergraph-based Contrastive Learning Model for Cold-Start Micro-video Recommendation**|Sisuo Lyu et.al.|[2409.09638](http://arxiv.org/abs/2409.09638)|null|
+|**2024-09-14**|**Unleash LLMs Potential for Recommendation by Coordinating Twin-Tower Dynamic Semantic Token Generator**|Jun Yin et.al.|[2409.09253](http://arxiv.org/abs/2409.09253)|null|
 |**2024-09-13**|**Proactive Recommendation in Social Networks: Steering User Interest via Neighbor Influence**|Hang Pan et.al.|[2409.08934](http://arxiv.org/abs/2409.08934)|null|
 |**2024-09-13**|**A Hybrid Meta-Learning and Multi-Armed Bandit Approach for Context-Specific Multi-Objective Recommendation Optimization**|Tiago Cunha et.al.|[2409.08752](http://arxiv.org/abs/2409.08752)|null|
 |**2024-09-13**|**Multi-intent Aware Contrastive Learning for Sequential Recommendation**|Junshu Huang et.al.|[2409.08733](http://arxiv.org/abs/2409.08733)|null|
@@ -61,7 +69,7 @@ layout: default
 |**2024-08-30**|**Adaptive Incentive-Compatible Navigational Route Recommendations in Urban Transportation Networks**|Ya-Ting Yang et.al.|[2409.00236](http://arxiv.org/abs/2409.00236)|null|
 |**2024-08-30**|**Not All Videos Become Outdated: Short-Video Recommendation by Learning to Deconfound Release Interval Bias**|Lulu Dong et.al.|[2408.17332](http://arxiv.org/abs/2408.17332)|null|
 |**2024-08-30**|**Efficient Multi-task Prompt Tuning for Recommendation**|Ting Bai et.al.|[2408.17214](http://arxiv.org/abs/2408.17214)|null|
-|**2024-08-29**|**Cyber Risk Assessment for Cyber-Physical Systems: A Review of Methodologies and Recommendations for Improved Assessment Effectiveness**|Asila AlHarmali et.al.|[2408.16841](http://arxiv.org/abs/2408.16841)|null|
+|**2024-09-15**|**Cyber Risk Assessment for Cyber-Physical Systems: A Review of Methodologies and Recommendations for Improved Assessment Effectiveness**|Asila AlHarmali et.al.|[2408.16841](http://arxiv.org/abs/2408.16841)|null|
 |**2024-08-29**|**Transformers Meet ACT-R: Repeat-Aware and Sequential Listening Session Recommendation**|Viet-Anh Tran et.al.|[2408.16578](http://arxiv.org/abs/2408.16578)|null|
 |**2024-09-03**|**Improving the Prediction of Individual Engagement in Recommendations Using Cognitive Models**|Roderick Seow et.al.|[2408.16147](http://arxiv.org/abs/2408.16147)|null|
 |**2024-08-28**|**PDSR: A Privacy-Preserving Diversified Service Recommendation Method on Distributed Data**|Lina Wang et.al.|[2408.15688](http://arxiv.org/abs/2408.15688)|null|
