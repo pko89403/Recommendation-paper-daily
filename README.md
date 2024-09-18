@@ -17,6 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Multi-modal Generative Models in Recommendation System**|Arnau Ramisa et.al.|[2409.10993](http://arxiv.org/abs/2409.10993)|null|
+|**2024-09-17**|**A Best-of-Both Approach to Improve Match Predictions and Reciprocal Recommendations for Job Search**|Shuhei Goda et.al.|[2409.10992](http://arxiv.org/abs/2409.10992)|null|
+|**2024-09-17**|**Challenging Fairness: A Comprehensive Exploration of Bias in LLM-Based Recommendations**|Shahnewaz Karim Sakib et.al.|[2409.10825](http://arxiv.org/abs/2409.10825)|null|
+|**2024-09-16**|**Semantics Preserving Emoji Recommendation with Large Language Models**|Zhongyi Qiu et.al.|[2409.10760](http://arxiv.org/abs/2409.10760)|null|
+|**2024-09-16**|**Development of Data Evaluation Benchmark for Data Wrangling Recommendation System**|Yuqing Wang et.al.|[2409.10635](http://arxiv.org/abs/2409.10635)|null|
+|**2024-08-30**|**Bridging User Dynamics: Transforming Sequential Recommendations with Schrödinger Bridge and Diffusion Models**|Wenjia Xie et.al.|[2409.10522](http://arxiv.org/abs/2409.10522)|null|
+|**2024-08-30**|**Achieving Responsible AI through ESG: Insights and Recommendations from Industry Engagement**|Harsha Perera et.al.|[2409.10520](http://arxiv.org/abs/2409.10520)|null|
 |**2024-09-16**|**Incorporating Classifier-Free Guidance in Diffusion Model-Based Recommendation**|Noah Buchanan et.al.|[2409.10494](http://arxiv.org/abs/2409.10494)|null|
 |**2024-09-16**|**Large Language Model Enhanced Hard Sample Identification for Denoising Recommendation**|Tianrui Song et.al.|[2409.10343](http://arxiv.org/abs/2409.10343)|null|
 |**2024-09-16**|**Enhancing Personalized Recipe Recommendation Through Multi-Class Classification**|Harish Neelam et.al.|[2409.10267](http://arxiv.org/abs/2409.10267)|null|
