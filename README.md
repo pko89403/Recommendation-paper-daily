@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.17
+## Updated on 2024.09.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 |**2024-09-16**|**Enhancing Personalized Recipe Recommendation Through Multi-Class Classification**|Harish Neelam et.al.|[2409.10267](http://arxiv.org/abs/2409.10267)|null|
 |**2024-09-15**|**From Challenges and Pitfalls to Recommendations and Opportunities: Implementing Federated Learning in Healthcare**|Ming Li et.al.|[2409.09727](http://arxiv.org/abs/2409.09727)|null|
 |**2024-09-15**|**Measuring Recency Bias In Sequential Recommendation Systems**|Jeonglyul Oh et.al.|[2409.09722](http://arxiv.org/abs/2409.09722)|null|
-|**2024-09-15**|**AACessTalk: Fostering Communication between Minimally Verbal Autistic Children and Parents with Contextual Guidance and Card Recommendation**|Dasom Choi et.al.|[2409.09641](http://arxiv.org/abs/2409.09641)|null|
+|**2024-09-17**|**AACessTalk: Fostering Communication between Minimally Verbal Autistic Children and Parents with Contextual Guidance and Card Recommendation**|Dasom Choi et.al.|[2409.09641](http://arxiv.org/abs/2409.09641)|null|
 |**2024-09-15**|**Multi-view Hypergraph-based Contrastive Learning Model for Cold-Start Micro-video Recommendation**|Sisuo Lyu et.al.|[2409.09638](http://arxiv.org/abs/2409.09638)|null|
 |**2024-09-14**|**Unleash LLMs Potential for Recommendation by Coordinating Twin-Tower Dynamic Semantic Token Generator**|Jun Yin et.al.|[2409.09253](http://arxiv.org/abs/2409.09253)|null|
 |**2024-09-13**|**Proactive Recommendation in Social Networks: Steering User Interest via Neighbor Influence**|Hang Pan et.al.|[2409.08934](http://arxiv.org/abs/2409.08934)|null|
@@ -562,7 +562,7 @@
 |**2024-03-07**|**Disaggregated Multi-Tower: Topology-aware Modeling Technique for Efficient Large-Scale Recommendation**|Liang Luo et.al.|[2403.00877](http://arxiv.org/abs/2403.00877)|null|
 |**2024-03-01**|**A Survey of Route Recommendations: Methods, Applications, and Opportunities**|Shiming Zhang et.al.|[2403.00284](http://arxiv.org/abs/2403.00284)|null|
 
-<p align=right>(<a href=#updated-on-20240917>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240918>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
