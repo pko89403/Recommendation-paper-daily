@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.18
+## Updated on 2024.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-09-17**|**Multi-modal Generative Models in Recommendation System**|Arnau Ramisa et.al.|[2409.10993](http://arxiv.org/abs/2409.10993)|null|
-|**2024-09-17**|**A Best-of-Both Approach to Improve Match Predictions and Reciprocal Recommendations for Job Search**|Shuhei Goda et.al.|[2409.10992](http://arxiv.org/abs/2409.10992)|null|
+|**2024-09-18**|**A Best-of-Both Approach to Improve Match Predictions and Reciprocal Recommendations for Job Search**|Shuhei Goda et.al.|[2409.10992](http://arxiv.org/abs/2409.10992)|null|
 |**2024-09-17**|**Challenging Fairness: A Comprehensive Exploration of Bias in LLM-Based Recommendations**|Shahnewaz Karim Sakib et.al.|[2409.10825](http://arxiv.org/abs/2409.10825)|null|
 |**2024-09-16**|**Semantics Preserving Emoji Recommendation with Large Language Models**|Zhongyi Qiu et.al.|[2409.10760](http://arxiv.org/abs/2409.10760)|null|
 |**2024-09-16**|**Development of Data Evaluation Benchmark for Data Wrangling Recommendation System**|Yuqing Wang et.al.|[2409.10635](http://arxiv.org/abs/2409.10635)|null|
@@ -569,7 +569,7 @@
 |**2024-03-07**|**Disaggregated Multi-Tower: Topology-aware Modeling Technique for Efficient Large-Scale Recommendation**|Liang Luo et.al.|[2403.00877](http://arxiv.org/abs/2403.00877)|null|
 |**2024-03-01**|**A Survey of Route Recommendations: Methods, Applications, and Opportunities**|Shiming Zhang et.al.|[2403.00284](http://arxiv.org/abs/2403.00284)|null|
 
-<p align=right>(<a href=#updated-on-20240918>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240919>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

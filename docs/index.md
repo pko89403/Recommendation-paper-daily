@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.18
+## Updated on 2024.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-17**|**Multi-modal Generative Models in Recommendation System**|Arnau Ramisa et.al.|[2409.10993](http://arxiv.org/abs/2409.10993)|null|
-|**2024-09-17**|**A Best-of-Both Approach to Improve Match Predictions and Reciprocal Recommendations for Job Search**|Shuhei Goda et.al.|[2409.10992](http://arxiv.org/abs/2409.10992)|null|
+|**2024-09-18**|**A Best-of-Both Approach to Improve Match Predictions and Reciprocal Recommendations for Job Search**|Shuhei Goda et.al.|[2409.10992](http://arxiv.org/abs/2409.10992)|null|
 |**2024-09-17**|**Challenging Fairness: A Comprehensive Exploration of Bias in LLM-Based Recommendations**|Shahnewaz Karim Sakib et.al.|[2409.10825](http://arxiv.org/abs/2409.10825)|null|
 |**2024-09-16**|**Semantics Preserving Emoji Recommendation with Large Language Models**|Zhongyi Qiu et.al.|[2409.10760](http://arxiv.org/abs/2409.10760)|null|
 |**2024-09-16**|**Development of Data Evaluation Benchmark for Data Wrangling Recommendation System**|Yuqing Wang et.al.|[2409.10635](http://arxiv.org/abs/2409.10635)|null|
