@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-24**|**TiM4Rec: An Efficient Sequential Recommendation Model Based on Time-Aware Structured State Space Duality Model**|Hao Fan et.al.|[2409.16182](http://arxiv.org/abs/2409.16182)|null|
+|**2024-09-24**|**Creating Healthy Friction: Determining Stakeholder Requirements of Job Recommendation Explanations**|Roan Schellingerhout et.al.|[2409.15971](http://arxiv.org/abs/2409.15971)|**[link](https://github.com/roan-schellingerhout/evaluating_job_recommendations)**|
+|**2024-09-24**|**Ducho meets Elliot: Large-scale Benchmarks for Multimodal Recommendation**|Matteo Attimonelli et.al.|[2409.15857](http://arxiv.org/abs/2409.15857)|**[link](https://github.com/sisinflab/Ducho-meets-Elliot)**|
+|**2024-09-19**|**Enhancing Performance and Scalability of Large-Scale Recommendation Systems with Jagged Flash Attention**|Rengan Xu et.al.|[2409.15373](http://arxiv.org/abs/2409.15373)|null|
+|**2024-09-18**|**Recommendation with Generative Models**|Yashar Deldjoo et.al.|[2409.15173](http://arxiv.org/abs/2409.15173)|null|
+|**2024-09-23**|**Pre-trained Language Model and Knowledge Distillation for Lightweight Sequential Recommendation**|Li Li et.al.|[2409.14810](http://arxiv.org/abs/2409.14810)|null|
+|**2024-09-23**|**Robust Training Objectives Improve Embedding-based Retrieval in Industrial Recommendation Systems**|Matthew Kolodner et.al.|[2409.14682](http://arxiv.org/abs/2409.14682)|null|
+|**2024-09-21**|**Personalized Route Recommendation Based on User Habits for Vehicle Navigation**|Yinuo Huang et.al.|[2409.14047](http://arxiv.org/abs/2409.14047)|null|
+|**2024-09-20**|**Beauty Beyond Words: Explainable Beauty Product Recommendations Using Ingredient-Based Product Attributes**|Siliang Liu et.al.|[2409.13628](http://arxiv.org/abs/2409.13628)|null|
+|**2024-09-20**|**Data Augmentation for Sequential Recommendation: A Survey**|Yizhou Dang et.al.|[2409.13545](http://arxiv.org/abs/2409.13545)|**[link](https://github.com/kinggugu/da-cl-4rec)**|
+|**2024-09-20**|**Designing an Intervention Tool for End-User Algorithm Audits in Personalized Recommendation Systems**|Qunfang Wu et.al.|[2409.13176](http://arxiv.org/abs/2409.13176)|null|
+|**2024-09-19**|**HLLM: Enhancing Sequential Recommendations via Hierarchical Large Language Models for Item and User Modeling**|Junyi Chen et.al.|[2409.12740](http://arxiv.org/abs/2409.12740)|**[link](https://github.com/bytedance/hllm)**|
+|**2024-09-19**|**When SparseMoE Meets Noisy Interactions: An Ensemble View on Denoising Recommendation**|Weipu Chen et.al.|[2409.12730](http://arxiv.org/abs/2409.12730)|**[link](https://github.com/cpu9xx/ael)**|
 |**2024-09-18**|**Decoding Style: Efficient Fine-Tuning of LLMs for Image-Guided Outfit Recommendation with Preference**|Najmeh Forouzandehmehr et.al.|[2409.12150](http://arxiv.org/abs/2409.12150)|null|
 |**2024-09-18**|**Basket-Enhanced Heterogenous Hypergraph for Price-Sensitive Next Basket Recommendation**|Yuening Zhou et.al.|[2409.11695](http://arxiv.org/abs/2409.11695)|null|
 |**2024-09-17**|**Multi-modal Generative Models in Recommendation System**|Arnau Ramisa et.al.|[2409.10993](http://arxiv.org/abs/2409.10993)|null|
@@ -571,7 +584,7 @@
 |**2024-03-07**|**Disaggregated Multi-Tower: Topology-aware Modeling Technique for Efficient Large-Scale Recommendation**|Liang Luo et.al.|[2403.00877](http://arxiv.org/abs/2403.00877)|null|
 |**2024-03-01**|**A Survey of Route Recommendations: Methods, Applications, and Opportunities**|Shiming Zhang et.al.|[2403.00284](http://arxiv.org/abs/2403.00284)|null|
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
