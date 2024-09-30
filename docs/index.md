@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-27**|**Scalable Cross-Entropy Loss for Sequential Recommendations with Large Item Catalogs**|Gleb Mezentsev et.al.|[2409.18721](http://arxiv.org/abs/2409.18721)|null|
+|**2024-09-27**|**Handling Missingness, Failures, and Non-Convergence in Simulation Studies: A Review of Current Practices and Recommendations**|Samuel Pawel et.al.|[2409.18527](http://arxiv.org/abs/2409.18527)|null|
+|**2024-09-26**|**Demystifying dust contamination in quantum optics labs: measurements and recommendations**|Jonas Gottschalk et.al.|[2409.18325](http://arxiv.org/abs/2409.18325)|null|
 |**2024-09-26**|**A Multimodal Single-Branch Embedding Network for Recommendation in Cold-Start and Missing Modality Scenarios**|Christian Ganhör et.al.|[2409.17864](http://arxiv.org/abs/2409.17864)|null|
 |**2024-09-26**|**Autoregressive Generation Strategies for Top-K Sequential Recommendations**|Anna Volodkevich et.al.|[2409.17730](http://arxiv.org/abs/2409.17730)|null|
 |**2024-09-26**|**Efficient Pointwise-Pairwise Learning-to-Rank for News Recommendation**|Nithish Kannen et.al.|[2409.17711](http://arxiv.org/abs/2409.17711)|null|
