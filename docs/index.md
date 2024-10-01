@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-30**|**RecSys Challenge 2024: Balancing Accuracy and Editorial Values in News Recommendations**|Johannes Kruse et.al.|[2409.20483](http://arxiv.org/abs/2409.20483)|null|
+|**2024-09-30**|**Mixed-Precision Embeddings for Large-Scale Recommendation Models**|Shiwei Li et.al.|[2409.20305](http://arxiv.org/abs/2409.20305)|null|
+|**2024-09-30**|**Large Language Model Empowered Embedding Generator for Sequential Recommendation**|Qidong Liu et.al.|[2409.19925](http://arxiv.org/abs/2409.19925)|null|
+|**2024-09-30**|**The Unique Taste of LLMs for Papers: Potential issues in Using LLMs for Digital Library Document Recommendation Tasks**|Yifan Tian et.al.|[2409.19868](http://arxiv.org/abs/2409.19868)|null|
+|**2024-09-29**|**The Devil is in the Sources! Knowledge Enhanced Cross-Domain Recommendation in an Information Bottleneck Perspective**|Binbin Hu et.al.|[2409.19574](http://arxiv.org/abs/2409.19574)|null|
+|**2024-09-28**|**Utilizing Collaborative Filtering in a Personalized Research-Paper Recommendation System**|Mahamudul Hasan et.al.|[2409.19267](http://arxiv.org/abs/2409.19267)|null|
+|**2024-09-28**|**An Efficient Multi-threaded Collaborative Filtering Approach in Recommendation System**|Mahamudul Hasan et.al.|[2409.19262](http://arxiv.org/abs/2409.19262)|null|
+|**2024-09-27**|**TTT4Rec: A Test-Time Training Approach for Rapid Adaption in Sequential Recommendation**|Zhaoqi Yang et.al.|[2409.19142](http://arxiv.org/abs/2409.19142)|**[link](https://github.com/zhaoqizachyang/ttt4rec)**|
 |**2024-09-27**|**Scalable Cross-Entropy Loss for Sequential Recommendations with Large Item Catalogs**|Gleb Mezentsev et.al.|[2409.18721](http://arxiv.org/abs/2409.18721)|null|
 |**2024-09-27**|**Handling Missingness, Failures, and Non-Convergence in Simulation Studies: A Review of Current Practices and Recommendations**|Samuel Pawel et.al.|[2409.18527](http://arxiv.org/abs/2409.18527)|null|
 |**2024-09-26**|**Demystifying dust contamination in quantum optics labs: measurements and recommendations**|Jonas Gottschalk et.al.|[2409.18325](http://arxiv.org/abs/2409.18325)|null|
