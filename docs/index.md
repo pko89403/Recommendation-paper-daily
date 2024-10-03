@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-02**|**Elaborative Subtopic Query Reformulation for Broad and Indirect Queries in Travel Destination Recommendation**|Qianfeng Wen et.al.|[2410.01598](http://arxiv.org/abs/2410.01598)|**[link](https://github.com/yifanliu2/roegen-recsys-24-eqr)**|
+|**2024-10-01**|**Augmenting team diversity and performance by enabling agency and fairness criteria in recommendation algorithms**|Diego Gomez-Zara et.al.|[2410.00346](http://arxiv.org/abs/2410.00346)|null|
 |**2024-09-30**|**RecSys Challenge 2024: Balancing Accuracy and Editorial Values in News Recommendations**|Johannes Kruse et.al.|[2409.20483](http://arxiv.org/abs/2409.20483)|null|
 |**2024-09-30**|**Mixed-Precision Embeddings for Large-Scale Recommendation Models**|Shiwei Li et.al.|[2409.20305](http://arxiv.org/abs/2409.20305)|null|
 |**2024-09-30**|**Large Language Model Empowered Embedding Generator for Sequential Recommendation**|Qidong Liu et.al.|[2409.19925](http://arxiv.org/abs/2409.19925)|**[link](https://github.com/liuqidong07/LLMEmb)**|
@@ -32,7 +34,7 @@ layout: default
 |**2024-09-11**|**Mamba for Scalable and Efficient Personalized Recommendations**|Andrew Starnes et.al.|[2409.17165](http://arxiv.org/abs/2409.17165)|null|
 |**2024-10-01**|**A Prompting-Based Representation Learning Method for Recommendation with Large Language Models**|Junyi Chen et.al.|[2409.16674](http://arxiv.org/abs/2409.16674)|null|
 |**2024-09-25**|**PIFS-Rec: Process-In-Fabric-Switch for Large-Scale Recommendation System Inferences**|Pingyi Huo et.al.|[2409.16633](http://arxiv.org/abs/2409.16633)|null|
-|**2024-09-25**|**Train Once, Deploy Anywhere: Matryoshka Representation Learning for Multimodal Recommendation**|Yueqi Wang et.al.|[2409.16627](http://arxiv.org/abs/2409.16627)|null|
+|**2024-10-02**|**Train Once, Deploy Anywhere: Matryoshka Representation Learning for Multimodal Recommendation**|Yueqi Wang et.al.|[2409.16627](http://arxiv.org/abs/2409.16627)|**[link](https://github.com/yueqirex/fmrlrec)**|
 |**2024-09-24**|**TiM4Rec: An Efficient Sequential Recommendation Model Based on Time-Aware Structured State Space Duality Model**|Hao Fan et.al.|[2409.16182](http://arxiv.org/abs/2409.16182)|null|
 |**2024-09-24**|**Creating Healthy Friction: Determining Stakeholder Requirements of Job Recommendation Explanations**|Roan Schellingerhout et.al.|[2409.15971](http://arxiv.org/abs/2409.15971)|**[link](https://github.com/roan-schellingerhout/evaluating_job_recommendations)**|
 |**2024-09-24**|**Ducho meets Elliot: Large-scale Benchmarks for Multimodal Recommendation**|Matteo Attimonelli et.al.|[2409.15857](http://arxiv.org/abs/2409.15857)|**[link](https://github.com/sisinflab/Ducho-meets-Elliot)**|
