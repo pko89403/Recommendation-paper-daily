@@ -14,8 +14,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-07**|**Are causal effect estimations enough for optimal recommendations under multitreatment scenarios?**|Sherly Alfonso-Sánchez et.al.|[2410.05177](http://arxiv.org/abs/2410.05177)|null|
+|**2024-10-07**|**Efficient Inference for Large Language Model-based Generative Recommendation**|Xinyu Lin et.al.|[2410.05165](http://arxiv.org/abs/2410.05165)|null|
+|**2024-10-07**|**Leverage Knowledge Graph and Large Language Model for Law Article Recommendation: A Case Study of Chinese Criminal Law**|Yongming Chen et.al.|[2410.04949](http://arxiv.org/abs/2410.04949)|null|
+|**2024-10-07**|**FELLAS: Enhancing Federated Sequential Recommendation with LLM as External Services**|Wei Yuan et.al.|[2410.04927](http://arxiv.org/abs/2410.04927)|null|
+|**2024-10-07**|**Why am I seeing this: Democratizing End User Auditing for Online Content Recommendations**|Chaoran Chen et.al.|[2410.04917](http://arxiv.org/abs/2410.04917)|null|
+|**2024-10-07**|**Item Cluster-aware Prompt Learning for Session-based Recommendation**|Wooseong Yang et.al.|[2410.04756](http://arxiv.org/abs/2410.04756)|null|
+|**2024-10-06**|**Modeling Social Media Recommendation Impacts Using Academic Networks: A Graph Neural Network Approach**|Sabrina Guidotti et.al.|[2410.04552](http://arxiv.org/abs/2410.04552)|null|
+|**2024-10-06**|**Social Choice for Heterogeneous Fairness in Recommendation**|Amanda Aird et.al.|[2410.04551](http://arxiv.org/abs/2410.04551)|null|
+|**2024-10-04**|**Explaining the (Not So) Obvious: Simple and Fast Explanation of STAN, a Next Point of Interest Recommendation System**|Fajrian Yunus et.al.|[2410.03841](http://arxiv.org/abs/2410.03841)|null|
 |**2024-10-04**|**EB-NeRD: A Large-Scale Dataset for News Recommendation**|Johannes Kruse et.al.|[2410.03432](http://arxiv.org/abs/2410.03432)|null|
-|**2024-10-04**|**Multimodal Point-of-Interest Recommendation**|Yuta Kanzawa et.al.|[2410.03265](http://arxiv.org/abs/2410.03265)|null|
+|**2024-10-07**|**Multimodal Point-of-Interest Recommendation**|Yuta Kanzawa et.al.|[2410.03265](http://arxiv.org/abs/2410.03265)|null|
 |**2024-10-03**|**Vehicle Suspension Recommendation System: Multi-Fidelity Neural Network-based Mechanism Design Optimization**|Sumin Lee et.al.|[2410.03045](http://arxiv.org/abs/2410.03045)|null|
 |**2024-10-03**|**Inductive Generative Recommendation via Retrieval-based Speculation**|Yijie Ding et.al.|[2410.02939](http://arxiv.org/abs/2410.02939)|**[link](https://github.com/jamesding000/specgr)**|
 |**2024-10-03**|**Cognitive Biases in Large Language Models for News Recommendation**|Yougang Lyu et.al.|[2410.02897](http://arxiv.org/abs/2410.02897)|null|
@@ -28,7 +37,7 @@ layout: default
 |**2024-10-02**|**Elaborative Subtopic Query Reformulation for Broad and Indirect Queries in Travel Destination Recommendation**|Qianfeng Wen et.al.|[2410.01598](http://arxiv.org/abs/2410.01598)|**[link](https://github.com/yifanliu2/roegen-recsys-24-eqr)**|
 |**2024-10-01**|**Augmenting team diversity and performance by enabling agency and fairness criteria in recommendation algorithms**|Diego Gomez-Zara et.al.|[2410.00346](http://arxiv.org/abs/2410.00346)|null|
 |**2024-09-30**|**RecSys Challenge 2024: Balancing Accuracy and Editorial Values in News Recommendations**|Johannes Kruse et.al.|[2409.20483](http://arxiv.org/abs/2409.20483)|null|
-|**2024-09-30**|**Mixed-Precision Embeddings for Large-Scale Recommendation Models**|Shiwei Li et.al.|[2409.20305](http://arxiv.org/abs/2409.20305)|null|
+|**2024-09-30**|**Mixed-Precision Embeddings for Large-Scale Recommendation Models**|Shiwei Li et.al.|[2409.20305](http://arxiv.org/abs/2409.20305)|**[link](https://github.com/leopold1423/mpe)**|
 |**2024-09-30**|**Large Language Model Empowered Embedding Generator for Sequential Recommendation**|Qidong Liu et.al.|[2409.19925](http://arxiv.org/abs/2409.19925)|**[link](https://github.com/liuqidong07/LLMEmb)**|
 |**2024-10-01**|**The Unique Taste of LLMs for Papers: Potential issues in Using LLMs for Digital Library Document Recommendation Tasks**|Yifan Tian et.al.|[2409.19868](http://arxiv.org/abs/2409.19868)|null|
 |**2024-09-29**|**The Devil is in the Sources! Knowledge Enhanced Cross-Domain Recommendation in an Information Bottleneck Perspective**|Binbin Hu et.al.|[2409.19574](http://arxiv.org/abs/2409.19574)|null|
