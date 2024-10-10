@@ -14,10 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-08**|**RLRF4Rec: Reinforcement Learning from Recsys Feedback for Enhanced Recommendation Reranking**|Chao Sun et.al.|[2410.05939](http://arxiv.org/abs/2410.05939)|null|
+|**2024-10-08**|**MDAP: A Multi-view Disentangled and Adaptive Preference Learning Framework for Cross-Domain Recommendation**|Junxiong Tong et.al.|[2410.05877](http://arxiv.org/abs/2410.05877)|null|
+|**2024-10-08**|**A Parameter Update Balancing Algorithm for Multi-task Ranking Models in Recommendation Systems**|Jun Yuan et.al.|[2410.05806](http://arxiv.org/abs/2410.05806)|null|
+|**2024-10-08**|**Stereotype or Personalization? User Identity Biases Chatbot Recommendations**|Anjali Kantharuban et.al.|[2410.05613](http://arxiv.org/abs/2410.05613)|null|
+|**2024-10-07**|**Constructing and Masking Preference Profile with LLMs for Filtering Discomforting Recommendation**|Jiahao Liu et.al.|[2410.05411](http://arxiv.org/abs/2410.05411)|null|
 |**2024-10-07**|**Are causal effect estimations enough for optimal recommendations under multitreatment scenarios?**|Sherly Alfonso-Sánchez et.al.|[2410.05177](http://arxiv.org/abs/2410.05177)|null|
 |**2024-10-08**|**Efficient Inference for Large Language Model-based Generative Recommendation**|Xinyu Lin et.al.|[2410.05165](http://arxiv.org/abs/2410.05165)|null|
 |**2024-10-07**|**Leverage Knowledge Graph and Large Language Model for Law Article Recommendation: A Case Study of Chinese Criminal Law**|Yongming Chen et.al.|[2410.04949](http://arxiv.org/abs/2410.04949)|null|
-|**2024-10-07**|**FELLAS: Enhancing Federated Sequential Recommendation with LLM as External Services**|Wei Yuan et.al.|[2410.04927](http://arxiv.org/abs/2410.04927)|null|
+|**2024-10-09**|**FELLAS: Enhancing Federated Sequential Recommendation with LLM as External Services**|Wei Yuan et.al.|[2410.04927](http://arxiv.org/abs/2410.04927)|null|
 |**2024-10-07**|**Why am I seeing this: Democratizing End User Auditing for Online Content Recommendations**|Chaoran Chen et.al.|[2410.04917](http://arxiv.org/abs/2410.04917)|null|
 |**2024-10-07**|**Item Cluster-aware Prompt Learning for Session-based Recommendation**|Wooseong Yang et.al.|[2410.04756](http://arxiv.org/abs/2410.04756)|null|
 |**2024-10-06**|**Modeling Social Media Recommendation Impacts Using Academic Networks: A Graph Neural Network Approach**|Sabrina Guidotti et.al.|[2410.04552](http://arxiv.org/abs/2410.04552)|null|
