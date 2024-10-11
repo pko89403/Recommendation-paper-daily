@@ -14,8 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**DISCO: A Hierarchical Disentangled Cognitive Diagnosis Framework for Interpretable Job Recommendation**|Xiaoshan Yu et.al.|[2410.07671](http://arxiv.org/abs/2410.07671)|null|
+|**2024-10-10**|**Firzen: Firing Strict Cold-Start Items with Frozen Heterogeneous and Homogeneous Graphs for Recommendation**|Hulingxiao He et.al.|[2410.07654](http://arxiv.org/abs/2410.07654)|**[link](https://github.com/pku-icst-mipl/firzen_icde2024)**|
+|**2024-09-26**|**Neural Contrast: Leveraging Generative Editing for Graphic Design Recommendations**|Marian Lupascu et.al.|[2410.07211](http://arxiv.org/abs/2410.07211)|null|
 |**2024-10-08**|**RLRF4Rec: Reinforcement Learning from Recsys Feedback for Enhanced Recommendation Reranking**|Chao Sun et.al.|[2410.05939](http://arxiv.org/abs/2410.05939)|null|
-|**2024-10-08**|**MDAP: A Multi-view Disentangled and Adaptive Preference Learning Framework for Cross-Domain Recommendation**|Junxiong Tong et.al.|[2410.05877](http://arxiv.org/abs/2410.05877)|null|
+|**2024-10-08**|**MDAP: A Multi-view Disentangled and Adaptive Preference Learning Framework for Cross-Domain Recommendation**|Junxiong Tong et.al.|[2410.05877](http://arxiv.org/abs/2410.05877)|**[link](https://github.com/the-garden-of-sinner/mdap)**|
 |**2024-10-08**|**A Parameter Update Balancing Algorithm for Multi-task Ranking Models in Recommendation Systems**|Jun Yuan et.al.|[2410.05806](http://arxiv.org/abs/2410.05806)|null|
 |**2024-10-08**|**Stereotype or Personalization? User Identity Biases Chatbot Recommendations**|Anjali Kantharuban et.al.|[2410.05613](http://arxiv.org/abs/2410.05613)|null|
 |**2024-10-07**|**Constructing and Masking Preference Profile with LLMs for Filtering Discomforting Recommendation**|Jiahao Liu et.al.|[2410.05411](http://arxiv.org/abs/2410.05411)|null|
