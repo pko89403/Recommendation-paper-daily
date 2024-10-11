@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.10
+## Updated on 2024.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -63,7 +63,7 @@
 |**2024-10-01**|**A Prompting-Based Representation Learning Method for Recommendation with Large Language Models**|Junyi Chen et.al.|[2409.16674](http://arxiv.org/abs/2409.16674)|null|
 |**2024-09-25**|**PIFS-Rec: Process-In-Fabric-Switch for Large-Scale Recommendation System Inferences**|Pingyi Huo et.al.|[2409.16633](http://arxiv.org/abs/2409.16633)|null|
 |**2024-10-02**|**Train Once, Deploy Anywhere: Matryoshka Representation Learning for Multimodal Recommendation**|Yueqi Wang et.al.|[2409.16627](http://arxiv.org/abs/2409.16627)|**[link](https://github.com/yueqirex/fmrlrec)**|
-|**2024-09-24**|**TiM4Rec: An Efficient Sequential Recommendation Model Based on Time-Aware Structured State Space Duality Model**|Hao Fan et.al.|[2409.16182](http://arxiv.org/abs/2409.16182)|null|
+|**2024-10-10**|**TiM4Rec: An Efficient Sequential Recommendation Model Based on Time-Aware Structured State Space Duality Model**|Hao Fan et.al.|[2409.16182](http://arxiv.org/abs/2409.16182)|null|
 |**2024-09-24**|**Creating Healthy Friction: Determining Stakeholder Requirements of Job Recommendation Explanations**|Roan Schellingerhout et.al.|[2409.15971](http://arxiv.org/abs/2409.15971)|**[link](https://github.com/roan-schellingerhout/evaluating_job_recommendations)**|
 |**2024-09-24**|**Ducho meets Elliot: Large-scale Benchmarks for Multimodal Recommendation**|Matteo Attimonelli et.al.|[2409.15857](http://arxiv.org/abs/2409.15857)|**[link](https://github.com/sisinflab/Ducho-meets-Elliot)**|
 |**2024-09-19**|**Enhancing Performance and Scalability of Large-Scale Recommendation Systems with Jagged Flash Attention**|Rengan Xu et.al.|[2409.15373](http://arxiv.org/abs/2409.15373)|null|
@@ -630,7 +630,7 @@
 |**2024-03-07**|**Disaggregated Multi-Tower: Topology-aware Modeling Technique for Efficient Large-Scale Recommendation**|Liang Luo et.al.|[2403.00877](http://arxiv.org/abs/2403.00877)|null|
 |**2024-03-01**|**A Survey of Route Recommendations: Methods, Applications, and Opportunities**|Shiming Zhang et.al.|[2403.00284](http://arxiv.org/abs/2403.00284)|null|
 
-<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241011>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
