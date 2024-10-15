@@ -17,8 +17,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-14**|**A Personalized MOOC Learning Group and Course Recommendation Method Based on Graph Neural Network and Social Network Analysis**|Zijin Luo et.al.|[2410.10658](http://arxiv.org/abs/2410.10658)|null|
+|**2024-10-14**|**Generating Model Parameters for Controlling: Parameter Diffusion for Controllable Multi-Task Recommendation**|Chenglei Shen et.al.|[2410.10639](http://arxiv.org/abs/2410.10639)|null|
+|**2024-10-14**|**A Hybrid Filtering for Micro-video Hashtag Recommendation using Graph-based Deep Neural Network**|Shubhi Bansal et.al.|[2410.10367](http://arxiv.org/abs/2410.10367)|null|
+|**2024-10-14**|**Enhancing Attributed Graph Networks with Alignment and Uniformity Constraints for Session-based Recommendation**|Xinping Zhao et.al.|[2410.10296](http://arxiv.org/abs/2410.10296)|**[link](https://github.com/itsukifujii/attrgau)**|
+|**2024-10-14**|**DecKG: Decentralized Collaborative Learning with Knowledge Graph Enhancement for POI Recommendation**|Ruiqi Zheng et.al.|[2410.10130](http://arxiv.org/abs/2410.10130)|null|
+|**2024-10-13**|**Analysis and Design of a Personalized Recommendation System Based on a Dynamic User Interest Model**|Chunyan Mao et.al.|[2410.09923](http://arxiv.org/abs/2410.09923)|null|
+|**2024-10-12**|**SAPIENT: Mastering Multi-turn Conversational Recommendation with Strategic Planning and Monte Carlo Tree Search**|Hanwen Du et.al.|[2410.09580](http://arxiv.org/abs/2410.09580)|null|
+|**2024-10-12**|**Towards Scalable Semantic Representation for Recommendation**|Taolin Zhang et.al.|[2410.09560](http://arxiv.org/abs/2410.09560)|null|
+|**2024-10-12**|**Eco-Aware Graph Neural Networks for Sustainable Recommendations**|Antonio Purificato et.al.|[2410.09514](http://arxiv.org/abs/2410.09514)|**[link](https://github.com/antoniopurificato/gnn_recommendation_and_environment)**|
 |**2024-10-11**|**Intent-Enhanced Data Augmentation for Sequential Recommendation**|Shuai Chen et.al.|[2410.08583](http://arxiv.org/abs/2410.08583)|null|
-|**2024-10-11**|**Personalized Item Embeddings in Federated Multimodal Recommendation**|Zhiwei Li et.al.|[2410.08478](http://arxiv.org/abs/2410.08478)|null|
+|**2024-10-14**|**Personalized Item Representations in Federated Multimodal Recommendation**|Zhiwei Li et.al.|[2410.08478](http://arxiv.org/abs/2410.08478)|null|
 |**2024-10-10**|**Federated Graph Learning for Cross-Domain Recommendation**|Ziqi Yang et.al.|[2410.08249](http://arxiv.org/abs/2410.08249)|null|
 |**2024-10-10**|**DISCO: A Hierarchical Disentangled Cognitive Diagnosis Framework for Interpretable Job Recommendation**|Xiaoshan Yu et.al.|[2410.07671](http://arxiv.org/abs/2410.07671)|null|
 |**2024-10-10**|**Firzen: Firing Strict Cold-Start Items with Frozen Heterogeneous and Homogeneous Graphs for Recommendation**|Hulingxiao He et.al.|[2410.07654](http://arxiv.org/abs/2410.07654)|**[link](https://github.com/pku-icst-mipl/firzen_icde2024)**|
