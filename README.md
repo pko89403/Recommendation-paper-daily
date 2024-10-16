@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.15
+## Updated on 2024.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -29,7 +29,7 @@
 |**2024-10-11**|**Intent-Enhanced Data Augmentation for Sequential Recommendation**|Shuai Chen et.al.|[2410.08583](http://arxiv.org/abs/2410.08583)|null|
 |**2024-10-14**|**Personalized Item Representations in Federated Multimodal Recommendation**|Zhiwei Li et.al.|[2410.08478](http://arxiv.org/abs/2410.08478)|null|
 |**2024-10-10**|**Federated Graph Learning for Cross-Domain Recommendation**|Ziqi Yang et.al.|[2410.08249](http://arxiv.org/abs/2410.08249)|null|
-|**2024-10-10**|**DISCO: A Hierarchical Disentangled Cognitive Diagnosis Framework for Interpretable Job Recommendation**|Xiaoshan Yu et.al.|[2410.07671](http://arxiv.org/abs/2410.07671)|null|
+|**2024-10-15**|**DISCO: A Hierarchical Disentangled Cognitive Diagnosis Framework for Interpretable Job Recommendation**|Xiaoshan Yu et.al.|[2410.07671](http://arxiv.org/abs/2410.07671)|null|
 |**2024-10-10**|**Firzen: Firing Strict Cold-Start Items with Frozen Heterogeneous and Homogeneous Graphs for Recommendation**|Hulingxiao He et.al.|[2410.07654](http://arxiv.org/abs/2410.07654)|**[link](https://github.com/pku-icst-mipl/firzen_icde2024)**|
 |**2024-09-26**|**Neural Contrast: Leveraging Generative Editing for Graphic Design Recommendations**|Marian Lupascu et.al.|[2410.07211](http://arxiv.org/abs/2410.07211)|null|
 |**2024-10-08**|**RLRF4Rec: Reinforcement Learning from Recsys Feedback for Enhanced Recommendation Reranking**|Chao Sun et.al.|[2410.05939](http://arxiv.org/abs/2410.05939)|null|
@@ -645,7 +645,7 @@
 |**2024-03-07**|**Disaggregated Multi-Tower: Topology-aware Modeling Technique for Efficient Large-Scale Recommendation**|Liang Luo et.al.|[2403.00877](http://arxiv.org/abs/2403.00877)|null|
 |**2024-03-01**|**A Survey of Route Recommendations: Methods, Applications, and Opportunities**|Shiming Zhang et.al.|[2403.00284](http://arxiv.org/abs/2403.00284)|null|
 
-<p align=right>(<a href=#updated-on-20241015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241016>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
