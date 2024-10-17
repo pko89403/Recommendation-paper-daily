@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-16**|**Triple Modality Fusion: Aligning Visual, Textual, and Graph Data with Large Language Models for Multi-Behavior Recommendations**|Luyi Ma et.al.|[2410.12228](http://arxiv.org/abs/2410.12228)|null|
+|**2024-10-15**|**The Moral Case for Using Language Model Agents for Recommendation**|Seth Lazar et.al.|[2410.12123](http://arxiv.org/abs/2410.12123)|null|
+|**2024-10-15**|**Improving Digital Mentorship: Insights and Recommendations from the Re:Coded Community Platform Case Study**|Huda Najm Alabbas et.al.|[2410.11912](http://arxiv.org/abs/2410.11912)|null|
+|**2024-10-06**|**Comparing Zealous and Restrained AI Recommendations in a Real-World Human-AI Collaboration Task**|Chengyuan Xu et.al.|[2410.11860](http://arxiv.org/abs/2410.11860)|null|
 |**2024-10-15**|**GaVaMoE: Gaussian-Variational Gated Mixture of Experts for Explainable Recommendation**|Fei Tang et.al.|[2410.11841](http://arxiv.org/abs/2410.11841)|null|
 |**2024-10-15**|**Adaptive Coordinators and Prompts on Heterogeneous Graphs for Cross-Domain Recommendations**|Hengyu Zhang et.al.|[2410.11719](http://arxiv.org/abs/2410.11719)|null|
 |**2024-10-15**|**CoActionGraphRec: Sequential Multi-Interest Recommendations Using Co-Action Graphs**|Yi Sun et.al.|[2410.11464](http://arxiv.org/abs/2410.11464)|null|
