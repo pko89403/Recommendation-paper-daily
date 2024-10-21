@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.20
+## Updated on 2024.10.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,13 +19,13 @@
 |---|---|---|---|---|
 |**2024-10-17**|**Cross-Domain Sequential Recommendation via Neural Process**|Haipeng Li et.al.|[2410.13588](http://arxiv.org/abs/2410.13588)|null|
 |**2024-10-17**|**Pseudo Dataset Generation for Out-of-Domain Multi-Camera View Recommendation**|Kuan-Ying Lee et.al.|[2410.13585](http://arxiv.org/abs/2410.13585)|null|
-|**2024-10-17**|**Generate and Instantiate What You Prefer: Text-Guided Diffusion for Sequential Recommendation**|Guoqing Hu et.al.|[2410.13428](http://arxiv.org/abs/2410.13428)|null|
+|**2024-10-18**|**Generate and Instantiate What You Prefer: Text-Guided Diffusion for Sequential Recommendation**|Guoqing Hu et.al.|[2410.13428](http://arxiv.org/abs/2410.13428)|null|
 |**2024-10-17**|**Context-aware adaptive personalised recommendation: a meta-hybrid**|Peter Tibensky et.al.|[2410.13374](http://arxiv.org/abs/2410.13374)|null|
 |**2024-10-17**|**Disentangling Likes and Dislikes in Personalized Generative Explainable Recommendation**|Ryotaro Shimizu et.al.|[2410.13248](http://arxiv.org/abs/2410.13248)|null|
 |**2024-10-17**|**Transformers4NewsRec: A Transformer-based News Recommendation Framework**|Dairui Liu et.al.|[2410.13125](http://arxiv.org/abs/2410.13125)|null|
 |**2024-10-17**|**Preference Diffusion for Recommendation**|Shuo Liu et.al.|[2410.13117](http://arxiv.org/abs/2410.13117)|**[link](https://github.com/lswhim/preferdiff)**|
 |**2024-10-16**|**Triple Modality Fusion: Aligning Visual, Textual, and Graph Data with Large Language Models for Multi-Behavior Recommendations**|Luyi Ma et.al.|[2410.12228](http://arxiv.org/abs/2410.12228)|null|
-|**2024-10-15**|**The Moral Case for Using Language Model Agents for Recommendation**|Seth Lazar et.al.|[2410.12123](http://arxiv.org/abs/2410.12123)|null|
+|**2024-10-17**|**The Moral Case for Using Language Model Agents for Recommendation**|Seth Lazar et.al.|[2410.12123](http://arxiv.org/abs/2410.12123)|null|
 |**2024-10-15**|**Improving Digital Mentorship: Insights and Recommendations from the Re:Coded Community Platform Case Study**|Huda Najm Alabbas et.al.|[2410.11912](http://arxiv.org/abs/2410.11912)|null|
 |**2024-10-06**|**Comparing Zealous and Restrained AI Recommendations in a Real-World Human-AI Collaboration Task**|Chengyuan Xu et.al.|[2410.11860](http://arxiv.org/abs/2410.11860)|null|
 |**2024-10-15**|**GaVaMoE: Gaussian-Variational Gated Mixture of Experts for Explainable Recommendation**|Fei Tang et.al.|[2410.11841](http://arxiv.org/abs/2410.11841)|null|
@@ -662,7 +662,7 @@
 |**2024-03-07**|**Disaggregated Multi-Tower: Topology-aware Modeling Technique for Efficient Large-Scale Recommendation**|Liang Luo et.al.|[2403.00877](http://arxiv.org/abs/2403.00877)|null|
 |**2024-03-01**|**A Survey of Route Recommendations: Methods, Applications, and Opportunities**|Shiming Zhang et.al.|[2403.00284](http://arxiv.org/abs/2403.00284)|null|
 
-<p align=right>(<a href=#updated-on-20241020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241021>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
