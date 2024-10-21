@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**Neural Combinatorial Clustered Bandits for Recommendation Systems**|Baran Atalar et.al.|[2410.14586](http://arxiv.org/abs/2410.14586)|null|
+|**2024-10-18**|**Graph Neural Patching for Cold-Start Recommendations**|Hao Chen et.al.|[2410.14241](http://arxiv.org/abs/2410.14241)|null|
+|**2024-10-16**|**P4GCN: Vertical Federated Social Recommendation with Privacy-Preserving Two-Party Graph Convolution Networks**|Zheng Wang et.al.|[2410.13905](http://arxiv.org/abs/2410.13905)|null|
 |**2024-10-17**|**Cross-Domain Sequential Recommendation via Neural Process**|Haipeng Li et.al.|[2410.13588](http://arxiv.org/abs/2410.13588)|null|
 |**2024-10-17**|**Pseudo Dataset Generation for Out-of-Domain Multi-Camera View Recommendation**|Kuan-Ying Lee et.al.|[2410.13585](http://arxiv.org/abs/2410.13585)|null|
 |**2024-10-18**|**Generate and Instantiate What You Prefer: Text-Guided Diffusion for Sequential Recommendation**|Guoqing Hu et.al.|[2410.13428](http://arxiv.org/abs/2410.13428)|null|
