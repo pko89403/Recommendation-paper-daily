@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-21**|**Unleashing the Potential of Multi-Channel Fusion in Retrieval for Personalized Recommendations**|Junjie Huang et.al.|[2410.16080](http://arxiv.org/abs/2410.16080)|null|
+|**2024-10-21**|**LightFusionRec: Lightweight Transformers-Based Cross-Domain Recommendation Model**|Vansh Kharidia et.al.|[2410.15656](http://arxiv.org/abs/2410.15656)|null|
+|**2024-10-19**|**Crafting Tomorrow: The Influence of Design Choices on Fresh Content in Social Media Recommendation**|Srijan Saket et.al.|[2410.15174](http://arxiv.org/abs/2410.15174)|null|
+|**2024-10-19**|**A Recommendation Model Utilizing Separation Embedding and Self-Attention for Feature Mining**|Wenyi Liu et.al.|[2410.15026](http://arxiv.org/abs/2410.15026)|null|
 |**2024-10-18**|**Neural Combinatorial Clustered Bandits for Recommendation Systems**|Baran Atalar et.al.|[2410.14586](http://arxiv.org/abs/2410.14586)|null|
 |**2024-10-18**|**Graph Neural Patching for Cold-Start Recommendations**|Hao Chen et.al.|[2410.14241](http://arxiv.org/abs/2410.14241)|null|
 |**2024-10-16**|**P4GCN: Vertical Federated Social Recommendation with Privacy-Preserving Two-Party Graph Convolution Networks**|Zheng Wang et.al.|[2410.13905](http://arxiv.org/abs/2410.13905)|null|
