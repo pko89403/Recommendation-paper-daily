@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-23**|**FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning**|Wei Chen et.al.|[2410.17555](http://arxiv.org/abs/2410.17555)|**[link](https://github.com/cwei01/fairdgcl)**|
+|**2024-10-08**|**Evaluating Performance and Bias of Negative Sampling in Large-Scale Sequential Recommendation Models**|Arushi Prakash et.al.|[2410.17276](http://arxiv.org/abs/2410.17276)|null|
 |**2024-10-22**|**Bridging Search and Recommendation in Generative Retrieval: Does One Task Help the Other?**|Gustavo Penha et.al.|[2410.16823](http://arxiv.org/abs/2410.16823)|null|
 |**2024-10-22**|**Coarse-to-fine Dynamic Uplift Modeling for Real-time Video Recommendation**|Chang Meng et.al.|[2410.16755](http://arxiv.org/abs/2410.16755)|null|
 |**2024-10-21**|**STAR: A Simple Training-free Approach for Recommendations using Large Language Models**|Dong-Ho Lee et.al.|[2410.16458](http://arxiv.org/abs/2410.16458)|null|
