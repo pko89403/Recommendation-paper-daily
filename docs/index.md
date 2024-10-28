@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.27
+## Updated on 2024.10.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-24**|**End-to-end Training for Recommendation with Language-based User Profiles**|Zhaolin Gao et.al.|[2410.18870](http://arxiv.org/abs/2410.18870)|**[link](https://github.com/zhaolingao/langptune)**|
-|**2024-10-08**|**Data Efficiency for Large Recommendation Models**|Kshitij Jain et.al.|[2410.18111](http://arxiv.org/abs/2410.18111)|null|
+|**2024-10-25**|**Data Efficiency for Large Recommendation Models**|Kshitij Jain et.al.|[2410.18111](http://arxiv.org/abs/2410.18111)|null|
 |**2024-10-23**|**FairDgcl: Fairness-aware Recommendation with Dynamic Graph Contrastive Learning**|Wei Chen et.al.|[2410.17555](http://arxiv.org/abs/2410.17555)|**[link](https://github.com/cwei01/fairdgcl)**|
 |**2024-10-08**|**Evaluating Performance and Bias of Negative Sampling in Large-Scale Sequential Recommendation Models**|Arushi Prakash et.al.|[2410.17276](http://arxiv.org/abs/2410.17276)|null|
 |**2024-10-22**|**Bridging Search and Recommendation in Generative Retrieval: Does One Task Help the Other?**|Gustavo Penha et.al.|[2410.16823](http://arxiv.org/abs/2410.16823)|null|
