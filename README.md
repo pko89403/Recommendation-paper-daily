@@ -17,6 +17,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-29**|**Pushing the Performance Envelope of DNN-based Recommendation Systems Inference on GPUs**|Rishabh Jain et.al.|[2410.22249](http://arxiv.org/abs/2410.22249)|null|
+|**2024-10-29**|**SimRec: Mitigating the Cold-Start Problem in Sequential Recommendation by Integrating Item Similarity**|Shaked Brody et.al.|[2410.22136](http://arxiv.org/abs/2410.22136)|**[link](https://github.com/amazon-science/sequential-recommendation-using-similarity)**|
+|**2024-10-29**|**Modeling Temporal Positive and Negative Excitation for Sequential Recommendation**|Chengkai Huang et.al.|[2410.22013](http://arxiv.org/abs/2410.22013)|null|
+|**2024-10-29**|**Dual Conditional Diffusion Models for Sequential Recommendation**|Hongtao Huang et.al.|[2410.21967](http://arxiv.org/abs/2410.21967)|null|
+|**2024-10-29**|**Guided Diffusion-based Counterfactual Augmentation for Robust Session-based Recommendation**|Muskan Gupta et.al.|[2410.21892](http://arxiv.org/abs/2410.21892)|null|
+|**2024-10-28**|**Enhancing CTR Prediction in Recommendation Domain with Search Query Representation**|Yuening Wang et.al.|[2410.21487](http://arxiv.org/abs/2410.21487)|null|
 |**2024-10-28**|**Pay Attention to Attention for Sequential Recommendation**|Yuli Liu et.al.|[2410.21048](http://arxiv.org/abs/2410.21048)|null|
 |**2024-10-28**|**RecFlow: An Industrial Full Flow Recommendation Dataset**|Qi Liu et.al.|[2410.20868](http://arxiv.org/abs/2410.20868)|**[link](https://github.com/recflow-iclr/recflow)**|
 |**2024-10-27**|**Coherence-guided Preference Disentanglement for Cross-domain Recommendations**|Zongyi Xiang et.al.|[2410.20580](http://arxiv.org/abs/2410.20580)|null|
