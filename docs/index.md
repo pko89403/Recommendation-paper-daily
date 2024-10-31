@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.30
+## Updated on 2024.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-29**|**Pushing the Performance Envelope of DNN-based Recommendation Systems Inference on GPUs**|Rishabh Jain et.al.|[2410.22249](http://arxiv.org/abs/2410.22249)|null|
+|**2024-10-29**|**Pushing the Performance Envelope of DNN-based Recommendation Systems Inference on GPUs**|Rishabh Jain et.al.|[2410.22249](http://arxiv.org/abs/2410.22249)|**[link](https://github.com/rishucoding/reproduce_MICRO24_GPU_DLRM_inference)**|
 |**2024-10-29**|**SimRec: Mitigating the Cold-Start Problem in Sequential Recommendation by Integrating Item Similarity**|Shaked Brody et.al.|[2410.22136](http://arxiv.org/abs/2410.22136)|**[link](https://github.com/amazon-science/sequential-recommendation-using-similarity)**|
 |**2024-10-29**|**Modeling Temporal Positive and Negative Excitation for Sequential Recommendation**|Chengkai Huang et.al.|[2410.22013](http://arxiv.org/abs/2410.22013)|null|
 |**2024-10-29**|**Dual Conditional Diffusion Models for Sequential Recommendation**|Hongtao Huang et.al.|[2410.21967](http://arxiv.org/abs/2410.21967)|null|
@@ -23,7 +23,7 @@ layout: default
 |**2024-10-28**|**Pay Attention to Attention for Sequential Recommendation**|Yuli Liu et.al.|[2410.21048](http://arxiv.org/abs/2410.21048)|null|
 |**2024-10-28**|**RecFlow: An Industrial Full Flow Recommendation Dataset**|Qi Liu et.al.|[2410.20868](http://arxiv.org/abs/2410.20868)|**[link](https://github.com/recflow-iclr/recflow)**|
 |**2024-10-27**|**Coherence-guided Preference Disentanglement for Cross-domain Recommendations**|Zongyi Xiang et.al.|[2410.20580](http://arxiv.org/abs/2410.20580)|null|
-|**2024-10-26**|**DQRM: Deep Quantized Recommendation Models**|Yang Zhou et.al.|[2410.20046](http://arxiv.org/abs/2410.20046)|null|
+|**2024-10-26**|**DQRM: Deep Quantized Recommendation Models**|Yang Zhou et.al.|[2410.20046](http://arxiv.org/abs/2410.20046)|**[link](https://github.com/YangZhou08/Deep_Quantized_Recommendation_Model_DQRM)**|
 |**2024-10-26**|**FLOW: A Feedback LOop FrameWork for Simultaneously Enhancing Recommendation and User Agents**|Shihao Cai et.al.|[2410.20027](http://arxiv.org/abs/2410.20027)|null|
 |**2024-10-24**|**Recommendations for Comprehensive and Independent Evaluation of Machine Learning-Based Earth System Models**|Paul A. Ullrich et.al.|[2410.19882](http://arxiv.org/abs/2410.19882)|null|
 |**2024-10-22**|**Personalized Recommendation Systems using Multimodal, Autonomous, Multi Agent Systems**|Param Thakkar et.al.|[2410.19855](http://arxiv.org/abs/2410.19855)|null|
