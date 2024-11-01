@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-31**|**Breaking Determinism: Fuzzy Modeling of Sequential Recommendation Using Discrete State Space Diffusion Model**|Wenjia Xie et.al.|[2410.23994](http://arxiv.org/abs/2410.23994)|null|
+|**2024-10-31**|**Identify Then Recommend: Towards Unsupervised Group Recommendation**|Yue Liu et.al.|[2410.23757](http://arxiv.org/abs/2410.23757)|null|
+|**2024-10-31**|**Unveiling User Satisfaction and Creator Productivity Trade-Offs in Recommendation Platforms**|Fan Yao et.al.|[2410.23683](http://arxiv.org/abs/2410.23683)|null|
 |**2024-10-30**|**ReasoningRec: Bridging Personalized Recommendations and Human-Interpretable Explanations through LLM Reasoning**|Millennium Bismay et.al.|[2410.23180](http://arxiv.org/abs/2410.23180)|**[link](https://github.com/millenniumbismay/reasoningrec)**|
 |**2024-10-30**|**Real-Time Personalization for LLM-based Recommendation with Customized In-Context Learning**|Keqin Bao et.al.|[2410.23136](http://arxiv.org/abs/2410.23136)|**[link](https://github.com/ym689/rec_icl)**|
 |**2024-10-30**|**A Universal Sets-level Optimization Framework for Next Set Recommendation**|Yuli Liu et.al.|[2410.23023](http://arxiv.org/abs/2410.23023)|null|
