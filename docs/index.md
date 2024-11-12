@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-11**|**Adaptive Conditional Expert Selection Network for Multi-domain Recommendation**|Kuiyao Dong et.al.|[2411.06826](http://arxiv.org/abs/2411.06826)|null|
+|**2024-11-10**|**Metric Learning for Tag Recommendation: Tackling Data Sparsity and Cold Start Issues**|Yuanshuai Luo et.al.|[2411.06374](http://arxiv.org/abs/2411.06374)|null|
+|**2024-11-09**|**Interpret the Internal States of Recommendation Model with Sparse Autoencoder**|Jiayin Wang et.al.|[2411.06112](http://arxiv.org/abs/2411.06112)|**[link](https://github.com/alice1998/recsae)**|
+|**2024-11-09**|**Personalized News Recommendation System via LLM Embedding and Co-Occurrence Patterns**|Zheng Li et.al.|[2411.06046](http://arxiv.org/abs/2411.06046)|null|
 |**2024-11-08**|**Harnessing High-Level Song Descriptors towards Natural Language-Based Music Recommendation**|Elena V. Epure et.al.|[2411.05649](http://arxiv.org/abs/2411.05649)|null|
 |**2024-11-08**|**Digitalization and Virtual Assistive Systems in Tourist Mobility: Evolution, an Experience (with Observed Mistakes), Appropriate Orientations and Recommendations**|Bertrand David et.al.|[2411.05446](http://arxiv.org/abs/2411.05446)|null|
 |**2024-10-24**|**Considerations and recommendations from the ISMRM Diffusion Study Group for preclinical diffusion MRI: Part 3 -- Ex vivo imaging: data processing, comparisons with microscopy, and tractography**|Kurt G Schilling et.al.|[2411.05021](http://arxiv.org/abs/2411.05021)|null|
