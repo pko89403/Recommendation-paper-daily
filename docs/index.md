@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-13**|**Rethinking negative sampling in content-based news recommendation**|Miguel Ângelo Rebelo et.al.|[2411.08700](http://arxiv.org/abs/2411.08700)|null|
 |**2024-11-12**|**A Theoretical Analysis of Recommendation Loss Functions under Negative Sampling**|Giulia Di Teodoro et.al.|[2411.07770](http://arxiv.org/abs/2411.07770)|null|
 |**2024-11-11**|**Richer Output for Richer Countries: Uncovering Geographical Disparities in Generated Stories and Travel Recommendations**|Kirti Bhagat et.al.|[2411.07320](http://arxiv.org/abs/2411.07320)|null|
 |**2024-11-11**|**Adaptive Conditional Expert Selection Network for Multi-domain Recommendation**|Kuiyao Dong et.al.|[2411.06826](http://arxiv.org/abs/2411.06826)|null|
