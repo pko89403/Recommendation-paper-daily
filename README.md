@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-18**|**QARM: Quantitative Alignment Multi-Modal Recommendation at Kuaishou**|Xinchen Luo et.al.|[2411.11739](http://arxiv.org/abs/2411.11739)|null|
+|**2024-11-18**|**Coevolution of Opinion Dynamics and Recommendation System: Modeling Analysis and Reinforcement Learning Based Manipulation**|Yuhong Chen et.al.|[2411.11687](http://arxiv.org/abs/2411.11687)|null|
+|**2024-11-18**|**Lorentz: Learned SKU Recommendation Using Profile Data**|Nicholas Glaze et.al.|[2411.11325](http://arxiv.org/abs/2411.11325)|null|
+|**2024-11-18**|**Online Item Cold-Start Recommendation with Popularity-Aware Meta-Learning**|Yunze Luo et.al.|[2411.11225](http://arxiv.org/abs/2411.11225)|null|
 |**2024-11-14**|**PTR: Precision-Driven Tool Recommendation for Large Language Models**|Hang Gao et.al.|[2411.09613](http://arxiv.org/abs/2411.09613)|null|
 |**2024-11-14**|**MARM: Unlocking the Future of Recommendation Systems through Memory Augmentation and Scalable Complexity**|Xiao Lv et.al.|[2411.09425](http://arxiv.org/abs/2411.09425)|null|
 |**2024-11-15**|**LLM-assisted Explicit and Implicit Multi-interest Learning Framework for Sequential Recommendation**|Shutong Qiao et.al.|[2411.09410](http://arxiv.org/abs/2411.09410)|null|
@@ -30,7 +34,7 @@
 |**2024-11-10**|**Metric Learning for Tag Recommendation: Tackling Data Sparsity and Cold Start Issues**|Yuanshuai Luo et.al.|[2411.06374](http://arxiv.org/abs/2411.06374)|null|
 |**2024-11-09**|**Interpret the Internal States of Recommendation Model with Sparse Autoencoder**|Jiayin Wang et.al.|[2411.06112](http://arxiv.org/abs/2411.06112)|**[link](https://github.com/alice1998/recsae)**|
 |**2024-11-09**|**Personalized News Recommendation System via LLM Embedding and Co-Occurrence Patterns**|Zheng Li et.al.|[2411.06046](http://arxiv.org/abs/2411.06046)|null|
-|**2024-11-08**|**Harnessing High-Level Song Descriptors towards Natural Language-Based Music Recommendation**|Elena V. Epure et.al.|[2411.05649](http://arxiv.org/abs/2411.05649)|null|
+|**2024-11-18**|**Harnessing High-Level Song Descriptors towards Natural Language-Based Music Recommendation**|Elena V. Epure et.al.|[2411.05649](http://arxiv.org/abs/2411.05649)|null|
 |**2024-11-08**|**Digitalization and Virtual Assistive Systems in Tourist Mobility: Evolution, an Experience (with Observed Mistakes), Appropriate Orientations and Recommendations**|Bertrand David et.al.|[2411.05446](http://arxiv.org/abs/2411.05446)|null|
 |**2024-10-24**|**Considerations and recommendations from the ISMRM Diffusion Study Group for preclinical diffusion MRI: Part 3 -- Ex vivo imaging: data processing, comparisons with microscopy, and tractography**|Kurt G Schilling et.al.|[2411.05021](http://arxiv.org/abs/2411.05021)|null|
 |**2024-11-05**|**Self-supervised Hierarchical Representation for Medication Recommendation**|Yuliang Liang et.al.|[2411.03143](http://arxiv.org/abs/2411.03143)|null|
