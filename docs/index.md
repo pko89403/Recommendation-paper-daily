@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**Unleashing the Power of Large Language Models for Group POI Recommendations**|Jing Long et.al.|[2411.13415](http://arxiv.org/abs/2411.13415)|null|
+|**2024-11-20**|**On-device Content-based Recommendation with Single-shot Embedding Pruning: A Cooperative Game Perspective**|Hung Vinh Tran et.al.|[2411.13052](http://arxiv.org/abs/2411.13052)|null|
+|**2024-11-19**|**Towards Fairness in AI for Melanoma Detection: Systemic Review and Recommendations**|Laura N Montoya et.al.|[2411.12846](http://arxiv.org/abs/2411.12846)|null|
 |**2024-11-19**|**Coevolution of relationship-driven cooperation under recommendation protocol on multiplex networks**|Hongyu Yue et.al.|[2411.12436](http://arxiv.org/abs/2411.12436)|null|
 |**2024-11-19**|**Consistency Regularization for Complementary Clothing Recommendations**|Shuiying Liao et.al.|[2411.12295](http://arxiv.org/abs/2411.12295)|null|
 |**2024-11-08**|**INDIANA: Personalized Travel Recommendations Using Wearables and AI**|Anastasios Manos et.al.|[2411.12227](http://arxiv.org/abs/2411.12227)|null|
