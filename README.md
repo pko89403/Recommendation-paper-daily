@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-27**|**Break the ID-Language Barrier: An Adaption Framework for Sequential Recommendation**|Xiaohan Yu et.al.|[2411.18262](http://arxiv.org/abs/2411.18262)|null|
 |**2024-11-26**|**Towards Robust Cross-Domain Recommendation with Joint Identifiability of User Preference**|Jing Du et.al.|[2411.17361](http://arxiv.org/abs/2411.17361)|null|
 |**2024-11-19**|**Preliminary Evaluation of the Test-Time Training Layers in Recommendation System (Student Abstract)**|Tianyu Zhan et.al.|[2411.15186](http://arxiv.org/abs/2411.15186)|null|
 |**2024-11-06**|**TIMBRE: Efficient Job Recommendation On Heterogeneous Graphs For Professional Recruiters**|Eric Behar et.al.|[2411.15146](http://arxiv.org/abs/2411.15146)|null|
