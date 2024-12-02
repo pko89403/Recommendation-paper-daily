@@ -14,6 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-29**|**Thompson, Ulam, or Gauss? Multi-criteria recommendations for posterior probability computation methods in Bayesian response-adaptive trials**|Daniel Kaddaj et.al.|[2411.19871](http://arxiv.org/abs/2411.19871)|null|
+|**2024-11-29**|**Cross-Domain Recommendation Meets Large Language Models**|Ajay Krishna Vajjala et.al.|[2411.19862](http://arxiv.org/abs/2411.19862)|**[link](https://github.com/ajaykv1/CDR_Meets_LLMs)**|
+|**2024-11-29**|**Privacy-Preserving Orthogonal Aggregation for Guaranteeing Gender Fairness in Federated Recommendation**|Siqing Zhang et.al.|[2411.19678](http://arxiv.org/abs/2411.19678)|null|
+|**2024-11-29**|**ContextGNN: Beyond Two-Tower Recommendation Systems**|Yiwen Yuan et.al.|[2411.19513](http://arxiv.org/abs/2411.19513)|null|
+|**2024-11-28**|**OMuleT: Orchestrating Multiple Tools for Practicable Conversational Recommendation**|Se-eun Yoon et.al.|[2411.19352](http://arxiv.org/abs/2411.19352)|null|
+|**2024-11-27**|**Unifying Generative and Dense Retrieval for Sequential Recommendation**|Liu Yang et.al.|[2411.18814](http://arxiv.org/abs/2411.18814)|null|
+|**2024-11-27**|**ScaleViz: Scaling Visualization Recommendation Models on Large Data**|Ghazi Shazan Ahmad et.al.|[2411.18657](http://arxiv.org/abs/2411.18657)|null|
+|**2024-11-27**|**PRSI: Privacy-Preserving Recommendation Model Based on Vector Splitting and Interactive Protocols**|Xiaokai Cao et.al.|[2411.18653](http://arxiv.org/abs/2411.18653)|null|
+|**2024-11-14**|**Counterfactual Learning-Driven Representation Disentanglement for Search-Enhanced Recommendation**|Jiajun Cui et.al.|[2411.18631](http://arxiv.org/abs/2411.18631)|null|
 |**2024-11-27**|**Break the ID-Language Barrier: An Adaption Framework for Sequential Recommendation**|Xiaohan Yu et.al.|[2411.18262](http://arxiv.org/abs/2411.18262)|null|
 |**2024-11-26**|**Towards Robust Cross-Domain Recommendation with Joint Identifiability of User Preference**|Jing Du et.al.|[2411.17361](http://arxiv.org/abs/2411.17361)|null|
 |**2024-11-19**|**Preliminary Evaluation of the Test-Time Training Layers in Recommendation System (Student Abstract)**|Tianyu Zhan et.al.|[2411.15186](http://arxiv.org/abs/2411.15186)|null|
