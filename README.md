@@ -20,7 +20,7 @@
 |**2024-11-29**|**Thompson, Ulam, or Gauss? Multi-criteria recommendations for posterior probability computation methods in Bayesian response-adaptive trials**|Daniel Kaddaj et.al.|[2411.19871](http://arxiv.org/abs/2411.19871)|null|
 |**2024-11-29**|**Cross-Domain Recommendation Meets Large Language Models**|Ajay Krishna Vajjala et.al.|[2411.19862](http://arxiv.org/abs/2411.19862)|**[link](https://github.com/ajaykv1/CDR_Meets_LLMs)**|
 |**2024-11-29**|**Privacy-Preserving Orthogonal Aggregation for Guaranteeing Gender Fairness in Federated Recommendation**|Siqing Zhang et.al.|[2411.19678](http://arxiv.org/abs/2411.19678)|null|
-|**2024-11-29**|**ContextGNN: Beyond Two-Tower Recommendation Systems**|Yiwen Yuan et.al.|[2411.19513](http://arxiv.org/abs/2411.19513)|null|
+|**2024-11-29**|**ContextGNN: Beyond Two-Tower Recommendation Systems**|Yiwen Yuan et.al.|[2411.19513](http://arxiv.org/abs/2411.19513)|**[link](https://github.com/kumo-ai/ContextGNN)**|
 |**2024-11-28**|**OMuleT: Orchestrating Multiple Tools for Practicable Conversational Recommendation**|Se-eun Yoon et.al.|[2411.19352](http://arxiv.org/abs/2411.19352)|null|
 |**2024-11-27**|**Unifying Generative and Dense Retrieval for Sequential Recommendation**|Liu Yang et.al.|[2411.18814](http://arxiv.org/abs/2411.18814)|null|
 |**2024-11-27**|**ScaleViz: Scaling Visualization Recommendation Models on Large Data**|Ghazi Shazan Ahmad et.al.|[2411.18657](http://arxiv.org/abs/2411.18657)|null|
