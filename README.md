@@ -17,6 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**Knowledge-Enhanced Conversational Recommendation via Transformer-based Sequential Modelling**|Jie Zou et.al.|[2412.02415](http://arxiv.org/abs/2412.02415)|null|
+|**2024-11-17**|**Enabling Explainable Recommendation in E-commerce with LLM-powered Product Knowledge Graph**|Menghan Wang et.al.|[2412.01837](http://arxiv.org/abs/2412.01837)|null|
+|**2024-12-02**|**A Survey on Deep Neural Networks in Collaborative Filtering Recommendation Systems**|Pang Li et.al.|[2412.01378](http://arxiv.org/abs/2412.01378)|null|
+|**2024-12-02**|**Lossless and Privacy-Preserving Graph Convolution Network for Federated Item Recommendation**|Guowei Wu et.al.|[2412.01141](http://arxiv.org/abs/2412.01141)|null|
+|**2024-12-01**|**Oracle-guided Dynamic User Preference Modeling for Sequential Recommendation**|Jiafeng Xia et.al.|[2412.00813](http://arxiv.org/abs/2412.00813)|null|
+|**2024-12-01**|**Scaling New Frontiers: Insights into Large Recommendation Models**|Wei Guo et.al.|[2412.00714](http://arxiv.org/abs/2412.00714)|**[link](https://github.com/ustc-starteam/large-recommendation-models)**|
+|**2024-12-03**|**Predictive Models in Sequential Recommendations: Bridging Performance Laws with Data Quality Insights**|Tingjia Shen et.al.|[2412.00430](http://arxiv.org/abs/2412.00430)|null|
+|**2024-11-30**|**FairSort: Learning to Fair Rank for Personalized Recommendations in Two-Sided Platforms**|Guoli Wu et.al.|[2412.00424](http://arxiv.org/abs/2412.00424)|**[link](https://github.com/13543024276/fairsort)**|
 |**2024-11-29**|**Thompson, Ulam, or Gauss? Multi-criteria recommendations for posterior probability computation methods in Bayesian response-adaptive trials**|Daniel Kaddaj et.al.|[2411.19871](http://arxiv.org/abs/2411.19871)|null|
 |**2024-11-29**|**Cross-Domain Recommendation Meets Large Language Models**|Ajay Krishna Vajjala et.al.|[2411.19862](http://arxiv.org/abs/2411.19862)|**[link](https://github.com/ajaykv1/CDR_Meets_LLMs)**|
 |**2024-11-29**|**Privacy-Preserving Orthogonal Aggregation for Guaranteeing Gender Fairness in Federated Recommendation**|Siqing Zhang et.al.|[2411.19678](http://arxiv.org/abs/2411.19678)|null|
