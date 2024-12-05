@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**Enhancing Recommendation Systems with GNNs and Addressing Over-Smoothing**|Wenyi Liu et.al.|[2412.03097](http://arxiv.org/abs/2412.03097)|null|
 |**2024-12-03**|**Knowledge-Enhanced Conversational Recommendation via Transformer-based Sequential Modelling**|Jie Zou et.al.|[2412.02415](http://arxiv.org/abs/2412.02415)|null|
 |**2024-11-17**|**Enabling Explainable Recommendation in E-commerce with LLM-powered Product Knowledge Graph**|Menghan Wang et.al.|[2412.01837](http://arxiv.org/abs/2412.01837)|null|
 |**2024-12-02**|**A Survey on Deep Neural Networks in Collaborative Filtering Recommendation Systems**|Pang Li et.al.|[2412.01378](http://arxiv.org/abs/2412.01378)|null|
