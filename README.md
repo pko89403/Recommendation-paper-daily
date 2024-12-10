@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**Semantic Search and Recommendation Algorithm**|Aryan Duhan et.al.|[2412.06649](http://arxiv.org/abs/2412.06649)|null|
+|**2024-12-07**|**ULMRec: User-centric Large Language Model for Sequential Recommendation**|Minglai Shao et.al.|[2412.05543](http://arxiv.org/abs/2412.05543)|null|
 |**2024-12-05**|**User-item fairness tradeoffs in recommendations**|Sophie Greenwood et.al.|[2412.04466](http://arxiv.org/abs/2412.04466)|**[link](https://github.com/vschiniah/ArXiv_Recommendation_Research)**|
 |**2024-12-05**|**Graph-Sequential Alignment and Uniformity: Toward Enhanced Recommendation Systems**|Yuwei Cao et.al.|[2412.04276](http://arxiv.org/abs/2412.04276)|**[link](https://github.com/yuweicao-uic/gsau)**|
 |**2024-12-05**|**Pre-train, Align, and Disentangle: Empowering Sequential Recommendation with Large Language Models**|Yuhao Wang et.al.|[2412.04107](http://arxiv.org/abs/2412.04107)|null|
@@ -28,8 +30,8 @@
 |**2024-12-02**|**Lossless and Privacy-Preserving Graph Convolution Network for Federated Item Recommendation**|Guowei Wu et.al.|[2412.01141](http://arxiv.org/abs/2412.01141)|null|
 |**2024-12-01**|**Oracle-guided Dynamic User Preference Modeling for Sequential Recommendation**|Jiafeng Xia et.al.|[2412.00813](http://arxiv.org/abs/2412.00813)|**[link](https://github.com/Yaveng/Oracle4Rec)**|
 |**2024-12-01**|**Scaling New Frontiers: Insights into Large Recommendation Models**|Wei Guo et.al.|[2412.00714](http://arxiv.org/abs/2412.00714)|**[link](https://github.com/ustc-starteam/large-recommendation-models)**|
-|**2024-12-03**|**Predictive Models in Sequential Recommendations: Bridging Performance Laws with Data Quality Insights**|Tingjia Shen et.al.|[2412.00430](http://arxiv.org/abs/2412.00430)|null|
-|**2024-11-30**|**FairSort: Learning to Fair Rank for Personalized Recommendations in Two-Sided Platforms**|Guoli Wu et.al.|[2412.00424](http://arxiv.org/abs/2412.00424)|**[link](https://github.com/13543024276/fairsort)**|
+|**2024-12-09**|**Predictive Models in Sequential Recommendations: Bridging Performance Laws with Data Quality Insights**|Tingjia Shen et.al.|[2412.00430](http://arxiv.org/abs/2412.00430)|null|
+|**2024-12-08**|**FairSort: Learning to Fair Rank for Personalized Recommendations in Two-Sided Platforms**|Guoli Wu et.al.|[2412.00424](http://arxiv.org/abs/2412.00424)|**[link](https://github.com/wugl-cs/fairsort)**|
 |**2024-11-29**|**Thompson, Ulam, or Gauss? Multi-criteria recommendations for posterior probability computation methods in Bayesian response-adaptive trials**|Daniel Kaddaj et.al.|[2411.19871](http://arxiv.org/abs/2411.19871)|null|
 |**2024-11-29**|**Cross-Domain Recommendation Meets Large Language Models**|Ajay Krishna Vajjala et.al.|[2411.19862](http://arxiv.org/abs/2411.19862)|**[link](https://github.com/ajaykv1/CDR_Meets_LLMs)**|
 |**2024-11-29**|**Privacy-Preserving Orthogonal Aggregation for Guaranteeing Gender Fairness in Federated Recommendation**|Siqing Zhang et.al.|[2411.19678](http://arxiv.org/abs/2411.19678)|null|
