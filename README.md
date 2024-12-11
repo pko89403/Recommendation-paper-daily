@@ -17,6 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**Benchmark for Evaluation and Analysis of Citation Recommendation Models**|Puja Maharjan et.al.|[2412.07713](http://arxiv.org/abs/2412.07713)|null|
+|**2024-12-10**|**Scaling Sequential Recommendation Models with Transformers**|Pablo Zivic et.al.|[2412.07585](http://arxiv.org/abs/2412.07585)|**[link](https://github.com/mercadolibre/srt)**|
+|**2024-12-10**|**Learning Self-Supervised Audio-Visual Representations for Sound Recommendations**|Sudha Krishnamurthy et.al.|[2412.07406](http://arxiv.org/abs/2412.07406)|null|
+|**2024-12-10**|**RLT4Rec: Reinforcement Learning Transformer for User Cold Start and Item Recommendation**|Dilina Chandika Rajapakse et.al.|[2412.07403](http://arxiv.org/abs/2412.07403)|null|
+|**2024-12-10**|**Temporal Linear Item-Item Model for Sequential Recommendation**|Seongmin Park et.al.|[2412.07382](http://arxiv.org/abs/2412.07382)|**[link](https://github.com/psm1206/tale)**|
+|**2024-12-09**|**Bridging Conversational and Collaborative Signals for Conversational Recommendation**|Ahmad Bin Rabiah et.al.|[2412.06949](http://arxiv.org/abs/2412.06949)|null|
+|**2024-12-09**|**Efficient user history modeling with amortized inference for deep learning recommendation models**|Lars Hertel et.al.|[2412.06924](http://arxiv.org/abs/2412.06924)|null|
+|**2024-12-07**|**The Helicobacter pylori AI-Clinician: Harnessing Artificial Intelligence to Personalize H. pylori Treatment Recommendations**|Kyle Higgins et.al.|[2412.06841](http://arxiv.org/abs/2412.06841)|null|
 |**2024-12-09**|**Semantic Search and Recommendation Algorithm**|Aryan Duhan et.al.|[2412.06649](http://arxiv.org/abs/2412.06649)|null|
 |**2024-12-07**|**ULMRec: User-centric Large Language Model for Sequential Recommendation**|Minglai Shao et.al.|[2412.05543](http://arxiv.org/abs/2412.05543)|null|
 |**2024-12-05**|**User-item fairness tradeoffs in recommendations**|Sophie Greenwood et.al.|[2412.04466](http://arxiv.org/abs/2412.04466)|**[link](https://github.com/vschiniah/ArXiv_Recommendation_Research)**|
