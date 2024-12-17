@@ -17,6 +17,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**SPGL: Enhancing Session-based Recommendation with Single Positive Graph Learning**|Tiantian Liang et.al.|[2412.11846](http://arxiv.org/abs/2412.11846)|**[link](https://github.com/liang-tian-tian/spgl)**|
+|**2024-12-16**|**But Can You Use It? Design Recommendations for Differentially Private Interactive Systems**|Liudas Panavas et.al.|[2412.11794](http://arxiv.org/abs/2412.11794)|null|
+|**2024-12-16**|**Beyond Graph Convolution: Multimodal Recommendation with Topology-aware MLPs**|Junjie Huang et.al.|[2412.11747](http://arxiv.org/abs/2412.11747)|null|
+|**2024-12-16**|**STAIR: Manipulating Collaborative and Multimodal Information for E-Commerce Recommendation**|Cong Xu et.al.|[2412.11729](http://arxiv.org/abs/2412.11729)|**[link](https://github.com/yhhe2004/stair)**|
+|**2024-12-16**|**Future Sight and Tough Fights: Revolutionizing Sequential Recommendation with FENRec**|Yu-Hsuan Huang et.al.|[2412.11589](http://arxiv.org/abs/2412.11589)|**[link](https://github.com/uikdwnd/FENRec)**|
+|**2024-12-16**|**Enhancing Healthcare Recommendation Systems with a Multimodal LLMs-based MOE Architecture**|Jingyu Xu et.al.|[2412.11557](http://arxiv.org/abs/2412.11557)|null|
+|**2024-12-15**|**Modeling the Heterogeneous Duration of User Interest in Time-Dependent Recommendation: A Hidden Semi-Markov Approach**|Haidong Zhang et.al.|[2412.11127](http://arxiv.org/abs/2412.11127)|null|
+|**2024-12-15**|**Multi-Graph Co-Training for Capturing User Intent in Session-based Recommendation**|Zhe Yang et.al.|[2412.11105](http://arxiv.org/abs/2412.11105)|**[link](https://github.com/liang-tian-tian/mgcot)**|
+|**2024-12-14**|**Movie Recommendation using Web Crawling**|Pronit Raj et.al.|[2412.10714](http://arxiv.org/abs/2412.10714)|null|
+|**2024-12-14**|**USM: Unbiased Survey Modeling for Limiting Negative User Experiences in Recommendation Systems**|Chenghui Yu et.al.|[2412.10674](http://arxiv.org/abs/2412.10674)|null|
+|**2024-12-13**|**Recommendation and Temptation**|Md Sanzeed Anwar et.al.|[2412.10595](http://arxiv.org/abs/2412.10595)|null|
+|**2024-12-13**|**Is Polarization an Inevitable Outcome of Similarity-Based Content Recommendations? -- Mathematical Proofs and Computational Validation**|Minhyeok Lee et.al.|[2412.10524](http://arxiv.org/abs/2412.10524)|null|
+|**2024-11-28**|**Supervised Learning-enhanced Multi-Group Actor Critic for Live-stream Recommendation**|Jingxin Liu et.al.|[2412.10381](http://arxiv.org/abs/2412.10381)|null|
 |**2024-12-12**|**SPRec: Leveraging Self-Play to Debias Preference Alignment for Large Language Model-based Recommendations**|Chongming Gao et.al.|[2412.09243](http://arxiv.org/abs/2412.09243)|null|
 |**2024-12-12**|**Goal-Conditioned Supervised Learning for Multi-Objective Recommendation**|Shijun Li et.al.|[2412.08911](http://arxiv.org/abs/2412.08911)|null|
 |**2024-12-12**|**MOPI-HFRS: A Multi-objective Personalized Health-aware Food Recommendation System with LLM-enhanced Interpretation**|Zheyuan Zhang et.al.|[2412.08847](http://arxiv.org/abs/2412.08847)|**[link](https://github.com/Anonymous-Be3fb6/MOPI-HFRS)**|
@@ -46,7 +59,7 @@
 |**2024-12-02**|**Lossless and Privacy-Preserving Graph Convolution Network for Federated Item Recommendation**|Guowei Wu et.al.|[2412.01141](http://arxiv.org/abs/2412.01141)|null|
 |**2024-12-01**|**Oracle-guided Dynamic User Preference Modeling for Sequential Recommendation**|Jiafeng Xia et.al.|[2412.00813](http://arxiv.org/abs/2412.00813)|**[link](https://github.com/Yaveng/Oracle4Rec)**|
 |**2024-12-01**|**Scaling New Frontiers: Insights into Large Recommendation Models**|Wei Guo et.al.|[2412.00714](http://arxiv.org/abs/2412.00714)|**[link](https://github.com/ustc-starteam/large-recommendation-models)**|
-|**2024-12-09**|**Predictive Models in Sequential Recommendations: Bridging Performance Laws with Data Quality Insights**|Tingjia Shen et.al.|[2412.00430](http://arxiv.org/abs/2412.00430)|null|
+|**2024-12-16**|**Predictive Models in Sequential Recommendations: Bridging Performance Laws with Data Quality Insights**|Tingjia Shen et.al.|[2412.00430](http://arxiv.org/abs/2412.00430)|null|
 |**2024-12-08**|**FairSort: Learning to Fair Rank for Personalized Recommendations in Two-Sided Platforms**|Guoli Wu et.al.|[2412.00424](http://arxiv.org/abs/2412.00424)|**[link](https://github.com/wugl-cs/fairsort)**|
 |**2024-11-29**|**Thompson, Ulam, or Gauss? Multi-criteria recommendations for posterior probability computation methods in Bayesian response-adaptive trials**|Daniel Kaddaj et.al.|[2411.19871](http://arxiv.org/abs/2411.19871)|null|
 |**2024-11-29**|**Cross-Domain Recommendation Meets Large Language Models**|Ajay Krishna Vajjala et.al.|[2411.19862](http://arxiv.org/abs/2411.19862)|**[link](https://github.com/ajaykv1/CDR_Meets_LLMs)**|
