@@ -14,9 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**A Survey on Recommendation Unlearning: Fundamentals, Taxonomy, Evaluation, and Open Questions**|Yuyuan Li et.al.|[2412.12836](http://arxiv.org/abs/2412.12836)|null|
+|**2024-12-17**|**A Survey on Sequential Recommendation**|Liwei Pan et.al.|[2412.12770](http://arxiv.org/abs/2412.12770)|null|
+|**2024-12-17**|**LLM is Knowledge Graph Reasoner: LLM's Intuition-aware Knowledge Graph Reasoning for Cold-start Sequential Recommendation**|Keigo Sakurai et.al.|[2412.12464](http://arxiv.org/abs/2412.12464)|null|
+|**2024-12-15**|**A multi-theoretical kernel-based approach to social network-based recommendation**|Xin Li et.al.|[2412.12202](http://arxiv.org/abs/2412.12202)|null|
+|**2024-11-30**|**Enhancing the conformal predictability of context-aware recommendation systems by using Deep Autoencoders**|Saloua Zammali et.al.|[2412.12110](http://arxiv.org/abs/2412.12110)|null|
 |**2024-12-16**|**SPGL: Enhancing Session-based Recommendation with Single Positive Graph Learning**|Tiantian Liang et.al.|[2412.11846](http://arxiv.org/abs/2412.11846)|**[link](https://github.com/liang-tian-tian/spgl)**|
 |**2024-12-16**|**But Can You Use It? Design Recommendations for Differentially Private Interactive Systems**|Liudas Panavas et.al.|[2412.11794](http://arxiv.org/abs/2412.11794)|null|
-|**2024-12-16**|**Beyond Graph Convolution: Multimodal Recommendation with Topology-aware MLPs**|Junjie Huang et.al.|[2412.11747](http://arxiv.org/abs/2412.11747)|null|
+|**2024-12-16**|**Beyond Graph Convolution: Multimodal Recommendation with Topology-aware MLPs**|Junjie Huang et.al.|[2412.11747](http://arxiv.org/abs/2412.11747)|**[link](https://github.com/jessicahuang0163/TMLP)**|
 |**2024-12-16**|**STAIR: Manipulating Collaborative and Multimodal Information for E-Commerce Recommendation**|Cong Xu et.al.|[2412.11729](http://arxiv.org/abs/2412.11729)|**[link](https://github.com/yhhe2004/stair)**|
 |**2024-12-16**|**Future Sight and Tough Fights: Revolutionizing Sequential Recommendation with FENRec**|Yu-Hsuan Huang et.al.|[2412.11589](http://arxiv.org/abs/2412.11589)|**[link](https://github.com/uikdwnd/FENRec)**|
 |**2024-12-16**|**Enhancing Healthcare Recommendation Systems with a Multimodal LLMs-based MOE Architecture**|Jingyu Xu et.al.|[2412.11557](http://arxiv.org/abs/2412.11557)|null|
