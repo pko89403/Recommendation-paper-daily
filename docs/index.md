@@ -14,10 +14,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**Leveraging Memory Retrieval to Enhance LLM-based Generative Recommendation**|Chengbing Wang et.al.|[2412.17593](http://arxiv.org/abs/2412.17593)|null|
+|**2024-12-23**|**CiteBART: Learning to Generate Citations for Local Citation Recommendation**|Ege Yiğit Çelik et.al.|[2412.17534](http://arxiv.org/abs/2412.17534)|null|
+|**2024-12-23**|**Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark**|Xiaopeng Li et.al.|[2412.17374](http://arxiv.org/abs/2412.17374)|**[link](https://github.com/xiaopengli1/scenario-wise-rec)**|
+|**2024-12-22**|**COVID-19 on YouTube: A Data-Driven Analysis of Sentiment, Toxicity, and Content Recommendations**|Vanessa Su et.al.|[2412.17180](http://arxiv.org/abs/2412.17180)|null|
+|**2024-12-22**|**Enhancing Item Tokenization for Generative Recommendation through Self-Improvement**|Runjin Chen et.al.|[2412.17171](http://arxiv.org/abs/2412.17171)|null|
+|**2024-12-22**|**Multifaceted User Modeling in Recommendation: A Federated Foundation Models Approach**|Chunxu Zhang et.al.|[2412.16969](http://arxiv.org/abs/2412.16969)|**[link](https://github.com/zhangcx19/aaai-25-mrff)**|
+|**2024-12-22**|**Towards a Unified Paradigm: Integrating Recommendation Systems as a New Language in Large Models**|Kai Zheng et.al.|[2412.16933](http://arxiv.org/abs/2412.16933)|null|
+|**2024-12-21**|**STKDRec: Spatial-Temporal Knowledge Distillation for Takeaway Recommendation**|Shuyuan Zhao et.al.|[2412.16502](http://arxiv.org/abs/2412.16502)|null|
+|**2024-12-16**|**AgroXAI: Explainable AI-Driven Crop Recommendation System for Agriculture 4.0**|Ozlem Turgut et.al.|[2412.16196](http://arxiv.org/abs/2412.16196)|null|
 |**2024-12-20**|**Legommenders: A Comprehensive Content-Based Recommendation Library with LLM Support**|Qijiong Liu et.al.|[2412.15973](http://arxiv.org/abs/2412.15973)|null|
 |**2024-12-20**|**Score-based Generative Diffusion Models for Social Recommendations**|Chengyi Liu et.al.|[2412.15579](http://arxiv.org/abs/2412.15579)|**[link](https://github.com/anonymous-coderepository/score-based-generative-diffusion-models-for-social-recommendations-sgsr)**|
 |**2024-12-05**|**Building an Explainable Graph-based Biomedical Paper Recommendation System (Technical Report)**|Hermann Kroll et.al.|[2412.15229](http://arxiv.org/abs/2412.15229)|**[link](https://github.com/hermannkroll/narrativerecommender)**|
-|**2024-12-19**|**DisCo: Graph-Based Disentangled Contrastive Learning for Cold-Start Cross-Domain Recommendation**|Hourun Li et.al.|[2412.15005](http://arxiv.org/abs/2412.15005)|null|
+|**2024-12-23**|**DisCo: Graph-Based Disentangled Contrastive Learning for Cold-Start Cross-Domain Recommendation**|Hourun Li et.al.|[2412.15005](http://arxiv.org/abs/2412.15005)|null|
 |**2024-12-19**|**Spectrum-based Modality Representation Fusion Graph Convolutional Network for Multimodal Recommendation**|Rongqing Kenneth Ong et.al.|[2412.14978](http://arxiv.org/abs/2412.14978)|**[link](https://github.com/kennethorq/smore)**|
 |**2024-12-19**|**HEC-GCN: Hypergraph Enhanced Cascading Graph Convolution Network for Multi-Behavior Recommendation**|Yabo Yin et.al.|[2412.14476](http://arxiv.org/abs/2412.14476)|null|
 |**2024-12-19**|**Are Longer Prompts Always Better? Prompt Selection in Large Language Models for Recommendation Systems**|Genki Kusano et.al.|[2412.14454](http://arxiv.org/abs/2412.14454)|null|
@@ -47,7 +56,7 @@ layout: default
 |**2024-12-12**|**Goal-Conditioned Supervised Learning for Multi-Objective Recommendation**|Shijun Li et.al.|[2412.08911](http://arxiv.org/abs/2412.08911)|null|
 |**2024-12-12**|**MOPI-HFRS: A Multi-objective Personalized Health-aware Food Recommendation System with LLM-enhanced Interpretation**|Zheyuan Zhang et.al.|[2412.08847](http://arxiv.org/abs/2412.08847)|**[link](https://github.com/Anonymous-Be3fb6/MOPI-HFRS)**|
 |**2024-12-11**|**On the Use of Letters of Recommendation in Astronomy and Astrophysics Graduate Admissions**|Darcy Barron et.al.|[2412.08715](http://arxiv.org/abs/2412.08715)|null|
-|**2024-12-18**|**Augmenting Sequential Recommendation with Balanced Relevance and Diversity**|Yizhou Dang et.al.|[2412.08300](http://arxiv.org/abs/2412.08300)|**[link](https://github.com/kinggugu/basrec)**|
+|**2024-12-21**|**Augmenting Sequential Recommendation with Balanced Relevance and Diversity**|Yizhou Dang et.al.|[2412.08300](http://arxiv.org/abs/2412.08300)|**[link](https://github.com/kinggugu/basrec)**|
 |**2024-12-11**|**Multimodal Difference Learning for Sequential Recommendation**|Changhong Li et.al.|[2412.08103](http://arxiv.org/abs/2412.08103)|null|
 |**2024-12-11**|**Cluster-Enhanced Federated Graph Neural Network for Recommendation**|Haiyan Wang et.al.|[2412.08066](http://arxiv.org/abs/2412.08066)|null|
 |**2024-12-03**|**MRP-LLM: Multitask Reflective Large Language Models for Privacy-Preserving Next POI Recommendation**|Ziqing Wu et.al.|[2412.07796](http://arxiv.org/abs/2412.07796)|null|
