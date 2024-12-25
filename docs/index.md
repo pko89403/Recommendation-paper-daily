@@ -14,8 +14,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-24**|**Muse: A Multimodal Conversational Recommendation Dataset with Scenario-Grounded User Profiles**|Zihan Wang et.al.|[2412.18416](http://arxiv.org/abs/2412.18416)|null|
+|**2024-12-24**|**Contrastive Representation for Interactive Recommendation**|Jingyu Li et.al.|[2412.18396](http://arxiv.org/abs/2412.18396)|null|
+|**2024-12-24**|**Static Code Analyzer Recommendation via Preference Mining**|Xiuting Ge et.al.|[2412.18393](http://arxiv.org/abs/2412.18393)|null|
+|**2024-12-24**|**RaSeRec: Retrieval-Augmented Sequential Recommendation**|Xinping Zhao et.al.|[2412.18378](http://arxiv.org/abs/2412.18378)|null|
+|**2024-12-24**|**An Automatic Graph Construction Framework based on Large Language Models for Recommendation**|Rong Shan et.al.|[2412.18241](http://arxiv.org/abs/2412.18241)|**[link](https://github.com/lavieenrose365/autograph)**|
+|**2024-12-24**|**Molar: Multimodal LLMs with Collaborative Filtering Alignment for Enhanced Sequential Recommendation**|Yucong Luo et.al.|[2412.18176](http://arxiv.org/abs/2412.18176)|null|
+|**2024-12-24**|**Unlocking the Hidden Treasures: Enhancing Recommendations with Unlabeled Data**|Yuhan Zhao et.al.|[2412.18170](http://arxiv.org/abs/2412.18170)|**[link](https://github.com/Asa9aoTK/PNN-RecBole)**|
+|**2024-12-24**|**BRIDGE: Bundle Recommendation via Instruction-Driven Generation**|Tuan-Nghia Bui et.al.|[2412.18092](http://arxiv.org/abs/2412.18092)|null|
+|**2024-12-24**|**Prompt Tuning for Item Cold-start Recommendation**|Yuezihan Jiang et.al.|[2412.18082](http://arxiv.org/abs/2412.18082)|**[link](https://github.com/promorec/promo)**|
+|**2024-12-23**|**Aligning AI Research with the Needs of Clinical Coding Workflows: Eight Recommendations Based on US Data Analysis and Critical Review**|Yidong Gan et.al.|[2412.18043](http://arxiv.org/abs/2412.18043)|null|
+|**2024-12-23**|**A Novel Approach to Balance Convenience and Nutrition in Meals With Long-Term Group Recommendations and Reasoning on Multimodal Recipes and its Implementation in BEACON**|Vansh Nagpal et.al.|[2412.17910](http://arxiv.org/abs/2412.17910)|null|
 |**2024-12-23**|**Leveraging Memory Retrieval to Enhance LLM-based Generative Recommendation**|Chengbing Wang et.al.|[2412.17593](http://arxiv.org/abs/2412.17593)|null|
-|**2024-12-23**|**CiteBART: Learning to Generate Citations for Local Citation Recommendation**|Ege Yiğit Çelik et.al.|[2412.17534](http://arxiv.org/abs/2412.17534)|null|
+|**2024-12-23**|**CiteBART: Learning to Generate Citations for Local Citation Recommendation**|Ege Yiğit Çelik et.al.|[2412.17534](http://arxiv.org/abs/2412.17534)|**[link](https://github.com/eyclk/citationrecommendation)**|
 |**2024-12-23**|**Scenario-Wise Rec: A Multi-Scenario Recommendation Benchmark**|Xiaopeng Li et.al.|[2412.17374](http://arxiv.org/abs/2412.17374)|**[link](https://github.com/xiaopengli1/scenario-wise-rec)**|
 |**2024-12-22**|**COVID-19 on YouTube: A Data-Driven Analysis of Sentiment, Toxicity, and Content Recommendations**|Vanessa Su et.al.|[2412.17180](http://arxiv.org/abs/2412.17180)|null|
 |**2024-12-22**|**Enhancing Item Tokenization for Generative Recommendation through Self-Improvement**|Runjin Chen et.al.|[2412.17171](http://arxiv.org/abs/2412.17171)|null|
