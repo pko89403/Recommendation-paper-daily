@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-26**|**From Interets to Insights: An LLM Approach to Course Recommendations Using Natural Language Queries**|Hugh Van Deventer et.al.|[2412.19312](http://arxiv.org/abs/2412.19312)|null|
+|**2024-12-26**|**RecLM: Recommendation Instruction Tuning**|Yangqin Jiang et.al.|[2412.19302](http://arxiv.org/abs/2412.19302)|null|
+|**2024-12-26**|**Towards Popularity-Aware Recommendation: A Multi-Behavior Enhanced Framework with Orthogonality Constraint**|Yishan Han et.al.|[2412.19172](http://arxiv.org/abs/2412.19172)|null|
+|**2024-12-25**|**Don't Lose Yourself: Boosting Multimodal Recommendation via Reducing Node-neighbor Discrepancy in Graph Convolutional Network**|Zheyu Chen et.al.|[2412.18962](http://arxiv.org/abs/2412.18962)|null|
+|**2024-12-25**|**Adaptive Self-supervised Learning for Social Recommendations**|Xin He et.al.|[2412.18735](http://arxiv.org/abs/2412.18735)|null|
+|**2024-12-25**|**Position-aware Graph Transformer for Recommendation**|Jiajia Chen et.al.|[2412.18731](http://arxiv.org/abs/2412.18731)|null|
+|**2024-12-25**|**Enhanced Recommendation Combining Collaborative Filtering and Large Language Models**|Xueting Lin et.al.|[2412.18713](http://arxiv.org/abs/2412.18713)|null|
 |**2024-12-24**|**Muse: A Multimodal Conversational Recommendation Dataset with Scenario-Grounded User Profiles**|Zihan Wang et.al.|[2412.18416](http://arxiv.org/abs/2412.18416)|null|
 |**2024-12-24**|**Contrastive Representation for Interactive Recommendation**|Jingyu Li et.al.|[2412.18396](http://arxiv.org/abs/2412.18396)|**[link](https://github.com/httpwww404notfound/CRIR)**|
 |**2024-12-24**|**Static Code Analyzer Recommendation via Preference Mining**|Xiuting Ge et.al.|[2412.18393](http://arxiv.org/abs/2412.18393)|null|
@@ -54,7 +61,7 @@ layout: default
 |**2024-12-16**|**But Can You Use It? Design Recommendations for Differentially Private Interactive Systems**|Liudas Panavas et.al.|[2412.11794](http://arxiv.org/abs/2412.11794)|null|
 |**2024-12-16**|**Beyond Graph Convolution: Multimodal Recommendation with Topology-aware MLPs**|Junjie Huang et.al.|[2412.11747](http://arxiv.org/abs/2412.11747)|**[link](https://github.com/jessicahuang0163/TMLP)**|
 |**2024-12-16**|**STAIR: Manipulating Collaborative and Multimodal Information for E-Commerce Recommendation**|Cong Xu et.al.|[2412.11729](http://arxiv.org/abs/2412.11729)|**[link](https://github.com/yhhe2004/stair)**|
-|**2024-12-16**|**Future Sight and Tough Fights: Revolutionizing Sequential Recommendation with FENRec**|Yu-Hsuan Huang et.al.|[2412.11589](http://arxiv.org/abs/2412.11589)|**[link](https://github.com/uikdwnd/FENRec)**|
+|**2024-12-27**|**Future Sight and Tough Fights: Revolutionizing Sequential Recommendation with FENRec**|Yu-Hsuan Huang et.al.|[2412.11589](http://arxiv.org/abs/2412.11589)|**[link](https://github.com/uikdwnd/FENRec)**|
 |**2024-12-16**|**Enhancing Healthcare Recommendation Systems with a Multimodal LLMs-based MOE Architecture**|Jingyu Xu et.al.|[2412.11557](http://arxiv.org/abs/2412.11557)|null|
 |**2024-12-15**|**Modeling the Heterogeneous Duration of User Interest in Time-Dependent Recommendation: A Hidden Semi-Markov Approach**|Haidong Zhang et.al.|[2412.11127](http://arxiv.org/abs/2412.11127)|null|
 |**2024-12-15**|**Multi-Graph Co-Training for Capturing User Intent in Session-based Recommendation**|Zhe Yang et.al.|[2412.11105](http://arxiv.org/abs/2412.11105)|**[link](https://github.com/liang-tian-tian/mgcot)**|
