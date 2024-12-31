@@ -14,7 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-26**|**From Interets to Insights: An LLM Approach to Course Recommendations Using Natural Language Queries**|Hugh Van Deventer et.al.|[2412.19312](http://arxiv.org/abs/2412.19312)|null|
+|**2024-12-28**|**Generative Regression Based Watch Time Prediction for Video Recommendation: Model and Performance**|Hongxu Ma et.al.|[2412.20211](http://arxiv.org/abs/2412.20211)|null|
+|**2024-12-28**|**A Contrastive Pretrain Model with Prompt Tuning for Multi-center Medication Recommendation**|Qidong Liu et.al.|[2412.20040](http://arxiv.org/abs/2412.20040)|**[link](https://github.com/applied-machine-learning-lab/tempt)**|
+|**2024-12-28**|**Invariant debiasing learning for recommendation via biased imputation**|Ting Bai et.al.|[2412.20036](http://arxiv.org/abs/2412.20036)|**[link](https://github.com/bai-lab/kd-debias)**|
+|**2024-12-30**|**From Interests to Insights: An LLM Approach to Course Recommendations Using Natural Language Queries**|Hugh Van Deventer et.al.|[2412.19312](http://arxiv.org/abs/2412.19312)|null|
 |**2024-12-26**|**RecLM: Recommendation Instruction Tuning**|Yangqin Jiang et.al.|[2412.19302](http://arxiv.org/abs/2412.19302)|null|
 |**2024-12-26**|**Towards Popularity-Aware Recommendation: A Multi-Behavior Enhanced Framework with Orthogonality Constraint**|Yishan Han et.al.|[2412.19172](http://arxiv.org/abs/2412.19172)|null|
 |**2024-12-25**|**Don't Lose Yourself: Boosting Multimodal Recommendation via Reducing Node-neighbor Discrepancy in Graph Convolutional Network**|Zheyu Chen et.al.|[2412.18962](http://arxiv.org/abs/2412.18962)|null|
@@ -26,7 +29,7 @@ layout: default
 |**2024-12-24**|**Static Code Analyzer Recommendation via Preference Mining**|Xiuting Ge et.al.|[2412.18393](http://arxiv.org/abs/2412.18393)|null|
 |**2024-12-24**|**RaSeRec: Retrieval-Augmented Sequential Recommendation**|Xinping Zhao et.al.|[2412.18378](http://arxiv.org/abs/2412.18378)|null|
 |**2024-12-24**|**An Automatic Graph Construction Framework based on Large Language Models for Recommendation**|Rong Shan et.al.|[2412.18241](http://arxiv.org/abs/2412.18241)|**[link](https://github.com/lavieenrose365/autograph)**|
-|**2024-12-24**|**Molar: Multimodal LLMs with Collaborative Filtering Alignment for Enhanced Sequential Recommendation**|Yucong Luo et.al.|[2412.18176](http://arxiv.org/abs/2412.18176)|null|
+|**2024-12-30**|**Molar: Multimodal LLMs with Collaborative Filtering Alignment for Enhanced Sequential Recommendation**|Yucong Luo et.al.|[2412.18176](http://arxiv.org/abs/2412.18176)|null|
 |**2024-12-24**|**Unlocking the Hidden Treasures: Enhancing Recommendations with Unlabeled Data**|Yuhan Zhao et.al.|[2412.18170](http://arxiv.org/abs/2412.18170)|**[link](https://github.com/Asa9aoTK/PNN-RecBole)**|
 |**2024-12-24**|**BRIDGE: Bundle Recommendation via Instruction-Driven Generation**|Tuan-Nghia Bui et.al.|[2412.18092](http://arxiv.org/abs/2412.18092)|null|
 |**2024-12-24**|**Prompt Tuning for Item Cold-start Recommendation**|Yuezihan Jiang et.al.|[2412.18082](http://arxiv.org/abs/2412.18082)|**[link](https://github.com/promorec/promo)**|
