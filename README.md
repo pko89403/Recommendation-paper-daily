@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.01
+## Updated on 2025.01.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 |**2024-12-28**|**Generative Regression Based Watch Time Prediction for Video Recommendation: Model and Performance**|Hongxu Ma et.al.|[2412.20211](http://arxiv.org/abs/2412.20211)|null|
 |**2024-12-28**|**A Contrastive Pretrain Model with Prompt Tuning for Multi-center Medication Recommendation**|Qidong Liu et.al.|[2412.20040](http://arxiv.org/abs/2412.20040)|**[link](https://github.com/applied-machine-learning-lab/tempt)**|
 |**2024-12-28**|**Invariant debiasing learning for recommendation via biased imputation**|Ting Bai et.al.|[2412.20036](http://arxiv.org/abs/2412.20036)|**[link](https://github.com/bai-lab/kd-debias)**|
-|**2024-12-30**|**From Interests to Insights: An LLM Approach to Course Recommendations Using Natural Language Queries**|Hugh Van Deventer et.al.|[2412.19312](http://arxiv.org/abs/2412.19312)|null|
+|**2024-12-30**|**From Interests to Insights: An LLM Approach to Course Recommendations Using Natural Language Queries**|Hugh Van Deventer et.al.|[2412.19312](http://arxiv.org/abs/2412.19312)|**[link](https://github.com/hughvd/um-cai-fellowship)**|
 |**2024-12-26**|**RecLM: Recommendation Instruction Tuning**|Yangqin Jiang et.al.|[2412.19302](http://arxiv.org/abs/2412.19302)|null|
 |**2024-12-26**|**Towards Popularity-Aware Recommendation: A Multi-Behavior Enhanced Framework with Orthogonality Constraint**|Yishan Han et.al.|[2412.19172](http://arxiv.org/abs/2412.19172)|null|
 |**2024-12-25**|**Don't Lose Yourself: Boosting Multimodal Recommendation via Reducing Node-neighbor Discrepancy in Graph Convolutional Network**|Zheyu Chen et.al.|[2412.18962](http://arxiv.org/abs/2412.18962)|null|
@@ -851,7 +851,7 @@
 |**2024-03-07**|**Disaggregated Multi-Tower: Topology-aware Modeling Technique for Efficient Large-Scale Recommendation**|Liang Luo et.al.|[2403.00877](http://arxiv.org/abs/2403.00877)|null|
 |**2024-03-01**|**A Survey of Route Recommendations: Methods, Applications, and Opportunities**|Shiming Zhang et.al.|[2403.00284](http://arxiv.org/abs/2403.00284)|null|
 
-<p align=right>(<a href=#updated-on-20250101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250102>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
