@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-02**|**An Efficient Attention Mechanism for Sequential Recommendation Tasks: HydraRec**|Uzma Mushtaque et.al.|[2501.01242](http://arxiv.org/abs/2501.01242)|null|
+|**2025-01-02**|**HetGCoT-Rec: Heterogeneous Graph-Enhanced Chain-of-Thought LLM Reasoning for Journal Recommendation**|Runsong Jia et.al.|[2501.01203](http://arxiv.org/abs/2501.01203)|null|
+|**2025-01-02**|**DiffCL: A Diffusion-Based Contrastive Learning Framework with Semantic Alignment for Multimodal Recommendations**|Qiya Song et.al.|[2501.01066](http://arxiv.org/abs/2501.01066)|null|
+|**2024-12-31**|**Who Gets Recommended? Investigating Gender, Race, and Country Disparities in Paper Recommendations from Large Language Models**|Yifan Tian et.al.|[2501.00367](http://arxiv.org/abs/2501.00367)|null|
 |**2024-12-28**|**Generative Regression Based Watch Time Prediction for Video Recommendation: Model and Performance**|Hongxu Ma et.al.|[2412.20211](http://arxiv.org/abs/2412.20211)|null|
 |**2024-12-28**|**A Contrastive Pretrain Model with Prompt Tuning for Multi-center Medication Recommendation**|Qidong Liu et.al.|[2412.20040](http://arxiv.org/abs/2412.20040)|**[link](https://github.com/applied-machine-learning-lab/tempt)**|
 |**2024-12-28**|**Invariant debiasing learning for recommendation via biased imputation**|Ting Bai et.al.|[2412.20036](http://arxiv.org/abs/2412.20036)|**[link](https://github.com/bai-lab/kd-debias)**|
