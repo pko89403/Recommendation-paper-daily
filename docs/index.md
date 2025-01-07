@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-06**|**LightGNN: Simple Graph Neural Network for Recommendation**|Guoxuan Chen et.al.|[2501.03228](http://arxiv.org/abs/2501.03228)|null|
+|**2025-01-06**|**Personalized Fashion Recommendation with Image Attributes and Aesthetics Assessment**|Chongxian Chen et.al.|[2501.03085](http://arxiv.org/abs/2501.03085)|null|
+|**2025-01-06**|**Forward Once for All: Structural Parameterized Adaptation for Efficient Cloud-coordinated On-device Recommendation**|Kairui Fu et.al.|[2501.02837](http://arxiv.org/abs/2501.02837)|null|
+|**2025-01-06**|**Tree-based RAG-Agent Recommendation System: A Case Study in Medical Test Data**|Yahe Yang et.al.|[2501.02727](http://arxiv.org/abs/2501.02727)|null|
+|**2025-01-05**|**Quantum Cognition-Inspired EEG-based Recommendation via Graph Neural Networks**|Jinkun Han et.al.|[2501.02671](http://arxiv.org/abs/2501.02671)|null|
+|**2025-01-05**|**Multi-Aggregator Time-Warping Heterogeneous Graph Neural Network for Personalized Micro-Video Recommendation**|Jinkun Han et.al.|[2501.02666](http://arxiv.org/abs/2501.02666)|null|
+|**2025-01-04**|**Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation**|Shijie Wang et.al.|[2501.02226](http://arxiv.org/abs/2501.02226)|null|
+|**2025-01-04**|**The Application of Large Language Models in Recommendation Systems**|Peiyang Yu et.al.|[2501.02178](http://arxiv.org/abs/2501.02178)|null|
 |**2025-01-03**|**Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap**|Weizhi Zhang et.al.|[2501.01945](http://arxiv.org/abs/2501.01945)|null|
 |**2025-01-02**|**An Efficient Attention Mechanism for Sequential Recommendation Tasks: HydraRec**|Uzma Mushtaque et.al.|[2501.01242](http://arxiv.org/abs/2501.01242)|null|
 |**2025-01-02**|**HetGCoT-Rec: Heterogeneous Graph-Enhanced Chain-of-Thought LLM Reasoning for Journal Recommendation**|Runsong Jia et.al.|[2501.01203](http://arxiv.org/abs/2501.01203)|null|
@@ -32,7 +40,7 @@ layout: default
 |**2024-12-24**|**Muse: A Multimodal Conversational Recommendation Dataset with Scenario-Grounded User Profiles**|Zihan Wang et.al.|[2412.18416](http://arxiv.org/abs/2412.18416)|null|
 |**2024-12-24**|**Contrastive Representation for Interactive Recommendation**|Jingyu Li et.al.|[2412.18396](http://arxiv.org/abs/2412.18396)|**[link](https://github.com/httpwww404notfound/CRIR)**|
 |**2024-12-24**|**Static Code Analyzer Recommendation via Preference Mining**|Xiuting Ge et.al.|[2412.18393](http://arxiv.org/abs/2412.18393)|null|
-|**2024-12-24**|**RaSeRec: Retrieval-Augmented Sequential Recommendation**|Xinping Zhao et.al.|[2412.18378](http://arxiv.org/abs/2412.18378)|null|
+|**2025-01-06**|**RaSeRec: Retrieval-Augmented Sequential Recommendation**|Xinping Zhao et.al.|[2412.18378](http://arxiv.org/abs/2412.18378)|**[link](https://github.com/HITsz-TMG/RaSeRec)**|
 |**2024-12-24**|**An Automatic Graph Construction Framework based on Large Language Models for Recommendation**|Rong Shan et.al.|[2412.18241](http://arxiv.org/abs/2412.18241)|**[link](https://github.com/lavieenrose365/autograph)**|
 |**2024-12-30**|**Molar: Multimodal LLMs with Collaborative Filtering Alignment for Enhanced Sequential Recommendation**|Yucong Luo et.al.|[2412.18176](http://arxiv.org/abs/2412.18176)|null|
 |**2024-12-24**|**Unlocking the Hidden Treasures: Enhancing Recommendations with Unlabeled Data**|Yuhan Zhao et.al.|[2412.18170](http://arxiv.org/abs/2412.18170)|**[link](https://github.com/Asa9aoTK/PNN-RecBole)**|
