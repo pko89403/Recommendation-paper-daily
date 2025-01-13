@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**Causal survival analysis, Estimation of the Average Treatment Effect (ATE): Practical Recommendations**|Charlotte Voinot et.al.|[2501.05836](http://arxiv.org/abs/2501.05836)|null|
+|**2025-01-10**|**Robot Error Awareness Through Human Reactions: Implementation, Evaluation, and Recommendations**|Maia Stiber et.al.|[2501.05723](http://arxiv.org/abs/2501.05723)|null|
+|**2025-01-10**|**Collaboration of Large Language Models and Small Recommendation Models for Device-Cloud Recommendation**|Zheqi Lv et.al.|[2501.05647](http://arxiv.org/abs/2501.05647)|null|
+|**2024-12-31**|**Proof Recommendation System for the HOL4 Theorem Prover**|Nour Dekhil et.al.|[2501.05463](http://arxiv.org/abs/2501.05463)|null|
 |**2025-01-08**|**Efficient and Responsible Adaptation of Large Language Models for Robust and Equitable Top-k Recommendations**|Kirandeep Kaur et.al.|[2501.04762](http://arxiv.org/abs/2501.04762)|null|
 |**2025-01-07**|**KGIF: Optimizing Relation-Aware Recommendations with Knowledge Graph Information Fusion**|Dong Hyun Jeon et.al.|[2501.04161](http://arxiv.org/abs/2501.04161)|null|
 |**2025-01-08**|**Rethinking Byzantine Robustness in Federated Recommendation from Sparse Aggregation Perspective**|Zhongjian Zhang et.al.|[2501.03301](http://arxiv.org/abs/2501.03301)|**[link](https://github.com/zhongjian-zhang/spattack)**|
