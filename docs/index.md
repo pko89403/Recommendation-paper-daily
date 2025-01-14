@@ -14,8 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-13**|**Future-Conditioned Recommendations with Multi-Objective Controllable Decision Transformer**|Chongming Gao et.al.|[2501.07212](http://arxiv.org/abs/2501.07212)|null|
+|**2025-01-13**|**Natural Language-Assisted Multi-modal Medication Recommendation**|Jie Tan et.al.|[2501.07166](http://arxiv.org/abs/2501.07166)|**[link](https://github.com/jtan1102/nla-mmr_cikm_2024)**|
+|**2025-01-13**|**Dynamic Multimodal Fusion via Meta-Learning Towards Micro-Video Recommendation**|Han Liu et.al.|[2501.07110](http://arxiv.org/abs/2501.07110)|**[link](https://github.com/hanliu95/metammf)**|
+|**2025-01-13**|**Intent-Interest Disentanglement and Item-Aware Intent Contrastive Learning for Sequential Recommendation**|Yijin Choi et.al.|[2501.07096](http://arxiv.org/abs/2501.07096)|null|
+|**2025-01-13**|**Graph Contrastive Learning on Multi-label Classification for Recommendations**|Jiayang Wu et.al.|[2501.06985](http://arxiv.org/abs/2501.06985)|null|
+|**2025-01-10**|**Repeat-bias-aware Optimization of Beyond-accuracy Metrics for Next Basket Recommendation**|Yuanna Liu et.al.|[2501.06362](http://arxiv.org/abs/2501.06362)|**[link](https://github.com/lynecho/repbias_nbr)**|
 |**2025-01-10**|**Causal survival analysis, Estimation of the Average Treatment Effect (ATE): Practical Recommendations**|Charlotte Voinot et.al.|[2501.05836](http://arxiv.org/abs/2501.05836)|null|
-|**2025-01-10**|**Robot Error Awareness Through Human Reactions: Implementation, Evaluation, and Recommendations**|Maia Stiber et.al.|[2501.05723](http://arxiv.org/abs/2501.05723)|null|
+|**2025-01-13**|**Robot Error Awareness Through Human Reactions: Implementation, Evaluation, and Recommendations**|Maia Stiber et.al.|[2501.05723](http://arxiv.org/abs/2501.05723)|null|
 |**2025-01-10**|**Collaboration of Large Language Models and Small Recommendation Models for Device-Cloud Recommendation**|Zheqi Lv et.al.|[2501.05647](http://arxiv.org/abs/2501.05647)|null|
 |**2024-12-31**|**Proof Recommendation System for the HOL4 Theorem Prover**|Nour Dekhil et.al.|[2501.05463](http://arxiv.org/abs/2501.05463)|null|
 |**2025-01-08**|**Efficient and Responsible Adaptation of Large Language Models for Robust and Equitable Top-k Recommendations**|Kirandeep Kaur et.al.|[2501.04762](http://arxiv.org/abs/2501.04762)|null|
