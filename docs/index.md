@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-15**|**Real-time Indexing for Large-scale Recommendation by Streaming Vector Quantization Retriever**|Xingyan Bin et.al.|[2501.08695](http://arxiv.org/abs/2501.08695)|null|
+|**2025-01-15**|**DNMDR: Dynamic Networks and Multi-view Drug Representations for Safe Medication Recommendation**|Guanlin Liu et.al.|[2501.08572](http://arxiv.org/abs/2501.08572)|null|
 |**2025-01-14**|**UFGraphFR: An attempt at a federated recommendation system based on user text characteristics**|Xudong Wang et.al.|[2501.08044](http://arxiv.org/abs/2501.08044)|**[link](https://github.com/trueWangSyutung/UFGraphFR)**|
 |**2025-01-14**|**V-Trans4Style: Visual Transition Recommendation for Video Production Style Adaptation**|Pooja Guhan et.al.|[2501.07983](http://arxiv.org/abs/2501.07983)|null|
 |**2025-01-14**|**Advice for Diabetes Self-Management by ChatGPT Models: Challenges and Recommendations**|Waqar Hussain et.al.|[2501.07931](http://arxiv.org/abs/2501.07931)|null|
