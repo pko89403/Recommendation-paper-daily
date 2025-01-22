@@ -17,6 +17,18 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**LLM-Assisted Knowledge Graph Completion for Curriculum and Domain Modelling in Personalized Higher Education Recommendations**|Hasan Abu-Rasheed et.al.|[2501.12300](http://arxiv.org/abs/2501.12300)|null|
+|**2025-01-21**|**Less is More: Information Bottleneck Denoised Multimedia Recommendation**|Yonghui Yang et.al.|[2501.12175](http://arxiv.org/abs/2501.12175)|null|
+|**2025-01-21**|**Contextualizing Recommendation Explanations with LLMs: A User Study**|Yuanjun Feng et.al.|[2501.12152](http://arxiv.org/abs/2501.12152)|null|
+|**2025-01-21**|**A Contrastive Framework with User, Item and Review Alignment for Recommendation**|Hoang V. Dong et.al.|[2501.11963](http://arxiv.org/abs/2501.11963)|null|
+|**2025-01-21**|**Generating with Fairness: A Modality-Diffused Counterfactual Framework for Incomplete Multimodal Recommendations**|Jin Li et.al.|[2501.11916](http://arxiv.org/abs/2501.11916)|null|
+|**2025-01-21**|**Coarse-to-Fine Lightweight Meta-Embedding for ID-Based Recommendation**|Yang Wang et.al.|[2501.11870](http://arxiv.org/abs/2501.11870)|**[link](https://github.com/htyjers/c2f-metaembed)**|
+|**2025-01-20**|**Exploring Preference-Guided Diffusion Model for Cross-Domain Recommendation**|Xiaodong Li et.al.|[2501.11671](http://arxiv.org/abs/2501.11671)|null|
+|**2025-01-20**|**Disentangled Modeling of Preferences and Social Influence for Group Recommendation**|Guangze Ye et.al.|[2501.11342](http://arxiv.org/abs/2501.11342)|null|
+|**2025-01-18**|**Enhancing User Intent for Recommendation Systems via Large Language Models**|Xiaochuan Xu et.al.|[2501.10871](http://arxiv.org/abs/2501.10871)|null|
+|**2025-01-18**|**Harnessing the Potential of Large Language Models in Modern Marketing Management: Applications, Future Directions, and Strategic Recommendations**|Raha Aghaei et.al.|[2501.10685](http://arxiv.org/abs/2501.10685)|null|
+|**2025-01-17**|**Diffusion Models in Recommendation Systems: A Survey**|Ting-Ruen Wei et.al.|[2501.10548](http://arxiv.org/abs/2501.10548)|null|
+|**2025-01-17**|**Scalable Machine Learning Training Infrastructure for Online Ads Recommendation and Auction Scoring Modeling at Google**|George Kurian et.al.|[2501.10546](http://arxiv.org/abs/2501.10546)|null|
 |**2025-01-17**|**Addressing Popularity Bias in Third-Party Library Recommendations Using LLMs**|Claudio Di Sipio et.al.|[2501.10313](http://arxiv.org/abs/2501.10313)|null|
 |**2025-01-17**|**Challenges and recommendations for Electronic Health Records data extraction and preparation for dynamic prediction modelling in hospitalized patients -- a practical guide**|Elena Albu et.al.|[2501.10240](http://arxiv.org/abs/2501.10240)|null|
 |**2025-01-17**|**A Worrying Reproducibility Study of Intent-Aware Recommendation Models**|Faisal Shehzad et.al.|[2501.10143](http://arxiv.org/abs/2501.10143)|null|
