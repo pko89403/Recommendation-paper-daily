@@ -14,7 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-29**|**TikTok's recommendations skewed towards Republican content during the 2024 U.S. presidential race**|Hazem Ibrahim et.al.|[2501.17831](http://arxiv.org/abs/2501.17831)|null|
+|**2025-01-30**|**Citation Recommendation based on Argumentative Zoning of User Queries**|Shutian Ma et.al.|[2501.18292](http://arxiv.org/abs/2501.18292)|null|
+|**2025-01-30**|**Hashtag Re-Appropriation for Audience Control on Recommendation-Driven Social Media Xiaohongshu (rednote)**|Ruyuan Wan et.al.|[2501.18210](http://arxiv.org/abs/2501.18210)|null|
+|**2025-01-30**|**HyperZero: A Customized End-to-End Auto-Tuning System for Recommendation with Hourly Feedback**|Xufeng Cai et.al.|[2501.18126](http://arxiv.org/abs/2501.18126)|null|
+|**2025-01-30**|**Improving Minimax Group Fairness in Sequential Recommendation**|Krishna Acharya et.al.|[2501.18117](http://arxiv.org/abs/2501.18117)|**[link](https://github.com/krishnacharya/sequentialrec-fairness)**|
+|**2025-01-29**|**TikTok's recommendations skewed towards Republican content during the 2024 U.S. presidential race**|Hazem Ibrahim et.al.|[2501.17831](http://arxiv.org/abs/2501.17831)|**[link](https://github.com/comnetsad/politics_tiktok)**|
 |**2025-01-29**|**Distinguished Quantized Guidance for Diffusion-based Sequence Recommendation**|Wenyu Mao et.al.|[2501.17670](http://arxiv.org/abs/2501.17670)|null|
 |**2025-01-29**|**Uncertainty Quantification and Decomposition for LLM-based Recommendation**|Wonbin Kweon et.al.|[2501.17630](http://arxiv.org/abs/2501.17630)|**[link](https://github.com/wonbinkweon/unc_llm_rec_www2025)**|
 |**2025-01-29**|**Value Function Decomposition in Markov Recommendation Process**|Xiaobei Wang et.al.|[2501.17409](http://arxiv.org/abs/2501.17409)|null|
@@ -28,7 +32,7 @@ layout: default
 |**2025-01-25**|**ABXI: Invariant Interest Adaptation for Task-Guided Cross-Domain Sequential Recommendation**|Qingtian Bian et.al.|[2501.15118](http://arxiv.org/abs/2501.15118)|**[link](https://github.com/dimarziobian/abxi)**|
 |**2025-01-25**|**PatchRec: Multi-Grained Patching for Efficient LLM-based Sequential Recommendation**|Jiayi Liao et.al.|[2501.15087](http://arxiv.org/abs/2501.15087)|null|
 |**2025-01-25**|**YouTube Recommendations Reinforce Negative Emotions: Auditing Algorithmic Bias with Emotionally-Agentic Sock Puppets**|Hussam Habib et.al.|[2501.15048](http://arxiv.org/abs/2501.15048)|null|
-|**2025-01-24**|**Hierarchical Time-Aware Mixture of Experts for Multi-Modal Sequential Recommendation**|Shengzhe Zhang et.al.|[2501.14269](http://arxiv.org/abs/2501.14269)|**[link](https://github.com/SStarCCat/HM4SR)**|
+|**2025-01-30**|**Hierarchical Time-Aware Mixture of Experts for Multi-Modal Sequential Recommendation**|Shengzhe Zhang et.al.|[2501.14269](http://arxiv.org/abs/2501.14269)|**[link](https://github.com/SStarCCat/HM4SR)**|
 |**2025-01-23**|**Can Large Language Models Understand Preferences in Personalized Recommendation?**|Zhaoxuan Tan et.al.|[2501.13391](http://arxiv.org/abs/2501.13391)|**[link](https://github.com/tamsiuhin/perrecbench)**|
 |**2025-01-23**|**Full-Stack Optimized Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation**|Rong Shan et.al.|[2501.13344](http://arxiv.org/abs/2501.13344)|null|
 |**2025-01-23**|**AgentRec: Agent Recommendation Using Sentence Embeddings Aligned to Human Feedback**|Joshua Park et.al.|[2501.13333](http://arxiv.org/abs/2501.13333)|**[link](https://github.com/joshprk/agentrec)**|
