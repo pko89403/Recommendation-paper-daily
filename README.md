@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**Policy-Guided Causal State Representation for Offline Reinforcement Learning Recommendation**|Siyu Wang et.al.|[2502.02327](http://arxiv.org/abs/2502.02327)|null|
+|**2025-02-04**|**Combinatorial Optimization Perspective based Framework for Multi-behavior Recommendation**|Chenhao Zhai et.al.|[2502.02232](http://arxiv.org/abs/2502.02232)|null|
+|**2025-02-04**|**Large Language Models for Recommendation with Deliberative User Preference Alignment**|Yi Fang et.al.|[2502.02061](http://arxiv.org/abs/2502.02061)|null|
+|**2025-02-03**|**Bias Beware: The Impact of Cognitive Biases on LLM-Driven Product Recommendations**|Giorgos Filandrianos et.al.|[2502.01349](http://arxiv.org/abs/2502.01349)|null|
+|**2025-01-31**|**Middleman Bias in Advertising: Aligning Relevance of Keyphrase Recommendations with Search**|Soumik Dey et.al.|[2502.00131](http://arxiv.org/abs/2502.00131)|null|
 |**2025-01-31**|**A Zero-Shot Generalization Framework for LLM-Driven Cross-Domain Sequential Recommendation**|Yunzhe Li et.al.|[2501.19232](http://arxiv.org/abs/2501.19232)|null|
 |**2025-01-31**|**Optimizing Through Change: Bounds and Recommendations for Time-Varying Bayesian Optimization Algorithms**|Anthony Bardou et.al.|[2501.18963](http://arxiv.org/abs/2501.18963)|null|
 |**2025-01-30**|**Are Representation Disentanglement and Interpretability Linked in Recommendation Models? A Critical Review and Reproducibility Study**|Ervin Dervishaj et.al.|[2501.18805](http://arxiv.org/abs/2501.18805)|**[link](https://github.com/edervishaj/disentanglement-interpretability-recsys)**|
