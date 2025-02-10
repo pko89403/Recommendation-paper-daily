@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**Differential Privacy of Quantum and Quantum-Inspired-Classical Recommendation Algorithms**|Chenjian Li et.al.|[2502.04758](http://arxiv.org/abs/2502.04758)|null|
 |**2025-02-06**|**Precision Agriculture Revolution: Integrating Digital Twins and Advanced Crop Recommendation for Optimal Yield**|Sayan Banerjee et.al.|[2502.04054](http://arxiv.org/abs/2502.04054)|null|
 |**2025-02-06**|**Boosting Knowledge Graph-based Recommendations through Confidence-Aware Augmentation with Large Language Models**|Rui Cai et.al.|[2502.03715](http://arxiv.org/abs/2502.03715)|null|
 |**2025-02-05**|**Contrastive Learning for Cold Start Recommendation with Adaptive Feature Fusion**|Jiacheng Hu et.al.|[2502.03664](http://arxiv.org/abs/2502.03664)|null|
