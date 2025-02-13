@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-12**|**Graph Foundation Models for Recommendation: A Comprehensive Survey**|Bin Wu et.al.|[2502.08346](http://arxiv.org/abs/2502.08346)|null|
+|**2025-02-12**|**Unlocking Scaling Law in Industrial Recommendation Systems with a Three-step Paradigm based Large User Model**|Bencheng Yan et.al.|[2502.08309](http://arxiv.org/abs/2502.08309)|null|
+|**2025-02-12**|**MoLoRec: A Generalizable and Efficient Framework for LLM-Based Recommendation**|Min Hou et.al.|[2502.08271](http://arxiv.org/abs/2502.08271)|null|
+|**2025-02-12**|**MixDec Sampling: A Soft Link-based Sampling Method of Graph Neural Network for Recommendation**|Xiangjin Xie et.al.|[2502.08161](http://arxiv.org/abs/2502.08161)|null|
+|**2025-02-12**|**SS4Rec: Continuous-Time Sequential Recommendation with State Space Models**|Wei Xiao et.al.|[2502.08132](http://arxiv.org/abs/2502.08132)|null|
 |**2025-02-11**|**IU4Rec: Interest Unit-Based Product Organization and Recommendation for E-Commerce Platform**|Wenhao Wu et.al.|[2502.07658](http://arxiv.org/abs/2502.07658)|null|
 |**2025-02-01**|**Solving the Content Gap in Roblox Game Recommendations: LLM-Based Profile Generation and Reranking**|Chen Wang et.al.|[2502.06802](http://arxiv.org/abs/2502.06802)|null|
 |**2025-02-10**|**Network Intrusion Datasets: A Survey, Limitations, and Recommendations**|Patrik Goldschmidt et.al.|[2502.06688](http://arxiv.org/abs/2502.06688)|null|
@@ -32,7 +37,7 @@
 |**2025-02-06**|**Boosting Knowledge Graph-based Recommendations through Confidence-Aware Augmentation with Large Language Models**|Rui Cai et.al.|[2502.03715](http://arxiv.org/abs/2502.03715)|null|
 |**2025-02-05**|**Contrastive Learning for Cold Start Recommendation with Adaptive Feature Fusion**|Jiacheng Hu et.al.|[2502.03664](http://arxiv.org/abs/2502.03664)|null|
 |**2025-02-06**|**Interactive Visualization Recommendation with Hier-SUCB**|Songwen Hu et.al.|[2502.03375](http://arxiv.org/abs/2502.03375)|null|
-|**2025-02-11**|**Intent Representation Learning with Large Language Model for Recommendation**|Yu Wang et.al.|[2502.03307](http://arxiv.org/abs/2502.03307)|null|
+|**2025-02-12**|**Intent Alignment between Interaction and Language Spaces for Recommendation**|Yu Wang et.al.|[2502.03307](http://arxiv.org/abs/2502.03307)|null|
 |**2025-02-05**|**Large Language Models Are Universal Recommendation Learners**|Junguang Jiang et.al.|[2502.03041](http://arxiv.org/abs/2502.03041)|null|
 |**2025-02-05**|**FuXi- $α$ : Scaling Recommendation Model with Feature Interaction Enhanced Transformer**|Yufei Ye et.al.|[2502.03036](http://arxiv.org/abs/2502.03036)|null|
 |**2025-02-06**|**TD3: Tucker Decomposition Based Dataset Distillation Method for Sequential Recommendation**|Jiaqing Zhang et.al.|[2502.02854](http://arxiv.org/abs/2502.02854)|null|
@@ -51,7 +56,7 @@
 |**2025-01-30**|**Improving Minimax Group Fairness in Sequential Recommendation**|Krishna Acharya et.al.|[2501.18117](http://arxiv.org/abs/2501.18117)|**[link](https://github.com/krishnacharya/sequentialrec-fairness)**|
 |**2025-01-29**|**TikTok's recommendations skewed towards Republican content during the 2024 U.S. presidential race**|Hazem Ibrahim et.al.|[2501.17831](http://arxiv.org/abs/2501.17831)|**[link](https://github.com/comnetsad/politics_tiktok)**|
 |**2025-02-11**|**Distinguished Quantized Guidance for Diffusion-based Sequence Recommendation**|Wenyu Mao et.al.|[2501.17670](http://arxiv.org/abs/2501.17670)|null|
-|**2025-01-29**|**Uncertainty Quantification and Decomposition for LLM-based Recommendation**|Wonbin Kweon et.al.|[2501.17630](http://arxiv.org/abs/2501.17630)|**[link](https://github.com/wonbinkweon/unc_llm_rec_www2025)**|
+|**2025-02-12**|**Uncertainty Quantification and Decomposition for LLM-based Recommendation**|Wonbin Kweon et.al.|[2501.17630](http://arxiv.org/abs/2501.17630)|**[link](https://github.com/wonbinkweon/unc_llm_rec_www2025)**|
 |**2025-02-01**|**Value Function Decomposition in Markov Recommendation Process**|Xiaobei Wang et.al.|[2501.17409](http://arxiv.org/abs/2501.17409)|null|
 |**2025-02-07**|**360Brew: A Decoder-only Foundation Model for Personalized Ranking and Recommendation**|Hamed Firooz et.al.|[2501.16450](http://arxiv.org/abs/2501.16450)|null|
 |**2025-02-11**|**SampleLLM: Optimizing Tabular Data Synthesis in Recommendations**|Jingtong Gao et.al.|[2501.16125](http://arxiv.org/abs/2501.16125)|null|
