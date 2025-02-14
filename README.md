@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**FARM: Frequency-Aware Model for Cross-Domain Live-Streaming Recommendation**|Xiaodong Li et.al.|[2502.09375](http://arxiv.org/abs/2502.09375)|null|
+|**2025-02-12**|**Data Sharing in the PRIMED Consortium: Design, implementation, and recommendations for future policymaking**|Johanna L. Smith et.al.|[2502.09351](http://arxiv.org/abs/2502.09351)|null|
+|**2025-02-13**|**Bridging Jensen Gap for Max-Min Group Fairness Optimization in Recommendation**|Chen Xu et.al.|[2502.09319](http://arxiv.org/abs/2502.09319)|null|
+|**2025-02-13**|**Unleashing the Power of Large Language Model for Denoising Recommendation**|Shuyao Wang et.al.|[2502.09058](http://arxiv.org/abs/2502.09058)|null|
+|**2025-02-13**|**Leveraging Member-Group Relations via Multi-View Graph Filtering for Effective Group Recommendation**|Chae-Hyun Kim et.al.|[2502.09050](http://arxiv.org/abs/2502.09050)|null|
+|**2025-02-13**|**Criteria-Aware Graph Filtering: Extremely Fast Yet Accurate Multi-Criteria Recommendation**|Jin-Duk Park et.al.|[2502.09046](http://arxiv.org/abs/2502.09046)|null|
+|**2025-02-13**|**A Contextual-Aware Position Encoding for Sequential Recommendation**|Jun Yuan et.al.|[2502.09027](http://arxiv.org/abs/2502.09027)|null|
+|**2025-02-13**|**Off-Policy Evaluation for Recommendations with Missing-Not-At-Random Rewards**|Tatsuki Takahashi et.al.|[2502.08993](http://arxiv.org/abs/2502.08993)|null|
+|**2025-02-13**|**AutoLike: Auditing Social Media Recommendations through User Interactions**|Hieu Le et.al.|[2502.08933](http://arxiv.org/abs/2502.08933)|null|
+|**2025-02-12**|**Beyond Models! Explainable Data Valuation and Metric Adaption for Recommendation**|Renqi Jia et.al.|[2502.08685](http://arxiv.org/abs/2502.08685)|null|
 |**2025-02-12**|**Graph Foundation Models for Recommendation: A Comprehensive Survey**|Bin Wu et.al.|[2502.08346](http://arxiv.org/abs/2502.08346)|null|
 |**2025-02-12**|**Unlocking Scaling Law in Industrial Recommendation Systems with a Three-step Paradigm based Large User Model**|Bencheng Yan et.al.|[2502.08309](http://arxiv.org/abs/2502.08309)|null|
 |**2025-02-12**|**MoLoRec: A Generalizable and Efficient Framework for LLM-Based Recommendation**|Min Hou et.al.|[2502.08271](http://arxiv.org/abs/2502.08271)|null|
@@ -30,13 +40,13 @@
 |**2025-02-10**|**Progressive Collaborative and Semantic Knowledge Fusion for Generative Recommendation**|Longtao Xiao et.al.|[2502.06269](http://arxiv.org/abs/2502.06269)|null|
 |**2025-02-11**|**RALLRec: Improving Retrieval Augmented Large Language Model Recommendation with Representation Learning**|Jian Xu et.al.|[2502.06101](http://arxiv.org/abs/2502.06101)|**[link](https://github.com/jianxu95/rallrec)**|
 |**2025-02-11**|**NLGR: Utilizing Neighbor Lists for Generative Rerank in Personalized Recommendation Systems**|Shuli Wang et.al.|[2502.06097](http://arxiv.org/abs/2502.06097)|null|
-|**2025-02-08**|**Diffusion Model for Interest Refinement in Multi-Interest Recommendation**|Yankun Le et.al.|[2502.05561](http://arxiv.org/abs/2502.05561)|null|
+|**2025-02-13**|**Diffusion Model for Interest Refinement in Multi-Interest Recommendation**|Yankun Le et.al.|[2502.05561](http://arxiv.org/abs/2502.05561)|null|
 |**2025-02-11**|**Large Memory Network for Recommendation**|Hui Lu et.al.|[2502.05558](http://arxiv.org/abs/2502.05558)|null|
 |**2025-02-07**|**Differential Privacy of Quantum and Quantum-Inspired-Classical Recommendation Algorithms**|Chenjian Li et.al.|[2502.04758](http://arxiv.org/abs/2502.04758)|null|
 |**2025-02-06**|**Precision Agriculture Revolution: Integrating Digital Twins and Advanced Crop Recommendation for Optimal Yield**|Sayan Banerjee et.al.|[2502.04054](http://arxiv.org/abs/2502.04054)|null|
 |**2025-02-06**|**Boosting Knowledge Graph-based Recommendations through Confidence-Aware Augmentation with Large Language Models**|Rui Cai et.al.|[2502.03715](http://arxiv.org/abs/2502.03715)|null|
 |**2025-02-05**|**Contrastive Learning for Cold Start Recommendation with Adaptive Feature Fusion**|Jiacheng Hu et.al.|[2502.03664](http://arxiv.org/abs/2502.03664)|null|
-|**2025-02-06**|**Interactive Visualization Recommendation with Hier-SUCB**|Songwen Hu et.al.|[2502.03375](http://arxiv.org/abs/2502.03375)|null|
+|**2025-02-13**|**Interactive Visualization Recommendation with Hier-SUCB**|Songwen Hu et.al.|[2502.03375](http://arxiv.org/abs/2502.03375)|null|
 |**2025-02-12**|**Intent Alignment between Interaction and Language Spaces for Recommendation**|Yu Wang et.al.|[2502.03307](http://arxiv.org/abs/2502.03307)|**[link](https://github.com/wangyu0627/irllrec)**|
 |**2025-02-05**|**Large Language Models Are Universal Recommendation Learners**|Junguang Jiang et.al.|[2502.03041](http://arxiv.org/abs/2502.03041)|null|
 |**2025-02-05**|**FuXi- $α$ : Scaling Recommendation Model with Feature Interaction Enhanced Transformer**|Yufei Ye et.al.|[2502.03036](http://arxiv.org/abs/2502.03036)|null|
