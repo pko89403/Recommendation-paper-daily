@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.15
+## Updated on 2025.02.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -46,7 +46,7 @@
 |**2025-02-06**|**Precision Agriculture Revolution: Integrating Digital Twins and Advanced Crop Recommendation for Optimal Yield**|Sayan Banerjee et.al.|[2502.04054](http://arxiv.org/abs/2502.04054)|null|
 |**2025-02-06**|**Boosting Knowledge Graph-based Recommendations through Confidence-Aware Augmentation with Large Language Models**|Rui Cai et.al.|[2502.03715](http://arxiv.org/abs/2502.03715)|null|
 |**2025-02-05**|**Contrastive Learning for Cold Start Recommendation with Adaptive Feature Fusion**|Jiacheng Hu et.al.|[2502.03664](http://arxiv.org/abs/2502.03664)|null|
-|**2025-02-13**|**Interactive Visualization Recommendation with Hier-SUCB**|Songwen Hu et.al.|[2502.03375](http://arxiv.org/abs/2502.03375)|null|
+|**2025-02-13**|**Interactive Visualization Recommendation with Hier-SUCB**|Songwen Hu et.al.|[2502.03375](http://arxiv.org/abs/2502.03375)|**[link](https://github.com/HierSUCB-WWW/HierSUCB)**|
 |**2025-02-12**|**Intent Alignment between Interaction and Language Spaces for Recommendation**|Yu Wang et.al.|[2502.03307](http://arxiv.org/abs/2502.03307)|**[link](https://github.com/wangyu0627/irllrec)**|
 |**2025-02-05**|**Large Language Models Are Universal Recommendation Learners**|Junguang Jiang et.al.|[2502.03041](http://arxiv.org/abs/2502.03041)|null|
 |**2025-02-05**|**FuXi- $α$ : Scaling Recommendation Model with Feature Interaction Enhanced Transformer**|Yufei Ye et.al.|[2502.03036](http://arxiv.org/abs/2502.03036)|null|
@@ -966,7 +966,7 @@
 |**2024-03-07**|**Disaggregated Multi-Tower: Topology-aware Modeling Technique for Efficient Large-Scale Recommendation**|Liang Luo et.al.|[2403.00877](http://arxiv.org/abs/2403.00877)|null|
 |**2024-03-01**|**A Survey of Route Recommendations: Methods, Applications, and Opportunities**|Shiming Zhang et.al.|[2403.00284](http://arxiv.org/abs/2403.00284)|null|
 
-<p align=right>(<a href=#updated-on-20250215>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250216>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
