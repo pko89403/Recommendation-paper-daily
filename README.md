@@ -17,6 +17,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**Enhancing Recommendation Explanations through User-Centric Refinement**|Jingsen Zhang et.al.|[2502.11721](http://arxiv.org/abs/2502.11721)|null|
+|**2025-02-17**|**GPU-accelerated Multi-relational Parallel Graph Retrieval for Web-scale Recommendations**|Zhuoning Guo et.al.|[2502.11490](http://arxiv.org/abs/2502.11490)|null|
+|**2025-02-17**|**Leave No One Behind: Enhancing Diversity While Maintaining Accuracy in Social Recommendation**|Lei Li et.al.|[2502.11374](http://arxiv.org/abs/2502.11374)|null|
+|**2025-02-17**|**Personalized Ranking on Cascading Behavior Graphs for Accurate Multi-Behavior Recommendation**|Geonwoo Ko et.al.|[2502.11335](http://arxiv.org/abs/2502.11335)|null|
+|**2025-02-15**|**A Geometric Approach to Personalized Recommendation with Set-Theoretic Constraints Using Box Embeddings**|Shib Dasgupta et.al.|[2502.10875](http://arxiv.org/abs/2502.10875)|null|
+|**2025-02-15**|**Order-agnostic Identifier for Large Language Model-based Generative Recommendation**|Xinyu Lin et.al.|[2502.10833](http://arxiv.org/abs/2502.10833)|null|
 |**2025-02-14**|**A Hybrid Cross-Stage Coordination Pre-ranking Model for Online Recommendation Systems**|Binglei Zhao et.al.|[2502.10284](http://arxiv.org/abs/2502.10284)|null|
 |**2025-02-14**|**SessionRec: Next Session Prediction Paradigm For Generative Sequential Recommendation**|Lei Huang et.al.|[2502.10157](http://arxiv.org/abs/2502.10157)|null|
 |**2025-02-14**|**An Efficient Large Recommendation Model: Towards a Resource-Optimal Scaling Law**|Songpei Xu et.al.|[2502.09888](http://arxiv.org/abs/2502.09888)|null|
@@ -32,7 +38,7 @@
 |**2025-02-13**|**Off-Policy Evaluation for Recommendations with Missing-Not-At-Random Rewards**|Tatsuki Takahashi et.al.|[2502.08993](http://arxiv.org/abs/2502.08993)|**[link](https://github.com/tatsuki1107/isase2025-ope-mnar-reward)**|
 |**2025-02-13**|**AutoLike: Auditing Social Media Recommendations through User Interactions**|Hieu Le et.al.|[2502.08933](http://arxiv.org/abs/2502.08933)|null|
 |**2025-02-12**|**Beyond Models! Explainable Data Valuation and Metric Adaption for Recommendation**|Renqi Jia et.al.|[2502.08685](http://arxiv.org/abs/2502.08685)|**[link](https://github.com/renqii/dvr)**|
-|**2025-02-14**|**Graph Foundation Models for Recommendation: A Comprehensive Survey**|Bin Wu et.al.|[2502.08346](http://arxiv.org/abs/2502.08346)|null|
+|**2025-02-17**|**Graph Foundation Models for Recommendation: A Comprehensive Survey**|Bin Wu et.al.|[2502.08346](http://arxiv.org/abs/2502.08346)|null|
 |**2025-02-12**|**Unlocking Scaling Law in Industrial Recommendation Systems with a Three-step Paradigm based Large User Model**|Bencheng Yan et.al.|[2502.08309](http://arxiv.org/abs/2502.08309)|null|
 |**2025-02-12**|**MoLoRec: A Generalizable and Efficient Framework for LLM-Based Recommendation**|Min Hou et.al.|[2502.08271](http://arxiv.org/abs/2502.08271)|null|
 |**2025-02-12**|**MixDec Sampling: A Soft Link-based Sampling Method of Graph Neural Network for Recommendation**|Xiangjin Xie et.al.|[2502.08161](http://arxiv.org/abs/2502.08161)|null|
@@ -46,7 +52,7 @@
 |**2025-02-11**|**RALLRec: Improving Retrieval Augmented Large Language Model Recommendation with Representation Learning**|Jian Xu et.al.|[2502.06101](http://arxiv.org/abs/2502.06101)|**[link](https://github.com/jianxu95/rallrec)**|
 |**2025-02-11**|**NLGR: Utilizing Neighbor Lists for Generative Rerank in Personalized Recommendation Systems**|Shuli Wang et.al.|[2502.06097](http://arxiv.org/abs/2502.06097)|null|
 |**2025-02-13**|**Diffusion Model for Interest Refinement in Multi-Interest Recommendation**|Yankun Le et.al.|[2502.05561](http://arxiv.org/abs/2502.05561)|null|
-|**2025-02-11**|**Large Memory Network for Recommendation**|Hui Lu et.al.|[2502.05558](http://arxiv.org/abs/2502.05558)|null|
+|**2025-02-17**|**Large Memory Network for Recommendation**|Hui Lu et.al.|[2502.05558](http://arxiv.org/abs/2502.05558)|null|
 |**2025-02-07**|**Differential Privacy of Quantum and Quantum-Inspired-Classical Recommendation Algorithms**|Chenjian Li et.al.|[2502.04758](http://arxiv.org/abs/2502.04758)|null|
 |**2025-02-06**|**Precision Agriculture Revolution: Integrating Digital Twins and Advanced Crop Recommendation for Optimal Yield**|Sayan Banerjee et.al.|[2502.04054](http://arxiv.org/abs/2502.04054)|null|
 |**2025-02-06**|**Boosting Knowledge Graph-based Recommendations through Confidence-Aware Augmentation with Large Language Models**|Rui Cai et.al.|[2502.03715](http://arxiv.org/abs/2502.03715)|null|
@@ -58,7 +64,7 @@
 |**2025-02-06**|**TD3: Tucker Decomposition Based Dataset Distillation Method for Sequential Recommendation**|Jiaqing Zhang et.al.|[2502.02854](http://arxiv.org/abs/2502.02854)|**[link](https://github.com/ustc-starteam/td3)**|
 |**2025-02-04**|**Policy-Guided Causal State Representation for Offline Reinforcement Learning Recommendation**|Siyu Wang et.al.|[2502.02327](http://arxiv.org/abs/2502.02327)|null|
 |**2025-02-04**|**Combinatorial Optimization Perspective based Framework for Multi-behavior Recommendation**|Chenhao Zhai et.al.|[2502.02232](http://arxiv.org/abs/2502.02232)|**[link](https://github.com/1918190/copf)**|
-|**2025-02-04**|**Large Language Models for Recommendation with Deliberative User Preference Alignment**|Yi Fang et.al.|[2502.02061](http://arxiv.org/abs/2502.02061)|null|
+|**2025-02-17**|**Reason4Rec: Large Language Models for Recommendation with Deliberative User Preference Alignment**|Yi Fang et.al.|[2502.02061](http://arxiv.org/abs/2502.02061)|null|
 |**2025-02-03**|**Bias Beware: The Impact of Cognitive Biases on LLM-Driven Product Recommendations**|Giorgos Filandrianos et.al.|[2502.01349](http://arxiv.org/abs/2502.01349)|null|
 |**2025-02-14**|**Middleman Bias in Advertising: Aligning Relevance of Keyphrase Recommendations with Search**|Soumik Dey et.al.|[2502.00131](http://arxiv.org/abs/2502.00131)|null|
 |**2025-01-31**|**A Zero-Shot Generalization Framework for LLM-Driven Cross-Domain Sequential Recommendation**|Yunzhe Li et.al.|[2501.19232](http://arxiv.org/abs/2501.19232)|null|
