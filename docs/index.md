@@ -14,6 +14,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**Lost in Sequence: Do Large Language Models Understand Sequential Recommendation?**|Sein Kim et.al.|[2502.13909](http://arxiv.org/abs/2502.13909)|null|
+|**2025-02-19**|**Enhancing LLM-Based Recommendations Through Personalized Reasoning**|Jiahao Liu et.al.|[2502.13845](http://arxiv.org/abs/2502.13845)|null|
+|**2025-02-19**|**Enhancing Cross-Domain Recommendations with Memory-Optimized LLM-Based User Agents**|Jiahao Liu et.al.|[2502.13843](http://arxiv.org/abs/2502.13843)|null|
+|**2025-02-19**|**Generative Large Recommendation Models: Emerging Trends in LLMs for Recommendation**|Hao Wang et.al.|[2502.13783](http://arxiv.org/abs/2502.13783)|null|
+|**2025-02-19**|**Unsupervised Graph Embeddings for Session-based Recommendation with Item Features**|Andreas Peintner et.al.|[2502.13763](http://arxiv.org/abs/2502.13763)|null|
+|**2025-02-19**|**TALKPLAY: Multimodal Music Recommendation with Large Language Models**|Seungheon Doh et.al.|[2502.13713](http://arxiv.org/abs/2502.13713)|null|
+|**2025-02-19**|**ActionPiece: Contextually Tokenizing Action Sequences for Generative Recommendation**|Yupeng Hou et.al.|[2502.13581](http://arxiv.org/abs/2502.13581)|null|
+|**2025-02-19**|**Bursting Filter Bubble: Enhancing Serendipity Recommendations with Aligned Large Language Models**|Yunjia Xi et.al.|[2502.13539](http://arxiv.org/abs/2502.13539)|null|
+|**2025-02-19**|**Breaking the Clusters: Uniformity-Optimization for Text-Based Sequential Recommendation**|Wuhan Chen et.al.|[2502.13530](http://arxiv.org/abs/2502.13530)|null|
+|**2025-02-19**|**Ten Recommendations for Engineering Research Software in Energy Research**|Stephan Ferenz et.al.|[2502.13510](http://arxiv.org/abs/2502.13510)|null|
+|**2025-02-18**|**Uncertain Multi-Objective Recommendation via Orthogonal Meta-Learning Enhanced Bayesian Optimization**|Hongxu Wang et.al.|[2502.13180](http://arxiv.org/abs/2502.13180)|null|
 |**2025-02-18**|**Preventing the Popular Item Embedding Based Attack in Federated Recommendations**|Jun Zhang et.al.|[2502.12958](http://arxiv.org/abs/2502.12958)|null|
 |**2025-02-18**|**Q-STRUM Debate: Query-Driven Contrastive Summarization for Recommendation Comparison**|George-Kirollos Saad et.al.|[2502.12921](http://arxiv.org/abs/2502.12921)|null|
 |**2025-02-18**|**Evaluating link prediction: New perspectives and recommendations**|Bhargavi Kalyani I et.al.|[2502.12777](http://arxiv.org/abs/2502.12777)|null|
