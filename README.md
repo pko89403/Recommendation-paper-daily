@@ -21,8 +21,8 @@
 |**2025-02-19**|**Enhancing LLM-Based Recommendations Through Personalized Reasoning**|Jiahao Liu et.al.|[2502.13845](http://arxiv.org/abs/2502.13845)|null|
 |**2025-02-19**|**Enhancing Cross-Domain Recommendations with Memory-Optimized LLM-Based User Agents**|Jiahao Liu et.al.|[2502.13843](http://arxiv.org/abs/2502.13843)|null|
 |**2025-02-19**|**Generative Large Recommendation Models: Emerging Trends in LLMs for Recommendation**|Hao Wang et.al.|[2502.13783](http://arxiv.org/abs/2502.13783)|null|
-|**2025-02-19**|**Unsupervised Graph Embeddings for Session-based Recommendation with Item Features**|Andreas Peintner et.al.|[2502.13763](http://arxiv.org/abs/2502.13763)|null|
-|**2025-02-19**|**TALKPLAY: Multimodal Music Recommendation with Large Language Models**|Seungheon Doh et.al.|[2502.13713](http://arxiv.org/abs/2502.13713)|null|
+|**2025-02-19**|**Unsupervised Graph Embeddings for Session-based Recommendation with Item Features**|Andreas Peintner et.al.|[2502.13763](http://arxiv.org/abs/2502.13763)|**[link](https://github.com/dbis-uibk/gcnext)**|
+|**2025-02-20**|**TALKPLAY: Multimodal Music Recommendation with Large Language Models**|Seungheon Doh et.al.|[2502.13713](http://arxiv.org/abs/2502.13713)|null|
 |**2025-02-19**|**ActionPiece: Contextually Tokenizing Action Sequences for Generative Recommendation**|Yupeng Hou et.al.|[2502.13581](http://arxiv.org/abs/2502.13581)|null|
 |**2025-02-19**|**Bursting Filter Bubble: Enhancing Serendipity Recommendations with Aligned Large Language Models**|Yunjia Xi et.al.|[2502.13539](http://arxiv.org/abs/2502.13539)|null|
 |**2025-02-19**|**Breaking the Clusters: Uniformity-Optimization for Text-Based Sequential Recommendation**|Wuhan Chen et.al.|[2502.13530](http://arxiv.org/abs/2502.13530)|null|
@@ -35,8 +35,8 @@
 |**2025-02-18**|**From Principles to Applications: A Comprehensive Survey of Discrete Tokenizers in Generation, Comprehension, Recommendation, and Information Retrieval**|Jian Jia et.al.|[2502.12448](http://arxiv.org/abs/2502.12448)|null|
 |**2025-02-17**|**Enhancing Recommendation Explanations through User-Centric Refinement**|Jingsen Zhang et.al.|[2502.11721](http://arxiv.org/abs/2502.11721)|null|
 |**2025-02-17**|**GPU-accelerated Multi-relational Parallel Graph Retrieval for Web-scale Recommendations**|Zhuoning Guo et.al.|[2502.11490](http://arxiv.org/abs/2502.11490)|null|
-|**2025-02-17**|**Leave No One Behind: Enhancing Diversity While Maintaining Accuracy in Social Recommendation**|Lei Li et.al.|[2502.11374](http://arxiv.org/abs/2502.11374)|null|
-|**2025-02-17**|**Personalized Ranking on Cascading Behavior Graphs for Accurate Multi-Behavior Recommendation**|Geonwoo Ko et.al.|[2502.11335](http://arxiv.org/abs/2502.11335)|null|
+|**2025-02-17**|**Leave No One Behind: Enhancing Diversity While Maintaining Accuracy in Social Recommendation**|Lei Li et.al.|[2502.11374](http://arxiv.org/abs/2502.11374)|**[link](https://github.com/ll0ruc/divsr)**|
+|**2025-02-17**|**Personalized Ranking on Cascading Behavior Graphs for Accurate Multi-Behavior Recommendation**|Geonwoo Ko et.al.|[2502.11335](http://arxiv.org/abs/2502.11335)|**[link](https://github.com/geonwooko/cascadingrank)**|
 |**2025-02-15**|**A Geometric Approach to Personalized Recommendation with Set-Theoretic Constraints Using Box Embeddings**|Shib Dasgupta et.al.|[2502.10875](http://arxiv.org/abs/2502.10875)|null|
 |**2025-02-15**|**Order-agnostic Identifier for Large Language Model-based Generative Recommendation**|Xinyu Lin et.al.|[2502.10833](http://arxiv.org/abs/2502.10833)|null|
 |**2025-02-14**|**A Hybrid Cross-Stage Coordination Pre-ranking Model for Online Recommendation Systems**|Binglei Zhao et.al.|[2502.10284](http://arxiv.org/abs/2502.10284)|null|
