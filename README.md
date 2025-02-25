@@ -17,10 +17,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**FilterLLM: Text-To-Distribution LLM for Billion-Scale Cold-Start Recommendation**|Ruochen Liu et.al.|[2502.16924](http://arxiv.org/abs/2502.16924)|null|
+|**2025-02-22**|**Personhood Credentials: Human-Centered Design Recommendation Balancing Security, Usability, and Trust**|Ayae Ide et.al.|[2502.16375](http://arxiv.org/abs/2502.16375)|null|
+|**2025-02-22**|**Exploiting Epistemic Uncertainty in Cold-Start Recommendation Systems**|Yang Xiang et.al.|[2502.16256](http://arxiv.org/abs/2502.16256)|null|
+|**2025-02-22**|**Separated Contrastive Learning for Matching in Cross-domain Recommendation with Curriculum Scheduling**|Heng Chang et.al.|[2502.16239](http://arxiv.org/abs/2502.16239)|null|
+|**2025-02-22**|**Semantic Gaussian Mixture Variational Autoencoder for Sequential Recommendation**|Beibei Li et.al.|[2502.16140](http://arxiv.org/abs/2502.16140)|null|
+|**2025-02-22**|**Joint Similarity Item Exploration and Overlapped User Guidance for Multi-Modal Cross-Domain Recommendation**|Weiming Liu et.al.|[2502.16068](http://arxiv.org/abs/2502.16068)|null|
+|**2025-02-22**|**Inference Computation Scaling for Feature Augmentation in Recommendation Systems**|Weihao Liu et.al.|[2502.16040](http://arxiv.org/abs/2502.16040)|null|
 |**2025-02-21**|**Dynamic Knowledge Selector and Evaluator for recommendation with Knowledge Graph**|Feng Xia et.al.|[2502.15623](http://arxiv.org/abs/2502.15623)|null|
 |**2025-02-21**|**Bridging Domain Gaps between Pretrained Multimodal Models and Recommendations**|Wenyu Zhang et.al.|[2502.15542](http://arxiv.org/abs/2502.15542)|null|
-|**2025-02-21**|**Lightweight yet Efficient: An External Attentive Graph Convolutional Network with Positional Prompts for Sequential Recommendation**|Jinyu Zhang et.al.|[2502.15331](http://arxiv.org/abs/2502.15331)|null|
-|**2025-02-21**|**User Experience with LLM-powered Conversational Recommendation Systems: A Case of Music Recommendation**|Sojeong Yun et.al.|[2502.15229](http://arxiv.org/abs/2502.15229)|null|
+|**2025-02-21**|**Lightweight yet Efficient: An External Attentive Graph Convolutional Network with Positional Prompts for Sequential Recommendation**|Jinyu Zhang et.al.|[2502.15331](http://arxiv.org/abs/2502.15331)|**[link](https://github.com/JinyuZ1996/EA-GPS)**|
+|**2025-02-24**|**User Experience with LLM-powered Conversational Recommendation Systems: A Case of Music Recommendation**|Sojeong Yun et.al.|[2502.15229](http://arxiv.org/abs/2502.15229)|null|
 |**2025-02-21**|**A BERT Based Hybrid Recommendation System For Academic Collaboration**|Sangeetha N et.al.|[2502.15223](http://arxiv.org/abs/2502.15223)|null|
 |**2025-02-21**|**Data Complexity Measures for Quantum Circuits Architecture Recommendation**|Fernando M de Paula Neto et.al.|[2502.15129](http://arxiv.org/abs/2502.15129)|null|
 |**2025-02-21**|**Lost in Sequence: Do Large Language Models Understand Sequential Recommendation?**|Sein Kim et.al.|[2502.13909](http://arxiv.org/abs/2502.13909)|**[link](https://github.com/sein-kim/llm-srec)**|
@@ -41,7 +48,7 @@
 |**2025-02-18**|**From Principles to Applications: A Comprehensive Survey of Discrete Tokenizers in Generation, Comprehension, Recommendation, and Information Retrieval**|Jian Jia et.al.|[2502.12448](http://arxiv.org/abs/2502.12448)|null|
 |**2025-02-17**|**Enhancing Recommendation Explanations through User-Centric Refinement**|Jingsen Zhang et.al.|[2502.11721](http://arxiv.org/abs/2502.11721)|null|
 |**2025-02-17**|**GPU-accelerated Multi-relational Parallel Graph Retrieval for Web-scale Recommendations**|Zhuoning Guo et.al.|[2502.11490](http://arxiv.org/abs/2502.11490)|null|
-|**2025-02-17**|**Leave No One Behind: Enhancing Diversity While Maintaining Accuracy in Social Recommendation**|Lei Li et.al.|[2502.11374](http://arxiv.org/abs/2502.11374)|**[link](https://github.com/ll0ruc/divsr)**|
+|**2025-02-22**|**Leave No One Behind: Enhancing Diversity While Maintaining Accuracy in Social Recommendation**|Lei Li et.al.|[2502.11374](http://arxiv.org/abs/2502.11374)|**[link](https://github.com/ll0ruc/divsr)**|
 |**2025-02-17**|**Personalized Ranking on Cascading Behavior Graphs for Accurate Multi-Behavior Recommendation**|Geonwoo Ko et.al.|[2502.11335](http://arxiv.org/abs/2502.11335)|**[link](https://github.com/geonwooko/cascadingrank)**|
 |**2025-02-15**|**A Geometric Approach to Personalized Recommendation with Set-Theoretic Constraints Using Box Embeddings**|Shib Dasgupta et.al.|[2502.10875](http://arxiv.org/abs/2502.10875)|null|
 |**2025-02-15**|**Order-agnostic Identifier for Large Language Model-based Generative Recommendation**|Xinyu Lin et.al.|[2502.10833](http://arxiv.org/abs/2502.10833)|null|
@@ -56,7 +63,7 @@
 |**2025-02-13**|**Unleashing the Power of Large Language Model for Denoising Recommendation**|Shuyao Wang et.al.|[2502.09058](http://arxiv.org/abs/2502.09058)|null|
 |**2025-02-13**|**Leveraging Member-Group Relations via Multi-View Graph Filtering for Effective Group Recommendation**|Chae-Hyun Kim et.al.|[2502.09050](http://arxiv.org/abs/2502.09050)|null|
 |**2025-02-13**|**Criteria-Aware Graph Filtering: Extremely Fast Yet Accurate Multi-Criteria Recommendation**|Jin-Duk Park et.al.|[2502.09046](http://arxiv.org/abs/2502.09046)|**[link](https://github.com/jindeok/CA-GF)**|
-|**2025-02-13**|**A Contextual-Aware Position Encoding for Sequential Recommendation**|Jun Yuan et.al.|[2502.09027](http://arxiv.org/abs/2502.09027)|**[link](https://github.com/yjdy/cape)**|
+|**2025-02-22**|**A Contextual-Aware Position Encoding for Sequential Recommendation**|Jun Yuan et.al.|[2502.09027](http://arxiv.org/abs/2502.09027)|**[link](https://github.com/yjdy/cape)**|
 |**2025-02-13**|**Off-Policy Evaluation for Recommendations with Missing-Not-At-Random Rewards**|Tatsuki Takahashi et.al.|[2502.08993](http://arxiv.org/abs/2502.08993)|**[link](https://github.com/tatsuki1107/isase2025-ope-mnar-reward)**|
 |**2025-02-13**|**AutoLike: Auditing Social Media Recommendations through User Interactions**|Hieu Le et.al.|[2502.08933](http://arxiv.org/abs/2502.08933)|null|
 |**2025-02-12**|**Beyond Models! Explainable Data Valuation and Metric Adaption for Recommendation**|Renqi Jia et.al.|[2502.08685](http://arxiv.org/abs/2502.08685)|**[link](https://github.com/renqii/dvr)**|
