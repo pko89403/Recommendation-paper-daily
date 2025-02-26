@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.25
+## Updated on 2025.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -18,7 +18,7 @@ layout: default
 |**2025-02-22**|**Personhood Credentials: Human-Centered Design Recommendation Balancing Security, Usability, and Trust**|Ayae Ide et.al.|[2502.16375](http://arxiv.org/abs/2502.16375)|null|
 |**2025-02-22**|**Exploiting Epistemic Uncertainty in Cold-Start Recommendation Systems**|Yang Xiang et.al.|[2502.16256](http://arxiv.org/abs/2502.16256)|null|
 |**2025-02-22**|**Separated Contrastive Learning for Matching in Cross-domain Recommendation with Curriculum Scheduling**|Heng Chang et.al.|[2502.16239](http://arxiv.org/abs/2502.16239)|null|
-|**2025-02-22**|**Semantic Gaussian Mixture Variational Autoencoder for Sequential Recommendation**|Beibei Li et.al.|[2502.16140](http://arxiv.org/abs/2502.16140)|null|
+|**2025-02-22**|**Semantic Gaussian Mixture Variational Autoencoder for Sequential Recommendation**|Beibei Li et.al.|[2502.16140](http://arxiv.org/abs/2502.16140)|**[link](https://github.com/libeibei95/sigma)**|
 |**2025-02-22**|**Joint Similarity Item Exploration and Overlapped User Guidance for Multi-Modal Cross-Domain Recommendation**|Weiming Liu et.al.|[2502.16068](http://arxiv.org/abs/2502.16068)|null|
 |**2025-02-22**|**Inference Computation Scaling for Feature Augmentation in Recommendation Systems**|Weihao Liu et.al.|[2502.16040](http://arxiv.org/abs/2502.16040)|null|
 |**2025-02-21**|**Dynamic Knowledge Selector and Evaluator for recommendation with Knowledge Graph**|Feng Xia et.al.|[2502.15623](http://arxiv.org/abs/2502.15623)|null|
