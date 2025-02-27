@@ -14,8 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-26**|**Less or More: Towards Glanceable Explanations for LLM Recommendations Using Ultra-Small Devices**|Xinru Wang et.al.|[2502.19410](http://arxiv.org/abs/2502.19410)|null|
+|**2025-02-26**|**Overcoming the Price of Anarchy by Steering with Recommendations**|Cesare Carissimo et.al.|[2502.18988](http://arxiv.org/abs/2502.18988)|null|
+|**2025-02-26**|**Training Large Recommendation Models via Graph-Language Token Alignment**|Mingdai Yang et.al.|[2502.18757](http://arxiv.org/abs/2502.18757)|null|
+|**2025-02-26**|**AgentSociety Challenge: Designing LLM Agents for User Modeling and Recommendation on Web Platforms**|Yuwei Yan et.al.|[2502.18754](http://arxiv.org/abs/2502.18754)|null|
 |**2025-02-25**|**Unmasking Gender Bias in Recommendation Systems and Enhancing Category-Aware Fairness**|Tahsin Alamgir Kheya et.al.|[2502.17921](http://arxiv.org/abs/2502.17921)|null|
-|**2025-02-20**|**External Large Foundation Model: How to Efficiently Serve Trillions of Parameters for Online Ads Recommendation**|Mingfu Liang et.al.|[2502.17494](http://arxiv.org/abs/2502.17494)|null|
+|**2025-02-26**|**External Large Foundation Model: How to Efficiently Serve Trillions of Parameters for Online Ads Recommendation**|Mingfu Liang et.al.|[2502.17494](http://arxiv.org/abs/2502.17494)|null|
 |**2025-02-24**|**FilterLLM: Text-To-Distribution LLM for Billion-Scale Cold-Start Recommendation**|Ruochen Liu et.al.|[2502.16924](http://arxiv.org/abs/2502.16924)|null|
 |**2025-02-22**|**Personhood Credentials: Human-Centered Design Recommendation Balancing Security, Usability, and Trust**|Ayae Ide et.al.|[2502.16375](http://arxiv.org/abs/2502.16375)|null|
 |**2025-02-22**|**Exploiting Epistemic Uncertainty in Cold-Start Recommendation Systems**|Yang Xiang et.al.|[2502.16256](http://arxiv.org/abs/2502.16256)|null|
@@ -34,7 +38,7 @@ layout: default
 |**2025-02-19**|**Enhancing Cross-Domain Recommendations with Memory-Optimized LLM-Based User Agents**|Jiahao Liu et.al.|[2502.13843](http://arxiv.org/abs/2502.13843)|null|
 |**2025-02-19**|**Generative Large Recommendation Models: Emerging Trends in LLMs for Recommendation**|Hao Wang et.al.|[2502.13783](http://arxiv.org/abs/2502.13783)|null|
 |**2025-02-19**|**Unsupervised Graph Embeddings for Session-based Recommendation with Item Features**|Andreas Peintner et.al.|[2502.13763](http://arxiv.org/abs/2502.13763)|**[link](https://github.com/dbis-uibk/gcnext)**|
-|**2025-02-20**|**TALKPLAY: Multimodal Music Recommendation with Large Language Models**|Seungheon Doh et.al.|[2502.13713](http://arxiv.org/abs/2502.13713)|null|
+|**2025-02-26**|**TALKPLAY: Multimodal Music Recommendation with Large Language Models**|Seungheon Doh et.al.|[2502.13713](http://arxiv.org/abs/2502.13713)|null|
 |**2025-02-19**|**ActionPiece: Contextually Tokenizing Action Sequences for Generative Recommendation**|Yupeng Hou et.al.|[2502.13581](http://arxiv.org/abs/2502.13581)|null|
 |**2025-02-19**|**Bursting Filter Bubble: Enhancing Serendipity Recommendations with Aligned Large Language Models**|Yunjia Xi et.al.|[2502.13539](http://arxiv.org/abs/2502.13539)|null|
 |**2025-02-19**|**Breaking the Clusters: Uniformity-Optimization for Text-Based Sequential Recommendation**|Wuhan Chen et.al.|[2502.13530](http://arxiv.org/abs/2502.13530)|null|
