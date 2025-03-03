@@ -14,7 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-27**|**Towards Responsible AI in Education: Hybrid Recommendation System for K-12 Students Case Study**|Nazarii Drushchak et.al.|[2502.20354](http://arxiv.org/abs/2502.20354)|null|
+|**2025-02-28**|**Joint Modeling in Recommendations: A Survey**|Xiangyu Zhao et.al.|[2502.21195](http://arxiv.org/abs/2502.21195)|null|
+|**2025-02-27**|**Towards Responsible AI in Education: Hybrid Recommendation System for K-12 Students Case Study**|Nazarii Drushchak et.al.|[2502.20354](http://arxiv.org/abs/2502.20354)|**[link](https://github.com/mesquiteisd/rai-hybrid-recommendation-k12)**|
 |**2025-02-27**|**KEDRec-LM: A Knowledge-distilled Explainable Drug Recommendation Large Language Model**|Kai Zhang et.al.|[2502.20350](http://arxiv.org/abs/2502.20350)|null|
 |**2025-02-27**|**Recommendations from Sparse Comparison Data: Provably Fast Convergence for Nonconvex Matrix Factorization**|Suryanarayana Sankagiri et.al.|[2502.20033](http://arxiv.org/abs/2502.20033)|null|
 |**2025-02-15**|**Recommended Actions for the American Astronomical Society: CSWA's Perspective on Steps for a more Inclusive Astronomy -- II. Recommendations**|Rachel Wexler et.al.|[2502.19433](http://arxiv.org/abs/2502.19433)|null|
