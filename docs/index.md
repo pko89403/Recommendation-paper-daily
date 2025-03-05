@@ -14,6 +14,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**A Statistical Interpretation of Multi-Item Rating and Recommendation Problems**|Sjoerd Hermes et.al.|[2503.02786](http://arxiv.org/abs/2503.02786)|null|
+|**2025-03-04**|**Sparse Meets Dense: Unified Generative Recommendations with Cascaded Sparse-Dense Representations**|Yuhao Yang et.al.|[2503.02453](http://arxiv.org/abs/2503.02453)|null|
+|**2025-03-04**|**PersonaX: A Recommendation Agent Oriented User Modeling Framework for Long Behavior Sequence**|Yunxiao Shi et.al.|[2503.02398](http://arxiv.org/abs/2503.02398)|null|
+|**2025-03-04**|**Towards Explainable Doctor Recommendation with Large Language Models**|Ziyang Zeng et.al.|[2503.02298](http://arxiv.org/abs/2503.02298)|null|
+|**2025-03-03**|**CareerBERT: Matching Resumes to ESCO Jobs in a Shared Embedding Space for Generic Job Recommendations**|Julian Rosenberger et.al.|[2503.02056](http://arxiv.org/abs/2503.02056)|null|
+|**2025-03-03**|**LLMInit: A Free Lunch from Large Language Models for Selective Initialization of Recommendation**|Weizhi Zhang et.al.|[2503.01814](http://arxiv.org/abs/2503.01814)|null|
+|**2025-03-03**|**Recommendations for visual predictive checks in Bayesian workflow**|Teemu Säilynoja et.al.|[2503.01509](http://arxiv.org/abs/2503.01509)|null|
+|**2025-03-04**|**Hierarchical Causal Transformer with Heterogeneous Information for Expandable Sequential Recommendation**|Hao Deng et.al.|[2503.01469](http://arxiv.org/abs/2503.01469)|null|
+|**2025-03-03**|**Leveraging LLMs for Mental Health: Detection and Recommendations from Social Discussions**|Vaishali Aggarwal et.al.|[2503.01442](http://arxiv.org/abs/2503.01442)|null|
+|**2025-03-03**|**Academic Literature Recommendation in Large-scale Citation Networks Enhanced by Large Language Models**|Kun Liu et.al.|[2503.01189](http://arxiv.org/abs/2503.01189)|null|
+|**2025-03-01**|**Instructor-Worker Large Language Model System for Policy Recommendation: a Case Study on Air Quality Analysis of the January 2025 Los Angeles Wildfires**|Kyle Gao et.al.|[2503.00566](http://arxiv.org/abs/2503.00566)|null|
+|**2025-02-28**|**Personalized Causal Graph Reasoning for LLMs: A Case Study on Dietary Recommendations**|Zhongqi Yang et.al.|[2503.00134](http://arxiv.org/abs/2503.00134)|null|
+|**2025-02-27**|**Enhancing Collaborative Filtering-Based Course Recommendations by Exploiting Time-to-Event Information with Survival Analysis**|Alireza Gharahighehi et.al.|[2503.00072](http://arxiv.org/abs/2503.00072)|null|
 |**2025-02-28**|**Joint Modeling in Recommendations: A Survey**|Xiangyu Zhao et.al.|[2502.21195](http://arxiv.org/abs/2502.21195)|null|
 |**2025-02-27**|**Towards Responsible AI in Education: Hybrid Recommendation System for K-12 Students Case Study**|Nazarii Drushchak et.al.|[2502.20354](http://arxiv.org/abs/2502.20354)|**[link](https://github.com/mesquiteisd/rai-hybrid-recommendation-k12)**|
 |**2025-02-27**|**KEDRec-LM: A Knowledge-distilled Explainable Drug Recommendation Large Language Model**|Kai Zhang et.al.|[2502.20350](http://arxiv.org/abs/2502.20350)|null|
@@ -24,7 +37,7 @@ layout: default
 |**2025-02-26**|**Training Large Recommendation Models via Graph-Language Token Alignment**|Mingdai Yang et.al.|[2502.18757](http://arxiv.org/abs/2502.18757)|null|
 |**2025-02-26**|**AgentSociety Challenge: Designing LLM Agents for User Modeling and Recommendation on Web Platforms**|Yuwei Yan et.al.|[2502.18754](http://arxiv.org/abs/2502.18754)|null|
 |**2025-02-25**|**Unmasking Gender Bias in Recommendation Systems and Enhancing Category-Aware Fairness**|Tahsin Alamgir Kheya et.al.|[2502.17921](http://arxiv.org/abs/2502.17921)|null|
-|**2025-02-27**|**External Large Foundation Model: How to Efficiently Serve Trillions of Parameters for Online Ads Recommendation**|Mingfu Liang et.al.|[2502.17494](http://arxiv.org/abs/2502.17494)|null|
+|**2025-03-03**|**External Large Foundation Model: How to Efficiently Serve Trillions of Parameters for Online Ads Recommendation**|Mingfu Liang et.al.|[2502.17494](http://arxiv.org/abs/2502.17494)|null|
 |**2025-02-24**|**FilterLLM: Text-To-Distribution LLM for Billion-Scale Cold-Start Recommendation**|Ruochen Liu et.al.|[2502.16924](http://arxiv.org/abs/2502.16924)|null|
 |**2025-02-22**|**Personhood Credentials: Human-Centered Design Recommendation Balancing Security, Usability, and Trust**|Ayae Ide et.al.|[2502.16375](http://arxiv.org/abs/2502.16375)|null|
 |**2025-02-22**|**Exploiting Epistemic Uncertainty in Cold-Start Recommendation Systems**|Yang Xiang et.al.|[2502.16256](http://arxiv.org/abs/2502.16256)|null|
@@ -34,7 +47,7 @@ layout: default
 |**2025-02-22**|**Inference Computation Scaling for Feature Augmentation in Recommendation Systems**|Weihao Liu et.al.|[2502.16040](http://arxiv.org/abs/2502.16040)|null|
 |**2025-02-21**|**Dynamic Knowledge Selector and Evaluator for recommendation with Knowledge Graph**|Feng Xia et.al.|[2502.15623](http://arxiv.org/abs/2502.15623)|null|
 |**2025-02-21**|**Bridging Domain Gaps between Pretrained Multimodal Models and Recommendations**|Wenyu Zhang et.al.|[2502.15542](http://arxiv.org/abs/2502.15542)|null|
-|**2025-02-21**|**Lightweight yet Efficient: An External Attentive Graph Convolutional Network with Positional Prompts for Sequential Recommendation**|Jinyu Zhang et.al.|[2502.15331](http://arxiv.org/abs/2502.15331)|**[link](https://github.com/JinyuZ1996/EA-GPS)**|
+|**2025-03-04**|**Lightweight yet Efficient: An External Attentive Graph Convolutional Network with Positional Prompts for Sequential Recommendation**|Jinyu Zhang et.al.|[2502.15331](http://arxiv.org/abs/2502.15331)|**[link](https://github.com/JinyuZ1996/EA-GPS)**|
 |**2025-02-24**|**User Experience with LLM-powered Conversational Recommendation Systems: A Case of Music Recommendation**|Sojeong Yun et.al.|[2502.15229](http://arxiv.org/abs/2502.15229)|null|
 |**2025-02-21**|**A BERT Based Hybrid Recommendation System For Academic Collaboration**|Sangeetha N et.al.|[2502.15223](http://arxiv.org/abs/2502.15223)|null|
 |**2025-02-21**|**Data Complexity Measures for Quantum Circuits Architecture Recommendation**|Fernando M de Paula Neto et.al.|[2502.15129](http://arxiv.org/abs/2502.15129)|null|
