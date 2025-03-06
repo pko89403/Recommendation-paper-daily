@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-05**|**Addressing Overprescribing Challenges: Fine-Tuning Large Language Models for Medication Recommendation Tasks**|Zihao Zhao et.al.|[2503.03687](http://arxiv.org/abs/2503.03687)|null|
+|**2025-03-05**|**Intrinsic and Extrinsic Factor Disentanglement for Recommendation in Various Context Scenarios**|Yixin Su et.al.|[2503.03524](http://arxiv.org/abs/2503.03524)|null|
+|**2025-03-05**|**A Predict-Then-Optimize Customer Allocation Framework for Online Fund Recommendation**|Xing Tang et.al.|[2503.03165](http://arxiv.org/abs/2503.03165)|null|
 |**2025-03-04**|**A Statistical Interpretation of Multi-Item Rating and Recommendation Problems**|Sjoerd Hermes et.al.|[2503.02786](http://arxiv.org/abs/2503.02786)|null|
 |**2025-03-04**|**Sparse Meets Dense: Unified Generative Recommendations with Cascaded Sparse-Dense Representations**|Yuhao Yang et.al.|[2503.02453](http://arxiv.org/abs/2503.02453)|null|
 |**2025-03-04**|**PersonaX: A Recommendation Agent Oriented User Modeling Framework for Long Behavior Sequence**|Yunxiao Shi et.al.|[2503.02398](http://arxiv.org/abs/2503.02398)|null|
