@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**AlignPxtr: Aligning Predicted Behavior Distributions for Bias-Free Video Recommendations**|Chengzhi Lin et.al.|[2503.06920](http://arxiv.org/abs/2503.06920)|null|
+|**2025-03-09**|**Graph Retrieval-Augmented LLM for Conversational Recommendation Systems**|Zhangchi Qiu et.al.|[2503.06430](http://arxiv.org/abs/2503.06430)|null|
+|**2025-03-08**|**A Digital Twin-Driven Recommendation System for Adaptive Campus Course Timetabling**|Keshu Wu et.al.|[2503.06109](http://arxiv.org/abs/2503.06109)|null|
+|**2025-03-08**|**Prefer2SD: A Human-in-the-Loop Approach to Balancing Similarity and Diversity in In-Game Friend Recommendations**|Xiyuan Wang et.al.|[2503.06105](http://arxiv.org/abs/2503.06105)|null|
+|**2025-03-04**|**Intolerable Risk Threshold Recommendations for Artificial Intelligence**|Deepika Raman et.al.|[2503.05812](http://arxiv.org/abs/2503.05812)|null|
 |**2025-03-07**|**A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval**|Yu Zhang et.al.|[2503.05659](http://arxiv.org/abs/2503.05659)|null|
 |**2025-03-07**|**Benchmarking LLMs in Recommendation Tasks: A Comparative Evaluation with Conventional Recommenders**|Qijiong Liu et.al.|[2503.05493](http://arxiv.org/abs/2503.05493)|null|
 |**2025-03-07**|**FMCHS: Advancing Traditional Chinese Medicine Herb Recommendation with Fusion of Multiscale Correlations of Herbs and Symptoms**|Xinhan Zheng et.al.|[2503.05167](http://arxiv.org/abs/2503.05167)|null|
