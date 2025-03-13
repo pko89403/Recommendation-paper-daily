@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.12
+## Updated on 2025.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -33,7 +33,7 @@
 |**2025-03-06**|**Training-Free Graph Filtering via Multimodal Feature Refinement for Extremely Fast Multimodal Recommendation**|Yu-Seung Roh et.al.|[2503.04406](http://arxiv.org/abs/2503.04406)|null|
 |**2025-03-06**|**Semantic Retrieval Augmented Contrastive Learning for Sequential Recommendation**|Ziqiang Cui et.al.|[2503.04162](http://arxiv.org/abs/2503.04162)|null|
 |**2025-03-05**|**Addressing Overprescribing Challenges: Fine-Tuning Large Language Models for Medication Recommendation Tasks**|Zihao Zhao et.al.|[2503.03687](http://arxiv.org/abs/2503.03687)|null|
-|**2025-03-05**|**Intrinsic and Extrinsic Factor Disentanglement for Recommendation in Various Context Scenarios**|Yixin Su et.al.|[2503.03524](http://arxiv.org/abs/2503.03524)|null|
+|**2025-03-05**|**Intrinsic and Extrinsic Factor Disentanglement for Recommendation in Various Context Scenarios**|Yixin Su et.al.|[2503.03524](http://arxiv.org/abs/2503.03524)|**[link](https://github.com/ethanmock/IEDR)**|
 |**2025-03-05**|**A Predict-Then-Optimize Customer Allocation Framework for Online Fund Recommendation**|Xing Tang et.al.|[2503.03165](http://arxiv.org/abs/2503.03165)|null|
 |**2025-03-04**|**A Statistical Interpretation of Multi-Item Rating and Recommendation Problems**|Sjoerd Hermes et.al.|[2503.02786](http://arxiv.org/abs/2503.02786)|null|
 |**2025-03-04**|**Sparse Meets Dense: Unified Generative Recommendations with Cascaded Sparse-Dense Representations**|Yuhao Yang et.al.|[2503.02453](http://arxiv.org/abs/2503.02453)|null|
@@ -44,7 +44,7 @@
 |**2025-03-03**|**Recommendations for visual predictive checks in Bayesian workflow**|Teemu Säilynoja et.al.|[2503.01509](http://arxiv.org/abs/2503.01509)|null|
 |**2025-03-04**|**Hierarchical Causal Transformer with Heterogeneous Information for Expandable Sequential Recommendation**|Hao Deng et.al.|[2503.01469](http://arxiv.org/abs/2503.01469)|null|
 |**2025-03-03**|**Leveraging LLMs for Mental Health: Detection and Recommendations from Social Discussions**|Vaishali Aggarwal et.al.|[2503.01442](http://arxiv.org/abs/2503.01442)|null|
-|**2025-03-03**|**Academic Literature Recommendation in Large-scale Citation Networks Enhanced by Large Language Models**|Kun Liu et.al.|[2503.01189](http://arxiv.org/abs/2503.01189)|null|
+|**2025-03-03**|**Academic Literature Recommendation in Large-scale Citation Networks Enhanced by Large Language Models**|Kun Liu et.al.|[2503.01189](http://arxiv.org/abs/2503.01189)|**[link](https://github.com/Gaotianchen97/Academic-Literature-Recommendation-in-Large-scale-Citation-Networks)**|
 |**2025-03-01**|**Instructor-Worker Large Language Model System for Policy Recommendation: a Case Study on Air Quality Analysis of the January 2025 Los Angeles Wildfires**|Kyle Gao et.al.|[2503.00566](http://arxiv.org/abs/2503.00566)|null|
 |**2025-02-28**|**Personalized Causal Graph Reasoning for LLMs: A Case Study on Dietary Recommendations**|Zhongqi Yang et.al.|[2503.00134](http://arxiv.org/abs/2503.00134)|null|
 |**2025-02-27**|**Enhancing Collaborative Filtering-Based Course Recommendations by Exploiting Time-to-Event Information with Survival Analysis**|Alireza Gharahighehi et.al.|[2503.00072](http://arxiv.org/abs/2503.00072)|null|
@@ -1048,7 +1048,7 @@
 |**2024-03-07**|**Disaggregated Multi-Tower: Topology-aware Modeling Technique for Efficient Large-Scale Recommendation**|Liang Luo et.al.|[2403.00877](http://arxiv.org/abs/2403.00877)|null|
 |**2024-03-01**|**A Survey of Route Recommendations: Methods, Applications, and Opportunities**|Shiming Zhang et.al.|[2403.00284](http://arxiv.org/abs/2403.00284)|null|
 
-<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250313>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
