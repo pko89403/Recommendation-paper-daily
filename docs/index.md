@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-18**|**Rolling Forward: Enhancing LightGCN with Causal Graph Convolution for Credit Bond Recommendation**|Ashraf Ghiye et.al.|[2503.14213](http://arxiv.org/abs/2503.14213)|null|
+|**2025-03-18**|**Four checks for low-fidelity synthetic data: recommendations for disclosure control and quality evaluation**|Gillian M Raab et.al.|[2503.14211](http://arxiv.org/abs/2503.14211)|null|
+|**2025-03-18**|**A Comprehensive Survey on Cross-Domain Recommendation: Taxonomy, Progress, and Prospects**|Hao Zhang et.al.|[2503.14110](http://arxiv.org/abs/2503.14110)|null|
 |**2025-03-17**|**Federated Mixture-of-Expert for Non-Overlapped Cross-Domain Sequential Recommendation**|Yu Liu et.al.|[2503.13254](http://arxiv.org/abs/2503.13254)|null|
 |**2025-03-17**|**Leveraging the Dynamics of Leadership in Group Recommendation Systems**|Peijin Yu et.al.|[2503.12877](http://arxiv.org/abs/2503.12877)|null|
 |**2025-03-16**|**LLMSeR: Enhancing Sequential Recommendation via LLM-based Data Augmentation**|Yuqi Sun et.al.|[2503.12547](http://arxiv.org/abs/2503.12547)|null|
