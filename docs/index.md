@@ -22,7 +22,7 @@ layout: default
 |**2025-03-16**|**LLMSeR: Enhancing Sequential Recommendation via LLM-based Data Augmentation**|Yuqi Sun et.al.|[2503.12547](http://arxiv.org/abs/2503.12547)|null|
 |**2025-03-15**|**Bridging Textual-Collaborative Gap through Semantic Codes for Sequential Recommendation**|Enze Liu et.al.|[2503.12183](http://arxiv.org/abs/2503.12183)|null|
 |**2025-03-14**|**Step-by-Step Data Cleaning Recommendations to Improve ML Prediction Accuracy**|Sedir Mohammed et.al.|[2503.11366](http://arxiv.org/abs/2503.11366)|null|
-|**2025-03-12**|**Harmonizing Large Language Models with Collaborative Behavioral Signals for Conversational Recommendation**|Guanrong Li et.al.|[2503.10703](http://arxiv.org/abs/2503.10703)|null|
+|**2025-03-12**|**Harmonizing Large Language Models with Collaborative Behavioral Signals for Conversational Recommendation**|Guanrong Li et.al.|[2503.10703](http://arxiv.org/abs/2503.10703)|**[link](https://github.com/kylokano/LatentCRS)**|
 |**2025-03-13**|**Short-term AI literacy intervention does not reduce over-reliance on incorrect ChatGPT recommendations**|Brett Puppart et.al.|[2503.10556](http://arxiv.org/abs/2503.10556)|null|
 |**2025-03-12**|**Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs**|Jiani Huang et.al.|[2503.09382](http://arxiv.org/abs/2503.09382)|**[link](https://github.com/jiani-huang/recbench)**|
 |**2025-03-11**|**Exposing Product Bias in LLM Investment Recommendation**|Yuhan Zhi et.al.|[2503.08750](http://arxiv.org/abs/2503.08750)|null|
