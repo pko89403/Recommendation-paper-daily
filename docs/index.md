@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-21**|**Towards Carbon Footprint-Aware Recommender Systems for Greener Item Recommendation**|Raoul Kalisvaart et.al.|[2503.17201](http://arxiv.org/abs/2503.17201)|null|
+|**2025-03-21**|**Rankformer: A Graph Transformer for Recommendation based on Ranking Objective**|Sirui Chen et.al.|[2503.16927](http://arxiv.org/abs/2503.16927)|null|
+|**2025-03-20**|**ContextGNN goes to Elliot: Towards Benchmarking Relational Deep Learning for Static Link Prediction (aka Personalized Item Recommendation)**|Alejandro Ariza-Casabona et.al.|[2503.16661](http://arxiv.org/abs/2503.16661)|null|
 |**2025-03-18**|**Rolling Forward: Enhancing LightGCN with Causal Graph Convolution for Credit Bond Recommendation**|Ashraf Ghiye et.al.|[2503.14213](http://arxiv.org/abs/2503.14213)|null|
 |**2025-03-18**|**Four checks for low-fidelity synthetic data: recommendations for disclosure control and quality evaluation**|Gillian M Raab et.al.|[2503.14211](http://arxiv.org/abs/2503.14211)|null|
 |**2025-03-18**|**A Comprehensive Survey on Cross-Domain Recommendation: Taxonomy, Progress, and Prospects**|Hao Zhang et.al.|[2503.14110](http://arxiv.org/abs/2503.14110)|null|
