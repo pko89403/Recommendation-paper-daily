@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-25**|**Beyond Relevance: An Adaptive Exploration-Based Framework for Personalized Recommendations**|Edoardo Bianchi et.al.|[2503.19525](http://arxiv.org/abs/2503.19525)|null|
+|**2025-03-18**|**International Agreements on AI Safety: Review and Recommendations for a Conditional AI Safety Treaty**|Rebecca Scholefield et.al.|[2503.18956](http://arxiv.org/abs/2503.18956)|null|
 |**2025-03-25**|**A Comprehensive Review on Hashtag Recommendation: From Traditional to Deep Learning and Beyond**|Shubhi Bansal et.al.|[2503.18669](http://arxiv.org/abs/2503.18669)|null|
 |**2025-03-24**|**The Role of Artificial Intelligence in Enhancing Insulin Recommendations and Therapy Outcomes**|Maria Panagiotou et.al.|[2503.18592](http://arxiv.org/abs/2503.18592)|null|
 |**2025-03-24**|**Food Recommendation With Balancing Comfort and Curiosity**|Yuto Sakai et.al.|[2503.18355](http://arxiv.org/abs/2503.18355)|null|
