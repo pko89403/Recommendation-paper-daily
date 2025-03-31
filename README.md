@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-28**|**Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation**|Jiakai Tang et.al.|[2503.22675](http://arxiv.org/abs/2503.22675)|null|
+|**2025-03-28**|**Briteller: Shining a Light on AI Recommendations for Children**|Xiaofei Zhou et.al.|[2503.22113](http://arxiv.org/abs/2503.22113)|null|
+|**2025-03-27**|**HyperMAN: Hypergraph-enhanced Meta-learning Adaptive Network for Next POI Recommendation**|Jinze Wang et.al.|[2503.22049](http://arxiv.org/abs/2503.22049)|null|
+|**2025-03-27**|**Empowering Retrieval-based Conversational Recommendation with Contrasting User Preferences**|Heejin Kook et.al.|[2503.22005](http://arxiv.org/abs/2503.22005)|null|
 |**2025-03-27**|**SEAGET: Seasonal and Active hours guided Graph Enhanced Transformer for the next POI recommendation**|Alif Al Hasan et.al.|[2503.21225](http://arxiv.org/abs/2503.21225)|null|
 |**2025-03-27**|**An NLP-Driven Approach Using Twitter Data for Tailored K-pop Artist Recommendations**|Sora Kang et.al.|[2503.21189](http://arxiv.org/abs/2503.21189)|null|
 |**2025-03-27**|**Are We Solving a Well-Defined Problem? A Task-Centric Perspective on Recommendation Tasks**|Aixin Sun et.al.|[2503.21188](http://arxiv.org/abs/2503.21188)|null|
