@@ -17,6 +17,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**Rec-R1: Bridging Generative Large Language Models and User-Centric Recommendation Systems via Reinforcement Learning**|Jiacheng Lin et.al.|[2503.24289](http://arxiv.org/abs/2503.24289)|null|
+|**2025-03-31**|**Text2Tracks: Prompt-based Music Recommendation via Generative Retrieval**|Enrico Palumbo et.al.|[2503.24193](http://arxiv.org/abs/2503.24193)|null|
+|**2025-03-30**|**RuleAgent: Discovering Rules for Recommendation Denoising with Autonomous Language Agents**|Zongwei Wang et.al.|[2503.23374](http://arxiv.org/abs/2503.23374)|null|
+|**2025-03-30**|**Beyond Unimodal Boundaries: Generative Recommendation with Multimodal Semantics**|Jing Zhu et.al.|[2503.23333](http://arxiv.org/abs/2503.23333)|null|
+|**2025-03-30**|**LaViC: Adapting Large Vision-Language Models to Visually-Aware Conversational Recommendation**|Hyunsik Jeon et.al.|[2503.23312](http://arxiv.org/abs/2503.23312)|**[link](https://github.com/jeon185/lavic)**|
+|**2025-03-29**|**Federated Semantic Learning for Privacy-preserving Cross-domain Recommendation**|Ziang Lu et.al.|[2503.23026](http://arxiv.org/abs/2503.23026)|**[link](https://github.com/sapphire-star/ffmsr)**|
 |**2025-03-28**|**Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation**|Jiakai Tang et.al.|[2503.22675](http://arxiv.org/abs/2503.22675)|null|
 |**2025-03-28**|**Briteller: Shining a Light on AI Recommendations for Children**|Xiaofei Zhou et.al.|[2503.22113](http://arxiv.org/abs/2503.22113)|null|
 |**2025-03-27**|**HyperMAN: Hypergraph-enhanced Meta-learning Adaptive Network for Next POI Recommendation**|Jinze Wang et.al.|[2503.22049](http://arxiv.org/abs/2503.22049)|**[link](https://github.com/ICME-2025/HyperMAN)**|
