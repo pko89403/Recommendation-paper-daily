@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-02**|**Test-Time Alignment for Tracking User Interest Shifts in Sequential Recommendation**|Changshuo Zhang et.al.|[2504.01489](http://arxiv.org/abs/2504.01489)|null|
+|**2025-04-01**|**Preference-Centric Route Recommendation: Equilibrium, Learning, and Provable Efficiency**|Ya-Ting Yang et.al.|[2504.01192](http://arxiv.org/abs/2504.01192)|null|
+|**2025-04-01**|**SCRec: A Scalable Computational Storage System with Statistical Sharding and Tensor-train Decomposition for Recommendation Models**|Jinho Yang et.al.|[2504.00520](http://arxiv.org/abs/2504.00520)|null|
+|**2025-03-30**|**Dynamic hashtag recommendation in social media with trend shift detection and adaptation**|Riccardo Cantini et.al.|[2504.00044](http://arxiv.org/abs/2504.00044)|null|
 |**2025-03-31**|**Rec-R1: Bridging Generative Large Language Models and User-Centric Recommendation Systems via Reinforcement Learning**|Jiacheng Lin et.al.|[2503.24289](http://arxiv.org/abs/2503.24289)|**[link](https://github.com/linjc16/Rec-R1)**|
 |**2025-04-02**|**Text2Tracks: Prompt-based Music Recommendation via Generative Retrieval**|Enrico Palumbo et.al.|[2503.24193](http://arxiv.org/abs/2503.24193)|null|
 |**2025-03-30**|**RuleAgent: Discovering Rules for Recommendation Denoising with Autonomous Language Agents**|Zongwei Wang et.al.|[2503.23374](http://arxiv.org/abs/2503.23374)|null|
