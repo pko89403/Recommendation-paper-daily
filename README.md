@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.02
+## Updated on 2025.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,8 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-31**|**Rec-R1: Bridging Generative Large Language Models and User-Centric Recommendation Systems via Reinforcement Learning**|Jiacheng Lin et.al.|[2503.24289](http://arxiv.org/abs/2503.24289)|null|
-|**2025-03-31**|**Text2Tracks: Prompt-based Music Recommendation via Generative Retrieval**|Enrico Palumbo et.al.|[2503.24193](http://arxiv.org/abs/2503.24193)|null|
+|**2025-03-31**|**Rec-R1: Bridging Generative Large Language Models and User-Centric Recommendation Systems via Reinforcement Learning**|Jiacheng Lin et.al.|[2503.24289](http://arxiv.org/abs/2503.24289)|**[link](https://github.com/linjc16/Rec-R1)**|
+|**2025-04-02**|**Text2Tracks: Prompt-based Music Recommendation via Generative Retrieval**|Enrico Palumbo et.al.|[2503.24193](http://arxiv.org/abs/2503.24193)|null|
 |**2025-03-30**|**RuleAgent: Discovering Rules for Recommendation Denoising with Autonomous Language Agents**|Zongwei Wang et.al.|[2503.23374](http://arxiv.org/abs/2503.23374)|null|
 |**2025-03-30**|**Beyond Unimodal Boundaries: Generative Recommendation with Multimodal Semantics**|Jing Zhu et.al.|[2503.23333](http://arxiv.org/abs/2503.23333)|null|
 |**2025-03-30**|**LaViC: Adapting Large Vision-Language Models to Visually-Aware Conversational Recommendation**|Hyunsik Jeon et.al.|[2503.23312](http://arxiv.org/abs/2503.23312)|**[link](https://github.com/jeon185/lavic)**|
@@ -27,7 +27,7 @@
 |**2025-03-28**|**Briteller: Shining a Light on AI Recommendations for Children**|Xiaofei Zhou et.al.|[2503.22113](http://arxiv.org/abs/2503.22113)|null|
 |**2025-03-27**|**HyperMAN: Hypergraph-enhanced Meta-learning Adaptive Network for Next POI Recommendation**|Jinze Wang et.al.|[2503.22049](http://arxiv.org/abs/2503.22049)|**[link](https://github.com/ICME-2025/HyperMAN)**|
 |**2025-03-27**|**Empowering Retrieval-based Conversational Recommendation with Contrasting User Preferences**|Heejin Kook et.al.|[2503.22005](http://arxiv.org/abs/2503.22005)|null|
-|**2025-03-27**|**SEAGET: Seasonal and Active hours guided Graph Enhanced Transformer for the next POI recommendation**|Alif Al Hasan et.al.|[2503.21225](http://arxiv.org/abs/2503.21225)|null|
+|**2025-04-02**|**SEAGET: Seasonal and Active hours guided Graph Enhanced Transformer for the next POI recommendation**|Alif Al Hasan et.al.|[2503.21225](http://arxiv.org/abs/2503.21225)|null|
 |**2025-03-27**|**An NLP-Driven Approach Using Twitter Data for Tailored K-pop Artist Recommendations**|Sora Kang et.al.|[2503.21189](http://arxiv.org/abs/2503.21189)|null|
 |**2025-03-27**|**Are We Solving a Well-Defined Problem? A Task-Centric Perspective on Recommendation Tasks**|Aixin Sun et.al.|[2503.21188](http://arxiv.org/abs/2503.21188)|null|
 |**2025-03-26**|**Emotion Detection and Music Recommendation System**|Swetha Kambham et.al.|[2503.20739](http://arxiv.org/abs/2503.20739)|null|
@@ -1085,7 +1085,7 @@
 |**2024-03-07**|**Disaggregated Multi-Tower: Topology-aware Modeling Technique for Efficient Large-Scale Recommendation**|Liang Luo et.al.|[2403.00877](http://arxiv.org/abs/2403.00877)|null|
 |**2024-03-01**|**A Survey of Route Recommendations: Methods, Applications, and Opportunities**|Shiming Zhang et.al.|[2403.00284](http://arxiv.org/abs/2403.00284)|null|
 
-<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
