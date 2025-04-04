@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**Graphs are everywhere -- Psst! In Music Recommendation too**|Bharani Jayakumar et.al.|[2504.02598](http://arxiv.org/abs/2504.02598)|null|
+|**2025-04-03**|**Retrieval-Augmented Purifier for Robust LLM-Empowered Recommendation**|Liangbo Ning et.al.|[2504.02458](http://arxiv.org/abs/2504.02458)|null|
+|**2025-04-02**|**LakeVisage: Towards Scalable, Flexible and Interactive Visualization Recommendation for Data Discovery over Data Lakes**|Yihao Hu et.al.|[2504.02150](http://arxiv.org/abs/2504.02150)|null|
+|**2025-04-02**|**Enhancing Embedding Representation Stability in Recommendation Systems with Semantic ID**|Carolina Zheng et.al.|[2504.02137](http://arxiv.org/abs/2504.02137)|null|
 |**2025-04-02**|**Test-Time Alignment for Tracking User Interest Shifts in Sequential Recommendation**|Changshuo Zhang et.al.|[2504.01489](http://arxiv.org/abs/2504.01489)|null|
 |**2025-04-01**|**Preference-Centric Route Recommendation: Equilibrium, Learning, and Provable Efficiency**|Ya-Ting Yang et.al.|[2504.01192](http://arxiv.org/abs/2504.01192)|null|
 |**2025-04-01**|**SCRec: A Scalable Computational Storage System with Statistical Sharding and Tensor-train Decomposition for Recommendation Models**|Jinho Yang et.al.|[2504.00520](http://arxiv.org/abs/2504.00520)|null|
