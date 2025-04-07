@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-04**|**Exploiting Fine-Grained Skip Behaviors for Micro-Video Recommendation**|Sanghyuck Lee et.al.|[2504.03107](http://arxiv.org/abs/2504.03107)|null|
+|**2025-04-03**|**Route Recommendations for Traffic Management Under Learned Partial Driver Compliance**|Heeseung Bang et.al.|[2504.02993](http://arxiv.org/abs/2504.02993)|null|
 |**2025-04-04**|**Graphs are everywhere -- Psst! In Music Recommendation too**|Bharani Jayakumar et.al.|[2504.02598](http://arxiv.org/abs/2504.02598)|null|
 |**2025-04-03**|**Retrieval-Augmented Purifier for Robust LLM-Empowered Recommendation**|Liangbo Ning et.al.|[2504.02458](http://arxiv.org/abs/2504.02458)|null|
 |**2025-04-02**|**LakeVisage: Towards Scalable, Flexible and Interactive Visualization Recommendation for Data Discovery over Data Lakes**|Yihao Hu et.al.|[2504.02150](http://arxiv.org/abs/2504.02150)|null|
