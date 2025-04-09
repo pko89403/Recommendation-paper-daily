@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**Unified Generative Search and Recommendation**|Teng Shi et.al.|[2504.05730](http://arxiv.org/abs/2504.05730)|null|
+|**2025-04-07**|**User Feedback Alignment for LLM-powered Exploration in Large-scale Recommendation Systems**|Jianling Wang et.al.|[2504.05522](http://arxiv.org/abs/2504.05522)|null|
 |**2025-04-07**|**LLM-Alignment Live-Streaming Recommendation**|Yueyang Liu et.al.|[2504.05217](http://arxiv.org/abs/2504.05217)|null|
 |**2025-04-07**|**Data Augmentation as Free Lunch: Exploring the Test-Time Augmentation for Sequential Recommendation**|Yizhou Dang et.al.|[2504.04843](http://arxiv.org/abs/2504.04843)|null|
 |**2025-04-06**|**COHESION: Composite Graph Convolutional Network with Dual-Stage Fusion for Multimodal Recommendation**|Jinfeng Xu et.al.|[2504.04452](http://arxiv.org/abs/2504.04452)|null|
