@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.10
+## Updated on 2025.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -18,7 +18,7 @@ layout: default
 |**2025-04-09**|**BBQRec: Behavior-Bind Quantization for Multi-Modal Sequential Recommendation**|Kaiyuan Li et.al.|[2504.06636](http://arxiv.org/abs/2504.06636)|null|
 |**2025-04-09**|**A Serendipitous Recommendation System Considering User Curiosity**|Zhelin Xu et.al.|[2504.06633](http://arxiv.org/abs/2504.06633)|null|
 |**2025-04-09**|**Diversity-aware Dual-promotion Poisoning Attack on Sequential Recommendation**|Yuchuan Zhao et.al.|[2504.06586](http://arxiv.org/abs/2504.06586)|null|
-|**2025-04-08**|**Unified Generative Search and Recommendation**|Teng Shi et.al.|[2504.05730](http://arxiv.org/abs/2504.05730)|null|
+|**2025-04-10**|**Unified Generative Search and Recommendation**|Teng Shi et.al.|[2504.05730](http://arxiv.org/abs/2504.05730)|null|
 |**2025-04-07**|**User Feedback Alignment for LLM-powered Exploration in Large-scale Recommendation Systems**|Jianling Wang et.al.|[2504.05522](http://arxiv.org/abs/2504.05522)|null|
 |**2025-04-07**|**LLM-Alignment Live-Streaming Recommendation**|Yueyang Liu et.al.|[2504.05217](http://arxiv.org/abs/2504.05217)|null|
 |**2025-04-07**|**Data Augmentation as Free Lunch: Exploring the Test-Time Augmentation for Sequential Recommendation**|Yizhou Dang et.al.|[2504.04843](http://arxiv.org/abs/2504.04843)|null|
