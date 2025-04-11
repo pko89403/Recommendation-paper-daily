@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-10**|**The Urban Impact of AI: Modeling Feedback Loops in Next-Venue Recommendation**|Giovanni Mauro et.al.|[2504.07911](http://arxiv.org/abs/2504.07911)|null|
+|**2025-04-10**|**Dynamic disruption index across citation and cited references windows: Recommendations for thresholds in research evaluation**|Hongkan Chen et.al.|[2504.07828](http://arxiv.org/abs/2504.07828)|null|
+|**2025-04-10**|**FairEval: Evaluating Fairness in LLM-Based Recommendations with Personality Awareness**|Chandan Kumar Sah et.al.|[2504.07801](http://arxiv.org/abs/2504.07801)|null|
+|**2025-04-10**|**Multi-Selection for Recommendation Systems**|Sahasrajit Sarmasarkar et.al.|[2504.07403](http://arxiv.org/abs/2504.07403)|null|
+|**2025-04-10**|**A Novel Mamba-based Sequential Recommendation Method**|Jun Yuan et.al.|[2504.07398](http://arxiv.org/abs/2504.07398)|null|
+|**2025-04-10**|**Towards Distribution Matching between Collaborative and Language Spaces for Generative Recommendation**|Yi Zhang et.al.|[2504.07363](http://arxiv.org/abs/2504.07363)|null|
+|**2025-04-09**|**A Multi-Phase Analysis of Blood Culture Stewardship: Machine Learning Prediction, Expert Recommendation Assessment, and LLM Automation**|Fatemeh Amrollahi et.al.|[2504.07278](http://arxiv.org/abs/2504.07278)|null|
 |**2025-04-09**|**Unifying Search and Recommendation: A Generative Paradigm Inspired by Information Theory**|Jujia Zhao et.al.|[2504.06714](http://arxiv.org/abs/2504.06714)|null|
 |**2025-04-09**|**BBQRec: Behavior-Bind Quantization for Multi-Modal Sequential Recommendation**|Kaiyuan Li et.al.|[2504.06636](http://arxiv.org/abs/2504.06636)|null|
 |**2025-04-09**|**A Serendipitous Recommendation System Considering User Curiosity**|Zhelin Xu et.al.|[2504.06633](http://arxiv.org/abs/2504.06633)|null|
