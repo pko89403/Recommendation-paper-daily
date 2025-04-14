@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**Scholar Inbox: Personalized Paper Recommendations for Scientists**|Markus Flicke et.al.|[2504.08385](http://arxiv.org/abs/2504.08385)|null|
+|**2025-04-11**|**How Good Are Large Language Models for Course Recommendation in MOOCs?**|Boxuan Ma et.al.|[2504.08208](http://arxiv.org/abs/2504.08208)|null|
 |**2025-04-10**|**The Urban Impact of AI: Modeling Feedback Loops in Next-Venue Recommendation**|Giovanni Mauro et.al.|[2504.07911](http://arxiv.org/abs/2504.07911)|null|
 |**2025-04-10**|**Dynamic disruption index across citation and cited references windows: Recommendations for thresholds in research evaluation**|Hongkan Chen et.al.|[2504.07828](http://arxiv.org/abs/2504.07828)|null|
 |**2025-04-10**|**FairEval: Evaluating Fairness in LLM-Based Recommendations with Personality Awareness**|Chandan Kumar Sah et.al.|[2504.07801](http://arxiv.org/abs/2504.07801)|null|
