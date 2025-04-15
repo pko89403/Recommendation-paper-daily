@@ -14,6 +14,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**Invariance Matters: Empowering Social Recommendation via Graph Invariant Learning**|Yonghui Yang et.al.|[2504.10432](http://arxiv.org/abs/2504.10432)|null|
+|**2025-04-14**|**CROSSAN: Towards Efficient and Effective Adaptation of Multiple Multimodal Foundation Models for Sequential Recommendation**|Junchen Fu et.al.|[2504.10307](http://arxiv.org/abs/2504.10307)|null|
+|**2025-04-14**|**From Prompting to Alignment: A Generative Framework for Query Recommendation**|Erxue Min et.al.|[2504.10208](http://arxiv.org/abs/2504.10208)|null|
+|**2025-04-14**|**HistLLM: A Unified Framework for LLM-Based Multimodal Recommendation with User History Encoding and Compression**|Chen Zhang et.al.|[2504.10150](http://arxiv.org/abs/2504.10150)|null|
+|**2025-04-14**|**Enhancing LLM-based Recommendation through Semantic-Aligned Collaborative Knowledge**|Zihan Wang et.al.|[2504.10107](http://arxiv.org/abs/2504.10107)|null|
+|**2025-04-13**|**Slow Thinking for Sequential Recommendation**|Junjie Zhang et.al.|[2504.09627](http://arxiv.org/abs/2504.09627)|null|
+|**2025-04-13**|**Revisiting Self-Attentive Sequential Recommendation**|Zan Huang et.al.|[2504.09596](http://arxiv.org/abs/2504.09596)|null|
+|**2025-04-13**|**FROG: Effective Friend Recommendation in Online Games via Modality-aware User Preferences**|Qiwei Wang et.al.|[2504.09428](http://arxiv.org/abs/2504.09428)|null|
+|**2025-04-11**|**Large Language Model Empowered Recommendation Meets All-domain Continual Pre-Training**|Haokai Ma et.al.|[2504.08949](http://arxiv.org/abs/2504.08949)|null|
+|**2025-04-06**|**AdaptRec: A Self-Adaptive Framework for Sequential Recommendations with Large Language Models**|Tong Zhang et.al.|[2504.08786](http://arxiv.org/abs/2504.08786)|null|
+|**2025-04-02**|**Generate the browsing process for short-video recommendation**|Chao Feng et.al.|[2504.08771](http://arxiv.org/abs/2504.08771)|null|
 |**2025-04-11**|**Scholar Inbox: Personalized Paper Recommendations for Scientists**|Markus Flicke et.al.|[2504.08385](http://arxiv.org/abs/2504.08385)|null|
 |**2025-04-11**|**How Good Are Large Language Models for Course Recommendation in MOOCs?**|Boxuan Ma et.al.|[2504.08208](http://arxiv.org/abs/2504.08208)|null|
 |**2025-04-10**|**The Urban Impact of AI: Modeling Feedback Loops in Next-Venue Recommendation**|Giovanni Mauro et.al.|[2504.07911](http://arxiv.org/abs/2504.07911)|null|
@@ -30,9 +41,9 @@ layout: default
 |**2025-04-10**|**Unified Generative Search and Recommendation**|Teng Shi et.al.|[2504.05730](http://arxiv.org/abs/2504.05730)|null|
 |**2025-04-11**|**User Feedback Alignment for LLM-powered Exploration in Large-scale Recommendation Systems**|Jianling Wang et.al.|[2504.05522](http://arxiv.org/abs/2504.05522)|null|
 |**2025-04-07**|**LLM-Alignment Live-Streaming Recommendation**|Yueyang Liu et.al.|[2504.05217](http://arxiv.org/abs/2504.05217)|null|
-|**2025-04-07**|**Data Augmentation as Free Lunch: Exploring the Test-Time Augmentation for Sequential Recommendation**|Yizhou Dang et.al.|[2504.04843](http://arxiv.org/abs/2504.04843)|null|
+|**2025-04-14**|**Data Augmentation as Free Lunch: Exploring the Test-Time Augmentation for Sequential Recommendation**|Yizhou Dang et.al.|[2504.04843](http://arxiv.org/abs/2504.04843)|null|
 |**2025-04-06**|**COHESION: Composite Graph Convolutional Network with Dual-Stage Fusion for Multimodal Recommendation**|Jinfeng Xu et.al.|[2504.04452](http://arxiv.org/abs/2504.04452)|null|
-|**2025-04-06**|**Universal Item Tokenization for Transferable Generative Recommendation**|Bowen Zheng et.al.|[2504.04405](http://arxiv.org/abs/2504.04405)|null|
+|**2025-04-14**|**Universal Item Tokenization for Transferable Generative Recommendation**|Bowen Zheng et.al.|[2504.04405](http://arxiv.org/abs/2504.04405)|null|
 |**2025-04-06**|**Decoding Recommendation Behaviors of In-Context Learning LLMs Through Gradient Descent**|Yi Xu et.al.|[2504.04386](http://arxiv.org/abs/2504.04386)|null|
 |**2025-04-05**|**Short Video Segment-level User Dynamic Interests Modeling in Personalized Recommendation**|Zhiyu He et.al.|[2504.04237](http://arxiv.org/abs/2504.04237)|null|
 |**2025-04-05**|**Investigating and Mitigating Stereotype-aware Unfairness in LLM-based Recommendations**|Zihuai Zhao et.al.|[2504.04199](http://arxiv.org/abs/2504.04199)|null|
