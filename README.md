@@ -17,6 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**Exploring Backdoor Attack and Defense for LLM-empowered Recommendations**|Liangbo Ning et.al.|[2504.11182](http://arxiv.org/abs/2504.11182)|null|
+|**2025-04-15**|**Why am I seeing this? Towards recognizing social media recommender systems with missing recommendations**|Sabrina Guidotti et.al.|[2504.11000](http://arxiv.org/abs/2504.11000)|null|
+|**2025-04-14**|**Epistemic Uncertainty-aware Recommendation Systems via Bayesian Deep Ensemble Learning**|Radin Cheraghi et.al.|[2504.10753](http://arxiv.org/abs/2504.10753)|null|
+|**2025-04-14**|**Iterative Recommendations based on Monte Carlo Sampling and Trust Estimation in Multi-Stage Vehicular Traffic Routing Games**|Doris E. M. Brown et.al.|[2504.10728](http://arxiv.org/abs/2504.10728)|null|
+|**2025-04-14**|**GestureCoach: Rehearsing for Engaging Talks with LLM-Driven Gesture Recommendations**|Ashwin Ram et.al.|[2504.10706](http://arxiv.org/abs/2504.10706)|null|
+|**2025-04-13**|**Multi-Modal Hypergraph Enhanced LLM Learning for Recommendation**|Xu Guo et.al.|[2504.10541](http://arxiv.org/abs/2504.10541)|null|
+|**2025-04-13**|**Distilling Transitional Pattern to Large Language Models for Multimodal Session-based Recommendation**|Jiajie Su et.al.|[2504.10538](http://arxiv.org/abs/2504.10538)|null|
+|**2025-04-10**|**JEPA4Rec: Learning Effective Language Representations for Sequential Recommendation via Joint Embedding Predictive Architecture**|Minh-Anh Nguyen et.al.|[2504.10512](http://arxiv.org/abs/2504.10512)|null|
+|**2025-04-09**|**PinRec: Outcome-Conditioned, Multi-Token Generative Retrieval for Industry-Scale Recommendation Systems**|Anirudhan Badrinath et.al.|[2504.10507](http://arxiv.org/abs/2504.10507)|null|
 |**2025-04-14**|**Invariance Matters: Empowering Social Recommendation via Graph Invariant Learning**|Yonghui Yang et.al.|[2504.10432](http://arxiv.org/abs/2504.10432)|null|
 |**2025-04-14**|**CROSSAN: Towards Efficient and Effective Adaptation of Multiple Multimodal Foundation Models for Sequential Recommendation**|Junchen Fu et.al.|[2504.10307](http://arxiv.org/abs/2504.10307)|null|
 |**2025-04-14**|**From Prompting to Alignment: A Generative Framework for Query Recommendation**|Erxue Min et.al.|[2504.10208](http://arxiv.org/abs/2504.10208)|null|
