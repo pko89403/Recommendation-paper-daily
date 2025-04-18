@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-17**|**Accessibility Recommendations for Designing Better Mobile Application User Interfaces for Seniors**|Shavindra Wickramathilaka et.al.|[2504.12690](http://arxiv.org/abs/2504.12690)|null|
 |**2025-04-16**|**Generative Recommendation with Continuous-Token Diffusion**|Haohao Qu et.al.|[2504.12007](http://arxiv.org/abs/2504.12007)|null|
 |**2025-04-16**|**Rethinking LLM-Based Recommendations: A Query Generation-Based, Training-Free Approach**|Donghee Han et.al.|[2504.11889](http://arxiv.org/abs/2504.11889)|null|
 |**2025-04-15**|**Improving LLM Interpretability and Performance via Guided Embedding Refinement for Sequential Recommendation**|Nanshan Jia et.al.|[2504.11658](http://arxiv.org/abs/2504.11658)|null|
