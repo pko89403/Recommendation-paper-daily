@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.19
+## Updated on 2025.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -27,7 +27,7 @@ layout: default
 |**2025-04-13**|**Distilling Transitional Pattern to Large Language Models for Multimodal Session-based Recommendation**|Jiajie Su et.al.|[2504.10538](http://arxiv.org/abs/2504.10538)|null|
 |**2025-04-10**|**JEPA4Rec: Learning Effective Language Representations for Sequential Recommendation via Joint Embedding Predictive Architecture**|Minh-Anh Nguyen et.al.|[2504.10512](http://arxiv.org/abs/2504.10512)|null|
 |**2025-04-09**|**PinRec: Outcome-Conditioned, Multi-Token Generative Retrieval for Industry-Scale Recommendation Systems**|Anirudhan Badrinath et.al.|[2504.10507](http://arxiv.org/abs/2504.10507)|null|
-|**2025-04-14**|**Invariance Matters: Empowering Social Recommendation via Graph Invariant Learning**|Yonghui Yang et.al.|[2504.10432](http://arxiv.org/abs/2504.10432)|null|
+|**2025-04-14**|**Invariance Matters: Empowering Social Recommendation via Graph Invariant Learning**|Yonghui Yang et.al.|[2504.10432](http://arxiv.org/abs/2504.10432)|**[link](https://github.com/yimutianyang/sigir2025-sgil)**|
 |**2025-04-14**|**CROSSAN: Towards Efficient and Effective Adaptation of Multiple Multimodal Foundation Models for Sequential Recommendation**|Junchen Fu et.al.|[2504.10307](http://arxiv.org/abs/2504.10307)|null|
 |**2025-04-14**|**From Prompting to Alignment: A Generative Framework for Query Recommendation**|Erxue Min et.al.|[2504.10208](http://arxiv.org/abs/2504.10208)|null|
 |**2025-04-14**|**HistLLM: A Unified Framework for LLM-Based Multimodal Recommendation with User History Encoding and Compression**|Chen Zhang et.al.|[2504.10150](http://arxiv.org/abs/2504.10150)|null|
