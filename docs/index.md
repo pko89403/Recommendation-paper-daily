@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Bake Two Cakes with One Oven: RL for Defusing Popularity Bias and Cold-start in Third-Party Library Recommendations**|Minh Hoang Vuong et.al.|[2504.13772](http://arxiv.org/abs/2504.13772)|null|
+|**2025-04-18**|**Consensus-aware Contrastive Learning for Group Recommendation**|Soyoung Kim et.al.|[2504.13703](http://arxiv.org/abs/2504.13703)|null|
+|**2025-04-18**|**A Reinforcement Learning Method to Factual and Counterfactual Explanations for Session-based Recommendation**|Han Zhou et.al.|[2504.13632](http://arxiv.org/abs/2504.13632)|null|
+|**2025-04-18**|**Adaptive Long-term Embedding with Denoising and Augmentation for Recommendation**|Zahra Akhlaghi et.al.|[2504.13614](http://arxiv.org/abs/2504.13614)|null|
+|**2025-04-18**|**Contextualizing Spotify's Audiobook List Recommendations with Descriptive Shelves**|Gustavo Penha et.al.|[2504.13572](http://arxiv.org/abs/2504.13572)|null|
 |**2025-04-17**|**Accessibility Recommendations for Designing Better Mobile Application User Interfaces for Seniors**|Shavindra Wickramathilaka et.al.|[2504.12690](http://arxiv.org/abs/2504.12690)|null|
 |**2025-04-16**|**Generative Recommendation with Continuous-Token Diffusion**|Haohao Qu et.al.|[2504.12007](http://arxiv.org/abs/2504.12007)|null|
 |**2025-04-16**|**Rethinking LLM-Based Recommendations: A Query Generation-Based, Training-Free Approach**|Donghee Han et.al.|[2504.11889](http://arxiv.org/abs/2504.11889)|null|
@@ -28,7 +33,7 @@ layout: default
 |**2025-04-10**|**JEPA4Rec: Learning Effective Language Representations for Sequential Recommendation via Joint Embedding Predictive Architecture**|Minh-Anh Nguyen et.al.|[2504.10512](http://arxiv.org/abs/2504.10512)|null|
 |**2025-04-09**|**PinRec: Outcome-Conditioned, Multi-Token Generative Retrieval for Industry-Scale Recommendation Systems**|Anirudhan Badrinath et.al.|[2504.10507](http://arxiv.org/abs/2504.10507)|null|
 |**2025-04-14**|**Invariance Matters: Empowering Social Recommendation via Graph Invariant Learning**|Yonghui Yang et.al.|[2504.10432](http://arxiv.org/abs/2504.10432)|**[link](https://github.com/yimutianyang/sigir2025-sgil)**|
-|**2025-04-14**|**CROSSAN: Towards Efficient and Effective Adaptation of Multiple Multimodal Foundation Models for Sequential Recommendation**|Junchen Fu et.al.|[2504.10307](http://arxiv.org/abs/2504.10307)|null|
+|**2025-04-14**|**CROSSAN: Towards Efficient and Effective Adaptation of Multiple Multimodal Foundation Models for Sequential Recommendation**|Junchen Fu et.al.|[2504.10307](http://arxiv.org/abs/2504.10307)|**[link](https://github.com/col-tasas/2025-oco-with-iqcs)**|
 |**2025-04-14**|**From Prompting to Alignment: A Generative Framework for Query Recommendation**|Erxue Min et.al.|[2504.10208](http://arxiv.org/abs/2504.10208)|null|
 |**2025-04-14**|**HistLLM: A Unified Framework for LLM-Based Multimodal Recommendation with User History Encoding and Compression**|Chen Zhang et.al.|[2504.10150](http://arxiv.org/abs/2504.10150)|null|
 |**2025-04-14**|**Enhancing LLM-based Recommendation through Semantic-Aligned Collaborative Knowledge**|Zihan Wang et.al.|[2504.10107](http://arxiv.org/abs/2504.10107)|null|
