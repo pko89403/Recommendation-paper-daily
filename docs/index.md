@@ -14,10 +14,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-21**|**Federated Latent Factor Model for Bias-Aware Recommendation with Privacy-Preserving**|Junxiang Gao et.al.|[2504.15090](http://arxiv.org/abs/2504.15090)|null|
+|**2025-04-21**|**Hierarchical Attention Fusion of Visual and Textual Representations for Cross-Domain Sequential Recommendation**|Wangyu Wu et.al.|[2504.15085](http://arxiv.org/abs/2504.15085)|null|
+|**2025-04-21**|**Linear Item-Item Model with Neural Knowledge for Session-based Recommendation**|Minjin Choi et.al.|[2504.15057](http://arxiv.org/abs/2504.15057)|null|
+|**2025-04-19**|**FedCIA: Federated Collaborative Information Aggregation for Privacy-Preserving Recommendation**|Mingzhe Han et.al.|[2504.14208](http://arxiv.org/abs/2504.14208)|**[link](https://github.com/mingzhe-han/fedcia)**|
+|**2025-04-19**|**HF4Rec: Human-Like Feedback-Driven Optimization Framework for Explainable Recommendation**|Jiakai Tang et.al.|[2504.14147](http://arxiv.org/abs/2504.14147)|null|
+|**2025-04-19**|**Personalized News Recommendation with Multi-granularity Candidate-aware User Modeling**|Qiang Li et.al.|[2504.14130](http://arxiv.org/abs/2504.14130)|null|
+|**2025-04-18**|**Enhancing Math Learning in an LMS Using AI-Driven Question Recommendations**|Justus Råmunddal et.al.|[2504.14098](http://arxiv.org/abs/2504.14098)|null|
 |**2025-04-18**|**Bake Two Cakes with One Oven: RL for Defusing Popularity Bias and Cold-start in Third-Party Library Recommendations**|Minh Hoang Vuong et.al.|[2504.13772](http://arxiv.org/abs/2504.13772)|null|
 |**2025-04-18**|**Consensus-aware Contrastive Learning for Group Recommendation**|Soyoung Kim et.al.|[2504.13703](http://arxiv.org/abs/2504.13703)|null|
 |**2025-04-18**|**A Reinforcement Learning Method to Factual and Counterfactual Explanations for Session-based Recommendation**|Han Zhou et.al.|[2504.13632](http://arxiv.org/abs/2504.13632)|null|
-|**2025-04-18**|**Adaptive Long-term Embedding with Denoising and Augmentation for Recommendation**|Zahra Akhlaghi et.al.|[2504.13614](http://arxiv.org/abs/2504.13614)|null|
+|**2025-04-18**|**Adaptive Long-term Embedding with Denoising and Augmentation for Recommendation**|Zahra Akhlaghi et.al.|[2504.13614](http://arxiv.org/abs/2504.13614)|**[link](https://github.com/zahraakhlaghi/alda4rec)**|
 |**2025-04-18**|**Contextualizing Spotify's Audiobook List Recommendations with Descriptive Shelves**|Gustavo Penha et.al.|[2504.13572](http://arxiv.org/abs/2504.13572)|null|
 |**2025-04-17**|**Accessibility Recommendations for Designing Better Mobile Application User Interfaces for Seniors**|Shavindra Wickramathilaka et.al.|[2504.12690](http://arxiv.org/abs/2504.12690)|null|
 |**2025-04-16**|**Generative Recommendation with Continuous-Token Diffusion**|Haohao Qu et.al.|[2504.12007](http://arxiv.org/abs/2504.12007)|null|
@@ -39,7 +46,7 @@ layout: default
 |**2025-04-14**|**Enhancing LLM-based Recommendation through Semantic-Aligned Collaborative Knowledge**|Zihan Wang et.al.|[2504.10107](http://arxiv.org/abs/2504.10107)|null|
 |**2025-04-13**|**Slow Thinking for Sequential Recommendation**|Junjie Zhang et.al.|[2504.09627](http://arxiv.org/abs/2504.09627)|null|
 |**2025-04-13**|**Revisiting Self-Attentive Sequential Recommendation**|Zan Huang et.al.|[2504.09596](http://arxiv.org/abs/2504.09596)|**[link](https://github.com/pmixer/SASRec.pytorch)**|
-|**2025-04-13**|**FROG: Effective Friend Recommendation in Online Games via Modality-aware User Preferences**|Qiwei Wang et.al.|[2504.09428](http://arxiv.org/abs/2504.09428)|null|
+|**2025-04-21**|**FROG: Effective Friend Recommendation in Online Games via Modality-aware User Preferences**|Qiwei Wang et.al.|[2504.09428](http://arxiv.org/abs/2504.09428)|null|
 |**2025-04-11**|**Large Language Model Empowered Recommendation Meets All-domain Continual Pre-Training**|Haokai Ma et.al.|[2504.08949](http://arxiv.org/abs/2504.08949)|null|
 |**2025-04-06**|**AdaptRec: A Self-Adaptive Framework for Sequential Recommendations with Large Language Models**|Tong Zhang et.al.|[2504.08786](http://arxiv.org/abs/2504.08786)|null|
 |**2025-04-02**|**Generate the browsing process for short-video recommendation**|Chao Feng et.al.|[2504.08771](http://arxiv.org/abs/2504.08771)|null|
