@@ -17,6 +17,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**Algorithmic Mirror: Designing an Interactive Tool to Promote Self-Reflection for YouTube Recommendations**|Yui Kondo et.al.|[2504.16615](http://arxiv.org/abs/2504.16615)|null|
+|**2025-04-23**|**MMHCL: Multi-Modal Hypergraph Contrastive Learning for Recommendation**|Xu Guo et.al.|[2504.16576](http://arxiv.org/abs/2504.16576)|null|
+|**2025-04-23**|**Modality Reliability Guided Multimodal Recommendation**|Xue Dong et.al.|[2504.16524](http://arxiv.org/abs/2504.16524)|null|
+|**2025-04-23**|**Killing Two Birds with One Stone: Unifying Retrieval and Ranking with a Single Generative Recommendation Model**|Luankang Zhang et.al.|[2504.16454](http://arxiv.org/abs/2504.16454)|null|
+|**2025-04-23**|**Disentangling and Generating Modalities for Recommendation in Missing Modality Scenarios**|Jiwan Kim et.al.|[2504.16352](http://arxiv.org/abs/2504.16352)|null|
+|**2025-04-23**|**Mining Software Repositories for Expert Recommendation**|Chad Marshall et.al.|[2504.16343](http://arxiv.org/abs/2504.16343)|null|
 |**2025-04-22**|**Intent-aware Diffusion with Contrastive Learning for Sequential Recommendation**|Yuanpeng Qu et.al.|[2504.16077](http://arxiv.org/abs/2504.16077)|null|
 |**2025-04-21**|**Federated Latent Factor Model for Bias-Aware Recommendation with Privacy-Preserving**|Junxiang Gao et.al.|[2504.15090](http://arxiv.org/abs/2504.15090)|null|
 |**2025-04-21**|**Hierarchical Attention Fusion of Visual and Textual Representations for Cross-Domain Sequential Recommendation**|Wangyu Wu et.al.|[2504.15085](http://arxiv.org/abs/2504.15085)|null|
