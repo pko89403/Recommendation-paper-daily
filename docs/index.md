@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**LLM-Generated Fake News Induces Truth Decay in News Ecosystem: A Case Study on Neural News Recommendation**|Beizhe Hu et.al.|[2504.20013](http://arxiv.org/abs/2504.20013)|null|
+|**2025-04-28**|**Optimal Sequential Recommendations: Exploiting User and Item Structure**|Mina Karzand et.al.|[2504.19476](http://arxiv.org/abs/2504.19476)|null|
+|**2025-04-27**|**AlphaFuse: Learn ID Embeddings for Sequential Recommendation in Null Space of Language Embeddings**|Guoqing Hu et.al.|[2504.19218](http://arxiv.org/abs/2504.19218)|null|
+|**2025-04-27**|**Dynamic Embedded Topic Models: properties and recommendations based on diverse corpora**|Elisabeth Fittschen et.al.|[2504.19209](http://arxiv.org/abs/2504.19209)|null|
+|**2025-04-27**|**Relative Contrastive Learning for Sequential Recommendation with Similarity-based Positive Pair Selection**|Zhikai Wang et.al.|[2504.19178](http://arxiv.org/abs/2504.19178)|null|
+|**2025-04-26**|**AI Recommendations and Non-instrumental Image Concerns**|David Almog et.al.|[2504.19047](http://arxiv.org/abs/2504.19047)|null|
+|**2025-04-26**|**Generative Product Recommendations for Implicit Superlative Queries**|Kaustubh D. Dhole et.al.|[2504.18748](http://arxiv.org/abs/2504.18748)|null|
 |**2025-04-25**|**Bridge the Domains: Large Language Models Enhanced Cross-domain Sequential Recommendation**|Qidong Liu et.al.|[2504.18383](http://arxiv.org/abs/2504.18383)|null|
 |**2025-04-25**|**Combating the Bucket Effect:Multi-Knowledge Alignment for Medication Recommendation**|Xiang Li et.al.|[2504.18096](http://arxiv.org/abs/2504.18096)|null|
 |**2025-04-23**|**FIM: Frequency-Aware Multi-View Interest Modeling for Local-Life Service Recommendation**|Guoquan Wang et.al.|[2504.17814](http://arxiv.org/abs/2504.17814)|null|
