@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-05**|**Colombian Waitresses y Jueces canadienses: Gender and Country Biases in Occupation Recommendations from LLMs**|Elisa Forcada Rodríguez et.al.|[2505.02456](http://arxiv.org/abs/2505.02456)|null|
+|**2025-05-03**|**SimAug: Enhancing Recommendation with Pretrained Language Models for Dense and Balanced Data Augmentation**|Yuying Zhao et.al.|[2505.01695](http://arxiv.org/abs/2505.01695)|null|
+|**2025-05-03**|**RAGAR: Retrieval Augment Personalized Image Generation Guided by Recommendation**|Run Ling et.al.|[2505.01657](http://arxiv.org/abs/2505.01657)|null|
+|**2025-04-29**|**LLM-Enabled EV Charging Stations Recommendation**|Zeinab Teimoori et.al.|[2505.01447](http://arxiv.org/abs/2505.01447)|null|
 |**2025-05-02**|**PREMISE: Matching-based Prediction for Accurate Review Recommendation**|Wei Han et.al.|[2505.01255](http://arxiv.org/abs/2505.01255)|null|
 |**2025-05-02**|**Overview and practical recommendations on using Shapley Values for identifying predictive biomarkers via CATE modeling**|David Svensson et.al.|[2505.01145](http://arxiv.org/abs/2505.01145)|null|
 |**2025-05-02**|**Multi-agents based User Values Mining for Recommendation**|Lijian Chen et.al.|[2505.00981](http://arxiv.org/abs/2505.00981)|null|
