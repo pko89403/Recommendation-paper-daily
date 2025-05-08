@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-07**|**User and Recommender Behavior Over Time: Contextualizing Activity, Effectiveness, Diversity, and Fairness in Book Recommendation**|Samira Vaez Barenji et.al.|[2505.04518](http://arxiv.org/abs/2505.04518)|null|
+|**2025-05-07**|**M2Rec: Multi-scale Mamba for Efficient Sequential Recommendation**|Qianru Zhang et.al.|[2505.04445](http://arxiv.org/abs/2505.04445)|null|
+|**2025-05-07**|**With Friends Like These, Who Needs Explanations? Evaluating User Understanding of Group Recommendations**|Cedric Waterschoot et.al.|[2505.04273](http://arxiv.org/abs/2505.04273)|null|
+|**2025-05-05**|**CoCoB: Adaptive Collaborative Combinatorial Bandits for Online Recommendation**|Cairong Yan et.al.|[2505.03840](http://arxiv.org/abs/2505.03840)|null|
+|**2025-05-03**|**Sentiment-Aware Recommendation Systems in E-Commerce: A Review from a Natural Language Processing Perspective**|Yogesh Gajula et.al.|[2505.03828](http://arxiv.org/abs/2505.03828)|null|
+|**2025-05-03**|**Memory Assisted LLM for Personalized Recommendation System**|Jiarui Chen et.al.|[2505.03824](http://arxiv.org/abs/2505.03824)|null|
 |**2025-05-06**|**NBF at SemEval-2025 Task 5: Light-Burst Attention Enhanced System for Multilingual Subject Recommendation**|Baharul Islam et.al.|[2505.03711](http://arxiv.org/abs/2505.03711)|null|
 |**2025-05-06**|**STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation**|Maolin Wang et.al.|[2505.03484](http://arxiv.org/abs/2505.03484)|null|
 |**2025-05-06**|**Tell Me the Good Stuff: User Preferences in Movie Recommendation Explanations**|Juan Ahmad et.al.|[2505.03376](http://arxiv.org/abs/2505.03376)|null|
