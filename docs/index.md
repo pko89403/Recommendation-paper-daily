@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.07
+## Updated on 2025.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -17,9 +17,9 @@ layout: default
 |**2025-05-06**|**NBF at SemEval-2025 Task 5: Light-Burst Attention Enhanced System for Multilingual Subject Recommendation**|Baharul Islam et.al.|[2505.03711](http://arxiv.org/abs/2505.03711)|null|
 |**2025-05-06**|**STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation**|Maolin Wang et.al.|[2505.03484](http://arxiv.org/abs/2505.03484)|null|
 |**2025-05-06**|**Tell Me the Good Stuff: User Preferences in Movie Recommendation Explanations**|Juan Ahmad et.al.|[2505.03376](http://arxiv.org/abs/2505.03376)|null|
-|**2025-05-06**|**Avoid Recommending Out-of-Domain Items: Constrained Generative Recommendation with LLMs**|Hao Liao et.al.|[2505.03336](http://arxiv.org/abs/2505.03336)|null|
+|**2025-05-06**|**Avoid Recommending Out-of-Domain Items: Constrained Generative Recommendation with LLMs**|Hao Liao et.al.|[2505.03336](http://arxiv.org/abs/2505.03336)|**[link](https://github.com/microsoft/recai)**|
 |**2025-05-05**|**Colombian Waitresses y Jueces canadienses: Gender and Country Biases in Occupation Recommendations from LLMs**|Elisa Forcada Rodríguez et.al.|[2505.02456](http://arxiv.org/abs/2505.02456)|null|
-|**2025-05-03**|**SimAug: Enhancing Recommendation with Pretrained Language Models for Dense and Balanced Data Augmentation**|Yuying Zhao et.al.|[2505.01695](http://arxiv.org/abs/2505.01695)|null|
+|**2025-05-03**|**SimAug: Enhancing Recommendation with Pretrained Language Models for Dense and Balanced Data Augmentation**|Yuying Zhao et.al.|[2505.01695](http://arxiv.org/abs/2505.01695)|**[link](https://github.com/yuyingzhao/simaug)**|
 |**2025-05-03**|**RAGAR: Retrieval Augment Personalized Image Generation Guided by Recommendation**|Run Ling et.al.|[2505.01657](http://arxiv.org/abs/2505.01657)|null|
 |**2025-04-29**|**LLM-Enabled EV Charging Stations Recommendation**|Zeinab Teimoori et.al.|[2505.01447](http://arxiv.org/abs/2505.01447)|null|
 |**2025-05-02**|**PREMISE: Matching-based Prediction for Accurate Review Recommendation**|Wei Han et.al.|[2505.01255](http://arxiv.org/abs/2505.01255)|null|
@@ -37,9 +37,9 @@ layout: default
 |**2025-04-25**|**An Integrated Framework for Contextual Personalized LLM-Based Food Recommendation**|Ali Rostami et.al.|[2504.20092](http://arxiv.org/abs/2504.20092)|null|
 |**2025-04-29**|**LLM-Generated Fake News Induces Truth Decay in News Ecosystem: A Case Study on Neural News Recommendation**|Beizhe Hu et.al.|[2504.20013](http://arxiv.org/abs/2504.20013)|null|
 |**2025-04-28**|**Optimal Sequential Recommendations: Exploiting User and Item Structure**|Mina Karzand et.al.|[2504.19476](http://arxiv.org/abs/2504.19476)|null|
-|**2025-04-29**|**AlphaFuse: Learn ID Embeddings for Sequential Recommendation in Null Space of Language Embeddings**|Guoqing Hu et.al.|[2504.19218](http://arxiv.org/abs/2504.19218)|null|
+|**2025-04-29**|**AlphaFuse: Learn ID Embeddings for Sequential Recommendation in Null Space of Language Embeddings**|Guoqing Hu et.al.|[2504.19218](http://arxiv.org/abs/2504.19218)|**[link](https://github.com/hugo-chinn/alphafuse)**|
 |**2025-04-27**|**Dynamic Embedded Topic Models: properties and recommendations based on diverse corpora**|Elisabeth Fittschen et.al.|[2504.19209](http://arxiv.org/abs/2504.19209)|null|
-|**2025-04-27**|**Relative Contrastive Learning for Sequential Recommendation with Similarity-based Positive Pair Selection**|Zhikai Wang et.al.|[2504.19178](http://arxiv.org/abs/2504.19178)|null|
+|**2025-04-27**|**Relative Contrastive Learning for Sequential Recommendation with Similarity-based Positive Pair Selection**|Zhikai Wang et.al.|[2504.19178](http://arxiv.org/abs/2504.19178)|**[link](https://github.com/cloudcatcher888/rcl)**|
 |**2025-04-26**|**AI Recommendations and Non-instrumental Image Concerns**|David Almog et.al.|[2504.19047](http://arxiv.org/abs/2504.19047)|null|
 |**2025-04-26**|**Generative Product Recommendations for Implicit Superlative Queries**|Kaustubh D. Dhole et.al.|[2504.18748](http://arxiv.org/abs/2504.18748)|null|
 |**2025-04-25**|**Bridge the Domains: Large Language Models Enhanced Cross-domain Sequential Recommendation**|Qidong Liu et.al.|[2504.18383](http://arxiv.org/abs/2504.18383)|null|
@@ -47,10 +47,10 @@ layout: default
 |**2025-04-30**|**FIM: Frequency-Aware Multi-View Interest Modeling for Local-Life Service Recommendation**|Guoquan Wang et.al.|[2504.17814](http://arxiv.org/abs/2504.17814)|null|
 |**2025-04-24**|**Beyond Whole Dialogue Modeling: Contextual Disentanglement for Conversational Recommendation**|Guojia An et.al.|[2504.17427](http://arxiv.org/abs/2504.17427)|null|
 |**2025-04-23**|**Algorithmic Mirror: Designing an Interactive Tool to Promote Self-Reflection for YouTube Recommendations**|Yui Kondo et.al.|[2504.16615](http://arxiv.org/abs/2504.16615)|null|
-|**2025-04-23**|**MMHCL: Multi-Modal Hypergraph Contrastive Learning for Recommendation**|Xu Guo et.al.|[2504.16576](http://arxiv.org/abs/2504.16576)|null|
+|**2025-04-23**|**MMHCL: Multi-Modal Hypergraph Contrastive Learning for Recommendation**|Xu Guo et.al.|[2504.16576](http://arxiv.org/abs/2504.16576)|**[link](https://github.com/xu107/mmhcl)**|
 |**2025-04-23**|**Modality Reliability Guided Multimodal Recommendation**|Xue Dong et.al.|[2504.16524](http://arxiv.org/abs/2504.16524)|null|
 |**2025-04-23**|**Killing Two Birds with One Stone: Unifying Retrieval and Ranking with a Single Generative Recommendation Model**|Luankang Zhang et.al.|[2504.16454](http://arxiv.org/abs/2504.16454)|null|
-|**2025-04-23**|**Disentangling and Generating Modalities for Recommendation in Missing Modality Scenarios**|Jiwan Kim et.al.|[2504.16352](http://arxiv.org/abs/2504.16352)|null|
+|**2025-04-23**|**Disentangling and Generating Modalities for Recommendation in Missing Modality Scenarios**|Jiwan Kim et.al.|[2504.16352](http://arxiv.org/abs/2504.16352)|**[link](https://github.com/ptkjw1997/dgmrec)**|
 |**2025-04-23**|**Mining Software Repositories for Expert Recommendation**|Chad Marshall et.al.|[2504.16343](http://arxiv.org/abs/2504.16343)|null|
 |**2025-04-22**|**Intent-aware Diffusion with Contrastive Learning for Sequential Recommendation**|Yuanpeng Qu et.al.|[2504.16077](http://arxiv.org/abs/2504.16077)|null|
 |**2025-04-21**|**Federated Latent Factor Model for Bias-Aware Recommendation with Privacy-Preserving**|Junxiang Gao et.al.|[2504.15090](http://arxiv.org/abs/2504.15090)|null|
