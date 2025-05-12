@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**Modeling Multi-Hop Semantic Paths for Recommendation in Heterogeneous Information Networks**|Hongye Zheng et.al.|[2505.05989](http://arxiv.org/abs/2505.05989)|null|
 |**2025-05-08**|**Divide-and-Conquer: Cold-Start Bundle Recommendation via Mixture of Diffusion Experts**|Ming Li et.al.|[2505.05035](http://arxiv.org/abs/2505.05035)|null|
 |**2025-05-08**|**The Pitfalls of Growing Group Complexity: LLMs and Social Choice-Based Aggregation for Group Recommendations**|Cedric Waterschoot et.al.|[2505.05016](http://arxiv.org/abs/2505.05016)|null|
 |**2025-05-08**|**Learning Item Representations Directly from Multimodal Features for Effective Recommendation**|Xin Zhou et.al.|[2505.04960](http://arxiv.org/abs/2505.04960)|null|
