@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**TrialMatchAI: An End-to-End AI-powered Clinical Trial Recommendation System to Streamline Patient-to-Trial Matching**|Majd Abdallah et.al.|[2505.08508](http://arxiv.org/abs/2505.08508)|null|
+|**2025-05-13**|**Interest Changes: Considering User Interest Life Cycle in Recommendation System**|Yinjiang Cai et.al.|[2505.08471](http://arxiv.org/abs/2505.08471)|null|
+|**2025-05-13**|**TikTok Search Recommendations: Governance and Research Challenges**|Taylor Annabell et.al.|[2505.08385](http://arxiv.org/abs/2505.08385)|null|
+|**2025-05-13**|**Hyperbolic Contrastive Learning with Model-augmentation for Knowledge-aware Recommendation**|Shengyin Sun et.al.|[2505.08157](http://arxiv.org/abs/2505.08157)|null|
 |**2025-05-12**|**QC-Adviser: Quantum Hardware Recommendations for Solving Industrial Optimization Problems**|Djamel Laps-Bouraba et.al.|[2505.07625](http://arxiv.org/abs/2505.07625)|null|
 |**2025-05-12**|**Diffusion-driven SpatioTemporal Graph KANsformer for Medical Examination Recommendation**|Jianan Li et.al.|[2505.07431](http://arxiv.org/abs/2505.07431)|null|
 |**2025-05-11**|**Optimizing Recommendations using Fine-Tuned LLMs**|Prabhdeep Cheema et.al.|[2505.06841](http://arxiv.org/abs/2505.06841)|null|
