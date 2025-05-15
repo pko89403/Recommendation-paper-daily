@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**Distance-aware Self-adaptive Graph Convolution for Fine-grained Hierarchical Recommendation**|Tao Huang et.al.|[2505.09590](http://arxiv.org/abs/2505.09590)|null|
+|**2025-05-14**|**HMamba: Hyperbolic Mamba for Sequential Recommendation**|Qianru Zhang et.al.|[2505.09205](http://arxiv.org/abs/2505.09205)|null|
+|**2025-05-14**|**Item Level Exploration Traffic Allocation in Large-scale Recommendation Systems**|Dong Wang et.al.|[2505.09033](http://arxiv.org/abs/2505.09033)|null|
 |**2025-05-13**|**TrialMatchAI: An End-to-End AI-powered Clinical Trial Recommendation System to Streamline Patient-to-Trial Matching**|Majd Abdallah et.al.|[2505.08508](http://arxiv.org/abs/2505.08508)|null|
 |**2025-05-13**|**Interest Changes: Considering User Interest Life Cycle in Recommendation System**|Yinjiang Cai et.al.|[2505.08471](http://arxiv.org/abs/2505.08471)|null|
 |**2025-05-13**|**TikTok Search Recommendations: Governance and Research Challenges**|Taylor Annabell et.al.|[2505.08385](http://arxiv.org/abs/2505.08385)|null|
