@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.15
+## Updated on 2025.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,25 +17,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-14**|**Distance-aware Self-adaptive Graph Convolution for Fine-grained Hierarchical Recommendation**|Tao Huang et.al.|[2505.09590](http://arxiv.org/abs/2505.09590)|null|
+|**2025-05-14**|**Distance-aware Self-adaptive Graph Convolution for Fine-grained Hierarchical Recommendation**|Tao Huang et.al.|[2505.09590](http://arxiv.org/abs/2505.09590)|**[link](https://github.com/coffeetau/sagcn)**|
 |**2025-05-14**|**HMamba: Hyperbolic Mamba for Sequential Recommendation**|Qianru Zhang et.al.|[2505.09205](http://arxiv.org/abs/2505.09205)|null|
 |**2025-05-14**|**Item Level Exploration Traffic Allocation in Large-scale Recommendation Systems**|Dong Wang et.al.|[2505.09033](http://arxiv.org/abs/2505.09033)|null|
 |**2025-05-13**|**TrialMatchAI: An End-to-End AI-powered Clinical Trial Recommendation System to Streamline Patient-to-Trial Matching**|Majd Abdallah et.al.|[2505.08508](http://arxiv.org/abs/2505.08508)|null|
 |**2025-05-13**|**Interest Changes: Considering User Interest Life Cycle in Recommendation System**|Yinjiang Cai et.al.|[2505.08471](http://arxiv.org/abs/2505.08471)|null|
 |**2025-05-13**|**TikTok Search Recommendations: Governance and Research Challenges**|Taylor Annabell et.al.|[2505.08385](http://arxiv.org/abs/2505.08385)|null|
-|**2025-05-13**|**Hyperbolic Contrastive Learning with Model-augmentation for Knowledge-aware Recommendation**|Shengyin Sun et.al.|[2505.08157](http://arxiv.org/abs/2505.08157)|null|
+|**2025-05-13**|**Hyperbolic Contrastive Learning with Model-augmentation for Knowledge-aware Recommendation**|Shengyin Sun et.al.|[2505.08157](http://arxiv.org/abs/2505.08157)|**[link](https://github.com/sunshy-1/HCMKR)**|
 |**2025-05-12**|**QC-Adviser: Quantum Hardware Recommendations for Solving Industrial Optimization Problems**|Djamel Laps-Bouraba et.al.|[2505.07625](http://arxiv.org/abs/2505.07625)|null|
 |**2025-05-12**|**Diffusion-driven SpatioTemporal Graph KANsformer for Medical Examination Recommendation**|Jianan Li et.al.|[2505.07431](http://arxiv.org/abs/2505.07431)|null|
 |**2025-05-11**|**Optimizing Recommendations using Fine-Tuned LLMs**|Prabhdeep Cheema et.al.|[2505.06841](http://arxiv.org/abs/2505.06841)|null|
 |**2025-05-10**|**Integrating Explainable AI in Medical Devices: Technical, Clinical and Regulatory Insights and Recommendations**|Dima Alattal et.al.|[2505.06620](http://arxiv.org/abs/2505.06620)|null|
 |**2025-05-10**|**Burger: Robust Graph Denoising-augmentation Fusion and Multi-semantic Modeling in Social Recommendation**|Yuqin Lan et.al.|[2505.06612](http://arxiv.org/abs/2505.06612)|null|
-|**2025-05-09**|**Tweedie Regression for Video Recommendation System**|Yan Zheng et.al.|[2505.06445](http://arxiv.org/abs/2505.06445)|null|
+|**2025-05-09**|**Tweedie Regression for Video Recommendation System**|Yan Zheng et.al.|[2505.06445](http://arxiv.org/abs/2505.06445)|**[link](https://github.com/fucusy/Tweedie-Regression-for-Video-Recommendation-System)**|
 |**2025-05-09**|**Modeling Multi-Hop Semantic Paths for Recommendation in Heterogeneous Information Networks**|Hongye Zheng et.al.|[2505.05989](http://arxiv.org/abs/2505.05989)|null|
 |**2025-05-08**|**Divide-and-Conquer: Cold-Start Bundle Recommendation via Mixture of Diffusion Experts**|Ming Li et.al.|[2505.05035](http://arxiv.org/abs/2505.05035)|null|
 |**2025-05-08**|**The Pitfalls of Growing Group Complexity: LLMs and Social Choice-Based Aggregation for Group Recommendations**|Cedric Waterschoot et.al.|[2505.05016](http://arxiv.org/abs/2505.05016)|null|
 |**2025-05-08**|**Learning Item Representations Directly from Multimodal Features for Effective Recommendation**|Xin Zhou et.al.|[2505.04960](http://arxiv.org/abs/2505.04960)|null|
 |**2025-05-08**|**Prompt-Based LLMs for Position Bias-Aware Reranking in Personalized Recommendations**|Md Aminul Islam et.al.|[2505.04948](http://arxiv.org/abs/2505.04948)|**[link](https://github.com/aminul7506/llmforreranking)**|
-|**2025-05-06**|**Multimodal Benchmarking and Recommendation of Text-to-Image Generation Models**|Kapil Wanaskar et.al.|[2505.04650](http://arxiv.org/abs/2505.04650)|null|
+|**2025-05-06**|**Multimodal Benchmarking and Recommendation of Text-to-Image Generation Models**|Kapil Wanaskar et.al.|[2505.04650](http://arxiv.org/abs/2505.04650)|**[link](https://github.com/kapilw25/Evaluation_generated_images)**|
 |**2025-05-07**|**User and Recommender Behavior Over Time: Contextualizing Activity, Effectiveness, Diversity, and Fairness in Book Recommendation**|Samira Vaez Barenji et.al.|[2505.04518](http://arxiv.org/abs/2505.04518)|null|
 |**2025-05-07**|**M2Rec: Multi-scale Mamba for Efficient Sequential Recommendation**|Qianru Zhang et.al.|[2505.04445](http://arxiv.org/abs/2505.04445)|null|
 |**2025-05-07**|**With Friends Like These, Who Needs Explanations? Evaluating User Understanding of Group Recommendations**|Cedric Waterschoot et.al.|[2505.04273](http://arxiv.org/abs/2505.04273)|null|
@@ -1218,7 +1218,7 @@
 |**2024-03-07**|**Disaggregated Multi-Tower: Topology-aware Modeling Technique for Efficient Large-Scale Recommendation**|Liang Luo et.al.|[2403.00877](http://arxiv.org/abs/2403.00877)|null|
 |**2024-03-01**|**A Survey of Route Recommendations: Methods, Applications, and Opportunities**|Shiming Zhang et.al.|[2403.00284](http://arxiv.org/abs/2403.00284)|null|
 
-<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
