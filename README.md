@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**KERL: Knowledge-Enhanced Personalized Recipe Recommendation using Large Language Models**|Fnu Mohbat et.al.|[2505.14629](http://arxiv.org/abs/2505.14629)|**[link](https://github.com/mohbattharani/kerl)**|
+|**2025-05-20**|**Taming Recommendation Bias with Causal Intervention on Evolving Personal Popularity**|Shiyin Tan et.al.|[2505.14310](http://arxiv.org/abs/2505.14310)|**[link](https://github.com/shiyintan/causalepp)**|
+|**2025-05-20**|**DIFF: Dual Side-Information Filtering and Fusion for Sequential Recommendation**|Hye-young Kim et.al.|[2505.13974](http://arxiv.org/abs/2505.13974)|null|
+|**2025-05-19**|**JIR-Arena: The First Benchmark Dataset for Just-in-time Information Recommendation**|Ke Yang et.al.|[2505.13550](http://arxiv.org/abs/2505.13550)|null|
+|**2025-05-18**|**Geography-Aware Large Language Models for Next POI Recommendation**|Zhao Liu et.al.|[2505.13526](http://arxiv.org/abs/2505.13526)|null|
 |**2025-05-19**|**A new approach for solving the problem of creation of inverse electron distribution function and practical recommendations for experimental searches for such media in glow discharges with hollow and flat cathodes**|Chengxun Yuan et.al.|[2505.12986](http://arxiv.org/abs/2505.12986)|null|
 |**2025-05-19**|**GAP: Graph-Assisted Prompts for Dialogue-based Medication Recommendation**|Jialun Zhong et.al.|[2505.12888](http://arxiv.org/abs/2505.12888)|null|
 |**2025-05-19**|**MTGRBoost: Boosting Large-scale Generative Recommendation Models in Meituan**|Yuxiang Wang et.al.|[2505.12663](http://arxiv.org/abs/2505.12663)|null|
