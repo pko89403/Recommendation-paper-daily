@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,13 +20,13 @@
 |**2025-05-20**|**KERL: Knowledge-Enhanced Personalized Recipe Recommendation using Large Language Models**|Fnu Mohbat et.al.|[2505.14629](http://arxiv.org/abs/2505.14629)|**[link](https://github.com/mohbattharani/kerl)**|
 |**2025-05-20**|**Taming Recommendation Bias with Causal Intervention on Evolving Personal Popularity**|Shiyin Tan et.al.|[2505.14310](http://arxiv.org/abs/2505.14310)|**[link](https://github.com/shiyintan/causalepp)**|
 |**2025-05-20**|**DIFF: Dual Side-Information Filtering and Fusion for Sequential Recommendation**|Hye-young Kim et.al.|[2505.13974](http://arxiv.org/abs/2505.13974)|null|
-|**2025-05-19**|**JIR-Arena: The First Benchmark Dataset for Just-in-time Information Recommendation**|Ke Yang et.al.|[2505.13550](http://arxiv.org/abs/2505.13550)|null|
+|**2025-05-19**|**JIR-Arena: The First Benchmark Dataset for Just-in-time Information Recommendation**|Ke Yang et.al.|[2505.13550](http://arxiv.org/abs/2505.13550)|**[link](https://github.com/empathyang/jir-arena)**|
 |**2025-05-18**|**Geography-Aware Large Language Models for Next POI Recommendation**|Zhao Liu et.al.|[2505.13526](http://arxiv.org/abs/2505.13526)|null|
 |**2025-05-19**|**A new approach for solving the problem of creation of inverse electron distribution function and practical recommendations for experimental searches for such media in glow discharges with hollow and flat cathodes**|Chengxun Yuan et.al.|[2505.12986](http://arxiv.org/abs/2505.12986)|null|
 |**2025-05-19**|**GAP: Graph-Assisted Prompts for Dialogue-based Medication Recommendation**|Jialun Zhong et.al.|[2505.12888](http://arxiv.org/abs/2505.12888)|null|
 |**2025-05-19**|**MTGRBoost: Boosting Large-scale Generative Recommendation Models in Meituan**|Yuxiang Wang et.al.|[2505.12663](http://arxiv.org/abs/2505.12663)|null|
 |**2025-05-18**|**LLM-CoT Enhanced Graph Neural Recommendation with Harmonized Group Policy Optimization**|Hailong Luo et.al.|[2505.12396](http://arxiv.org/abs/2505.12396)|null|
-|**2025-05-18**|**Addressing Missing Data Issue for Diffusion-based Recommendation**|Wenyu Mao et.al.|[2505.12283](http://arxiv.org/abs/2505.12283)|null|
+|**2025-05-18**|**Addressing Missing Data Issue for Diffusion-based Recommendation**|Wenyu Mao et.al.|[2505.12283](http://arxiv.org/abs/2505.12283)|**[link](https://github.com/maowenyu-11/TDM)**|
 |**2025-05-18**|**A Survey on Side Information-driven Session-based Recommendation: From a Data-centric Perspective**|Xiaokun Zhang et.al.|[2505.12279](http://arxiv.org/abs/2505.12279)|null|
 |**2025-05-17**|**Conversational Recommendation System using NLP and Sentiment Analysis**|Piyush Talegaonkar et.al.|[2505.11933](http://arxiv.org/abs/2505.11933)|null|
 |**2025-05-15**|**GSPRec: Temporal-Aware Graph Spectral Filtering for Recommendation**|Ahmad Bin Rabiah et.al.|[2505.11552](http://arxiv.org/abs/2505.11552)|null|
@@ -1238,7 +1238,7 @@
 |**2024-03-07**|**Disaggregated Multi-Tower: Topology-aware Modeling Technique for Efficient Large-Scale Recommendation**|Liang Luo et.al.|[2403.00877](http://arxiv.org/abs/2403.00877)|null|
 |**2024-03-01**|**A Survey of Route Recommendations: Methods, Applications, and Opportunities**|Shiming Zhang et.al.|[2403.00284](http://arxiv.org/abs/2403.00284)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
