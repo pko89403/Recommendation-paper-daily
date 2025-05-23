@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.22
+## Updated on 2025.05.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-21**|**Privacy-Preserving Socialized Recommendation based on Multi-View Clustering in a Cloud Environment**|Cheng Guo et.al.|[2505.15156](http://arxiv.org/abs/2505.15156)|null|
-|**2025-05-21**|**ThinkRec: Thinking-based recommendation via LLM**|Qihang Yu et.al.|[2505.15091](http://arxiv.org/abs/2505.15091)|**[link](https://github.com/Yu-Qi-hang/ThinkRec)**|
+|**2025-05-22**|**ThinkRec: Thinking-based recommendation via LLM**|Qihang Yu et.al.|[2505.15091](http://arxiv.org/abs/2505.15091)|**[link](https://github.com/Yu-Qi-hang/ThinkRec)**|
 |**2025-05-20**|**Personalized Diffusion Model Reshapes Cold-Start Bundle Recommendation**|Tuan-Nghia Bui et.al.|[2505.14901](http://arxiv.org/abs/2505.14901)|**[link](https://github.com/bt-nghia/disco)**|
 |**2025-05-20**|**KERL: Knowledge-Enhanced Personalized Recipe Recommendation using Large Language Models**|Fnu Mohbat et.al.|[2505.14629](http://arxiv.org/abs/2505.14629)|**[link](https://github.com/mohbattharani/kerl)**|
 |**2025-05-20**|**Taming Recommendation Bias with Causal Intervention on Evolving Personal Popularity**|Shiyin Tan et.al.|[2505.14310](http://arxiv.org/abs/2505.14310)|**[link](https://github.com/shiyintan/causalepp)**|
