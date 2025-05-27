@@ -14,10 +14,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**SCIRGC: Multi-Granularity Citation Recommendation and Citation Sentence Preference Alignment**|Xiangyu Li et.al.|[2505.20103](http://arxiv.org/abs/2505.20103)|null|
+|**2025-05-26**|**Technical recommendation on multiplex MR elastography for tomographic mapping of abdominal stiffness with a focus on the pancreas and pancreatic ductal adenocarcinoma**|Jakob Schattenfroh et.al.|[2505.20093](http://arxiv.org/abs/2505.20093)|null|
+|**2025-05-26**|**Unlocking the Power of Diffusion Models in Sequential Recommendation: A Simple and Effective Approach**|Jialei Chen et.al.|[2505.19544](http://arxiv.org/abs/2505.19544)|null|
+|**2025-05-26**|**Improving Recommendation Fairness without Sensitive Attributes Using Multi-Persona LLMs**|Haoran Xin et.al.|[2505.19473](http://arxiv.org/abs/2505.19473)|null|
+|**2025-05-25**|**BroadGen: A Framework for Generating Effective and Efficient Advertiser Broad Match Keyphrase Recommendations**|Ashirbad Mishra et.al.|[2505.19164](http://arxiv.org/abs/2505.19164)|null|
+|**2025-05-25**|**Reinforced Latent Reasoning for LLM-based Recommendation**|Yang Zhang et.al.|[2505.19092](http://arxiv.org/abs/2505.19092)|null|
+|**2025-05-25**|**Semantic-enhanced Co-attention Prompt Learning for Non-overlapping Cross-Domain Recommendation**|Lei Guo et.al.|[2505.19085](http://arxiv.org/abs/2505.19085)|null|
+|**2025-05-25**|**HGCL: Hierarchical Graph Contrastive Learning for User-Item Recommendation**|Jiawei Xue et.al.|[2505.19020](http://arxiv.org/abs/2505.19020)|null|
+|**2025-05-24**|**MTGR: Industrial-Scale Generative Recommendation Framework in Meituan**|Ruidong Han et.al.|[2505.18654](http://arxiv.org/abs/2505.18654)|null|
+|**2025-05-15**|**FedGRec: Dynamic Spatio-Temporal Federated Graph Learning for Secure and Efficient Cross-Border Recommendations**|Zhizhong Tan et.al.|[2505.18177](http://arxiv.org/abs/2505.18177)|null|
 |**2025-05-23**|**Bidirectional Knowledge Distillation for Enhancing Sequential Recommendation with Large Language Models**|Jiongran Wu et.al.|[2505.18120](http://arxiv.org/abs/2505.18120)|null|
 |**2025-05-23**|**Benchmarking Recommendation, Classification, and Tracing Based on Hugging Face Knowledge Graph**|Qiaosheng Chen et.al.|[2505.17507](http://arxiv.org/abs/2505.17507)|null|
 |**2025-05-22**|**LARES: Latent Reasoning for Sequential Recommendation**|Enze Liu et.al.|[2505.16865](http://arxiv.org/abs/2505.16865)|null|
-|**2025-05-22**|**DeepRec: Towards a Deep Dive Into the Item Space with Large Language Model Based Recommendation**|Bowen Zheng et.al.|[2505.16810](http://arxiv.org/abs/2505.16810)|null|
+|**2025-05-26**|**DeepRec: Towards a Deep Dive Into the Item Space with Large Language Model Based Recommendation**|Bowen Zheng et.al.|[2505.16810](http://arxiv.org/abs/2505.16810)|null|
 |**2025-05-25**|**Action is All You Need: Dual-Flow Generative Ranking Network for Recommendation**|Hao Guo et.al.|[2505.16752](http://arxiv.org/abs/2505.16752)|null|
 |**2025-05-22**|**MDVT: Enhancing Multimodal Recommendation with Model-Agnostic Multimodal-Driven Virtual Triplets**|Jinfeng Xu et.al.|[2505.16665](http://arxiv.org/abs/2505.16665)|null|
 |**2025-05-22**|**Causal-Invariant Cross-Domain Out-of-Distribution Recommendation**|Jiajie Zhu et.al.|[2505.16532](http://arxiv.org/abs/2505.16532)|null|
