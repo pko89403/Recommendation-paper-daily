@@ -17,6 +17,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**Pre-training for Recommendation Unlearning**|Guoxuan Chen et.al.|[2505.22649](http://arxiv.org/abs/2505.22649)|null|
+|**2025-05-28**|**A Unified Online-Offline Framework for Co-Branding Campaign Recommendations**|Xiangxiang Dai et.al.|[2505.22254](http://arxiv.org/abs/2505.22254)|null|
+|**2025-05-28**|**Personalized Tree based progressive regression model for watch-time prediction in short video recommendation**|Xiaokai Chen et.al.|[2505.22153](http://arxiv.org/abs/2505.22153)|null|
+|**2025-05-28**|**ConsRec: Denoising Sequential Recommendation through User-Consistent Preference Modeling**|Haidong Xin et.al.|[2505.22130](http://arxiv.org/abs/2505.22130)|null|
+|**2025-05-27**|**Revisiting Self-attention for Cross-domain Sequential Recommendation**|Clark Mingxuan Ju et.al.|[2505.21811](http://arxiv.org/abs/2505.21811)|null|
 |**2025-05-27**|**Visual Product Graph: Bridging Visual Products And Composite Images For End-to-End Style Recommendations**|Yue Li Du et.al.|[2505.21454](http://arxiv.org/abs/2505.21454)|null|
 |**2025-05-27**|**Crop recommendation with machine learning: leveraging environmental and economic factors for optimal crop selection**|Steven Sam et.al.|[2505.21201](http://arxiv.org/abs/2505.21201)|null|
 |**2025-05-27**|**Counterfactual Multi-player Bandits for Explainable Recommendation Diversification**|Yansen Zhang et.al.|[2505.21165](http://arxiv.org/abs/2505.21165)|**[link](https://github.com/forrest-stone/cmb)**|
