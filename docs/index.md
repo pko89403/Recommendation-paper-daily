@@ -14,6 +14,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**MMM4Rec: An Transfer-Efficient Framework for Multi-modal Sequential Recommendation**|Hao Fan et.al.|[2506.02916](http://arxiv.org/abs/2506.02916)|null|
+|**2025-06-03**|**Building a Recommendation System Using Amazon Product Co-Purchasing Network**|Minghao Liu et.al.|[2506.02482](http://arxiv.org/abs/2506.02482)|null|
+|**2025-06-02**|**TransAct V2: Lifelong User Action Sequence Modeling on Pinterest Recommendation**|Xue Xia et.al.|[2506.02267](http://arxiv.org/abs/2506.02267)|null|
+|**2025-06-02**|**Towards Human-like Preference Profiling in Sequential Recommendation**|Zhongyu Ouyang et.al.|[2506.02261](http://arxiv.org/abs/2506.02261)|null|
+|**2025-06-02**|**GLoSS: Generative Language Models with Semantic Search for Sequential Recommendation**|Krishna Acharya et.al.|[2506.01910](http://arxiv.org/abs/2506.01910)|**[link](https://github.com/krishnacharya/GLoSS)**|
+|**2025-06-03**|**SPOT-Trip: Dual-Preference Driven Out-of-Town Trip Recommendation**|Yinghui Liu et.al.|[2506.01705](http://arxiv.org/abs/2506.01705)|null|
+|**2025-06-02**|**GRAM: Generative Recommendation via Semantic-aware Multi-granular Late Fusion**|Sunkyung Lee et.al.|[2506.01673](http://arxiv.org/abs/2506.01673)|null|
+|**2025-06-02**|**Generative Next POI Recommendation with Semantic ID**|Dongsheng Wang et.al.|[2506.01375](http://arxiv.org/abs/2506.01375)|null|
+|**2025-06-01**|**Breaker: Removing Shortcut Cues with User Clustering for Single-slot Recommendation System**|Chao Wang et.al.|[2506.00828](http://arxiv.org/abs/2506.00828)|null|
+|**2025-05-30**|**Gated Multimodal Graph Learning for Personalized Recommendation**|Sibei Liu et.al.|[2506.00107](http://arxiv.org/abs/2506.00107)|null|
+|**2025-05-29**|**Whose Name Comes Up? Auditing LLM-Based Scholar Recommendations**|Daniele Barolo et.al.|[2506.00074](http://arxiv.org/abs/2506.00074)|null|
 |**2025-05-30**|**Heterogeneous Graph Masked Contrastive Learning for Robust Recommendation**|Lei Sang et.al.|[2505.24172](http://arxiv.org/abs/2505.24172)|null|
 |**2025-05-29**|**Engineering Serendipity through Recommendations of Items with Atypical Aspects**|Ramit Aditya et.al.|[2505.23580](http://arxiv.org/abs/2505.23580)|null|
 |**2025-05-29**|**Pre-training for Recommendation Unlearning**|Guoxuan Chen et.al.|[2505.22649](http://arxiv.org/abs/2505.22649)|null|
