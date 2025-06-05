@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.04
+## Updated on 2025.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,7 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-03**|**MMM4Rec: An Transfer-Efficient Framework for Multi-modal Sequential Recommendation**|Hao Fan et.al.|[2506.02916](http://arxiv.org/abs/2506.02916)|null|
+|**2025-06-04**|**MMM4Rec: A Transfer-Efficient Framework for Multi-modal Sequential Recommendation**|Hao Fan et.al.|[2506.02916](http://arxiv.org/abs/2506.02916)|null|
 |**2025-06-03**|**Building a Recommendation System Using Amazon Product Co-Purchasing Network**|Minghao Liu et.al.|[2506.02482](http://arxiv.org/abs/2506.02482)|null|
 |**2025-06-02**|**TransAct V2: Lifelong User Action Sequence Modeling on Pinterest Recommendation**|Xue Xia et.al.|[2506.02267](http://arxiv.org/abs/2506.02267)|null|
 |**2025-06-02**|**Towards Human-like Preference Profiling in Sequential Recommendation**|Zhongyu Ouyang et.al.|[2506.02261](http://arxiv.org/abs/2506.02261)|null|
@@ -40,7 +40,7 @@
 |**2025-05-27**|**Counterfactual Multi-player Bandits for Explainable Recommendation Diversification**|Yansen Zhang et.al.|[2505.21165](http://arxiv.org/abs/2505.21165)|**[link](https://github.com/forrest-stone/cmb)**|
 |**2025-05-27**|**Reinforcement Learning-based Sequential Route Recommendation for System-Optimal Traffic Assignment**|Leizhen Wang et.al.|[2505.20889](http://arxiv.org/abs/2505.20889)|null|
 |**2025-05-27**|**Cold-Start Recommendation with Knowledge-Guided Retrieval-Augmented Generation**|Wooseong Yang et.al.|[2505.20773](http://arxiv.org/abs/2505.20773)|null|
-|**2025-05-27**|**What LLMs Miss in Recommendations: Bridging the Gap with Retrieval-Augmented Collaborative Signals**|Shahrooz Pouryousef et.al.|[2505.20730](http://arxiv.org/abs/2505.20730)|null|
+|**2025-06-04**|**What LLMs Miss in Recommendations: Bridging the Gap with Retrieval-Augmented Collaborative Signals**|Shahrooz Pouryousef et.al.|[2505.20730](http://arxiv.org/abs/2505.20730)|null|
 |**2025-05-27**|**Photography Perspective Composition: Towards Aesthetic Perspective Recommendation**|Lujian Yao et.al.|[2505.20655](http://arxiv.org/abs/2505.20655)|null|
 |**2025-05-26**|**Measure Domain's Gap: A Similar Domain Selection Principle for Multi-Domain Recommendation**|Yi Wen et.al.|[2505.20227](http://arxiv.org/abs/2505.20227)|**[link](https://github.com/applied-machine-learning-lab/sdsp)**|
 |**2025-05-26**|**Fine-grained List-wise Alignment for Generative Medication Recommendation**|Chenxiao Fan et.al.|[2505.20218](http://arxiv.org/abs/2505.20218)|**[link](https://github.com/cxfann/flame)**|
@@ -56,7 +56,7 @@
 |**2025-05-15**|**FedGRec: Dynamic Spatio-Temporal Federated Graph Learning for Secure and Efficient Cross-Border Recommendations**|Zhizhong Tan et.al.|[2505.18177](http://arxiv.org/abs/2505.18177)|null|
 |**2025-05-23**|**Bidirectional Knowledge Distillation for Enhancing Sequential Recommendation with Large Language Models**|Jiongran Wu et.al.|[2505.18120](http://arxiv.org/abs/2505.18120)|null|
 |**2025-05-23**|**Benchmarking Recommendation, Classification, and Tracing Based on Hugging Face Knowledge Graph**|Qiaosheng Chen et.al.|[2505.17507](http://arxiv.org/abs/2505.17507)|**[link](https://github.com/nju-websoft/HuggingBench)**|
-|**2025-05-22**|**LARES: Latent Reasoning for Sequential Recommendation**|Enze Liu et.al.|[2505.16865](http://arxiv.org/abs/2505.16865)|null|
+|**2025-06-04**|**LARES: Latent Reasoning for Sequential Recommendation**|Enze Liu et.al.|[2505.16865](http://arxiv.org/abs/2505.16865)|null|
 |**2025-05-26**|**DeepRec: Towards a Deep Dive Into the Item Space with Large Language Model Based Recommendation**|Bowen Zheng et.al.|[2505.16810](http://arxiv.org/abs/2505.16810)|null|
 |**2025-05-25**|**Action is All You Need: Dual-Flow Generative Ranking Network for Recommendation**|Hao Guo et.al.|[2505.16752](http://arxiv.org/abs/2505.16752)|null|
 |**2025-05-22**|**MDVT: Enhancing Multimodal Recommendation with Model-Agnostic Multimodal-Driven Virtual Triplets**|Jinfeng Xu et.al.|[2505.16665](http://arxiv.org/abs/2505.16665)|null|
@@ -1286,7 +1286,7 @@
 |**2024-03-07**|**Disaggregated Multi-Tower: Topology-aware Modeling Technique for Efficient Large-Scale Recommendation**|Liang Luo et.al.|[2403.00877](http://arxiv.org/abs/2403.00877)|null|
 |**2024-03-01**|**A Survey of Route Recommendations: Methods, Applications, and Opportunities**|Shiming Zhang et.al.|[2403.00284](http://arxiv.org/abs/2403.00284)|null|
 
-<p align=right>(<a href=#updated-on-20250604>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
