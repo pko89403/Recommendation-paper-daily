@@ -17,6 +17,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**Scaling Transformers for Discriminative Recommendation via Generative Pretraining**|Chunqi Wang et.al.|[2506.03699](http://arxiv.org/abs/2506.03699)|null|
+|**2025-06-03**|**Impact of Rankings and Personalized Recommendations in Marketplaces**|Omar Besbes et.al.|[2506.03369](http://arxiv.org/abs/2506.03369)|null|
 |**2025-06-04**|**MMM4Rec: A Transfer-Efficient Framework for Multi-modal Sequential Recommendation**|Hao Fan et.al.|[2506.02916](http://arxiv.org/abs/2506.02916)|null|
 |**2025-06-03**|**Building a Recommendation System Using Amazon Product Co-Purchasing Network**|Minghao Liu et.al.|[2506.02482](http://arxiv.org/abs/2506.02482)|null|
 |**2025-06-02**|**TransAct V2: Lifelong User Action Sequence Modeling on Pinterest Recommendation**|Xue Xia et.al.|[2506.02267](http://arxiv.org/abs/2506.02267)|null|
