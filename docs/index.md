@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Reason-to-Recommend: Using Interaction-of-Thought Reasoning to Enhance LLM Recommendation**|Keyu Zhao et.al.|[2506.05069](http://arxiv.org/abs/2506.05069)|null|
+|**2025-06-05**|**Rethinking Contrastive Learning in Session-based Recommendation**|Xiaokun Zhang et.al.|[2506.05044](http://arxiv.org/abs/2506.05044)|null|
+|**2025-06-05**|**User Altruism in Recommendation Systems**|Ekaterina Fedorova et.al.|[2506.04525](http://arxiv.org/abs/2506.04525)|null|
 |**2025-06-04**|**Scaling Transformers for Discriminative Recommendation via Generative Pretraining**|Chunqi Wang et.al.|[2506.03699](http://arxiv.org/abs/2506.03699)|null|
 |**2025-06-03**|**Impact of Rankings and Personalized Recommendations in Marketplaces**|Omar Besbes et.al.|[2506.03369](http://arxiv.org/abs/2506.03369)|null|
 |**2025-06-04**|**MMM4Rec: A Transfer-Efficient Framework for Multi-modal Sequential Recommendation**|Hao Fan et.al.|[2506.02916](http://arxiv.org/abs/2506.02916)|null|
