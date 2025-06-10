@@ -14,12 +14,18 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**Trend-Aware Fashion Recommendation with Visual Segmentation and Semantic Similarity**|Mohamed Djilani et.al.|[2506.07773](http://arxiv.org/abs/2506.07773)|null|
+|**2025-06-09**|**Leveraging Historical and Current Interests for Continual Sequential Recommendation**|Gyuseok Lee et.al.|[2506.07466](http://arxiv.org/abs/2506.07466)|null|
+|**2025-06-07**|**SAFER: A Calibrated Risk-Aware Multimodal Recommendation Model for Dynamic Treatment Regimes**|Yishan Shen et.al.|[2506.06649](http://arxiv.org/abs/2506.06649)|null|
+|**2025-06-01**|**NR4DER: Neural Re-ranking for Diversified Exercise Recommendation**|Xinghe Cheng et.al.|[2506.06341](http://arxiv.org/abs/2506.06341)|null|
+|**2025-05-31**|**Research on E-Commerce Long-Tail Product Recommendation Mechanism Based on Large-Scale Language Models**|Qingyi Lu et.al.|[2506.06336](http://arxiv.org/abs/2506.06336)|null|
+|**2025-05-31**|**Preference-based learning for news headline recommendation**|Alexandre Bouras et.al.|[2506.06334](http://arxiv.org/abs/2506.06334)|null|
 |**2025-06-06**|**RecGPT: A Foundation Model for Sequential Recommendation**|Yangqin Jiang et.al.|[2506.06270](http://arxiv.org/abs/2506.06270)|null|
 |**2025-06-06**|**Optimizing Recall or Relevance? A Multi-Task Multi-Head Approach for Item-to-Item Retrieval in Recommendation**|Jiang Zhang et.al.|[2506.06239](http://arxiv.org/abs/2506.06239)|null|
 |**2025-06-06**|**Research on Personalized Financial Product Recommendation by Integrating Large Language Models and Graph Neural Networks**|Yushang Zhao et.al.|[2506.05873](http://arxiv.org/abs/2506.05873)|null|
 |**2025-06-06**|**Generating Long Semantic IDs in Parallel for Recommendation**|Yupeng Hou et.al.|[2506.05781](http://arxiv.org/abs/2506.05781)|null|
 |**2025-06-06**|**Malicious node aware wireless multi hop networks: a systematic review of the literature and recommendations for future research**|Shahram Pourdehghan et.al.|[2506.05742](http://arxiv.org/abs/2506.05742)|null|
-|**2025-06-05**|**Reason-to-Recommend: Using Interaction-of-Thought Reasoning to Enhance LLM Recommendation**|Keyu Zhao et.al.|[2506.05069](http://arxiv.org/abs/2506.05069)|null|
+|**2025-06-09**|**Reason-to-Recommend: Using Interaction-of-Thought Reasoning to Enhance LLM Recommendation**|Keyu Zhao et.al.|[2506.05069](http://arxiv.org/abs/2506.05069)|null|
 |**2025-06-05**|**Rethinking Contrastive Learning in Session-based Recommendation**|Xiaokun Zhang et.al.|[2506.05044](http://arxiv.org/abs/2506.05044)|null|
 |**2025-06-06**|**User Altruism in Recommendation Systems**|Ekaterina Fedorova et.al.|[2506.04525](http://arxiv.org/abs/2506.04525)|null|
 |**2025-06-04**|**Scaling Transformers for Discriminative Recommendation via Generative Pretraining**|Chunqi Wang et.al.|[2506.03699](http://arxiv.org/abs/2506.03699)|null|
