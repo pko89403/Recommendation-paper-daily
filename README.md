@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-10**|**TSRec: Enhancing Repeat-Aware Recommendation from a Temporal-Sequential Perspective**|Shigang Quan et.al.|[2506.08531](http://arxiv.org/abs/2506.08531)|null|
+|**2025-06-10**|**Single-Node Trigger Backdoor Attacks in Graph-Based Recommendation Systems**|Runze Li et.al.|[2506.08401](http://arxiv.org/abs/2506.08401)|null|
+|**2025-06-09**|**Serendipitous Recommendation with Multimodal LLM**|Haoting Wang et.al.|[2506.08283](http://arxiv.org/abs/2506.08283)|null|
+|**2025-06-09**|**No Stupid Questions: An Analysis of Question Query Generation for Citation Recommendation**|Brian D. Zimmerman et.al.|[2506.08196](http://arxiv.org/abs/2506.08196)|null|
 |**2025-06-09**|**Trend-Aware Fashion Recommendation with Visual Segmentation and Semantic Similarity**|Mohamed Djilani et.al.|[2506.07773](http://arxiv.org/abs/2506.07773)|null|
 |**2025-06-09**|**Leveraging Historical and Current Interests for Continual Sequential Recommendation**|Gyuseok Lee et.al.|[2506.07466](http://arxiv.org/abs/2506.07466)|null|
 |**2025-06-07**|**SAFER: A Calibrated Risk-Aware Multimodal Recommendation Model for Dynamic Treatment Regimes**|Yishan Shen et.al.|[2506.06649](http://arxiv.org/abs/2506.06649)|null|
