@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Beyond Personalization: Federated Recommendation with Calibration via Low-rank Decomposition**|Jundong Chen et.al.|[2506.09525](http://arxiv.org/abs/2506.09525)|null|
+|**2025-06-10**|**Revisiting Graph Projections for Effective Complementary Product Recommendation**|Leandro Anghinoni et.al.|[2506.09209](http://arxiv.org/abs/2506.09209)|null|
 |**2025-06-10**|**TSRec: Enhancing Repeat-Aware Recommendation from a Temporal-Sequential Perspective**|Shigang Quan et.al.|[2506.08531](http://arxiv.org/abs/2506.08531)|null|
 |**2025-06-10**|**Single-Node Trigger Backdoor Attacks in Graph-Based Recommendation Systems**|Runze Li et.al.|[2506.08401](http://arxiv.org/abs/2506.08401)|null|
 |**2025-06-09**|**Serendipitous Recommendation with Multimodal LLM**|Haoting Wang et.al.|[2506.08283](http://arxiv.org/abs/2506.08283)|null|
@@ -31,7 +33,7 @@ layout: default
 |**2025-06-06**|**Malicious node aware wireless multi hop networks: a systematic review of the literature and recommendations for future research**|Shahram Pourdehghan et.al.|[2506.05742](http://arxiv.org/abs/2506.05742)|null|
 |**2025-06-09**|**Reason-to-Recommend: Using Interaction-of-Thought Reasoning to Enhance LLM Recommendation**|Keyu Zhao et.al.|[2506.05069](http://arxiv.org/abs/2506.05069)|null|
 |**2025-06-05**|**Rethinking Contrastive Learning in Session-based Recommendation**|Xiaokun Zhang et.al.|[2506.05044](http://arxiv.org/abs/2506.05044)|null|
-|**2025-06-06**|**User Altruism in Recommendation Systems**|Ekaterina Fedorova et.al.|[2506.04525](http://arxiv.org/abs/2506.04525)|null|
+|**2025-06-06**|**User Altruism in Recommendation Systems**|Ekaterina Fedorova et.al.|[2506.04525](http://arxiv.org/abs/2506.04525)|**[link](https://github.com/mckitch24/recsys)**|
 |**2025-06-04**|**Scaling Transformers for Discriminative Recommendation via Generative Pretraining**|Chunqi Wang et.al.|[2506.03699](http://arxiv.org/abs/2506.03699)|null|
 |**2025-06-03**|**Impact of Rankings and Personalized Recommendations in Marketplaces**|Omar Besbes et.al.|[2506.03369](http://arxiv.org/abs/2506.03369)|null|
 |**2025-06-07**|**Transferable Sequential Recommendation with Vanilla Cross-Entropy Loss**|Hao Fan et.al.|[2506.02916](http://arxiv.org/abs/2506.02916)|null|
