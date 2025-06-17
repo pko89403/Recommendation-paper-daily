@@ -17,6 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**Beyond One-Size-Fits-All: A Study of Neural and Behavioural Variability Across Different Recommendation Categories**|Georgios Koutroumpas et.al.|[2506.13409](http://arxiv.org/abs/2506.13409)|null|
+|**2025-06-16**|**Gated Rotary-Enhanced Linear Attention for Long-term Sequential Recommendation**|Juntao Hu et.al.|[2506.13315](http://arxiv.org/abs/2506.13315)|null|
+|**2025-06-16**|**IGD: Token Decisiveness Modeling via Information Gain in LLMs for Personalized Recommendation**|Zijie Lin et.al.|[2506.13229](http://arxiv.org/abs/2506.13229)|null|
+|**2025-06-16**|**C-TLSAN: Content-Enhanced Time-Aware Long- and Short-Term Attention Network for Personalized Recommendation**|Siqi Liang et.al.|[2506.13021](http://arxiv.org/abs/2506.13021)|null|
+|**2025-06-15**|**Hierarchical Group-wise Ranking Framework for Recommendation Models**|YaChen Yan et.al.|[2506.12756](http://arxiv.org/abs/2506.12756)|null|
+|**2025-06-15**|**Device-Cloud Collaborative Correction for On-Device Recommendation**|Tianyu Zhan et.al.|[2506.12687](http://arxiv.org/abs/2506.12687)|null|
+|**2025-06-14**|**Regulating Next-Generation Implantable Brain-Computer Interfaces: Recommendations for Ethical Development and Implementation**|Renee Sirbu et.al.|[2506.12540](http://arxiv.org/abs/2506.12540)|null|
+|**2025-06-06**|**T-TExTS (Teaching Text Expansion for Teacher Scaffolding): Enhancing Text Selection in High School Literature through Knowledge Graph-Based Recommendation**|Nirmal Gelal et.al.|[2506.12075](http://arxiv.org/abs/2506.12075)|null|
 |**2025-06-16**|**Generative Representational Learning of Foundation Models for Recommendation**|Zheli Zhou et.al.|[2506.11999](http://arxiv.org/abs/2506.11999)|null|
 |**2025-06-13**|**Learn to Preserve Personality: Federated Foundation Models in Recommendations**|Zhiwei Li et.al.|[2506.11563](http://arxiv.org/abs/2506.11563)|null|
 |**2025-06-13**|**Deep Learning Model Acceleration and Optimization Strategies for Real-Time Recommendation Systems**|Junli Shao et.al.|[2506.11421](http://arxiv.org/abs/2506.11421)|null|
