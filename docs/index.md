@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**A Systematic Replicability and Comparative Study of BSARec and SASRec for Sequential Recommendation**|Chiara D'Ercoli et.al.|[2506.14692](http://arxiv.org/abs/2506.14692)|null|
+|**2025-06-17**|**Expectation Confirmation Preference Optimization for Multi-Turn Conversational Recommendation Agent**|Xueyang Feng et.al.|[2506.14302](http://arxiv.org/abs/2506.14302)|null|
+|**2025-06-09**|**Recommendations and Reporting Checklist for Rigorous & Transparent Human Baselines in Model Evaluations**|Kevin L. Wei et.al.|[2506.13776](http://arxiv.org/abs/2506.13776)|**[link](https://github.com/kevinlwei/human-baselines)**|
 |**2025-06-16**|**Beyond One-Size-Fits-All: A Study of Neural and Behavioural Variability Across Different Recommendation Categories**|Georgios Koutroumpas et.al.|[2506.13409](http://arxiv.org/abs/2506.13409)|null|
 |**2025-06-16**|**Gated Rotary-Enhanced Linear Attention for Long-term Sequential Recommendation**|Juntao Hu et.al.|[2506.13315](http://arxiv.org/abs/2506.13315)|null|
 |**2025-06-16**|**IGD: Token Decisiveness Modeling via Information Gain in LLMs for Personalized Recommendation**|Zijie Lin et.al.|[2506.13229](http://arxiv.org/abs/2506.13229)|null|
