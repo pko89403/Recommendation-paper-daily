@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.23
+## Updated on 2025.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -18,7 +18,7 @@ layout: default
 |**2025-06-20**|**Multi-Objective Recommendation in the Era of Generative AI: A Survey of Recent Progress and Future Prospects**|Zihan Hong et.al.|[2506.16893](http://arxiv.org/abs/2506.16893)|null|
 |**2025-06-20**|**A Simple Contrastive Framework Of Item Tokenization For Generative Recommendation**|Penglong Zhai et.al.|[2506.16683](http://arxiv.org/abs/2506.16683)|null|
 |**2025-06-19**|**GFlowGR: Fine-tuning Generative Recommendation Frameworks with Generative Flow Networks**|Yejing Wang et.al.|[2506.16114](http://arxiv.org/abs/2506.16114)|null|
-|**2025-06-18**|**DiscRec: Disentangled Semantic-Collaborative Modeling for Generative Recommendation**|Chang Liu et.al.|[2506.15576](http://arxiv.org/abs/2506.15576)|**[link](https://github.com/ten-mao/discrec)**|
+|**2025-06-22**|**DiscRec: Disentangled Semantic-Collaborative Modeling for Generative Recommendation**|Chang Liu et.al.|[2506.15576](http://arxiv.org/abs/2506.15576)|**[link](https://github.com/ten-mao/discrec)**|
 |**2025-06-18**|**Multi-Interest Recommendation: A Survey**|Zihao Li et.al.|[2506.15284](http://arxiv.org/abs/2506.15284)|**[link](https://github.com/whuir/multi-interest-recommendation-a-survey)**|
 |**2025-06-18**|**Next-User Retrieval: Enhancing Cold-Start Recommendations via Generative Next-User Modeling**|Yu-Ting Lan et.al.|[2506.15267](http://arxiv.org/abs/2506.15267)|null|
 |**2025-06-17**|**A Systematic Replicability and Comparative Study of BSARec and SASRec for Sequential Recommendation**|Chiara D'Ercoli et.al.|[2506.14692](http://arxiv.org/abs/2506.14692)|null|
