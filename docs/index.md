@@ -14,6 +14,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**Bias vs Bias -- Dawn of Justice: A Fair Fight in Recommendation Systems**|Tahsin Alamgir Kheya et.al.|[2506.18327](http://arxiv.org/abs/2506.18327)|null|
+|**2025-06-23**|**LettinGo: Explore User Profile Generation for Recommendation System**|Lu Wang et.al.|[2506.18309](http://arxiv.org/abs/2506.18309)|null|
+|**2025-06-22**|**HE-LRM: Encrypted Deep Learning Recommendation Models using Fully Homomorphic Encryption**|Karthik Garimella et.al.|[2506.18150](http://arxiv.org/abs/2506.18150)|null|
+|**2025-06-22**|**LLM-Enhanced Multimodal Fusion for Cross-Domain Sequential Recommendation**|Wangyu Wu et.al.|[2506.17966](http://arxiv.org/abs/2506.17966)|null|
+|**2025-06-21**|**CARTS: Collaborative Agents for Recommendation Textual Summarization**|Jiao Chen et.al.|[2506.17765](http://arxiv.org/abs/2506.17765)|null|
+|**2025-06-21**|**Research on the recommendation framework of foreign enterprises from the perspective of multidimensional proximity**|Guoqiang Liang et.al.|[2506.17657](http://arxiv.org/abs/2506.17657)|null|
+|**2025-06-21**|**Research on Model Parallelism and Data Parallelism Optimization Methods in Large Language Model-Based Recommendation Systems**|Haowei Yang et.al.|[2506.17551](http://arxiv.org/abs/2506.17551)|null|
+|**2025-06-20**|**AI based Content Creation and Product Recommendation Applications in E-commerce: An Ethical overview**|Aditi Madhusudan Jain et.al.|[2506.17370](http://arxiv.org/abs/2506.17370)|null|
+|**2025-06-15**|**Recommendation systems in e-commerce applications with machine learning methods**|Aneta Poniszewska-Maranda et.al.|[2506.17287](http://arxiv.org/abs/2506.17287)|null|
+|**2025-06-14**|**A Framework for Generating Conversational Recommendation Datasets from Behavioral Interactions**|Vinaik Chhetri et.al.|[2506.17285](http://arxiv.org/abs/2506.17285)|null|
+|**2025-06-14**|**CORONA: A Coarse-to-Fine Framework for Graph-based Recommendation with Large Language Models**|Junze Chen et.al.|[2506.17281](http://arxiv.org/abs/2506.17281)|null|
 |**2025-06-20**|**Pyramid Mixer: Multi-dimensional Multi-period Interest Modeling for Sequential Recommendation**|Zhen Gong et.al.|[2506.16942](http://arxiv.org/abs/2506.16942)|null|
 |**2025-06-20**|**Multi-Objective Recommendation in the Era of Generative AI: A Survey of Recent Progress and Future Prospects**|Zihan Hong et.al.|[2506.16893](http://arxiv.org/abs/2506.16893)|null|
 |**2025-06-20**|**A Simple Contrastive Framework Of Item Tokenization For Generative Recommendation**|Penglong Zhai et.al.|[2506.16683](http://arxiv.org/abs/2506.16683)|null|
