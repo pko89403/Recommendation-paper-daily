@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Producer-Fairness in Sequential Bundle Recommendation**|Alexandre Rio et.al.|[2506.20329](http://arxiv.org/abs/2506.20329)|null|
+|**2025-06-24**|**DiaLLMs: EHR Enhanced Clinical Conversational System for Clinical Test Recommendation and Diagnosis Prediction**|Weijieying Ren et.al.|[2506.20059](http://arxiv.org/abs/2506.20059)|null|
 |**2025-06-24**|**Alleviating User-Sensitive bias with Fair Generative Sequential Recommendation Model**|Yang Liu et.al.|[2506.19777](http://arxiv.org/abs/2506.19777)|null|
 |**2025-06-23**|**Bias vs Bias -- Dawn of Justice: A Fair Fight in Recommendation Systems**|Tahsin Alamgir Kheya et.al.|[2506.18327](http://arxiv.org/abs/2506.18327)|null|
 |**2025-06-23**|**LettinGo: Explore User Profile Generation for Recommendation System**|Lu Wang et.al.|[2506.18309](http://arxiv.org/abs/2506.18309)|null|
