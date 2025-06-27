@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Real-time and personalized product recommendations for large e-commerce platforms**|Matteo Tolloso et.al.|[2506.21368](http://arxiv.org/abs/2506.21368)|null|
+|**2025-06-26**|**RecCoT: Enhancing Recommendation via Chain-of-Thought**|Shuo Yang et.al.|[2506.21032](http://arxiv.org/abs/2506.21032)|null|
+|**2025-06-25**|**RAG-VisualRec: An Open Resource for Vision- and Text-Enhanced Retrieval-Augmented Generation in Recommendation**|Ali Tourani et.al.|[2506.20817](http://arxiv.org/abs/2506.20817)|null|
+|**2025-06-25**|**Dynamic Context-Aware Prompt Recommendation for Domain-Specific AI Applications**|Xinye Tang et.al.|[2506.20815](http://arxiv.org/abs/2506.20815)|null|
 |**2025-06-25**|**Producer-Fairness in Sequential Bundle Recommendation**|Alexandre Rio et.al.|[2506.20329](http://arxiv.org/abs/2506.20329)|null|
 |**2025-06-24**|**DiaLLMs: EHR Enhanced Clinical Conversational System for Clinical Test Recommendation and Diagnosis Prediction**|Weijieying Ren et.al.|[2506.20059](http://arxiv.org/abs/2506.20059)|null|
 |**2025-06-24**|**Alleviating User-Sensitive bias with Fair Generative Sequential Recommendation Model**|Yang Liu et.al.|[2506.19777](http://arxiv.org/abs/2506.19777)|null|
