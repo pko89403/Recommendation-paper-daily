@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**Education-Oriented Graph Retrieval-Augmented Generation for Learning Path Recommendation**|Xinghe Cheng et.al.|[2506.22303](http://arxiv.org/abs/2506.22303)|null|
+|**2025-06-27**|**ARAG: Agentic Retrieval Augmented Generation for Personalized Recommendation**|Reza Yousefi Maragheh et.al.|[2506.21931](http://arxiv.org/abs/2506.21931)|null|
+|**2025-06-24**|**DCN^2: Interplay of Implicit Collision Weights and Explicit Cross Layers for Large-Scale Recommendation**|Blaž Škrlj et.al.|[2506.21624](http://arxiv.org/abs/2506.21624)|null|
+|**2025-06-19**|**Reinforcement Fine-Tuned Large Language Models for Next POI Recommendation**|Peibo Li et.al.|[2506.21599](http://arxiv.org/abs/2506.21599)|null|
+|**2025-06-16**|**LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation**|Yingzhi He et.al.|[2506.21579](http://arxiv.org/abs/2506.21579)|null|
 |**2025-06-26**|**Real-time and personalized product recommendations for large e-commerce platforms**|Matteo Tolloso et.al.|[2506.21368](http://arxiv.org/abs/2506.21368)|null|
 |**2025-06-26**|**RecCoT: Enhancing Recommendation via Chain-of-Thought**|Shuo Yang et.al.|[2506.21032](http://arxiv.org/abs/2506.21032)|null|
 |**2025-06-25**|**RAG-VisualRec: An Open Resource for Vision- and Text-Enhanced Retrieval-Augmented Generation in Recommendation**|Ali Tourani et.al.|[2506.20817](http://arxiv.org/abs/2506.20817)|null|
