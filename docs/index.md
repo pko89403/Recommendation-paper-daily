@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.01
+## Updated on 2025.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -33,7 +33,7 @@ layout: default
 |**2025-06-23**|**LettinGo: Explore User Profile Generation for Recommendation System**|Lu Wang et.al.|[2506.18309](http://arxiv.org/abs/2506.18309)|null|
 |**2025-06-22**|**HE-LRM: Encrypted Deep Learning Recommendation Models using Fully Homomorphic Encryption**|Karthik Garimella et.al.|[2506.18150](http://arxiv.org/abs/2506.18150)|null|
 |**2025-06-22**|**LLM-Enhanced Multimodal Fusion for Cross-Domain Sequential Recommendation**|Wangyu Wu et.al.|[2506.17966](http://arxiv.org/abs/2506.17966)|null|
-|**2025-06-21**|**CARTS: Collaborative Agents for Recommendation Textual Summarization**|Jiao Chen et.al.|[2506.17765](http://arxiv.org/abs/2506.17765)|null|
+|**2025-07-01**|**CARTS: Collaborative Agents for Recommendation Textual Summarization**|Jiao Chen et.al.|[2506.17765](http://arxiv.org/abs/2506.17765)|null|
 |**2025-06-21**|**Research on the recommendation framework of foreign enterprises from the perspective of multidimensional proximity**|Guoqiang Liang et.al.|[2506.17657](http://arxiv.org/abs/2506.17657)|null|
 |**2025-06-24**|**Research on Model Parallelism and Data Parallelism Optimization Methods in Large Language Model-Based Recommendation Systems**|Haowei Yang et.al.|[2506.17551](http://arxiv.org/abs/2506.17551)|null|
 |**2025-06-20**|**AI based Content Creation and Product Recommendation Applications in E-commerce: An Ethical overview**|Aditi Madhusudan Jain et.al.|[2506.17370](http://arxiv.org/abs/2506.17370)|null|
@@ -58,7 +58,7 @@ layout: default
 |**2025-06-15**|**Device-Cloud Collaborative Correction for On-Device Recommendation**|Tianyu Zhan et.al.|[2506.12687](http://arxiv.org/abs/2506.12687)|null|
 |**2025-06-14**|**Regulating Next-Generation Implantable Brain-Computer Interfaces: Recommendations for Ethical Development and Implementation**|Renee Sirbu et.al.|[2506.12540](http://arxiv.org/abs/2506.12540)|null|
 |**2025-06-06**|**T-TExTS (Teaching Text Expansion for Teacher Scaffolding): Enhancing Text Selection in High School Literature through Knowledge Graph-Based Recommendation**|Nirmal Gelal et.al.|[2506.12075](http://arxiv.org/abs/2506.12075)|null|
-|**2025-06-16**|**Generative Representational Learning of Foundation Models for Recommendation**|Zheli Zhou et.al.|[2506.11999](http://arxiv.org/abs/2506.11999)|null|
+|**2025-07-01**|**Generative Representational Learning of Foundation Models for Recommendation**|Zheli Zhou et.al.|[2506.11999](http://arxiv.org/abs/2506.11999)|null|
 |**2025-06-13**|**Learn to Preserve Personality: Federated Foundation Models in Recommendations**|Zhiwei Li et.al.|[2506.11563](http://arxiv.org/abs/2506.11563)|null|
 |**2025-06-17**|**Deep Learning Model Acceleration and Optimization Strategies for Real-Time Recommendation Systems**|Junli Shao et.al.|[2506.11421](http://arxiv.org/abs/2506.11421)|null|
 |**2025-06-12**|**Contrastive Matrix Completion with Denoising and Augmented Graph Views for Robust Recommendation**|Narges Nemati et.al.|[2506.10658](http://arxiv.org/abs/2506.10658)|**[link](https://github.com/nargesnemati/mccl)**|
