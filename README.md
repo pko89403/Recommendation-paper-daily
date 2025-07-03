@@ -17,6 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Enhanced Influence-aware Group Recommendation for Online Media Propagation**|Chengkun He et.al.|[2507.01616](http://arxiv.org/abs/2507.01616)|null|
+|**2025-07-02**|**DARTS: A Dual-View Attack Framework for Targeted Manipulation in Federated Sequential Recommendation**|Qitao Qin et.al.|[2507.01383](http://arxiv.org/abs/2507.01383)|null|
+|**2025-07-02**|**Context-Aware Code Wiring Recommendation with LLM-based Agent**|Taiming Wang et.al.|[2507.01315](http://arxiv.org/abs/2507.01315)|null|
+|**2025-07-02**|**Far From Sight, Far From Mind: Inverse Distance Weighting for Graph Federated Recommendation**|Aymen Rayane Khouas et.al.|[2507.01285](http://arxiv.org/abs/2507.01285)|null|
+|**2025-06-30**|**FAIR-MATCH: A Multi-Objective Framework for Bias Mitigation in Reciprocal Dating Recommendations**|Madhav Kotecha et.al.|[2507.01063](http://arxiv.org/abs/2507.01063)|null|
+|**2025-06-30**|**Optimizing Conversational Product Recommendation via Reinforcement Learning**|Kang Liu et.al.|[2507.01060](http://arxiv.org/abs/2507.01060)|null|
+|**2025-06-21**|**Research on Low-Latency Inference and Training Efficiency Optimization for Graph Neural Network and Large Language Model-Based Recommendation Systems**|Yushang Zhao et.al.|[2507.01035](http://arxiv.org/abs/2507.01035)|null|
+|**2025-07-01**|**EARN: Efficient Inference Acceleration for LLM-based Generative Recommendation by Register Tokens**|Chaoqun Yang et.al.|[2507.00715](http://arxiv.org/abs/2507.00715)|null|
+|**2025-07-01**|**Rethinking Group Recommender Systems in the Era of Generative AI: From One-Shot Recommendations to Agentic Group Decision Support**|Dietmar Jannach et.al.|[2507.00535](http://arxiv.org/abs/2507.00535)|null|
 |**2025-06-30**|**Act-With-Think: Chunk Auto-Regressive Modeling for Generative Recommendation**|Yifan Wang et.al.|[2506.23643](http://arxiv.org/abs/2506.23643)|null|
 |**2025-06-30**|**KiseKloset: Comprehensive System For Outfit Retrieval, Recommendation, And Try-On**|Thanh-Tung Phan-Nguyen et.al.|[2506.23471](http://arxiv.org/abs/2506.23471)|null|
 |**2025-06-29**|**Enhancing Live Broadcast Engagement: A Multi-modal Approach to Short Video Recommendations Using MMGCN and User Preferences**|Saeid Aghasoleymani Najafabadi et.al.|[2506.23085](http://arxiv.org/abs/2506.23085)|null|
