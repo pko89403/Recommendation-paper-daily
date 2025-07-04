@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**Calibrated Recommendations: Survey and Future Directions**|Diego Corrêa da Silva et.al.|[2507.02643](http://arxiv.org/abs/2507.02643)|null|
+|**2025-07-03**|**VRAgent-R1: Boosting Video Recommendation with MLLM-based Agents via Reinforcement Learning**|Siran Chen et.al.|[2507.02626](http://arxiv.org/abs/2507.02626)|null|
+|**2025-07-03**|**Content filtering methods for music recommendation: A review**|Terence Zeng et.al.|[2507.02282](http://arxiv.org/abs/2507.02282)|null|
+|**2025-07-03**|**Listwise Preference Alignment Optimization for Tail Item Recommendation**|Zihao Li et.al.|[2507.02255](http://arxiv.org/abs/2507.02255)|null|
+|**2025-07-02**|**ManifoldMind: Dynamic Hyperbolic Reasoning for Trustworthy Recommendations**|Anoushka Harit et.al.|[2507.02014](http://arxiv.org/abs/2507.02014)|null|
+|**2025-06-25**|**Recommendation Algorithms on Social Media: Unseen Drivers of Political Opinion**|Waseq Billah et.al.|[2507.01978](http://arxiv.org/abs/2507.01978)|null|
 |**2025-07-02**|**Enhanced Influence-aware Group Recommendation for Online Media Propagation**|Chengkun He et.al.|[2507.01616](http://arxiv.org/abs/2507.01616)|null|
 |**2025-07-02**|**DARTS: A Dual-View Attack Framework for Targeted Manipulation in Federated Sequential Recommendation**|Qitao Qin et.al.|[2507.01383](http://arxiv.org/abs/2507.01383)|null|
 |**2025-07-02**|**Context-Aware Code Wiring Recommendation with LLM-based Agent**|Taiming Wang et.al.|[2507.01315](http://arxiv.org/abs/2507.01315)|null|
