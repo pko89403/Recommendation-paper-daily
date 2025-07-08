@@ -14,6 +14,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Do We Really Need Specialization? Evaluating Generalist Text Embeddings for Zero-Shot Recommendation and Search**|Matteo Attimonelli et.al.|[2507.05006](http://arxiv.org/abs/2507.05006)|null|
+|**2025-07-07**|**LumiCRS: Asymmetric Contrastive Prototype Learning for Long-Tail Conversational Movie Recommendation**|Jinzhi Wang et.al.|[2507.04722](http://arxiv.org/abs/2507.04722)|null|
+|**2025-07-07**|**FindRec: Stein-Guided Entropic Flow for Multi-Modal Sequential Recommendation**|Maolin Wang et.al.|[2507.04651](http://arxiv.org/abs/2507.04651)|null|
+|**2025-07-07**|**Heterogeneous User Modeling for LLM-based Recommendation**|Honghui Bao et.al.|[2507.04626](http://arxiv.org/abs/2507.04626)|null|
+|**2025-07-07**|**Hierarchical Intent-guided Optimization with Pluggable LLM-Driven Semantics for Session-based Recommendation**|Jinpeng Chen et.al.|[2507.04623](http://arxiv.org/abs/2507.04623)|null|
+|**2025-07-06**|**Simulating User Watch-Time to Investigate Bias in YouTube Shorts Recommendations**|Selimhan Dagtas et.al.|[2507.04534](http://arxiv.org/abs/2507.04534)|null|
+|**2025-07-06**|**Churn-Aware Recommendation Planning under Aggregated Preference Feedback**|Gur Keinan et.al.|[2507.04513](http://arxiv.org/abs/2507.04513)|null|
+|**2025-07-06**|**ARMR: Adaptively Responsive Network for Medication Recommendation**|Feiyue Wu et.al.|[2507.04428](http://arxiv.org/abs/2507.04428)|null|
+|**2025-07-05**|**Leveraging Multimodal Data and Side Users for Diffusion Cross-Domain Recommendation**|Fan Zhang et.al.|[2507.04000](http://arxiv.org/abs/2507.04000)|null|
+|**2025-07-05**|**Function-based Labels for Complementary Recommendation: Definition, Annotation, and LLM-as-a-Judge**|Chihiro Yamasaki et.al.|[2507.03945](http://arxiv.org/abs/2507.03945)|null|
+|**2025-07-04**|**Efficient and Effective Query Context-Aware Learning-to-Rank Model for Sequential Recommendation**|Andrii Dzhoha et.al.|[2507.03789](http://arxiv.org/abs/2507.03789)|null|
+|**2025-07-04**|**GENPLUGIN: A Plug-and-Play Framework for Long-Tail Generative Recommendation with Exposure Bias Mitigation**|Kun Yang et.al.|[2507.03568](http://arxiv.org/abs/2507.03568)|null|
+|**2025-07-04**|**Exploring the Effect of Context-Awareness and Popularity Calibration on Popularity Bias in POI Recommendations**|Andrea Forster et.al.|[2507.03503](http://arxiv.org/abs/2507.03503)|null|
+|**2025-07-04**|**LLM4Hint: Leveraging Large Language Models for Hint Recommendation in Offline Query Optimization**|Suchen Liu et.al.|[2507.03384](http://arxiv.org/abs/2507.03384)|null|
+|**2025-07-04**|**Modeling Item-Level Dynamic Variability with Residual Diffusion for Bundle Recommendation**|Dong Zhang et.al.|[2507.03280](http://arxiv.org/abs/2507.03280)|null|
+|**2025-07-03**|**Counterfactual Tuning for Temporal Sensitivity Enhancement in Large Language Model-based Recommendation**|Yutian Liu et.al.|[2507.03047](http://arxiv.org/abs/2507.03047)|null|
 |**2025-07-03**|**Calibrated Recommendations: Survey and Future Directions**|Diego Corrêa da Silva et.al.|[2507.02643](http://arxiv.org/abs/2507.02643)|null|
 |**2025-07-03**|**VRAgent-R1: Boosting Video Recommendation with MLLM-based Agents via Reinforcement Learning**|Siran Chen et.al.|[2507.02626](http://arxiv.org/abs/2507.02626)|null|
 |**2025-07-03**|**Content filtering methods for music recommendation: A review**|Terence Zeng et.al.|[2507.02282](http://arxiv.org/abs/2507.02282)|null|
