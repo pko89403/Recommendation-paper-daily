@@ -17,6 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Data-Semantics-Aware Recommendation of Diverse Pivot Tables**|Whanhee Cho et.al.|[2507.06171](http://arxiv.org/abs/2507.06171)|null|
+|**2025-07-08**|**Unconditional Diffusion for Generative Sequential Recommendation**|Yimeng Bai et.al.|[2507.06121](http://arxiv.org/abs/2507.06121)|null|
+|**2025-07-08**|**Hierarchical Interaction Summarization and Contrastive Prompting for Explainable Recommendations**|Yibin Liu et.al.|[2507.06044](http://arxiv.org/abs/2507.06044)|null|
+|**2025-07-08**|**RecRankerEval: A Flexible and Extensible Framework for Top-k LLM-based Recommendation**|Zeyuan Meng et.al.|[2507.05880](http://arxiv.org/abs/2507.05880)|null|
+|**2025-07-08**|**KERAG_R: Knowledge-Enhanced Retrieval-Augmented Generation for Recommendation**|Zeyuan Meng et.al.|[2507.05863](http://arxiv.org/abs/2507.05863)|null|
+|**2025-07-08**|**When Transformers Meet Recommenders: Integrating Self-Attentive Sequential Recommendation with Fine-Tuned LLMs**|Kechen Liu et.al.|[2507.05733](http://arxiv.org/abs/2507.05733)|null|
+|**2025-07-08**|**From ID-based to ID-free: Rethinking ID Effectiveness in Multimodal Collaborative Filtering Recommendation**|Guohao Li et.al.|[2507.05715](http://arxiv.org/abs/2507.05715)|null|
+|**2025-07-05**|**Enhancing Learning Path Recommendation via Multi-task Learning**|Afsana Nasrin et.al.|[2507.05295](http://arxiv.org/abs/2507.05295)|null|
 |**2025-07-08**|**Do We Really Need Specialization? Evaluating Generalist Text Embeddings for Zero-Shot Recommendation and Search**|Matteo Attimonelli et.al.|[2507.05006](http://arxiv.org/abs/2507.05006)|null|
 |**2025-07-07**|**LumiCRS: Asymmetric Contrastive Prototype Learning for Long-Tail Conversational Movie Recommendation**|Jinzhi Wang et.al.|[2507.04722](http://arxiv.org/abs/2507.04722)|null|
 |**2025-07-07**|**FindRec: Stein-Guided Entropic Flow for Multi-Modal Sequential Recommendation**|Maolin Wang et.al.|[2507.04651](http://arxiv.org/abs/2507.04651)|null|
