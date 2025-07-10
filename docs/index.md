@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Boosting Parameter Efficiency in LLM-Based Recommendation through Sophisticated Pruning**|Shanle Zheng et.al.|[2507.07064](http://arxiv.org/abs/2507.07064)|null|
+|**2025-07-09**|**CDC: Causal Domain Clustering for Multi-Domain Recommendation**|Huishi Luo et.al.|[2507.06877](http://arxiv.org/abs/2507.06877)|null|
+|**2025-07-09**|**Impacts of Mainstream-Driven Algorithms on Recommendations for Children Across Domains: A Reproducibility Study**|Robin Ungruh et.al.|[2507.06596](http://arxiv.org/abs/2507.06596)|null|
+|**2025-07-09**|**GR-LLMs: Recent Advances in Generative Recommendation Based on Large Language Models**|Zhen Yang et.al.|[2507.06507](http://arxiv.org/abs/2507.06507)|null|
+|**2025-07-09**|**USD: A User-Intent-Driven Sampling and Dual-Debiasing Framework for Large-Scale Homepage Recommendations**|Jiaqi Zheng et.al.|[2507.06503](http://arxiv.org/abs/2507.06503)|null|
 |**2025-07-08**|**Data-Semantics-Aware Recommendation of Diverse Pivot Tables**|Whanhee Cho et.al.|[2507.06171](http://arxiv.org/abs/2507.06171)|null|
 |**2025-07-08**|**Unconditional Diffusion for Generative Sequential Recommendation**|Yimeng Bai et.al.|[2507.06121](http://arxiv.org/abs/2507.06121)|null|
 |**2025-07-08**|**Hierarchical Interaction Summarization and Contrastive Prompting for Explainable Recommendations**|Yibin Liu et.al.|[2507.06044](http://arxiv.org/abs/2507.06044)|null|
