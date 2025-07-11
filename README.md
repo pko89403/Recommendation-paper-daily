@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.10
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,7 +21,7 @@
 |**2025-07-09**|**CDC: Causal Domain Clustering for Multi-Domain Recommendation**|Huishi Luo et.al.|[2507.06877](http://arxiv.org/abs/2507.06877)|null|
 |**2025-07-09**|**Impacts of Mainstream-Driven Algorithms on Recommendations for Children Across Domains: A Reproducibility Study**|Robin Ungruh et.al.|[2507.06596](http://arxiv.org/abs/2507.06596)|null|
 |**2025-07-09**|**GR-LLMs: Recent Advances in Generative Recommendation Based on Large Language Models**|Zhen Yang et.al.|[2507.06507](http://arxiv.org/abs/2507.06507)|null|
-|**2025-07-09**|**USD: A User-Intent-Driven Sampling and Dual-Debiasing Framework for Large-Scale Homepage Recommendations**|Jiaqi Zheng et.al.|[2507.06503](http://arxiv.org/abs/2507.06503)|null|
+|**2025-07-10**|**USD: A User-Intent-Driven Sampling and Dual-Debiasing Framework for Large-Scale Homepage Recommendations**|Jiaqi Zheng et.al.|[2507.06503](http://arxiv.org/abs/2507.06503)|null|
 |**2025-07-08**|**Data-Semantics-Aware Recommendation of Diverse Pivot Tables**|Whanhee Cho et.al.|[2507.06171](http://arxiv.org/abs/2507.06171)|null|
 |**2025-07-08**|**Unconditional Diffusion for Generative Sequential Recommendation**|Yimeng Bai et.al.|[2507.06121](http://arxiv.org/abs/2507.06121)|null|
 |**2025-07-08**|**Hierarchical Interaction Summarization and Contrastive Prompting for Explainable Recommendations**|Yibin Liu et.al.|[2507.06044](http://arxiv.org/abs/2507.06044)|null|
@@ -1404,7 +1404,7 @@
 |**2024-03-07**|**Disaggregated Multi-Tower: Topology-aware Modeling Technique for Efficient Large-Scale Recommendation**|Liang Luo et.al.|[2403.00877](http://arxiv.org/abs/2403.00877)|null|
 |**2024-03-01**|**A Survey of Route Recommendations: Methods, Applications, and Opportunities**|Shiming Zhang et.al.|[2403.00284](http://arxiv.org/abs/2403.00284)|null|
 
-<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250711>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
