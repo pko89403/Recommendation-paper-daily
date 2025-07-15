@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Recommendation
@@ -21,7 +21,7 @@ layout: default
 |**2025-07-09**|**Boosting Parameter Efficiency in LLM-Based Recommendation through Sophisticated Pruning**|Shanle Zheng et.al.|[2507.07064](http://arxiv.org/abs/2507.07064)|null|
 |**2025-07-09**|**CDC: Causal Domain Clustering for Multi-Domain Recommendation**|Huishi Luo et.al.|[2507.06877](http://arxiv.org/abs/2507.06877)|null|
 |**2025-07-09**|**Impacts of Mainstream-Driven Algorithms on Recommendations for Children Across Domains: A Reproducibility Study**|Robin Ungruh et.al.|[2507.06596](http://arxiv.org/abs/2507.06596)|null|
-|**2025-07-09**|**GR-LLMs: Recent Advances in Generative Recommendation Based on Large Language Models**|Zhen Yang et.al.|[2507.06507](http://arxiv.org/abs/2507.06507)|null|
+|**2025-07-14**|**GR-LLMs: Recent Advances in Generative Recommendation Based on Large Language Models**|Zhen Yang et.al.|[2507.06507](http://arxiv.org/abs/2507.06507)|null|
 |**2025-07-10**|**USD: A User-Intent-Driven Sampling and Dual-Debiasing Framework for Large-Scale Homepage Recommendations**|Jiaqi Zheng et.al.|[2507.06503](http://arxiv.org/abs/2507.06503)|null|
 |**2025-07-08**|**Data-Semantics-Aware Recommendation of Diverse Pivot Tables**|Whanhee Cho et.al.|[2507.06171](http://arxiv.org/abs/2507.06171)|null|
 |**2025-07-08**|**Unconditional Diffusion for Generative Sequential Recommendation**|Yimeng Bai et.al.|[2507.06121](http://arxiv.org/abs/2507.06121)|null|
@@ -43,9 +43,9 @@ layout: default
 |**2025-07-05**|**Function-based Labels for Complementary Recommendation: Definition, Annotation, and LLM-as-a-Judge**|Chihiro Yamasaki et.al.|[2507.03945](http://arxiv.org/abs/2507.03945)|null|
 |**2025-07-04**|**Efficient and Effective Query Context-Aware Learning-to-Rank Model for Sequential Recommendation**|Andrii Dzhoha et.al.|[2507.03789](http://arxiv.org/abs/2507.03789)|null|
 |**2025-07-04**|**GENPLUGIN: A Plug-and-Play Framework for Long-Tail Generative Recommendation with Exposure Bias Mitigation**|Kun Yang et.al.|[2507.03568](http://arxiv.org/abs/2507.03568)|null|
-|**2025-07-04**|**Exploring the Effect of Context-Awareness and Popularity Calibration on Popularity Bias in POI Recommendations**|Andrea Forster et.al.|[2507.03503](http://arxiv.org/abs/2507.03503)|null|
+|**2025-07-13**|**Exploring the Effect of Context-Awareness and Popularity Calibration on Popularity Bias in POI Recommendations**|Andrea Forster et.al.|[2507.03503](http://arxiv.org/abs/2507.03503)|null|
 |**2025-07-04**|**LLM4Hint: Leveraging Large Language Models for Hint Recommendation in Offline Query Optimization**|Suchen Liu et.al.|[2507.03384](http://arxiv.org/abs/2507.03384)|null|
-|**2025-07-04**|**Modeling Item-Level Dynamic Variability with Residual Diffusion for Bundle Recommendation**|Dong Zhang et.al.|[2507.03280](http://arxiv.org/abs/2507.03280)|null|
+|**2025-07-14**|**Modeling Item-Level Dynamic Variability with Residual Diffusion for Bundle Recommendation**|Dong Zhang et.al.|[2507.03280](http://arxiv.org/abs/2507.03280)|null|
 |**2025-07-03**|**Counterfactual Tuning for Temporal Sensitivity Enhancement in Large Language Model-based Recommendation**|Yutian Liu et.al.|[2507.03047](http://arxiv.org/abs/2507.03047)|null|
 |**2025-07-03**|**Calibrated Recommendations: Survey and Future Directions**|Diego Corrêa da Silva et.al.|[2507.02643](http://arxiv.org/abs/2507.02643)|null|
 |**2025-07-03**|**VRAgent-R1: Boosting Video Recommendation with MLLM-based Agents via Reinforcement Learning**|Siran Chen et.al.|[2507.02626](http://arxiv.org/abs/2507.02626)|null|
