@@ -17,6 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Benchmarking and Evaluation of AI Models in Biology: Outcomes and Recommendations from the CZI Virtual Cells Workshop**|Elizabeth Fahsbender et.al.|[2507.10502](http://arxiv.org/abs/2507.10502)|null|
+|**2025-07-14**|**Introducing the Swiss Food Knowledge Graph: AI for Context-Aware Nutrition Recommendation**|Lubnaa Abdur Rahman et.al.|[2507.10156](http://arxiv.org/abs/2507.10156)|null|
+|**2025-07-14**|**User Long-Term Multi-Interest Retrieval Model for Recommendation**|Yue Meng et.al.|[2507.10097](http://arxiv.org/abs/2507.10097)|null|
+|**2025-07-14**|**SLIF-MR: Self-loop Iterative Fusion of Heterogeneous Auxiliary Information for Multimodal Recommendation**|Jie Guo et.al.|[2507.09998](http://arxiv.org/abs/2507.09998)|null|
+|**2025-07-14**|**Non-parametric Graph Convolution for Re-ranking in Recommendation Systems**|Zhongyu Ouyang et.al.|[2507.09969](http://arxiv.org/abs/2507.09969)|null|
+|**2025-07-12**|**Balancing Semantic Relevance and Engagement in Related Video Recommendations**|Amit Jaspal et.al.|[2507.09403](http://arxiv.org/abs/2507.09403)|null|
+|**2025-07-12**|**Retrieval-Augmented Recommendation Explanation Generation with Hierarchical Aggregation**|Bangcheng Sun et.al.|[2507.09188](http://arxiv.org/abs/2507.09188)|null|
+|**2025-07-12**|**S2SRec2: Set-to-Set Recommendation for Basket Completion with Recipe**|Yanan Cao et.al.|[2507.09101](http://arxiv.org/abs/2507.09101)|null|
+|**2025-07-11**|**Graph Neural Network Enhanced Sequential Recommendation Method for Cross-Platform Ad Campaign**|Xiang Li et.al.|[2507.08959](http://arxiv.org/abs/2507.08959)|null|
 |**2025-07-10**|**Plausible Counterfactual Explanations of Recommendations**|Jakub Černý et.al.|[2507.07919](http://arxiv.org/abs/2507.07919)|null|
 |**2025-07-10**|**NLGCL: Naturally Existing Neighbor Layers Graph Contrastive Learning for Recommendation**|Jinfeng Xu et.al.|[2507.07522](http://arxiv.org/abs/2507.07522)|null|
 |**2025-07-10**|**When Graph Contrastive Learning Backfires: Spectral Vulnerability and Defense in Recommendation**|Zongwei Wang et.al.|[2507.07436](http://arxiv.org/abs/2507.07436)|null|
