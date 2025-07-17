@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Sparse Autoencoders for Sequential Recommendation Models: Interpretation and Flexible Control**|Anton Klenitskiy et.al.|[2507.12202](http://arxiv.org/abs/2507.12202)|null|
+|**2025-07-16**|**Imbalanced Regression Pipeline Recommendation**|Juscimara G. Avelino et.al.|[2507.11901](http://arxiv.org/abs/2507.11901)|null|
+|**2025-07-16**|**Similarity-Guided Diffusion for Contrastive Sequential Recommendation**|Jinkyeong Choi et.al.|[2507.11866](http://arxiv.org/abs/2507.11866)|null|
 |**2025-07-16**|**From Observational Data to Clinical Recommendations: A Causal Framework for Estimating Patient-level Treatment Effects and Learning Policies**|Rom Gutman et.al.|[2507.11381](http://arxiv.org/abs/2507.11381)|null|
 |**2025-07-15**|**Personalized Exercise Recommendation with Semantically-Grounded Knowledge Tracing**|Yilmazcan Ozyurt et.al.|[2507.11060](http://arxiv.org/abs/2507.11060)|null|
 |**2025-07-15**|**LLM-Driven Dual-Level Multi-Interest Modeling for Recommendation**|Ziyan Wang et.al.|[2507.10917](http://arxiv.org/abs/2507.10917)|null|
