@@ -17,6 +17,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**DUALRec: A Hybrid Sequential and Language Model Framework for Context-Aware Movie Recommendation**|Yitong Li et.al.|[2507.13957](http://arxiv.org/abs/2507.13957)|null|
+|**2025-07-18**|**Extracting Insights from Large-Scale Telematics Data for ITS Applications: Lessons and Recommendations**|Gibran Ali et.al.|[2507.13936](http://arxiv.org/abs/2507.13936)|null|
+|**2025-07-18**|**Point of Interest Recommendation: Pitfalls and Viable Solutions**|Alejandro Bellogín et.al.|[2507.13725](http://arxiv.org/abs/2507.13725)|null|
+|**2025-07-18**|**Consistent Explainers or Unreliable Narrators? Understanding LLM-generated Group Recommendations**|Cedric Waterschoot et.al.|[2507.13705](http://arxiv.org/abs/2507.13705)|null|
+|**2025-07-18**|**IP2: Entity-Guided Interest Probing for Personalized News Recommendation**|Youlin Wu et.al.|[2507.13622](http://arxiv.org/abs/2507.13622)|null|
+|**2025-07-17**|**Revisiting Prompt Engineering: A Comprehensive Evaluation for LLM-based Personalized Recommendation**|Genki Kusano et.al.|[2507.13525](http://arxiv.org/abs/2507.13525)|null|
 |**2025-07-17**|**SGCL: Unifying Self-Supervised and Supervised Learning for Graph Recommendation**|Weizhi Zhang et.al.|[2507.13336](http://arxiv.org/abs/2507.13336)|null|
 |**2025-07-18**|**Generative Multi-Target Cross-Domain Recommendation**|Jinqiu Jin et.al.|[2507.12871](http://arxiv.org/abs/2507.12871)|null|
 |**2025-07-16**|**ROSE: Transformer-Based Refactoring Recommendation for Architectural Smells**|Samal Nursapa et.al.|[2507.12561](http://arxiv.org/abs/2507.12561)|null|
