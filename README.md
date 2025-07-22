@@ -17,6 +17,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Just Ask for Music (JAM): Multimodal and Personalized Natural Language Music Recommendation**|Alessandro B. Melchiorre et.al.|[2507.15826](http://arxiv.org/abs/2507.15826)|null|
+|**2025-07-21**|**Privacy-Preserving Multimodal News Recommendation through Federated Learning**|Mehdi Khalaj et.al.|[2507.15460](http://arxiv.org/abs/2507.15460)|null|
+|**2025-07-21**|**Hierarchical Graph Information Bottleneck for Multi-Behavior Recommendation**|Hengyu Zhang et.al.|[2507.15395](http://arxiv.org/abs/2507.15395)|null|
+|**2025-07-21**|**An ML-Driven Participant Selection Technique for Federated Recommendation System in Edge-Cloud Computing**|Jintao Liu et.al.|[2507.15233](http://arxiv.org/abs/2507.15233)|null|
+|**2025-07-20**|**Click A, Buy B: Rethinking Conversion Attribution in E- Commerce Recommendations**|Xiangyu Zeng et.al.|[2507.15113](http://arxiv.org/abs/2507.15113)|null|
+|**2025-07-20**|**User Invariant Preference Learning for Multi-Behavior Recommendation**|Mingshi Yan et.al.|[2507.14925](http://arxiv.org/abs/2507.14925)|null|
+|**2025-07-19**|**GRACE: Generative Recommendation via Journey-Aware Sparse Attention on Chain-of-Thought Tokenization**|Luyi Ma et.al.|[2507.14758](http://arxiv.org/abs/2507.14758)|null|
+|**2025-07-19**|**Rec-AD: An Efficient Computation Framework for FDIA Detection Based on Tensor Train Decomposition and Deep Learning Recommendation Model**|Yunfeng Li et.al.|[2507.14668](http://arxiv.org/abs/2507.14668)|null|
+|**2025-07-19**|**Enhancing POI Recommendation through Global Graph Disentanglement with POI Weighted Module**|Pei-Xuan Li et.al.|[2507.14612](http://arxiv.org/abs/2507.14612)|null|
+|**2025-07-18**|**Schemora: schema matching via multi-stage recommendation and metadata enrichment using off-the-shelf llms**|Osman Erman Gungor et.al.|[2507.14376](http://arxiv.org/abs/2507.14376)|null|
+|**2025-07-18**|**A Reproducibility Study of Product-side Fairness in Bundle Recommendation**|Huy-Son Nguyen et.al.|[2507.14352](http://arxiv.org/abs/2507.14352)|null|
 |**2025-07-18**|**DUALRec: A Hybrid Sequential and Language Model Framework for Context-Aware Movie Recommendation**|Yitong Li et.al.|[2507.13957](http://arxiv.org/abs/2507.13957)|null|
 |**2025-07-18**|**Extracting Insights from Large-Scale Telematics Data for ITS Applications: Lessons and Recommendations**|Gibran Ali et.al.|[2507.13936](http://arxiv.org/abs/2507.13936)|null|
 |**2025-07-18**|**Point of Interest Recommendation: Pitfalls and Viable Solutions**|Alejandro Bellogín et.al.|[2507.13725](http://arxiv.org/abs/2507.13725)|null|
