@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Citation Recommendation using Deep Canonical Correlation Analysis**|Conor McNamara et.al.|[2507.17603](http://arxiv.org/abs/2507.17603)|null|
+|**2025-07-23**|**"Beyond the past": Leveraging Audio and Human Memory for Sequential Music Recommendation**|Viet-Tran Anh et.al.|[2507.17356](http://arxiv.org/abs/2507.17356)|null|
+|**2025-07-23**|**R4ec: A Reasoning, Reflection, and Refinement Framework for Recommendation Systems**|Hao Gu et.al.|[2507.17249](http://arxiv.org/abs/2507.17249)|null|
+|**2025-07-23**|**Enhancing Transferability and Consistency in Cross-Domain Recommendations via Supervised Disentanglement**|Yuhan Wang et.al.|[2507.17112](http://arxiv.org/abs/2507.17112)|null|
+|**2025-07-22**|**VL-CLIP: Enhancing Multimodal Recommendations via Visual Grounding and LLM-Augmented CLIP Embeddings**|Ramin Giahi et.al.|[2507.17080](http://arxiv.org/abs/2507.17080)|null|
+|**2025-07-09**|**You Don't Bring Me Flowers: Mitigating Unwanted Recommendations Through Conformal Risk Control**|Giovanni De Toni et.al.|[2507.16829](http://arxiv.org/abs/2507.16829)|null|
 |**2025-07-22**|**Biases in LLM-Generated Musical Taste Profiles for Recommendation**|Bruno Sguerra et.al.|[2507.16708](http://arxiv.org/abs/2507.16708)|null|
 |**2025-07-22**|**Knowledge-aware Diffusion-Enhanced Multimedia Recommendation**|Xian Mo et.al.|[2507.16396](http://arxiv.org/abs/2507.16396)|null|
 |**2025-07-22**|**Reinforce Lifelong Interaction Value of User-Author Pairs for Large-Scale Recommendation Systems**|Yisha Li et.al.|[2507.16253](http://arxiv.org/abs/2507.16253)|null|
