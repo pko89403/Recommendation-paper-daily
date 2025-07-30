@@ -1,6 +1,6 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "Lyz103"
+user_name: "pko89403"
 repo_name: "Recommendation-paper-daily"
 show_authors: True
 show_links: True
