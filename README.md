@@ -1,4 +1,4 @@
-## Updated on 2025-11-12
+## Updated on 2025-11-13
 <details>
  <summary>Table of Contents</summary>
  <ol>
@@ -206,6 +206,7 @@
 | 2025-04-10 | **A Novel Mamba-based Sequential Recommendation Method** | Jun Yuan | [Link](http://arxiv.org/abs/2504.07398) | Not Available |
 | 2025-04-08 | **Unified Generative Search and Recommendation** | Teng Shi, Jun Xu, Xiao Zhang, Xiaoxue Zang, Kai Zheng, Yang Song, Enyun Yu | [Link](http://arxiv.org/abs/2504.05730) | Not Available |
 | 2025-02-26 | **Multi-Perspective Attention Mechanism for Bias-Aware Sequential Recommendation** | Mingjian Fu, Hengsheng Chen, Dongchun Jiang, Yanchao Tan | [Link](http://arxiv.org/abs/2504.05323) | Not Available |
+| 2025-02-20 | **Multimodal Quantitative Language for Generative Recommendation** | Jianyang Zhai, Zi-Feng Mai, Chang-Dong Wang, Feidiao Yang, Xiawu Zheng, Hui Li, Yonghong Tian | [Link](http://arxiv.org/abs/2504.05314) | Not Available |
 | 2025-03-28 | **Think Before Recommend: Unleashing the Latent Reasoning Power for Sequential Recommendation** | Jiakai Tang, Sunhao Dai, Teng Shi, Jun Xu, Xu Chen, Wen Chen, Jian Wu, Yuning Jiang | [Link](http://arxiv.org/abs/2503.22675) | Not Available |
 | 2025-03-17 | **Leveraging the Dynamics of Leadership in Group Recommendation Systems** | Peijin Yu, Shin'ichi Konomi | [Link](http://arxiv.org/abs/2503.12877) | Not Available |
 | 2025-03-12 | **Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs** | Jiani Huang, Shijie Wang, Liang-bo Ning, Wenqi Fan, Shuaiqiang Wang, Dawei Yin, Qing Li | [Link](http://arxiv.org/abs/2503.09382) | Not Available |
@@ -332,6 +333,7 @@
 | 2023-03-02 | **Heterogeneous Graph Contrastive Learning for Recommendation** | Mengru Chen, Chao Huang, Lianghao Xia, Wei Wei, Yong Xu, Ronghua Luo | [Link](http://arxiv.org/abs/2303.00995) | Not Available |
 | 2023-03-01 | **REASONER: An Explainable Recommendation Dataset with Multi-aspect Real User Labeled Ground Truths Towards more Measurable Explainable Recommendation** | Xu Chen, Jingsen Zhang, Lei Wang, Quanyu Dai, Zhenhua Dong, Ruiming Tang, Rui Zhang, Li Chen, Ji-Rong Wen | [Link](http://arxiv.org/abs/2303.00168) | Not Available |
 | 2023-02-13 | **Improving Recommendation Fairness via Data Augmentation** | Lei Chen, Le Wu, Kun Zhang, Richang Hong, Defu Lian, Zhiqiang Zhang, Jun Zhou, Meng Wang | [Link](http://arxiv.org/abs/2302.06333) | Not Available |
+| 2023-02-02 | **MMRec: Simplifying Multimodal Recommendation** | Xin Zhou | [Link](http://arxiv.org/abs/2302.03497) | Not Available |
 | 2023-02-03 | **Improving Recommendation Relevance by simulating User Interest** | Alexander Kushkuley, Joshua Correa | [Link](http://arxiv.org/abs/2302.01522) | Not Available |
 | 2023-01-26 | **Cross-domain recommendation via user interest alignment** | Chuang Zhao, Hongke Zhao, Ming He, Jian Zhang, Jianping Fan | [Link](http://arxiv.org/abs/2301.11467) | Not Available |
 | 2023-01-25 | **Transferable Fairness for Cold-Start Recommendation** | Yunqi Li, Dingxian Wang, Hanxiong Chen, Yongfeng Zhang | [Link](http://arxiv.org/abs/2301.10665) | Not Available |
@@ -396,6 +398,7 @@
 | 2021-09-22 | **Exploring Heterogeneous Metadata for Video Recommendation with Two-tower Model** | Jianling Wang, Ainur Yessenalina, Alireza Roshan-Ghias | [Link](http://arxiv.org/abs/2109.11059) | Not Available |
 | 2021-09-13 | **BeautifAI -- A Personalised Occasion-oriented Makeup Recommendation System** | Kshitij Gulati, Gaurav Verma, Mukesh Mohania, Ashish Kundu | [Link](http://arxiv.org/abs/2109.06072) | Not Available |
 | 2021-09-05 | **Recommendation Fairness: From Static to Dynamic** | Dell Zhang, Jun Wang | [Link](http://arxiv.org/abs/2109.03150) | Not Available |
+| 2021-09-06 | **An Evaluation-Focused Framework for Visualization Recommendation Algorithms** | Zehua Zeng, Phoebe Moh, Fan Du, Jane Hoffswell, Tak Yeon Lee, Sana Malik, Eunyee Koh, Leilani Battle | [Link](http://arxiv.org/abs/2109.02706) | Not Available |
 | 2021-08-24 | **Counterfactual Explainable Recommendation** | Juntao Tan, Shuyuan Xu, Yingqiang Ge, Yunqi Li, Xu Chen, Yongfeng Zhang | [Link](http://arxiv.org/abs/2108.10539) | Not Available |
 | 2021-08-20 | **Is News Recommendation a Sequential Recommendation Task?** | Chuhan Wu, Fangzhao Wu, Tao Qi, Yongfeng Huang | [Link](http://arxiv.org/abs/2108.08984) | Not Available |
 | 2021-08-18 | **Hyperbolic Hypergraphs for Sequential Recommendation** | Yicong Li, Hongxu Chen, Xiangguo Sun, Zhenchao Sun, Lin Li, Lizhen Cui, Philip S. Yu, Guandong Xu | [Link](http://arxiv.org/abs/2108.08134) | Not Available |
