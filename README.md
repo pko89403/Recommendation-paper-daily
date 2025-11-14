@@ -1,4 +1,4 @@
-## Updated on 2025-11-13
+## Updated on 2025-11-14
 <details>
  <summary>Table of Contents</summary>
  <ol>
@@ -345,6 +345,7 @@
 | 2022-11-17 | **Learning to Counterfactually Explain Recommendations** | Yuanshun Yao, Chong Wang, Hang Li | [Link](http://arxiv.org/abs/2211.09752) | Not Available |
 | 2022-11-14 | **Talent Recommendation on LinkedIn User Profiles** | Yuzhou Peng | [Link](http://arxiv.org/abs/2211.07297) | Not Available |
 | 2022-11-05 | **Aligning Recommendation and Conversation via Dual Imitation** | Jinfeng Zhou, Bo Wang, Minlie Huang, Dongming Zhao, Kun Huang, Ruifang He, Yuexian Hou | [Link](http://arxiv.org/abs/2211.02848) | Not Available |
+| 2022-10-25 | **Recommendation with User Active Disclosing Willingness** | Lei Wang, Xu Chen, Quanyu Dai, Zhenhua Dong | [Link](http://arxiv.org/abs/2211.01155) | Not Available |
 | 2022-10-31 | **Mitigating Popularity Bias in Recommendation with Unbalanced Interactions: A Gradient Perspective** | Weijieying Ren, Lei Wang, Kunpeng Liu, Ruocheng Guo, Lim Ee Peng, Yanjie Fu | [Link](http://arxiv.org/abs/2211.01154) | Not Available |
 | 2022-10-04 | **IGNiteR: News Recommendation in Microblogging Applications (Extended Version)** | Yuting Feng, Bogdan Cautis | [Link](http://arxiv.org/abs/2210.01942) | Not Available |
 | 2022-09-27 | **Efficient On-Device Session-Based Recommendation** | Xin Xia, Junliang Yu, Qinyong Wang, Chaoqun Yang, Quoc Viet Hung Nguyen, Hongzhi Yin | [Link](http://arxiv.org/abs/2209.13422) | Not Available |

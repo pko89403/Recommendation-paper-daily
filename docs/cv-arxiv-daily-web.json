@@ -7804,6 +7804,17 @@
             "abstract": "With the increased use of AI methods to provide recommendations in the health, specifically in the food dietary recommendation space, there is also an increased need for explainability of those recommendations. Such explanations would benefit users of recommendation systems by empowering them with justifications for following the system's suggestions. We present the Food Explanation Ontology (FEO) that provides a formalism for modeling explanations to users for food-related recommendations. FEO models food recommendations, using concepts from the explanation domain to create responses to user questions about food recommendations they receive from AI systems such as personalized knowledge base question answering systems. FEO uses a modular, extensible structure that lends itself to a variety of explanations while still preserving important semantic details to accurately represent explanations of food recommendations. In order to evaluate this system, we used a set of competency questions derived from explanation types present in literature that are relevant to food recommendations. Our motivation with the use of FEO is to empower users to make decisions about their health, fully equipped with an understanding of the AI recommender systems as they relate to user questions, by providing reasoning behind their recommendations in the form of explanations.",
             "primary_category": "cs.AI",
             "code_url": "null"
+        },
+        "2211.01155": {
+            "title": "Recommendation with User Active Disclosing Willingness",
+            "authors": "Lei Wang, Xu Chen, Quanyu Dai, Zhenhua Dong",
+            "first_author": "Lei Wang",
+            "url": "http://arxiv.org/abs/2211.01155v1",
+            "pdf_url": "http://arxiv.org/abs/2211.01155",
+            "publish_date": "2022-10-25",
+            "abstract": "Recommender system has been deployed in a large amount of real-world applications, profoundly influencing people's daily life and production.Traditional recommender models mostly collect as comprehensive as possible user behaviors for accurate preference estimation. However, considering the privacy, preference shaping and other issues, the users may not want to disclose all their behaviors for training the model. In this paper, we study a novel recommendation paradigm, where the users are allowed to indicate their \"willingness\" on disclosing different behaviors, and the models are optimized by trading-off the recommendation quality as well as the violation of the user \"willingness\". More specifically, we formulate the recommendation problem as a multiplayer game, where the action is a selection vector representing whether the items are involved into the model training. For efficiently solving this game, we design a tailored algorithm based on influence function to lower the time cost for recommendation quality exploration, and also extend it with multiple anchor selection vectors.We conduct extensive experiments to demonstrate the effectiveness of our model on balancing the recommendation quality and user disclosing willingness.",
+            "primary_category": "cs.IR",
+            "code_url": "null"
         }
     },
     "LLM4rec": {}
