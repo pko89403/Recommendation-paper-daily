@@ -11,6 +11,7 @@
 | Publish Date | Title | Authors | PDF | Code |
 |:---|:---|:---|:---|:---|
 | 2005-12-29 | **The Topology of Music Recommendation Networks** | Pedro Cano, Oscar Celma, Markus Koppenberger, Javier M. Buldú | [Link](http://arxiv.org/abs/physics/0512266) | Not Available |
+| 2026-01-28 | **Post-Training Fairness Control: A Single-Train Framework for Dynamic Fairness in Recommendation** | Weixin Chen, Li Chen, Yuhan Zhao | [Link](http://arxiv.org/abs/2601.20848) | Not Available |
 | 2026-01-28 | **Less is More: Benchmarking LLM Based Recommendation Agents** | Kargi Chauhan, Mahalakshmi Venkateswarlu | [Link](http://arxiv.org/abs/2601.20316) | Not Available |
 | 2026-01-28 | **Understanding npm Developers' Practices, Challenges, and Recommendations for Secure Package Development** | Anthony Peruma, Truman Choy, Gerald Lee, Italo De Oliveira Santos | [Link](http://arxiv.org/abs/2601.20240) | Not Available |
 | 2026-01-28 | **MALLOC: Benchmarking the Memory-aware Long Sequence Compression for Large Sequential Recommendation** | Qihang Yu, Kairui Fu, Zhaocheng Du, Yuxuan Si, Kaiyuan Li, Weihao Zhao, Zhicheng Zhang, Jieming Zhu, Quanyu Dai, Zhenhua Dong, Shengyu Zhang, Kun Kuang, Fei Wu | [Link](http://arxiv.org/abs/2601.20234) | Not Available |
