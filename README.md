@@ -1,4 +1,4 @@
-## Updated on 2026-02-02
+## Updated on 2026-02-03
 <details>
  <summary>Table of Contents</summary>
  <ol>
@@ -11,6 +11,14 @@
 | Publish Date | Title | Authors | PDF | Code |
 |:---|:---|:---|:---|:---|
 | 2005-12-29 | **The Topology of Music Recommendation Networks** | Pedro Cano, Oscar Celma, Markus Koppenberger, Javier M. Buldú | [Link](http://arxiv.org/abs/physics/0512266) | Not Available |
+| 2026-01-31 | **Domain-Adaptive and Scalable Dense Retrieval for Content-Based Recommendation** | Mritunjay Pandey | [Link](http://arxiv.org/abs/2602.00899) | Not Available |
+| 2026-01-31 | **Gamma Imagers for Nuclear Security and Nuclear Forensics: Recommendations based on results from a side-by-side intercomparison** | L. E. Sinclair, P. R. B. Saull, A. McCann, A. M. L. MacLeod, N. J. Murtha, A. El-Jaby, G. Jonkmans | [Link](http://arxiv.org/abs/2602.00826) | Not Available |
+| 2026-01-31 | **Neuro-symbolic AI for Predictive Maintenance (PdM) -- review and recommendations** | Kyle Hamilton, Ali Intizar | [Link](http://arxiv.org/abs/2602.00731) | Not Available |
+| 2026-01-31 | **Towards Trustworthy Multimodal Recommendation** | Zixuan Li | [Link](http://arxiv.org/abs/2602.00730) | Not Available |
+| 2026-01-31 | **SWGCN: Synergy Weighted Graph Convolutional Network for Multi-Behavior Recommendation** | Fangda Chen, Yueyang Wang, Chaoli Lou, Min Gao, Qingyu Xiong | [Link](http://arxiv.org/abs/2602.00727) | Not Available |
+| 2026-01-31 | **RecGOAT: Graph Optimal Adaptive Transport for LLM-Enhanced Multimodal Recommendation with Dual Semantic Alignment** | Yuecheng Li, Hengwei Ju, Zeyu Song, Wei Yang, Chi Lu, Peng Jiang, Kun Gai | [Link](http://arxiv.org/abs/2602.00682) | Not Available |
+| 2026-01-31 | **Towards Sample-Efficient and Stable Reinforcement Learning for LLM-based Recommendation** | Hongxun Ding, Keqin Bao, Jizhi Zhang, Yi Fang, Wenxin Xu, Fuli Feng, Xiangnan He | [Link](http://arxiv.org/abs/2602.00632) | Not Available |
+| 2026-01-30 | **Standardized Methods and Recommendations for Green Federated Learning** | Austin Tapp, Holger R. Roth, Ziyue Xu, Abhijeet Parida, Hareem Nisar, Marius George Linguraru | [Link](http://arxiv.org/abs/2602.00343) | Not Available |
 | 2026-01-30 | **BEAR: Towards Beam-Search-Aware Optimization for Recommendation with Large Language Models** | Weiqin Yang, Bohao Wang, Zhenxiang Xu, Jiawei Chen, Shengjia Zhang, Jingbang Chen, Canghong Jin, Can Wang | [Link](http://arxiv.org/abs/2601.22925) | Not Available |
 | 2026-01-30 | **User-Adaptive Meta-Learning for Cold-Start Medication Recommendation with Uncertainty Filtering** | Arya Hadizadeh Moghaddam, Mohsen Nayebi Kerdabadi, Dongjie Wang, Mei Liu, Zijun Yao | [Link](http://arxiv.org/abs/2601.22820) | Not Available |
 | 2026-01-30 | **SCaLRec: Semantic Calibration for LLM-enabled Cloud-Device Sequential Recommendation** | Ruiqi Zheng, Jinli Cao, Jiao Yin, Hongzhi Yin | [Link](http://arxiv.org/abs/2601.22543) | Not Available |
