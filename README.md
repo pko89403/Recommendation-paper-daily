@@ -11,6 +11,8 @@
 | Publish Date | Title | Authors | PDF | Code |
 |:---|:---|:---|:---|:---|
 | 2005-12-29 | **The Topology of Music Recommendation Networks** | Pedro Cano, Oscar Celma, Markus Koppenberger, Javier M. Buldú | [Link](http://arxiv.org/abs/physics/0512266) | Not Available |
+| 2026-02-02 | **Adaptive Quality-Diversity Trade-offs for Large-Scale Batch Recommendation** | Clémence Réda, Tomas Rigaux, Hiba Bederina, Koh Takeuchi, Hisashi Kashima, Jill-Jênn Vie | [Link](http://arxiv.org/abs/2602.02024) | Not Available |
+| 2026-02-02 | **AdNanny: One Reasoning LLM for All Offline Ads Recommendation Tasks** | Nan Hu, Han Li, Jimeng Sun, Lu Wang, Fangkai Yang, Bo Qiao, Pu Zhao, David Dai, Mengyu Liu, Yuefeng Zhan, Jianjin Zhang, Weihao Han, Allen Sun, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang, Denvy Deng, Feng Sun, Qi Zhang | [Link](http://arxiv.org/abs/2602.01563) | Not Available |
 | 2026-01-31 | **Domain-Adaptive and Scalable Dense Retrieval for Content-Based Recommendation** | Mritunjay Pandey | [Link](http://arxiv.org/abs/2602.00899) | Not Available |
 | 2026-01-31 | **Gamma Imagers for Nuclear Security and Nuclear Forensics: Recommendations based on results from a side-by-side intercomparison** | L. E. Sinclair, P. R. B. Saull, A. McCann, A. M. L. MacLeod, N. J. Murtha, A. El-Jaby, G. Jonkmans | [Link](http://arxiv.org/abs/2602.00826) | Not Available |
 | 2026-01-31 | **Neuro-symbolic AI for Predictive Maintenance (PdM) -- review and recommendations** | Kyle Hamilton, Ali Intizar | [Link](http://arxiv.org/abs/2602.00731) | Not Available |
