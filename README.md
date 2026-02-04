@@ -11,6 +11,8 @@
 | Publish Date | Title | Authors | PDF | Code |
 |:---|:---|:---|:---|:---|
 | 2005-12-29 | **The Topology of Music Recommendation Networks** | Pedro Cano, Oscar Celma, Markus Koppenberger, Javier M. Buldú | [Link](http://arxiv.org/abs/physics/0512266) | Not Available |
+| 2026-02-03 | **Multimodal Generative Recommendation for Fusing Semantic and Collaborative Signals** | Moritz Vandenhirtz, Kaveh Hassani, Shervin Ghasemlou, Shuai Shao, Hamid Eghbalzadeh, Fuchun Peng, Jun Liu, Michael Louis Iuzzolino | [Link](http://arxiv.org/abs/2602.03713) | Not Available |
+| 2026-02-03 | **Bringing Reasoning to Generative Recommendation Through the Lens of Cascaded Ranking** | Xinyu Lin, Pengyuan Liu, Wenjie Wang, Yicheng Hu, Chen Xu, Fuli Feng, Qifan Wang, Tat-Seng Chua | [Link](http://arxiv.org/abs/2602.03692) | Not Available |
 | 2026-02-03 | **AesRec: A Dataset for Aesthetics-Aligned Clothing Outfit Recommendation** | Wenxin Ye, Lin Li, Ming Li, Yang Shen, Kanghong Wang, Jimmy Xiangji Huang | [Link](http://arxiv.org/abs/2602.03416) | Not Available |
 | 2026-02-03 | **SCASRec: A Self-Correcting and Auto-Stopping Model for Generative Route List Recommendation** | Chao Chen, Longfei Xu, Daohan Su, Tengfei Liu, Hanyu Guo, Yihai Duan, Kaikui Liu, Xiangxiang Chu | [Link](http://arxiv.org/abs/2602.03324) | Not Available |
 | 2026-02-03 | **Cyber Insurance, Audit, and Policy: Review, Analysis and Recommendations** | Danielle Jean Hanson, Jeremy Straub | [Link](http://arxiv.org/abs/2602.03127) | Not Available |
