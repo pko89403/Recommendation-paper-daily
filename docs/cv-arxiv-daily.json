@@ -10906,6 +10906,83 @@
             "abstract": "Inclement weather conditions can significantly impact driver visibility and tire-road surface friction, requiring adjusted safe driving speeds to reduce crash risk. This study proposes a hybrid predictive framework that recommends real-time safe speed intervals for freeway travel under diverse weather conditions. Leveraging high-resolution Connected Vehicle (CV) data and Road Weather Information System (RWIS) data collected in Buffalo, NY, from 2022 to 2023, we construct a spatiotemporally aligned dataset containing over 6.6 million records across 73 days. The core model employs Quantile Regression Forests (QRF) to estimate vehicle speed distributions in 10-minute windows, using 26 input features that capture meteorological, pavement, and temporal conditions. To enforce safety constraints, a physics-based upper speed limit is computed for each interval based on real-time road grip and visibility, ensuring that vehicles can safely stop within their sight distance. The final recommended interval fuses QRF-predicted quantiles with both posted speed limits and the physics-derived upper bound. Experimental results demonstrate strong predictive performance: the QRF model achieves a mean absolute error of 1.55 mph, with 96.43% of median speed predictions within 5 mph, a PICP (50%) of 48.55%, and robust generalization across weather types. The model's ability to respond to changing weather conditions and generalize across road segments shows promise for real-world deployment, thereby improving traffic safety and reducing weather-related crashes.",
             "primary_category": "cs.LG",
             "code_url": "null"
+        },
+        "2602.07847": {
+            "title": "SimGR: Escaping the Pitfalls of Generative Decoding in LLM-based Recommendation",
+            "authors": "Yuanbo Zhao, Ruochen Liu, Senzhang Wang, Jun Yin, Yuxin Dong, Huan Gong, Hao Chen, Shirui Pan, Chengqi Zhang",
+            "first_author": "Yuanbo Zhao",
+            "url": "http://arxiv.org/abs/2602.07847v1",
+            "pdf_url": "http://arxiv.org/abs/2602.07847",
+            "publish_date": "2026-02-08",
+            "abstract": "A core objective in recommender systems is to accurately model the distribution of user preferences over items to enable personalized recommendations. Recently, driven by the strong generative capabilities of large language models (LLMs), LLM-based generative recommendation has become increasingly popular. However, we observe that existing methods inevitably introduce systematic bias when estimating item-level preference distributions. Specifically, autoregressive generation suffers from incomplete coverage due to beam search pruning, while parallel generation distorts probabilities by assuming token independence. We attribute this issue to a fundamental modeling mismatch: these methods approximate item-level distributions via token-level generation, which inherently induces approximation errors. Through both theoretical analysis and empirical validation, we demonstrate that token-level generation cannot faithfully substitute item-level generation, leading to biased item distributions. To address this, we propose \\textbf{Sim}ply \\textbf{G}enerative \\textbf{R}ecommendation (\\textbf{SimGR}), a framework that directly models item-level preference distributions in a shared latent space and ranks items by similarity, thereby aligning the modeling objective with recommendation and mitigating distributional distortion. Extensive experiments across multiple datasets and LLM backbones show that SimGR consistently outperforms existing generative recommenders. Our code is available at https://anonymous.4open.science/r/SimGR-C408/",
+            "primary_category": "cs.IR",
+            "code_url": "null"
+        },
+        "2602.07526": {
+            "title": "MSN: A Memory-based Sparse Activation Scaling Framework for Large-scale Industrial Recommendation",
+            "authors": "Shikang Wu, Hui Lu, Jinqiu Jin, Zheng Chai, Shiyong Hong, Junjie Zhang, Shanlei Mu, Kaiyuan Ma, Tianyi Liu, Yuchao Zheng, Zhe Wang, Jingjian Lin",
+            "first_author": "Shikang Wu",
+            "url": "http://arxiv.org/abs/2602.07526v1",
+            "pdf_url": "http://arxiv.org/abs/2602.07526",
+            "publish_date": "2026-02-07",
+            "abstract": "Scaling deep learning recommendation models is an effective way to improve model expressiveness. Existing approaches often incur substantial computational overhead, making them difficult to deploy in large-scale industrial systems under strict latency constraints. Recent sparse activation scaling methods, such as Sparse Mixture-of-Experts, reduce computation by activating only a subset of parameters, but still suffer from high memory access costs and limited personalization capacity due to the large size and small number of experts. To address these challenges, we propose MSN, a memory-based sparse activation scaling framework for recommendation models. MSN dynamically retrieves personalized representations from a large parameterized memory and integrates them into downstream feature interaction modules via a memory gating mechanism, enabling fine-grained personalization with low computational overhead. To enable further expansion of the memory capacity while keeping both computational and memory access costs under control, MSN adopts a Product-Key Memory (PKM) mechanism, which factorizes the memory retrieval complexity from linear time to sub-linear complexity. In addition, normalization and over-parameterization techniques are introduced to maintain balanced memory utilization and prevent memory retrieval collapse. We further design customized Sparse-Gather operator and adopt the AirTopK operator to improve training and inference efficiency in industrial settings. Extensive experiments demonstrate that MSN consistently improves recommendation performance while maintaining high efficiency. Moreover, MSN has been successfully deployed in the Douyin Search Ranking System, achieving significant gains over deployed state-of-the-art models in both offline evaluation metrics and large-scale online A/B test.",
+            "primary_category": "cs.IR",
+            "code_url": "null"
+        },
+        "2602.07520": {
+            "title": "MDL: A Unified Multi-Distribution Learner in Large-scale Industrial Recommendation through Tokenization",
+            "authors": "Shanlei Mu, Yuchen Jiang, Shikang Wu, Shiyong Hong, Tianmu Sha, Junjie Zhang, Jie Zhu, Zhe Chen, Zhe Wang, Jingjian Lin",
+            "first_author": "Shanlei Mu",
+            "url": "http://arxiv.org/abs/2602.07520v1",
+            "pdf_url": "http://arxiv.org/abs/2602.07520",
+            "publish_date": "2026-02-07",
+            "abstract": "Industrial recommender systems increasingly adopt multi-scenario learning (MSL) and multi-task learning (MTL) to handle diverse user interactions and contexts, but existing approaches suffer from two critical drawbacks: (1) underutilization of large-scale model parameters due to limited interaction with complex feature modules, and (2) difficulty in jointly modeling scenario and task information in a unified framework. To address these challenges, we propose a unified \\textbf{M}ulti-\\textbf{D}istribution \\textbf{L}earning (MDL) framework, inspired by the \"prompting\" paradigm in large language models (LLMs). MDL treats scenario and task information as specialized tokens rather than auxiliary inputs or gating signals. Specifically, we introduce a unified information tokenization module that transforms features, scenarios, and tasks into a unified tokenized format. To facilitate deep interaction, we design three synergistic mechanisms: (1) feature token self-attention for rich feature interactions, (2) domain-feature attention for scenario/task-adaptive feature activation, and (3) domain-fused aggregation for joint distribution prediction. By stacking these interactions, MDL enables scenario and task information to \"prompt\" and activate the model's vast parameter space in a bottom-up, layer-wise manner. Extensive experiments on real-world industrial datasets demonstrate that MDL significantly outperforms state-of-the-art MSL and MTL baselines. Online A/B testing on Douyin Search platform over one month yields +0.0626\\% improvement in LT30 and -0.3267\\% reduction in change query rate. MDL has been fully deployed in production, serving hundreds of millions of users daily.",
+            "primary_category": "cs.IR",
+            "code_url": "null"
+        },
+        "2602.07307": {
+            "title": "LIT-GRAPH: Evaluating Deep vs. Shallow Graph Embeddings for High-Quality Text Recommendation in Domain-Specific Knowledge Graphs",
+            "authors": "Nirmal Gelal, Chloe Snow, Kathleen M. Jagodnik, Ambyr Rios, Hande K\u00fc\u00e7\u00fck McGinty",
+            "first_author": "Nirmal Gelal",
+            "url": "http://arxiv.org/abs/2602.07307v1",
+            "pdf_url": "http://arxiv.org/abs/2602.07307",
+            "publish_date": "2026-02-07",
+            "abstract": "This study presents LIT-GRAPH (Literature Graph for Recommendation and Pedagogical Heuristics), a novel knowledge graph-based recommendation system designed to scaffold high school English teachers in selecting diverse, pedagogically aligned instructional literature. The system is built upon an ontology for English literature, addressing the challenge of curriculum stagnation, where we compare four graph embedding paradigms: DeepWalk, Biased Random Walk (BRW), Hybrid (concatenated DeepWalk and BRW vectors), and the deep model Relational Graph Convolutional Network (R-GCN). Results reveal a critical divergence: while shallow models excelled in structural link prediction, R-GCN dominated semantic ranking. By leveraging relation-specific message passing, the deep model prioritizes pedagogical relevance over raw connectivity, resulting in superior, high-quality, domain-specific recommendations.",
+            "primary_category": "cs.IR",
+            "code_url": "null"
+        },
+        "2602.07298": {
+            "title": "Principled Synthetic Data Enables the First Scaling Laws for LLMs in Recommendation",
+            "authors": "Benyu Zhang, Qiang Zhang, Jianpeng Cheng, Hong-You Chen, Qifei Wang, Wei Sun, Shen Li, Jia Li, Jiahao Wu, Xiangjun Fan, Hong Yan",
+            "first_author": "Benyu Zhang",
+            "url": "http://arxiv.org/abs/2602.07298v1",
+            "pdf_url": "http://arxiv.org/abs/2602.07298",
+            "publish_date": "2026-02-07",
+            "abstract": "Large Language Models (LLMs) represent a promising frontier for recommender systems, yet their development has been impeded by the absence of predictable scaling laws, which are crucial for guiding research and optimizing resource allocation. We hypothesize that this may be attributed to the inherent noise, bias, and incompleteness of raw user interaction data in prior continual pre-training (CPT) efforts. This paper introduces a novel, layered framework for generating high-quality synthetic data that circumvents such issues by creating a curated, pedagogical curriculum for the LLM. We provide powerful, direct evidence for the utility of our curriculum by showing that standard sequential models trained on our principled synthetic data significantly outperform ($+130\\%$ on recall@100 for SasRec) models trained on real data in downstream ranking tasks, demonstrating its superiority for learning generalizable user preference patterns. Building on this, we empirically demonstrate, for the first time, robust power-law scaling for an LLM that is continually pre-trained on our high-quality, recommendation-specific data. Our experiments reveal consistent and predictable perplexity reduction across multiple synthetic data modalities. These findings establish a foundational methodology for reliable scaling LLM capabilities in the recommendation domain, thereby shifting the research focus from mitigating data deficiencies to leveraging high-quality, structured information.",
+            "primary_category": "cs.IR",
+            "code_url": "null"
+        },
+        "2602.07208": {
+            "title": "Sequences as Nodes for Contrastive Multimodal Graph Recommendation",
+            "authors": "Bucher Sahyouni, Matthew Vowels, Liqun Chen, Simon Hadfield",
+            "first_author": "Bucher Sahyouni",
+            "url": "http://arxiv.org/abs/2602.07208v1",
+            "pdf_url": "http://arxiv.org/abs/2602.07208",
+            "publish_date": "2026-02-06",
+            "abstract": "To tackle cold-start and data sparsity issues in recommender systems, numerous multimodal, sequential, and contrastive techniques have been proposed. While these augmentations can boost recommendation performance, they tend to add noise and disrupt useful semantics. To address this, we propose MuSICRec (Multimodal Sequence-Item Contrastive Recommender), a multi-view graph-based recommender that combines collaborative, sequential, and multimodal signals. We build a sequence-item (SI) view by attention pooling over the user's interacted items to form sequence nodes. We propagate over the SI graph, obtaining a second view organically as an alternative to artificial data augmentation, while simultaneously injecting sequential context signals. Additionally, to mitigate modality noise and align the multimodal information, the contribution of text and visual features is modulated according to an ID-guided gate.   We evaluate under a strict leave-two-out split against a broad range of sequential, multimodal, and contrastive baselines. On the Amazon Baby, Sports, and Electronics datasets, MuSICRec outperforms state-of-the-art baselines across all model types. We observe the largest gains for short-history users, mitigating sparsity and cold-start challenges. Our code is available at https://anonymous.4open.science/r/MuSICRec-3CEE/ and will be made publicly available.",
+            "primary_category": "cs.IR",
+            "code_url": "null"
+        },
+        "2602.07207": {
+            "title": "Multimodal Enhancement of Sequential Recommendation",
+            "authors": "Bucher Sahyouni, Matthew Vowels, Liqun Chen, Simon Hadfield",
+            "first_author": "Bucher Sahyouni",
+            "url": "http://arxiv.org/abs/2602.07207v1",
+            "pdf_url": "http://arxiv.org/abs/2602.07207",
+            "publish_date": "2026-02-06",
+            "abstract": "We propose a novel recommender framework, MuSTRec (Multimodal and Sequential Transformer-based Recommendation), that unifies multimodal and sequential recommendation paradigms. MuSTRec captures cross-item similarities and collaborative filtering signals, by building item-item graphs from extracted text and visual features. A frequency-based self-attention module additionally captures the short- and long-term user preferences. Across multiple Amazon datasets, MuSTRec demonstrates superior performance (up to 33.5% improvement) over multimodal and sequential state-of-the-art baselines. Finally, we detail some interesting facets of this new recommendation paradigm. These include the need for a new data partitioning regime, and a demonstration of how integrating user embeddings into sequential recommendation leads to drastically increased short-term metrics (up to 200% improvement) on smaller datasets. Our code is availabe at https://anonymous.4open.science/r/MuSTRec-D32B/ and will be made publicly available.",
+            "primary_category": "cs.IR",
+            "code_url": "null"
         }
     },
     "LLM4rec": {}
