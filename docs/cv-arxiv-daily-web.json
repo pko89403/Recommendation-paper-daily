@@ -11206,9 +11206,9 @@
         },
         "2602.10739": {
             "title": "Equity by Design: Fairness-Driven Recommendation in Heterogeneous Two-Sided Markets",
-            "authors": "Dominykas Seputis, Rajeev Verma, Alexander Timans",
+            "authors": "Dominykas Seputis, Alexander Timans, Rajeev Verma",
             "first_author": "Dominykas Seputis",
-            "url": "http://arxiv.org/abs/2602.10739v1",
+            "url": "http://arxiv.org/abs/2602.10739v2",
             "pdf_url": "http://arxiv.org/abs/2602.10739",
             "publish_date": "2026-02-11",
             "abstract": "Two-sided marketplaces embody heterogeneity in incentives: producers seek exposure while consumers seek relevance, and balancing these competing objectives through constrained optimization is now a standard practice. Yet real platforms face finer-grained complexity: consumers differ in preferences and engagement patterns, producers vary in catalog value and capacity, and business objectives impose additional constraints beyond raw relevance. We formalize two-sided fairness under these realistic conditions, extending prior work from soft single-item allocations to discrete multi-item recommendations. We introduce Conditional Value-at-Risk (CVaR) as a consumer-side objective that compresses group-level utility disparities, and integrate business constraints directly into the optimization. Our experiments reveal that the \"free fairness\" regime, where producer constraints impose no consumer cost, disappears in multi item settings. Strikingly, moderate fairness constraints can improve business metrics by diversifying exposure away from saturated producers. Scalable solvers match exact solutions at a fraction of the runtime, making fairness-aware allocation practical at scale. These findings reframe fairness not as a tax on platform efficiency but as a lever for sustainable marketplace health.",
@@ -11388,6 +11388,17 @@
             "pdf_url": "http://arxiv.org/abs/2602.11235",
             "publish_date": "2026-02-11",
             "abstract": "Industrial recommendation systems typically involve multiple scenarios, yet existing cross-domain (CDR) and multi-scenario (MSR) methods often require prohibitive resources and strict input alignment, limiting their extensibility. We propose MTFM (Meituan Foundation Model for Recommendation), a transformer-based framework that addresses these challenges. Instead of pre-aligning inputs, MTFM transforms cross-domain data into heterogeneous tokens, capturing multi-scenario knowledge in an alignment-free manner. To enhance efficiency, we first introduce a multi-scenario user-level sample aggregation that significantly enhances training throughput by reducing the total number of instances. We further integrate Grouped-Query Attention and a customized Hybrid Target Attention to minimize memory usage and computational complexity. Furthermore, we implement various system-level optimizations, such as kernel fusion and the elimination of CPU-GPU blocking, to further enhance both training and inference throughput. Offline and online experiments validate the effectiveness of MTFM, demonstrating that significant performance gains are achieved by scaling both model capacity and multi-scenario training data.",
+            "primary_category": "cs.IR",
+            "code_url": "null"
+        },
+        "2602.12129": {
+            "title": "Towards Personalized Bangla Book Recommendation: A Large-Scale Multi-Entity Book Graph Dataset",
+            "authors": "Rahin Arefin Ahmed, Md. Anik Chowdhury, Sakil Ahmed Sheikh Reza, Devnil Bhattacharjee, Muhammad Abdullah Adnan, Nafis Sadeq",
+            "first_author": "Rahin Arefin Ahmed",
+            "url": "http://arxiv.org/abs/2602.12129v1",
+            "pdf_url": "http://arxiv.org/abs/2602.12129",
+            "publish_date": "2026-02-12",
+            "abstract": "Personalized book recommendation in Bangla literature has been constrained by the lack of structured, large-scale, and publicly available datasets. This work introduces RokomariBG, a large-scale, multi-entity heterogeneous book graph dataset designed to support research on personalized recommendation in a low-resource language setting. The dataset comprises 127,302 books, 63,723 users, 16,601 authors, 1,515 categories, 2,757 publishers, and 209,602 reviews, connected through eight relation types and organized as a comprehensive knowledge graph.   To demonstrate the utility of the dataset, we provide a systematic benchmarking study on the Top-N recommendation task, evaluating a diverse set of representative recommendation models, including classical collaborative filtering methods, matrix factorization models, content-based approaches, graph neural networks, a hybrid matrix factorization model with side information, and a neural two-tower retrieval architecture. The benchmarking results highlight the importance of leveraging multi-relational structure and textual side information, with neural retrieval models achieving the strongest performance (NDCG@10 = 0.204). Overall, this work establishes a foundational benchmark and a publicly available resource for Bangla book recommendation research, enabling reproducible evaluation and future studies on recommendation in low-resource cultural domains. The dataset and code are publicly available at https://github.com/backlashblitz/Bangla-Book-Recommendation-Dataset",
             "primary_category": "cs.IR",
             "code_url": "null"
         }
