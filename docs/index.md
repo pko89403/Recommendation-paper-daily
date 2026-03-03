@@ -8,6 +8,10 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---|:---|:---|:---|:---|
 | 2005-12-29 | **The Topology of Music Recommendation Networks** | Pedro Cano, Oscar Celma, Markus Koppenberger, Javier M. Buldú | [Link](http://arxiv.org/abs/physics/0512266) | Not Available |
+| 2026-03-02 | **MealRec: Multi-granularity Sequential Modeling via Hierarchical Diffusion Models for Micro-Video Recommendation** | Xinxin Dong, Haokai Ma, Yuze Zheng, Yongfu Zha, Yonghui Yang, Xiaodong Wang | [Link](http://arxiv.org/abs/2603.01926) | Not Available |
+| 2026-03-02 | **IDProxy: Cold-Start CTR Prediction for Ads and Recommendation at Xiaohongshu with Multimodal LLMs** | Yubin Zhang, Haiming Xu, Guillaume Salha-Galvan, Ruiyan Han, Feiyang Xiao, Yanhua Huang, Li Lin, Yang Luo, Yao Hu | [Link](http://arxiv.org/abs/2603.01590) | Not Available |
+| 2026-03-02 | **CLEAR: Null-Space Projection for Cross-Modal De-Redundancy in Multimodal Recommendation** | Hao Zhan, Yihui Wang, Yonghui Yang, Danyang Yue, Yu Wang, Pengyang Shao, Fei Shen, Fei Liu, Le Wu | [Link](http://arxiv.org/abs/2603.01536) | Not Available |
+| 2026-03-01 | **Beyond the Flat Sequence: Hierarchical and Preference-Aware Generative Recommendations** | Zerui Chen, Heng Chang, Tianying Liu, Chuantian Zhou, Yi Cao, Jiandong Ding, Ming Liu, Bing Qin | [Link](http://arxiv.org/abs/2603.00980) | Not Available |
 | 2026-03-01 | **GeMi: A Graph-based, Multimodal Recommendation System for Narrative Scroll Paintings** | Haimonti Dutta, Pruthvi Moluguri, Jin Dai, Saurabh Amarnath Mahindre | [Link](http://arxiv.org/abs/2603.00854) | Not Available |
 | 2026-02-28 | **SODA: Semantic-Oriented Distributional Alignment for Generative Recommendation** | Ziqi Xue, Dingxian Wang, Yimeng Bai, Shuai Zhu, Jialei Li, Xiaoyan Zhao, Frank Yang, Andrew Rabinovich, Yang Zhang, Pablo N. Mendes | [Link](http://arxiv.org/abs/2603.00700) | Not Available |
 | 2026-02-28 | **RAIE: Region-Aware Incremental Preference Editing with LoRA for LLM-based Recommendation** | Jin Zeng, Yupeng Qi, Hui Li, Chengming Li, Ziyu Lyu, Lixin Cui, Lu Bai | [Link](http://arxiv.org/abs/2603.00638) | Not Available |
