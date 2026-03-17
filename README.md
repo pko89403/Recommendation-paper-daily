@@ -11,6 +11,7 @@
 | Publish Date | Title | Authors | PDF | Code |
 |:---|:---|:---|:---|:---|
 | 2005-12-29 | **The Topology of Music Recommendation Networks** | Pedro Cano, Oscar Celma, Markus Koppenberger, Javier M. Buldú | [Link](http://arxiv.org/abs/physics/0512266) | Not Available |
+| 2026-03-16 | **Multi-Scenario User Profile Construction via Recommendation Lists** | Hui Zhang, Jiayu Liu | [Link](http://arxiv.org/abs/2603.15357) | Not Available |
 | 2026-03-15 | **Bringing Model Editing to Generative Recommendation in Cold-Start Scenarios** | Chenglei Shen, Teng Shi, Weijie Yu, Xiao Zhang, Jun Xu | [Link](http://arxiv.org/abs/2603.14259) | Not Available |
 | 2026-03-14 | **Iterative Semantic Reasoning from Individual to Group Interests for Generative Recommendation with LLMs** | Xiaofei Zhu, Jinfei Chen, Feiyang Yuan, Zhou Yang | [Link](http://arxiv.org/abs/2603.13934) | Not Available |
 | 2026-03-14 | **R3-REC: Reasoning-Driven Recommendation via Retrieval-Augmented LLMs over Multi-Granular Interest Signals** | Yuchen Miao, Mingxuan Cui, Yitong Zhu, Yu Wang, Siyang Xu | [Link](http://arxiv.org/abs/2603.13730) | Not Available |

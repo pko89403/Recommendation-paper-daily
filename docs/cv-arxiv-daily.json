@@ -12578,6 +12578,17 @@
             "abstract": "Personalized recommendation increasingly relies on private user data, motivating approaches that can adapt to individuals without centralizing their information. We present Federated Targeted Recommendations with Evolving Knowledge graphs and Language Models (FedTREK-LM), a framework that unifies lightweight large language models (LLMs), evolving personal knowledge graphs (PKGs), federated learning (FL), and Kahneman-Tversky Optimization to enable scalable, decentralized personalization. By prompting LLMs with structured PKGs, FedTREK-LM performs context-aware reasoning for personalized recommendation tasks such as movie and recipe suggestions. Across three lightweight Qwen3 models (0.6B, 1.7B, 4B), FedTREK-LM consistently and substantially outperforms state-of-the-art KG completion and federated recommendation baselines (HAKE, KBGAT, and FedKGRec), achieving more than a 4x improvement in F1-score on the movie and food benchmarks. Our results further show that real user data is critical for effective personalization, as synthetic data degrades performance by up to 46%. Overall, FedTREK-LM offers a practical paradigm for adaptive, LLM-powered personalization that generalizes across decentralized, evolving user PKGs.",
             "primary_category": "cs.LG",
             "code_url": "null"
+        },
+        "2603.15357": {
+            "title": "Multi-Scenario User Profile Construction via Recommendation Lists",
+            "authors": "Hui Zhang, Jiayu Liu",
+            "first_author": "Hui Zhang",
+            "url": "http://arxiv.org/abs/2603.15357v1",
+            "pdf_url": "http://arxiv.org/abs/2603.15357",
+            "publish_date": "2026-03-16",
+            "abstract": "Recommender systems (RS) play a core role in various domains, including business analytics, helping users and companies make appropriate decisions. To optimize service quality, related technologies focus on constructing user profiles by analyzing users' historical behavior information. This paper considers four analytical scenarios to evaluate user profiling capabilities under different information conditions. A generic user attribute analysis framework named RAPI is proposed, which infers users' personal characteristics by exploiting easily accessible recommendation lists. Specifically, a surrogate recommendation model is established to simulate the original model, leveraging content embedding from a pre-trained BERT model to obtain item embeddings. A sample augmentation module generates extended recommendation lists by considering similarity between model outputs and item embeddings. Finally, an adaptive weight classification model assigns dynamic weights to facilitate user characteristic inference. Experiments on four collections show that RAPI achieves inference accuracy of 0.764 and 0.6477, respectively.",
+            "primary_category": "cs.IR",
+            "code_url": "null"
         }
     },
     "LLM4rec": {}
