@@ -12853,6 +12853,28 @@
             "abstract": "Graph neural network (GNN)-based federated recommendation systems effectively capture user-item relationships while preserving data privacy. However, existing methods often face slow convergence on graph data and privacy leakage risks during collaboration. To address these challenges, we propose FastPFRec (Fast Personalized Federated Recommendation with Secure Sharing), a novel framework that enhances both training efficiency and data security. FastPFRec accelerates model convergence through an efficient local update strategy and introduces a privacy-aware parameter sharing mechanism to mitigate leakage risks. Experiments on four real-world datasets (Yelp, Kindle, Gowalla-100k, and Gowalla-1m) show that FastPFRec achieves 32.0% fewer training rounds, 34.1% shorter training time, and 8.1% higher accuracy compared with existing baselines. These results demonstrate that FastPFRec provides an efficient and privacy-preserving solution for scalable federated recommendation.",
             "primary_category": "cs.IR",
             "code_url": "null"
+        },
+        "2603.22231": {
+            "title": "One Model, Two Markets: Bid-Aware Generative Recommendation",
+            "authors": "Yanchen Jiang, Zhe Feng, Christopher P. Mah, Aranyak Mehta, Di Wang",
+            "first_author": "Yanchen Jiang",
+            "url": "http://arxiv.org/abs/2603.22231v1",
+            "pdf_url": "http://arxiv.org/abs/2603.22231",
+            "publish_date": "2026-03-23",
+            "abstract": "Generative Recommender Systems using semantic ids, such as TIGER (Rajput et al., 2023), have emerged as a widely adopted competitive paradigm in sequential recommendation. However, existing architectures are designed solely for semantic retrieval and do not address concerns such as monetization via ad revenue and incorporation of bids for commercial retrieval. We propose GEM-Rec, a unified framework that integrates commercial relevance and monetization objectives directly into the generative sequence. We introduce control tokens to decouple the decision of whether to show an ad from which item to show. This allows the model to learn valid placement patterns directly from interaction logs, which inherently reflect past successful ad placements. Complementing this, we devise a Bid-Aware Decoding mechanism that handles real-time pricing, injecting bids directly into the inference process to steer the generation toward high-value items. We prove that this approach guarantees allocation monotonicity, ensuring that higher bids weakly increase an ad's likelihood of being shown without requiring model retraining. Experiments demonstrate that GEM-Rec allows platforms to dynamically optimize for semantic relevance and platform revenue.",
+            "primary_category": "cs.IR",
+            "code_url": "null"
+        },
+        "2603.22090": {
+            "title": "Distributionally robust optimization for recommendation selection",
+            "authors": "Tomoya Yanagi, Shunnosuke Ikeda, Ken Kobayashi, Yuichi Takano",
+            "first_author": "Tomoya Yanagi",
+            "url": "http://arxiv.org/abs/2603.22090v1",
+            "pdf_url": "http://arxiv.org/abs/2603.22090",
+            "publish_date": "2026-03-23",
+            "abstract": "Recommender systems play an essential role in online services by providing personalized item lists to support users' decision-making processes. While collaborative filtering methods can achieve high accuracy, it is crucial to consider not only accuracy but also the diversity of recommended items to improve user satisfaction. Although financial portfolio theory has been applied to balance these factors, existing models are often sensitive to estimation errors in rating statistics. To overcome these challenges, we establish a computational framework of distributionally robust optimization (DRO) for recommendation selection. We first formulate a cardinality-constrained DRO model based on moment-based ambiguity sets to select a specified number of items for each user. We then design a penalty alternating direction method (PADM) to efficiently compute high-quality solutions and prove its convergence properties. Computational experiments using three publicly available rating datasets demonstrate that our DRO model generates more diverse recommendations than existing models while maintaining the same level of accuracy. Additionally, our solution method computes these recommendations for each user in just a few seconds, proving its practical effectiveness. This study establishes a DRO framework that has the potential to enhance the recommendation quality of various collaborative filtering methods.",
+            "primary_category": "math.OC",
+            "code_url": "null"
         }
     },
     "LLM4rec": {}

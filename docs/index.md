@@ -8,6 +8,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---|:---|:---|:---|:---|
 | 2005-12-29 | **The Topology of Music Recommendation Networks** | Pedro Cano, Oscar Celma, Markus Koppenberger, Javier M. Buldú | [Link](http://arxiv.org/abs/physics/0512266) | Not Available |
+| 2026-03-23 | **One Model, Two Markets: Bid-Aware Generative Recommendation** | Yanchen Jiang, Zhe Feng, Christopher P. Mah, Aranyak Mehta, Di Wang | [Link](http://arxiv.org/abs/2603.22231) | Not Available |
+| 2026-03-23 | **Distributionally robust optimization for recommendation selection** | Tomoya Yanagi, Shunnosuke Ikeda, Ken Kobayashi, Yuichi Takano | [Link](http://arxiv.org/abs/2603.22090) | Not Available |
 | 2026-03-23 | **TagLLM: A Fine-Grained Tag Generation Approach for Note Recommendation** | Zhijian Chen, Likai Wang, Lei Chen, Yaguang Dou, Jialiang Shi, Tian Qi, Dongdong Hao, Mengying Lu, Cheng Ye, Chao Wei | [Link](http://arxiv.org/abs/2603.21481) | Not Available |
 | 2026-03-22 | **LSA: A Long-Short-term Aspect Interest Transformer for Aspect-Based Recommendation** | Le Liu, Junrui Liu, Yunhan Gao, Ziheng Wang, Tong Li | [Link](http://arxiv.org/abs/2603.21243) | Not Available |
 | 2026-03-22 | **MI-DPG: Decomposable Parameter Generation Network Based on Mutual Information for Multi-Scenario Recommendation** | Wenzhuo Cheng, Ke Ding, Xin Dong, Yong He, Liang Zhang, Linjian Mo | [Link](http://arxiv.org/abs/2603.21209) | Not Available |
