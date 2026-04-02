@@ -2,12 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026-04-01
+## Updated on 2026-04-02
 ## Recommendation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---|:---|:---|:---|:---|
 | 2005-12-29 | **The Topology of Music Recommendation Networks** | Pedro Cano, Oscar Celma, Markus Koppenberger, Javier M. Buldú | [Link](http://arxiv.org/abs/physics/0512266) | Not Available |
+| 2026-04-01 | **Aligning Recommendations with User Popularity Preferences** | Mona Schirmer, Anton Thielmann, Pola Schwöbel, Thomas Martynec, Giuseppe Di Benedetto, Ben London, Yannik Stein | [Link](http://arxiv.org/abs/2604.01036) | Not Available |
+| 2026-04-01 | **UniMixer: A Unified Architecture for Scaling Laws in Recommendation Systems** | Mingming Ha, Guanchen Wang, Linxun Chen, Xuan Rao, Yuexin Shi, Tianbao Ma, Zhaojie Liu, Yunqian Fan, Zilong Lu, Yanan Niu, Han Li, Kun Gai | [Link](http://arxiv.org/abs/2604.00590) | Not Available |
 | 2026-02-18 | **AgentFixer: From Failure Detection to Fix Recommendations in LLM Agentic Systems** | Hadar Mulian, Sergey Zeltyn, Ido Levy, Liane Galanti, Avi Yaeli, Segev Shlomov | [Link](http://arxiv.org/abs/2603.29848) | Not Available |
 | 2026-03-31 | **Cold-Starts in Generative Recommendation: A Reproducibility Study** | Zhen Zhang, Jujia Zhao, Xinyu Ma, Xin Xin, Maarten de Rijke, Zhaochun Ren | [Link](http://arxiv.org/abs/2603.29845) | Not Available |
 | 2026-03-31 | **Drift-Aware Continual Tokenization for Generative Recommendation** | Yuebo Feng, Jiahao Liu, Mingzhe Han, Dongsheng Li, Hansu Gu, Peng Zhang, Tun Lu, Ning Gu | [Link](http://arxiv.org/abs/2603.29705) | Not Available |

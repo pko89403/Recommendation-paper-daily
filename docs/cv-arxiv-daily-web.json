@@ -12814,7 +12814,7 @@
             "title": "Simple Projection-Free Algorithm for Contextual Recommendation with Logarithmic Regret and Robustness",
             "authors": "Shinsaku Sakaue",
             "first_author": "Shinsaku Sakaue",
-            "url": "http://arxiv.org/abs/2603.20826v1",
+            "url": "http://arxiv.org/abs/2603.20826v2",
             "pdf_url": "http://arxiv.org/abs/2603.20826",
             "publish_date": "2026-03-21",
             "abstract": "Contextual recommendation is a variant of contextual linear bandits in which the learner observes an (optimal) action rather than a reward scalar. Recently, Sakaue et al. (2025) developed an efficient Online Newton Step (ONS) approach with an $O(d\\log T)$ regret bound, where $d$ is the dimension of the action space and $T$ is the time horizon. In this paper, we present a simple algorithm that is more efficient than the ONS-based method while achieving the same regret guarantee. Our core idea is to exploit the improperness inherent in contextual recommendation, leading to an update rule akin to the second-order perceptron from online classification. This removes the Mahalanobis projection step required by ONS, which is often a major computational bottleneck. More importantly, the same algorithm remains robust to possibly suboptimal action feedback, whereas the prior ONS-based method required running multiple ONS learners with different learning rates for this extension. We describe how our method works in general Hilbert spaces (e.g., via kernelization), where eliminating Mahalanobis projections becomes even more beneficial.",
@@ -13083,6 +13083,28 @@
             "publish_date": "2026-02-18",
             "abstract": "We introduce a comprehensive validation framework for LLM-based agentic systems that provides systematic diagnosis and improvement of reliability failures. The framework includes fifteen failure-detection tools and two root-cause analysis modules that jointly uncover weaknesses across input handling, prompt design, and output generation. It integrates lightweight rule-based checks with LLM-as-a-judge assessments to support structured incident detection, classification, and repair. We applied the framework to IBM CUGA, evaluating its performance on the AppWorld and WebArena benchmarks. The analysis revealed recurrent planner misalignments, schema violations, brittle prompt dependencies, and more. Based on these insights, we refined both prompting and coding strategies, maintaining CUGA's benchmark results while enabling mid-sized models such as Llama 4 and Mistral Medium to achieve notable accuracy gains, substantially narrowing the gap with frontier models. Beyond quantitative validation, we conducted an exploratory study that fed the framework's diagnostic outputs and agent description into an LLM for self-reflection and prioritization. This interactive analysis produced actionable insights on recurring failure patterns and focus areas for improvement, demonstrating how validation itself can evolve into an agentic, dialogue-driven process. These results show a path toward scalable, quality assurance, and adaptive validation in production agentic systems, offering a foundation for more robust, interpretable, and self-improving agentic architectures.",
             "primary_category": "cs.AI",
+            "code_url": "null"
+        },
+        "2604.01036": {
+            "title": "Aligning Recommendations with User Popularity Preferences",
+            "authors": "Mona Schirmer, Anton Thielmann, Pola Schw\u00f6bel, Thomas Martynec, Giuseppe Di Benedetto, Ben London, Yannik Stein",
+            "first_author": "Mona Schirmer",
+            "url": "http://arxiv.org/abs/2604.01036v1",
+            "pdf_url": "http://arxiv.org/abs/2604.01036",
+            "publish_date": "2026-04-01",
+            "abstract": "Popularity bias is a pervasive problem in recommender systems, where recommendations disproportionately favor popular items. This not only results in \"rich-get-richer\" dynamics and a homogenization of visible content, but can also lead to misalignment of recommendations with individual users' preferences for popular or niche content. This work studies popularity bias through the lens of user-recommender alignment. To this end, we introduce Popularity Quantile Calibration, a measurement framework that quantifies misalignment between a user's historical popularity preference and the popularity of their recommendations. Building on this notion of popularity alignment, we propose SPREE, an inference-time mitigation method for sequential recommenders based on activation steering. SPREE identifies a popularity direction in representation space and adaptively steers model activations based on an estimate of each user's personal popularity bias, allowing both the direction and magnitude of steering to vary across users. Unlike global debiasing approaches, SPREE explicitly targets alignment rather than uniformly reducing popularity. Experiments across multiple datasets show that SPREE consistently improves user-level popularity alignment while preserving recommendation quality.",
+            "primary_category": "cs.IR",
+            "code_url": "null"
+        },
+        "2604.00590": {
+            "title": "UniMixer: A Unified Architecture for Scaling Laws in Recommendation Systems",
+            "authors": "Mingming Ha, Guanchen Wang, Linxun Chen, Xuan Rao, Yuexin Shi, Tianbao Ma, Zhaojie Liu, Yunqian Fan, Zilong Lu, Yanan Niu, Han Li, Kun Gai",
+            "first_author": "Mingming Ha",
+            "url": "http://arxiv.org/abs/2604.00590v1",
+            "pdf_url": "http://arxiv.org/abs/2604.00590",
+            "publish_date": "2026-04-01",
+            "abstract": "In recent years, the scaling laws of recommendation models have attracted increasing attention, which govern the relationship between performance and parameters/FLOPs of recommenders. Currently, there are three mainstream architectures for achieving scaling in recommendation models, namely attention-based, TokenMixer-based, and factorization-machine-based methods, which exhibit fundamental differences in both design philosophy and architectural structure. In this paper, we propose a unified scaling architecture for recommendation systems, namely \\textbf{UniMixer}, to improve scaling efficiency and establish a unified theoretical framework that unifies the mainstream scaling blocks. By transforming the rule-based TokenMixer to an equivalent parameterized structure, we construct a generalized parameterized feature mixing module that allows the token mixing patterns to be optimized and learned during model training. Meanwhile, the generalized parameterized token mixing removes the constraint in TokenMixer that requires the number of heads to be equal to the number of tokens. Furthermore, we establish a unified scaling module design framework for recommender systems, which bridges the connections among attention-based, TokenMixer-based, and factorization-machine-based methods. To further boost scaling ROI, a lightweight UniMixing module is designed, \\textbf{UniMixing-Lite}, which further compresses the model parameters and computational cost while significantly improve the model performance. The scaling curves are shown in the following figure. Extensive offline and online experiments are conducted to verify the superior scaling abilities of \\textbf{UniMixer}.",
+            "primary_category": "cs.IR",
             "code_url": "null"
         }
     },
