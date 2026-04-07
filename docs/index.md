@@ -2,12 +2,21 @@
 layout: default
 ---
 
-## Updated on 2026-04-06
+## Updated on 2026-04-07
 ## Recommendation
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---|:---|:---|:---|:---|
 | 2005-12-29 | **The Topology of Music Recommendation Networks** | Pedro Cano, Oscar Celma, Markus Koppenberger, Javier M. Buldú | [Link](http://arxiv.org/abs/physics/0512266) | Not Available |
+| 2026-04-06 | **Retrieval Augmented Conversational Recommendation with Reinforcement Learning** | Zhenrui Yue, Honglei Zhuang, Zhen Qin, Zhankui He, Huimin Zeng, Julian McAuley, Dong Wang | [Link](http://arxiv.org/abs/2604.04457) | Not Available |
+| 2026-04-06 | **FAVE: Flow-based Average Velocity Establishment for Sequential Recommendation** | Ke Shi, Yao Zhang, Feng Guo, Jinyuan Zhang, JunShuo Zhang, Shen Gao, Shuo Shang | [Link](http://arxiv.org/abs/2604.04427) | Not Available |
+| 2026-04-05 | **A Logical-Rule Autoencoder for Interpretable Recommendations** | Jinhao Pan, Bowen Wei, Ziwei Zhu | [Link](http://arxiv.org/abs/2604.04270) | Not Available |
+| 2026-04-05 | **FLAME: Condensing Ensemble Diversity into a Single Network for Efficient Sequential Recommendation** | WooJoo Kim, JunYoung Kim, JaeHyung Lim, SeongJin Choi, SeongKu Kang, HwanJo Yu | [Link](http://arxiv.org/abs/2604.04038) | Not Available |
+| 2026-04-04 | **Rank, Don't Generate: Statement-level Ranking for Explainable Recommendation** | Ben Kabongo, Arthur Satouf, Vincent Guigue | [Link](http://arxiv.org/abs/2604.03724) | Not Available |
+| 2026-04-04 | **Fusion and Alignment Enhancement with Large Language Models for Tail-item Sequential Recommendation** | Zhifu Wei, Yizhou Dang, Guibing Guo, Chuang Zhao, Zhu Sun | [Link](http://arxiv.org/abs/2604.03688) | Not Available |
+| 2026-04-04 | **User Simulator-Guided Multi-Turn Preference Optimization for Reasoning LLM-based Conversational Recommendation** | Xingyuan Xiang, Xiangchen Pan, Wei Wei | [Link](http://arxiv.org/abs/2604.03671) | Not Available |
+| 2026-04-04 | **MMP-Refer: Multimodal Path Retrieval-augmented LLMs For Explainable Recommendation** | Xiangchen Pan, Wei Wei | [Link](http://arxiv.org/abs/2604.03666) | Not Available |
+| 2026-04-04 | **Joint Behavior-guided and Modality-coherence Conditional Graph Diffusion Denoising for Multi Modal Recommendation** | Xiangchen Pan, Wei Wei | [Link](http://arxiv.org/abs/2604.03654) | Not Available |
 | 2026-04-03 | **User-Aware Conditional Generative Total Correlation Learning for Multi-Modal Recommendation** | Jing Du, Zesheng Ye, Congbo Ma, Feng Liu, Flora. D. Salim | [Link](http://arxiv.org/abs/2604.03014) | Not Available |
 | 2026-04-03 | **Bilateral Intent-Enhanced Sequential Recommendation with Embedding Perturbation-Based Contrastive Learning** | Shanfan Zhang, Yongyi Lin, Yuan Rao | [Link](http://arxiv.org/abs/2604.02833) | Not Available |
 | 2026-04-03 | **MBGR: Multi-Business Prediction for Generative Recommendation at Meituan** | Changhao Li, Junwei Yin, Zhilin Zeng, Senjie Kou, Shuli Wang, Wenshuai Chen, Yinhua Zhu, Haitao Wang, Xingxing Wang | [Link](http://arxiv.org/abs/2604.02684) | Not Available |
